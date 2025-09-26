@@ -42,7 +42,6 @@
     "mazda":        {"name":"Mazda","csv":"https://soflauto.github.io/ymm-registry/data/mazda.csv"},
     "nissan":       {"name":"Nissan","csv":"https://soflauto.github.io/ymm-registry/data/nissan.csv"},
     "oldsmobile":   {"name":"Oldsmobile","csv":"https://soflauto.github.io/ymm-registry/data/oldsmobile.csv"},
-    "opel":         {"name":"Opel","csv":"https://soflauto.github.io/ymm-registry/data/opel.csv"},
     "plymouth":     {"name":"Plymouth","csv":"https://soflauto.github.io/ymm-registry/data/plymouth.csv"},
     "polestar":     {"name":"Polestar","csv":"https://soflauto.github.io/ymm-registry/data/polestar.csv"},
     "pontiac":      {"name":"Pontiac","csv":"https://soflauto.github.io/ymm-registry/data/pontiac.csv"},
@@ -64,7 +63,7 @@
   "groups": {
     "american": ["buick","cadillac","chevrolet","chrysler","dodge","fisker","ford","geo","gmc","hummer","jeep","lincoln","mercury","oldsmobile","plymouth","pontiac","ram","rivian","tesla"],
     "japanese": ["acura","honda","infiniti","isuzu","lexus","mazda","mitsubishi","nissan","scion","subaru","suzuki","toyota","hyundai","kia","genesis"],
-    "european": ["alfa-romeo","audi","bmw","fiat","jaguar","land-rover","mercedes-benz","mini","opel","polestar","saab","smart","think","volkswagen","volvo"],
+    "european": ["alfa-romeo","audi","bmw","fiat","jaguar","land-rover","mercedes-benz","mini","polestar","saab","smart","think","volkswagen","volvo"],
     "exotics":  ["bentley","bugatti","ferrari","lamborghini","maserati","maybach","mclaren","porsche","rolls-royce"],
     "audi_vw":  ["audi","volkswagen"],
     "general":  ["@american","@japanese","@european"]
