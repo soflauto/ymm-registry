@@ -2245,7 +2245,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1996,Ford,F-150,Special Standard Cab Pickup 2-Door,5.0L,74026612,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Ford,E-350 Econoline,Base Cutaway Van 2-Door,5.8L,74026628,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
 1992,Ford,E-350 Econoline,Base Standard Cargo Van 2-Door,7.3L,74026678,7.3L 445Cu. In. V8 DIESEL OHV Naturally Aspirated
-1988,Ford,F-150,Custom Standard Cab Pickup 2-Door,5.0L,74026682,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Ford,F-150,Custom Stan
+dard Cab Pickup 2-Door,5.0L,74026682,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Ford,E-350 Econoline,Base Cutaway Van 2-Door,7.5L,74026688,7.5L 460Cu. In. V8 GAS OHV Naturally Aspirated
 1993,Ford,E-350 Econoline,Base Extended Cargo Van 2-Door,7.3L,74026698,7.3L 445Cu. In. V8 DIESEL OHV Naturally Aspirated
 1996,Ford,F-150,XLT Extended Cab Pickup 2-Door,5.8L,74026702,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
@@ -4502,7 +4503,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1993,Ford,F-250,XL Extended Cab Pickup 2-Door,4.9L,83296472,4.9L 4917CC 300Cu. In. l6 GAS OHV Naturally Aspirated
 1991,Ford,F-150,Custom Extended Cab Pickup 2-Door,4.9L,83296592,4.9L 4917CC 300Cu. In. l6 GAS OHV Naturally Aspirated
 1993,Ford,Escort,LX Sedan 4-Door,1.9L,83296622,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Ford,F-150,XLT Extended Cab Pickup 2-Door,4.9L,83297422,4.9L 4917CC 300Cu. In. l6 BI-FUEL OHV Naturally Aspirated
+1996,Ford,F-150,XLT Extended Cab Pickup 2-Door,4.9L,83297422,4.9L 4917CC 300Cu. In. l6 BI-FUEL OHV Naturally Aspira
+ted
 1995,Ford,E-350 Econoline Club Wagon,Chateau HD Extended Passenger Van 2-Door,4.9L,83297461,4.9L 4917CC 300Cu. In. l6 GAS OHV Naturally Aspirated
 1985,Ford,F-150,Base Standard Cab Pickup 2-Door,4.9L,83297561,4.9L 4917CC 300Cu. In. l6 GAS OHV Naturally Aspirated
 1993,Ford,E-350 Econoline,XL Standard Cargo Van 2-Door,4.9L,83298172,4.9L 4917CC 300Cu. In. l6 GAS OHV Naturally Aspirated
@@ -6795,7 +6797,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1985,Ford,Ranger,Base Stripped Chassis,2.8L,153482356,2.8L 171Cu. In. V6 GAS OHV Naturally Aspirated
 1987,Ford,F-350,XLT Lariat Crew Cab Pickup 4-Door,7.5L,153482466,7.5L 460Cu. In. V8 GAS OHV Naturally Aspirated
 1995,Ford,E-250 Econoline,XL Stripped Chassis,5.8L,153482476,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Ford,F-250,XL Extended Cab Pickup 3-Door,5.4L,153482486,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Ford,F-250,XL Extended Cab Pickup 3-Doo
+r,5.4L,153482486,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
 2004,Ford,F-350 Super Duty,Lariat Cab & Chassis 4-Door,6.8L,153482566,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 1992,Ford,F-350,XLT Lariat Extended Cab Pickup 2-Door,7.5L,153482856,7.5L 460Cu. In. V8 GAS OHV Naturally Aspirated
 2013,Ford,F-250 Super Duty,XLT Standard Cab Pickup 2-Door,6.2L,153482916,6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
@@ -9035,7 +9038,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1985,Ford,F-8000,Base Straight Truck - Medium Conventional,10.4L,217193445,10.4L 636Cu. In. V8 DIESEL Turbocharged
 1994,Ford,F-600 LPO,Base Straight Truck - Medium Conventional,7.0L,217193525,7.0L 429Cu. In. V8 GAS OHV Naturally Aspirated
 1997,Ford,F-800 LPO,Base Straight Truck - Medium Conventional,5.9L,217193726,5.9L 359Cu. In. l6 DIESEL Turbocharged
-2016,Ford,Focus,SE Sedan 4-Door,1.0L,217193774,1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2016,F
+ord,Focus,SE Sedan 4-Door,1.0L,217193774,1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
 1989,Ford,C8000,Base Straight Truck - Low Tilt,10.4L,217194065,10.4L 636Cu. In. V8 DIESEL Turbocharged
 1986,Ford,F-600,Base Straight Truck - Medium Conventional,6.1L,217194089,6.1L 370Cu. In. V8 GAS Naturally Aspirated
 1992,Ford,CF8000,Base Tractor Truck - Low Tilt,7.8L,217194159,7.8L 473Cu. In. l6 DIESEL Turbocharged
@@ -11307,7 +11311,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1991,Ford,CLT9000,Base Tractor Truck - High Tilt,14.0L,210732680,14.0L 14013CC 855Cu. In. l6 DIESEL Turbocharged
 1985,Ford,LT9000,Base Tractor Truck - Medium Conventional,7.0L,236676268,7.0L 6982CC 426Cu. In. l6 DIESEL
 1985,Ford,LTL9000,Base Straight Truck - Long Conventional,12.1L,236676358,12.1L 12063CC 736Cu. In. V8 DIESEL
-2016,Ford,Transit-350 HD,XL Extended Passenger Van 3-Door,3.7L,238412771,3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2016,Ford,Tran
+sit-350 HD,XL Extended Passenger Van 3-Door,3.7L,238412771,3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
 2016,Ford,Transit-350 HD,XL Cab & Chassis 2-Door,3.7L,238414151,3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
 2018,Ford,Mustang,Shelby GT350R Coupe 2-Door,5.2L,238414571,5.2L 5163CC 315Cu. In. V8 GAS DOHC Naturally Aspirated
 2016,Ford,Transit-350 HD,XL Cutaway Van 2-Door,3.5L,238529340,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
@@ -13523,7 +13528,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2008,Ford,F-450 Super Duty,XL Cab & Chassis - Crew Cab 4-Door,6.8L,3046144051,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2008,Ford,E-350 Super Duty,Base Cutaway Van 2-Door,6.8L,3046144052,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2012,Ford,F-450 Super Duty,Lariat Cab & Chassis - Crew Cab 4-Door,6.7L,3046144056,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
-2011,Ford,F-250 Super Duty,XL Standard Cab Pickup 2-Door,6.7L,3046144057,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2011,For
+d,F-250 Super Duty,XL Standard Cab Pickup 2-Door,6.7L,3046144057,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
 1994,Ford,Thunderbird,LX Coupe 2-Door,3.8L,3046144061,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
 2014,Ford,F-550 Super Duty,XLT Cab & Chassis - Crew Cab 4-Door,6.7L,3046144067,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
 2013,Ford,F-550 Super Duty,XLT Cab & Chassis - Extended Cab 4-Door,6.7L,3046144075,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
@@ -15692,7 +15698,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2009,Ford,F-250 Super Duty,FX4 Extended Cab Pickup 4-Door,6.8L,12046129619,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2009,Ford,F-350 Super Duty,XLT Cab & Chassis 2-Door,6.8L,12046129627,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2007,Ford,F-250 Super Duty,Lariat Extended Cab Pickup 4-Door,6.8L,12046129635,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
-2005,Ford,F-250 Super Duty,XLT Standard Cab Pickup 2-Door,6.8L,12046129636,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2005,Ford,F-250 Super D
+uty,XLT Standard Cab Pickup 2-Door,6.8L,12046129636,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2007,Ford,F-450 Super Duty,Lariat Cab & Chassis - Extended Cab 4-Door,6.8L,12046129641,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2005,Ford,F-250 Super Duty,Harley-Davidson Edition Crew Cab Pickup 4-Door,6.8L,12046129645,6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
 2019,Ford,F-550 Super Duty,XL Cab & Chassis - Extended Cab 4-Door,6.7L,12046129646,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
@@ -17842,7 +17849,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2024,Ford,Transit-350 HD,XLT Extended Passenger Van 3-Door,3.5L,20065331335,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2024,Ford,Transit-250,Base Standard Cargo Van 3-Door,3.5L,20065331336,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2024,Ford,Transit-350,Base Standard Cargo Van 3-Door,3.5L,20065331341,3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
-2024,Ford,Transit-150,Base Standard Cargo Van 3-Door,3.5L,20065331357,3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Ford,Transit-150,Ba
+se Standard Cargo Van 3-Door,3.5L,20065331357,3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
 2024,Ford,Transit-350 HD,Base Extended Cargo Van 3-Door,3.5L,20065331359,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2025,Ford,F-750,Base Tractor Truck - Crew Cab 4-Door,6.7L,20069473949,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
 2025,Ford,F-650,Base Tractor Truck - Extended Cab 4-Door,7.3L,20069474210,7.3L 7292CC 445Cu. In. V8 GAS OHV Naturally Aspirated
@@ -19988,7 +19996,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2026,Ford,F-350 Super Duty,XLT Extended Cab Pickup 4-Door,6.7L,8084553920,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
 2026,Ford,F-450 Super Duty,XL Cab & Chassis - Extended Cab 4-Door,7.3L,8084553948,7.3L 7292CC 445Cu. In. V8 GAS OHV Naturally Aspirated
 2026,Ford,F-350 Super Duty,XLT Cab & Chassis 2-Door,6.7L,8084554039,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
-2026,Ford,F-350 Super Duty,Lariat Crew Cab Pickup 4-Door,6.7L,9084547979,6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2026,Ford,F-350 Super Duty,Lariat Crew Cab Pickup 4-Door,6.7L,9084547979,6.7L 6651CC 406Cu. I
+n. V8 DIESEL OHV Turbocharged
 2026,Ford,F-350 Super Duty,XL Standard Cab Pickup 2-Door,6.8L,9084547981,6.8L 6801CC 415Cu. In. V8 GAS OHV Naturally Aspirated
 2026,Ford,F-250 Super Duty,XLT Extended Cab Pickup 4-Door,6.8L,9084548054,6.8L 6801CC 415Cu. In. V8 FLEX OHV Naturally Aspirated
 2026,Ford,F-350 Super Duty,XL Standard Cab Pickup 2-Door,7.3L,9084548074,7.3L 7292CC 445Cu. In. V8 GAS OHV Naturally Aspirated
