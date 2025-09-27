@@ -1,1 +1,685 @@
-﻿year,make,model,trim,engine,epid,ebay_engine
+year,make,model,trim,engine,epid,ebay_engine
+1995,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,73929724,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73930754,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73930854,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,73956381,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Gran Fury,Base Sedan 4-Door,5.2L,73956721,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Plymouth,Gran Fury,Salon Sedan 4-Door,5.2L,73956751,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73956861,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.0L,73956871,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Duster Hatchback 4-Door,3.0L,73957231,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.0L,73957411,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73957421,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73957491,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73957501,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73957511,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+2001,Plymouth,Prowler,Base Convertible 2-Door,3.5L,73958582,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.8L,73959112,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,73959122,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Duster Hatchback 2-Door,3.0L,73959512,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73959642,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73959652,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73959662,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73959712,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.8L,73959732,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73959772,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,73964505,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73964985,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73965625,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.0L,73965635,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73965665,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.0L,73965675,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73965705,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Acclaim,LE Sedan 4-Door,3.0L,73966486,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Acclaim,LX Sedan 4-Door,3.0L,73966536,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73966856,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,73967086,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73967456,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+2000,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73967476,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73967486,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.0L,73967496,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73967526,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73967546,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Acclaim,LX Sedan 4-Door,3.0L,73979659,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73980109,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.8L,73980299,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Plymouth,Sundance,Duster Hatchback 4-Door,3.0L,73980589,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73980889,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Gran Fury,Salon Sedan 4-Door,5.2L,73985423,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Plymouth,Gran Fury,Salon Sedan 4-Door,5.2L,73985463,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+2000,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73985513,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.0L,73985523,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73986193,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Prowler,Base Convertible 2-Door,3.5L,73991758,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Acclaim,LX Sedan 4-Door,3.0L,73991788,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,73992268,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.8L,73992288,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Sundance,Duster Hatchback 2-Door,3.0L,73992778,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73992948,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.0L,73992958,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Acclaim,LE Sedan 4-Door,3.0L,73997170,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1986,Plymouth,Gran Fury,Salon Sedan 4-Door,5.2L,73997550,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1994,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,73997630,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,73997650,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,Duster Hatchback 4-Door,3.0L,73998040,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Voyager,Expresso Mini Passenger Van 4-Door,3.8L,73998220,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,73998230,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,73998270,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73998280,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73998320,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.0L,73998350,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.0L,74012723,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+2000,Plymouth,Prowler,Base Convertible 2-Door,3.5L,74013237,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,74013307,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,74013317,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,74013747,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.8L,74013757,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Sundance,Duster Hatchback 2-Door,3.0L,74014177,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,74014327,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.0L,74014407,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,74022391,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,74024092,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Acclaim,Base Sedan 4-Door,3.0L,74024680,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1986,Plymouth,Colt,DL Sedan 4-Door,1.6L,83240254,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1998,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83240314,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,2.4L,83247984,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83249094,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,Base Coupe 2-Door,2.0L,83249104,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,83251714,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Colt,Premier Sedan 4-Door,1.6L,83256344,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,83256934,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,83258994,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,83259624,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1996,Plymouth,Neon,Base Sedan 4-Door,2.0L,83264694,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.6L,83266684,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,83267504,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,83271734,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1992,Plymouth,Colt,Vista SE Wagon 4-Door,1.8L,83273884,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,E Hatchback 2-Door,1.5L,83274262,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83274604,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,GL Hatchback 2-Door,1.5L,83274752,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83274952,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83274972,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.6L,83275742,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,83277032,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1987,Plymouth,Colt,DL Hatchback 2-Door,1.5L,83277555,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,DL Wagon 4-Door,1.8L,83278202,1.8L 1754CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,Premier Sedan 4-Door,1.5L,83278695,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,LE Sedan 2-Door,2.6L,83280395,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,GT Hatchback 2-Door,1.6L,83281212,1.6L 1597CC 98Cu. In. l4 GAS DOHC Turbocharged
+1997,Plymouth,Neon,Base Sedan 4-Door,2.0L,83281222,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,Sport Sedan 4-Door,2.0L,83281552,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Sedan 4-Door,2.6L,83283302,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,Vista Wagon 4-Door,1.8L,83283532,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,Base Coupe 2-Door,2.0L,83283741,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.6L,83287021,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,83287065,2.5L 2507CC 153Cu. In. l4 FLEX SOHC Naturally Aspirated
+1986,Plymouth,Colt,DL Hatchback 2-Door,1.6L,83288165,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1998,Plymouth,Breeze,Base Sedan 4-Door,2.0L,83288305,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,GT Hatchback 2-Door,1.6L,83288505,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Plymouth,Colt,DL Hatchback 2-Door,1.5L,83288692,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,83289215,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,GT Hatchback 2-Door,1.5L,83290052,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.6L,83290172,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,83290632,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,2.4L,83291051,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Breeze,Base Sedan 4-Door,2.4L,83292681,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Wagon 4-Door,1.5L,83293005,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,83293206,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1985,Plymouth,Reliant,LE Sedan 4-Door,2.6L,83293301,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Horizon,Base Hatchback 4-Door,1.6L,83293661,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83295185,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Breeze,Expresso Sedan 4-Door,2.4L,83296615,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Plymouth,Colt,E Hatchback 2-Door,1.5L,83297582,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,E Sedan 4-Door,1.5L,83298592,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,83299162,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Acclaim,LE Sedan 4-Door,2.5L,83299911,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1997,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83299951,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,83300006,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1996,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.4L,83300246,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Plymouth,Colt,Base Hatchback 2-Door,1.5L,83301911,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,LE Wagon 4-Door,2.6L,83302621,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.4L,83303205,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.6L,83303225,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,DL Wagon 4-Door,1.5L,83304022,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83304502,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.6L,83307182,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83307813,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Wagon 4-Door,2.6L,83308096,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.4L,83308116,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Plymouth,Colt,E Hatchback 2-Door,1.5L,83308196,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,DL Hatchback 2-Door,1.6L,83308265,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1994,Plymouth,Colt,GL Sedan 4-Door,1.8L,83309173,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.4L,83310231,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Colt,E Hatchback 2-Door,1.5L,83310969,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Breeze,Base Sedan 4-Door,2.0L,83311103,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83311106,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.6L,83311555,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Breeze,Expresso Sedan 4-Door,2.0L,83312203,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,Premier Sedan 4-Door,1.6L,83312439,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1986,Plymouth,Colt,Premier Sedan 4-Door,1.6L,83314701,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1986,Plymouth,Horizon,SE Hatchback 4-Door,1.6L,83314981,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,2.4L,83315501,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,83315766,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1985,Plymouth,Caravelle,SE Sedan 4-Door,2.6L,83316081,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,83317331,2.5L 2507CC 153Cu. In. l4 FLEX SOHC Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.4L,83320343,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Plymouth,Colt,Premier Sedan 4-Door,1.5L,83320519,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Base Sedan 2-Door,1.8L,83321526,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,GT Hatchback 2-Door,1.5L,83321846,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83322728,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,83323326,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,DL Sedan 4-Door,1.6L,83325903,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,83327200,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,DL Sedan 4-Door,1.5L,83327539,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83327563,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83327926,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.6L,83328439,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Base Sedan 4-Door,1.8L,83329578,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Horizon,SE Hatchback 4-Door,1.6L,83329588,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,E Hatchback 4-Door,1.5L,83329698,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Vista Wagon 4-Door,1.8L,83329978,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,E Hatchback 2-Door,1.5L,83333243,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,Base Sedan 4-Door,2.0L,83333469,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,2.4L,83333689,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83333699,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Plymouth,Conquest,Base Hatchback 2-Door,2.6L,83334713,2.6L 2555CC 156Cu. In. l4 GAS SOHC Turbocharged
+1996,Plymouth,Neon,Base Coupe 2-Door,2.0L,83334723,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Sedan 2-Door,2.6L,83335719,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,DL Sedan 4-Door,1.5L,83336938,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,LX Mini Passenger Van 3-Door,2.5L,83338128,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,83338328,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1991,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,83339698,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1985,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.6L,83340008,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Conquest,Base Hatchback 2-Door,2.6L,83340360,2.6L 2555CC 156Cu. In. l4 GAS SOHC Turbocharged
+1998,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83340660,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,Sport Coupe 2-Door,2.0L,83340753,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83341000,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,High Line Sedan 4-Door,2.0L,83341627,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Colt,Vista Wagon 4-Door,2.0L,83342560,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Voyager,LX Mini Passenger Van 3-Door,2.5L,83343117,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+2000,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.4L,83343883,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.4L,83343910,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Plymouth,Acclaim,LE Sedan 4-Door,2.5L,83344978,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1998,Plymouth,Neon,Expresso Sedan 4-Door,2.0L,83348550,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Horizon,Base Hatchback 4-Door,1.6L,83348670,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Colt,Premier Sedan 4-Door,1.5L,83349170,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,GL Sedan 4-Door,1.8L,83349257,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,Base Coupe 2-Door,2.0L,83350370,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,83351067,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1996,Plymouth,Breeze,Base Sedan 4-Door,2.0L,83354508,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Colt,Premier Sedan 4-Door,1.6L,83356707,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Colt,E Sedan 4-Door,1.5L,83356807,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,2.5L,83357090,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Neon,Expresso Coupe 2-Door,2.0L,83357100,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Plymouth,Colt,GL Sedan 2-Door,1.8L,83357160,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,Sport Sedan 4-Door,2.0L,83358227,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,83358390,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,DL Wagon 4-Door,1.5L,83358917,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,GL Sedan 2-Door,1.8L,83359030,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,83359237,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1996,Plymouth,Neon,Sport Coupe 2-Door,2.0L,83364057,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Colt,Premier Sedan 4-Door,1.5L,83364787,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Neon,High Line Coupe 2-Door,2.0L,83366977,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2000,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,98926409,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1995,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.3L,98984497,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,109867194,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109867744,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.3L,109868844,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109869424,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109869664,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109875714,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.3L,109879514,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,109895651,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109895971,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109901082,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+2000,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109901891,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1991,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109902372,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,109903012,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Plymouth,Colt,Base Hatchback 2-Door,1.5L,109903911,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,--,109904501,BATTERY EV (EV/BEV)
+1991,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109905251,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109905729,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,109907962,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+2000,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109908419,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.3L,109909059,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,109909199,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1998,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109909722,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1999,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109910132,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109910922,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109911945,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109913895,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109914422,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,109915472,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,109915729,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,109916995,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1994,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109917959,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109922506,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109924216,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1998,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,109926466,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1998,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,109927386,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1994,Plymouth,Voyager,Base Mini Passenger Van 3-Door,--,109928606,BATTERY EV (EV/BEV)
+2000,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109928726,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1998,Plymouth,Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109929526,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109929616,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,109930866,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109938406,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,109948433,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,109950050,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109951093,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,109951793,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109954853,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.3L,109956170,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1991,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,109957620,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Voyager,Base Mini Passenger Van 3-Door,--,109959717,BATTERY EV (EV/BEV)
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,109960000,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1990,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109960203,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,109960903,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,109966718,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,109970988,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Plymouth,Colt,Base Hatchback 2-Door,1.5L,139690369,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Breeze,Base Sedan 4-Door,2.4L,153410531,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,153414041,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,153414271,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Reliant,LE Wagon 4-Door,2.5L,153418751,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,153419421,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,Base Sedan 4-Door,2.5L,153420511,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,153425941,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Sedan 2-Door,2.5L,153427791,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,DL Wagon 4-Door,1.8L,153449274,1.8L 1754CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,LX Mini Passenger Van 3-Door,2.5L,153451394,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 4-Door,1.8L,153451874,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,153452454,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,153453725,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Duster Hatchback 2-Door,2.5L,153455354,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,153455534,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,153457314,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Caravelle,SE Sedan 4-Door,2.5L,153457522,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Duster Hatchback 4-Door,2.5L,153459512,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.5L,153459984,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Neon,Base Sedan 4-Door,2.0L,153460525,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153461749,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,153461796,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,153462176,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,Base Sedan 4-Door,2.5L,153462216,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,153462622,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Plymouth,Reliant,LE Sedan 2-Door,2.5L,153463155,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,Duster Hatchback 2-Door,2.5L,153463235,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153463325,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153463429,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,153463925,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Colt,Vista SE Wagon 4-Door,1.8L,153464062,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Sedan 4-Door,2.5L,153465769,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Wagon 4-Door,1.6L,153465826,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1987,Plymouth,Reliant,LE Sedan 4-Door,2.5L,153466104,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Reliant,America Sedan 4-Door,2.5L,153466322,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,High Line Hatchback 2-Door,2.5L,153467424,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Vista Wagon 4-Door,1.8L,153467765,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Caravelle,Base Sedan 4-Door,2.5L,153467892,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,153467976,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,High Line Hatchback 2-Door,2.5L,153468125,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,SE Sedan 4-Door,2.5L,153468202,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,153468615,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1991,Plymouth,Acclaim,LE Sedan 4-Door,2.5L,153468769,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,153469255,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,153469359,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1994,Plymouth,Voyager,SE Mini Passenger Van 3-Door,3.3L,153470172,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1989,Plymouth,Reliant,America Sedan 2-Door,2.5L,153470445,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153470742,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,LE Sedan 4-Door,2.5L,153472236,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,SE Sedan 4-Door,2.5L,153472336,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,SE Wagon 4-Door,2.5L,153472479,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Duster Hatchback 2-Door,2.5L,153472502,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+2000,Plymouth,Breeze,Base Sedan 4-Door,2.4L,153473636,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Hatchback 2-Door,1.6L,153474269,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1992,Plymouth,Sundance,High Line Hatchback 4-Door,2.5L,153474382,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153474766,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,153476969,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153476999,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153477119,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.5L,153478226,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,153478906,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Wagon 4-Door,2.5L,153479426,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,LX Mini Passenger Van 3-Door,3.3L,153479626,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.0L,153480909,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153482526,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.3L,153483496,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Plymouth,Acclaim,LE Sedan 4-Door,2.5L,153487297,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Acclaim,LE Sedan 4-Door,2.5L,153490167,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,153491897,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Sedan 4-Door,1.6L,153492287,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1992,Plymouth,Sundance,Duster Hatchback 4-Door,2.5L,153493567,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153495370,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,153495580,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,LE Sedan 2-Door,2.5L,153497960,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Plymouth,Breeze,Base Sedan 4-Door,2.4L,153498037,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,153501950,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 2-Door,2.5L,153503140,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Breeze,Expresso Sedan 4-Door,2.4L,153503720,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Colt,E Sedan 4-Door,1.5L,153507577,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,153508910,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153509343,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,SE Sedan 2-Door,2.5L,153510843,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,153513243,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Acclaim,Base Sedan 4-Door,2.5L,153513390,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,153515903,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.3L,153516003,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 2-Door,1.8L,153516100,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153516323,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,Base Hatchback 4-Door,2.5L,153524843,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Duster Hatchback 4-Door,2.5L,153528638,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.5L,153531428,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,LE Wagon 4-Door,2.5L,153534848,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,High Line Hatchback 4-Door,2.5L,153537448,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,SE Sedan 4-Door,2.5L,153543218,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,178311721,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,178344285,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,178351964,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1986,Plymouth,Horizon,Base Hatchback 4-Door,2.2L,178357732,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,178378167,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1985,Plymouth,Horizon,SE Hatchback 4-Door,2.2L,178403910,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,178404010,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,178404330,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Horizon,SE Hatchback 4-Door,2.2L,178404510,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Horizon,Base Hatchback 4-Door,2.2L,178431108,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,178431598,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,197140531,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1987,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,2.5L,197234813,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Turismo,Base Hatchback 2-Door,2.2L,217186932,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Turismo 2.2,Base Hatchback 2-Door,2.2L,217219787,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Turismo,Base Hatchback 2-Door,1.6L,217224837,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Turismo 2.2,Base Hatchback 2-Door,2.2L,217267628,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.0L,223585301,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1985,Plymouth,Turismo,Base Hatchback 2-Door,1.6L,211373375,1.6L 1595CC 97Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Turismo,Base Hatchback 2-Door,2.2L,211435973,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,RS Hatchback 2-Door,2.2L,251812287,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1988,Plymouth,Sundance,RS Hatchback 4-Door,2.2L,251873223,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,83302656,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,83304725,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,153445624,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,153467044,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,83255254,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,83302182,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Sundance,RS Hatchback 4-Door,2.5L,153471125,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,RS Hatchback 2-Door,2.5L,153525713,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,74089787,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,74032901,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Plymouth,Laser,RS Hatchback 2-Door,1.8L,250345892,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Laser,Base Hatchback 2-Door,1.8L,250348682,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Laser,Base Hatchback 2-Door,1.8L,250408324,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Laser,Base Hatchback 2-Door,1.8L,250418246,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Laser,Base Hatchback 2-Door,1.8L,250445417,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Laser,Base Hatchback 2-Door,1.8L,250505628,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.2L,251644121,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251645541,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,Base Sedan 4-Door,2.2L,251646911,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.2L,251647551,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,America Hatchback 2-Door,2.2L,251647731,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251648241,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,America Hatchback 4-Door,2.2L,251715552,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,SE Sedan 4-Door,2.2L,251717672,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Sedan 2-Door,2.2L,251717762,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,251717972,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,High Line Hatchback 4-Door,2.2L,251719712,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251753150,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1993,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251754350,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,SE Wagon 4-Door,2.2L,251755450,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Horizon,America Hatchback 4-Door,2.2L,251755800,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Gran Fury,Salon Sedan 4-Door,5.2L,251755930,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Plymouth,Reliant,SE Sedan 2-Door,2.2L,251756270,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Horizon,America Hatchback 4-Door,2.2L,251756280,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,High Line Hatchback 2-Door,2.2L,251756520,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251777844,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Reliant,LE Sedan 2-Door,2.2L,251778884,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Reliant,Base Sedan 2-Door,2.2L,251780104,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Horizon,America Hatchback 4-Door,2.2L,251780134,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Horizon,Base Hatchback 4-Door,2.2L,251780364,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,LE Sedan 2-Door,2.2L,251781124,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,251781134,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Reliant,Base Sedan 4-Door,2.2L,251781364,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251782976,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1987,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251783116,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,LE Sedan 2-Door,2.2L,251783226,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Reliant,LE Wagon 4-Door,2.2L,251783336,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Wagon 4-Door,2.2L,251784516,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251785266,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,251785516,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1986,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.2L,251785776,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Turismo,Base Hatchback 2-Door,2.2L,251785796,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,Base Sedan 2-Door,2.2L,251786276,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Sedan 4-Door,2.2L,251786476,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Sedan 2-Door,2.2L,251787016,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251789199,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.2L,251789439,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251790459,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251790759,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1986,Plymouth,Reliant,LE Wagon 4-Door,2.2L,251790789,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251791169,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251791749,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251792149,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,Base Sedan 4-Door,2.2L,251793199,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Reliant,America Wagon 4-Door,2.2L,251803435,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.2L,251803445,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.2L,251804345,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,America Hatchback 2-Door,2.2L,251804905,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Voyager,Base Mini Passenger Van 3-Door,2.2L,251804945,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,251805225,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,America Hatchback 4-Door,2.2L,251812987,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,Base Sedan 2-Door,2.2L,251813357,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Sundance,High Line Hatchback 4-Door,2.2L,251813887,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,SE Sedan 4-Door,2.2L,251814567,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1985,Plymouth,Reliant,LE Wagon 4-Door,2.2L,251814657,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Voyager,SE Mini Passenger Van 3-Door,2.2L,251815107,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,251848779,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Plymouth,Reliant,LE Sedan 4-Door,2.2L,251872238,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Reliant,America Sedan 2-Door,2.2L,251873008,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Sundance,Base Hatchback 2-Door,2.2L,251873723,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,LE Sedan 4-Door,2.2L,251874003,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,SE Sedan 4-Door,2.2L,251874058,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,High Line Hatchback 2-Door,2.2L,251874168,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,251875353,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1987,Plymouth,Reliant,LE Sedan 4-Door,2.2L,251875473,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Sundance,Base Hatchback 4-Door,2.2L,251875743,2.2L 135Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Reliant,America Sedan 4-Door,2.2L,251876008,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Voyager,LE Mini Passenger Van 3-Door,2.2L,251876643,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Reliant,Base Sedan 2-Door,2.6L,153411701,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,153457055,2.2L 135Cu. In. l4 GAS Naturally Aspirated
+1985,Plymouth,Caravelle,Base Sedan 4-Door,2.2L,153517923,2.2L 135Cu. In. l4 GAS Turbocharged
+1985,Plymouth,Reliant,Base Sedan 4-Door,2.6L,153519073,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Turismo,Base Hatchback 2-Door,1.6L,153534078,1.6L 1595CC 97Cu. In. l4 GAS Naturally Aspirated
+1985,Plymouth,Caravelle,Base Sedan 4-Door,2.6L,9036862409,2.6L 2555CC 156Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,15047170792,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Plymouth,Reliant,Base Sedan 2-Door,2.5L,153476616,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Reliant,Base Sedan 4-Door,2.5L,153493817,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,11047159262,5.2L 5211CC 318Cu. In. V8 GAS Naturally Aspirated
+1986,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,14047166192,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Plymouth,Reliant,Base Sedan 2-Door,2.5L,153448894,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Plymouth,Expo,Base Wagon 4-Door,2.2L,153485117,2.2L 135Cu. In. l4 GAS Naturally Aspirated
+1987,Plymouth,Reliant,Base Sedan 4-Door,2.5L,153542238,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,2.4L,153456902,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Voyager,Base Mini Passenger Van 4-Door,2.4L,153458155,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,153458709,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.0L,153462424,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,153463535,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1996,Plymouth,Voyager,Base Mini Passenger Van 4-Door,3.0L,153464814,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.0L,153467039,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,Base Mini Passenger Van 4-Door,3.0L,153472955,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,Base Mini Passenger Van 4-Door,2.4L,153511683,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,153520133,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Plymouth,Voyager,SE Mini Passenger Van 4-Door,2.4L,153537818,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,13047165311,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Plymouth,Expo,Base Wagon 4-Door,2.2L,153475609,2.2L 135Cu. In. l4 GAS Naturally Aspirated
+1988,Plymouth,Caravelle,Salon Sedan 4-Door,5.2L,153506357,5.2L 5211CC 318Cu. In. V8 GAS Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.0L,153431231,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 4-Door,3.3L,153454514,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 4-Door,2.4L,153457784,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 4-Door,3.0L,153457874,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 4-Door,2.4L,153463972,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.3L,153465385,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,153468729,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Voyager,Base Mini Passenger Van 4-Door,2.4L,153469046,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 4-Door,3.0L,153474019,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Voyager,SE Mini Passenger Van 4-Door,3.0L,153477499,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,2.4L,153486077,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,Base Mini Passenger Van 4-Door,3.3L,153518533,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Neon,Base Sedan 4-Door,2.0L,2308970400,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.0L,2316532851,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,26047175605,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Plymouth,Expo,Base Wagon 4-Door,2.2L,153411821,2.2L 135Cu. In. l4 GAS Naturally Aspirated
+1989,Plymouth,Reliant,America Wagon 4-Door,2.5L,153520908,2.5L 2507CC 153Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Reliant,America Wagon 4-Door,2.2L,251646351,2.2L 135Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,200 LX Sedan 4-Door,1.5L,2310889997,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,200 DL Hatchback 2-Door,1.5L,2310890218,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 LX Sedan 4-Door,1.5L,7039847484,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 LX Sedan 4-Door,1.6L,8046141170,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Colt,100 DL Sedan 4-Door,1.6L,8046141222,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Colt,200 LX Hatchback 2-Door,1.5L,9039840201,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,200 DL Sedan 4-Door,1.5L,12039829974,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 DL Sedan 4-Door,1.5L,13039844555,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,200 LX Hatchback 2-Door,1.6L,13046137402,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Plymouth,Colt,100 LX Hatchback 2-Door,1.5L,14039842396,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 DL Hatchback 2-Door,1.5L,16039840690,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 DL Hatchback 2-Door,1.6L,16046132940,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Colt,100 E Hatchback 2-Door,1.5L,18039845156,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,200 E Hatchback 2-Door,1.5L,20039849264,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 E Sedan 4-Door,1.5L,21039844490,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Neon,ACR Coupe 2-Door,2.0L,83241444,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Neon,Style Sedan 4-Door,2.0L,83321378,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Colt,100 LX Hatchback 2-Door,1.6L,25046126876,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1989,Plymouth,Colt,200 E Sedan 4-Door,1.5L,26039852016,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Plymouth,Caravelle,Base Sedan 4-Door,5.2L,26047177093,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Plymouth,Colt,200 LX Sedan 4-Door,1.6L,27046128694,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Neon,ACR Coupe 2-Door,2.0L,153518783,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,Base Wagon 4-Door,1.5L,153459602,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Neon,High Line Sedan 4-Door,2.0L,3037927713,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.0L,3045492959,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 2-Door,1.5L,3047173353,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 DL Hatchback 2-Door,1.5L,2310890101,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,200 DL Hatchback 2-Door,1.5L,4039838339,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,200 DL Sedan 4-Door,1.5L,7039847406,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 LX Sedan 4-Door,1.6L,7046141609,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Colt,200 E Hatchback 2-Door,1.5L,8039846866,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 Hatchback 2-Door,1.5L,9039840283,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 Hatchback 2-Door,1.6L,9046132883,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1990,Plymouth,Colt,100 LX Hatchback 2-Door,1.6L,13046137328,1.6L 1597CC 98Cu. In. l4 GAS SOHC Turbocharged
+1998,Plymouth,Neon,ACR Sedan 4-Door,2.0L,221182634,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Neon,ACR Sedan 4-Door,2.0L,221183434,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 LX Hatchback 2-Door,1.5L,18039845108,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 E Hatchback 2-Door,1.5L,18039845120,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 LX Sedan 4-Door,1.5L,21039843663,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,200 E Sedan 4-Door,1.5L,25039835023,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 DL Sedan 4-Door,1.5L,27039837348,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Colt,100 E Sedan 4-Door,1.5L,28039845981,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Colt,100 DL Sedan 4-Door,1.5L,153444044,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
+1991,Plymouth,Colt,100 DL Hatchback 2-Door,1.5L,153446724,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
+1991,Plymouth,Colt,100 E Sedan 4-Door,1.5L,153465534,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
+1991,Plymouth,Colt,100 E Hatchback 2-Door,1.5L,153525093,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
+1998,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.8L,4052732491,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Plymouth,Colt,200 GT Hatchback 2-Door,1.5L,28047168959,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Neon,ACR Coupe 2-Door,2.0L,10037926703,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Plymouth,Neon,ACR Sedan 4-Door,2.0L,14037920629,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Plymouth,Neon,Style Sedan 4-Door,2.0L,16037920731,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Neon,ACR Sedan 4-Door,2.0L,20037925961,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Neon,ACR Coupe 2-Door,2.0L,24037921219,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,Base Hatchback 2-Door,1.8L,220400283,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Sundance,RS Hatchback 2-Door,3.0L,2307918917,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,200 GT Hatchback 2-Door,1.5L,2318215635,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,4x4 Wagon 4-Door,2.4L,6039245847,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,200 E Hatchback 2-Door,1.5L,9047163683,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,100 E Sedan 4-Door,1.5L,14047168109,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,100 E Hatchback 2-Door,1.5L,24047164672,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+2000,Plymouth,Neon,High Line Sedan 4-Door,2.0L,13037923761,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2000,Plymouth,Neon,LX Sedan 4-Door,2.0L,23037932070,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Base Sedan 2-Door,2.4L,7039237913,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Base Sedan 4-Door,2.4L,11039229196,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 2-Door,2.4L,10039237279,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 4-Door,2.4L,17039232433,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Vista SE Wagon 4-Door,1.5L,18047168486,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+2001,Plymouth,Neon,High Line Sedan 4-Door,2.0L,2308970218,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2001,Plymouth,Neon,LX Sedan 4-Door,2.0L,22037924701,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Laser,RS Hatchback 2-Door,2.0L,7036079675,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Plymouth,Colt,Vista Wagon 4-Door,2.4L,7039237878,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Colt,Base Coupe 2-Door,1.5L,3039847661,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Sedan 4-Door,1.5L,7047169118,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Plymouth,Colt,DL Hatchback 2-Door,1.5L,7047170812,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Plymouth,Breeze,Base Sedan 4-Door,2.4L,153444154,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.8L,153454365,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,153509263,3.3L 3301CC 201Cu. In. V6 CNG OHV Naturally Aspirated
+1996,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,153509610,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.8L,153458269,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.8L,153466514,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Voyager,LE Mini Passenger Van 4-Door,3.8L,153478046,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Voyager,LE Mini Passenger Van 3-Door,3.8L,153500690,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.0L,153502453,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,2.4L,153513353,2.4L 2429CC 148Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.8L,153523678,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Plymouth,Grand Voyager,SE Mini Passenger Van 3-Door,3.3L,153525748,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Neon,Sport Sedan 4-Door,2.0L,8037925841,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,28052744344,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Neon,Expresso Sedan 4-Door,2.0L,153460744,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Neon,Expresso Coupe 2-Door,2.0L,153518090,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.8L,9046132859,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,23048809906,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,24048796295,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,25048787644,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,3.8L,153474839,3.8L 3778CC 231Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,7048802552,3.3L 3301CC 201Cu. In. V6 FLEX OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.3L,22048799749,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1999,Plymouth,Grand Voyager,LE Mini Passenger Van 3-Door,3.0L,25048787673,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Plymouth,Breeze,Expresso Sedan 4-Door,2.0L,9037918211,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Laser,RS Hatchback 2-Door,2.0L,10036080631,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1993,Plymouth,Laser,RS Hatchback 2-Door,2.0L,10036080666,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2000,Plymouth,Breeze,Base Sedan 4-Door,2.0L,10037927006,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,Vista SE Wagon 4-Door,2.4L,10039237300,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Vista Wagon 4-Door,2.4L,10039237463,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Vista SE Wagon 4-Door,2.4L,11039229448,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,Base Sedan 4-Door,1.5L,11047163111,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Laser,RS Hatchback 2-Door,2.0L,12036062907,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Plymouth,Laser,RS Hatchback 2-Door,2.0L,12036062928,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Plymouth,Laser,RS Hatchback 2-Door,2.0L,12036062933,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1999,Plymouth,Neon,Expresso Sedan 4-Door,2.0L,12037909049,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,Expresso Mini Passenger Van 4-Door,3.3L,12039220565,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Plymouth,Neon,Sport Sedan 4-Door,2.0L,14037920237,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Neon,Sport Coupe 2-Door,2.0L,14037920452,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,SE Mini Passenger Van 4-Door,3.3L,14039232957,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Plymouth,Colt,Base Hatchback 2-Door,1.5L,14047164855,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,GL Hatchback 2-Door,1.5L,14047166271,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Neon,High Line Coupe 2-Door,2.0L,15037923802,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Plymouth,Neon,High Line Sedan 4-Door,2.0L,15037923859,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Plymouth,Colt,Vista Wagon 4-Door,2.4L,15039235895,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,Base Sedan 4-Door,1.5L,15047168945,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Colt,GL Sedan 2-Door,1.5L,15047171082,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Laser,RS Hatchback 2-Door,2.0L,16036076504,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1995,Plymouth,Neon,Sport Coupe 2-Door,2.0L,16037920786,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Plymouth,Neon,High Line Coupe 2-Door,2.0L,16037920812,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Colt,GL Hatchback 2-Door,1.5L,16047166478,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Laser,RS Hatchback 2-Door,2.0L,17036078892,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1992,Plymouth,Laser,RS Hatchback 2-Door,2.0L,17036078928,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1999,Plymouth,Neon,High Line Sedan 4-Door,2.0L,17037922449,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Colt,Vista Wagon 4-Door,2.4L,17039232563,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1998,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.0L,18045487869,3.0L 2972CC 181Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Plymouth,Neon,High Line Sedan 4-Door,2.0L,19037918234,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Plymouth,Colt,Vista SE Wagon 4-Door,2.4L,19039231387,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Laser,RS Hatchback 2-Door,2.0L,20036080492,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Plymouth,Colt,Vista Wagon 4-Door,2.4L,20039238814,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,GL Sedan 2-Door,1.5L,20047168880,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Plymouth,Laser,RS Hatchback 2-Door,2.0L,21036079553,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Plymouth,Neon,Expresso Coupe 2-Door,2.0L,21037923897,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Plymouth,Colt,DL Hatchback 2-Door,1.5L,21047170479,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Plymouth,Laser,RS Hatchback 2-Door,2.0L,23036083974,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Plymouth,Colt,Vista Wagon 4-Door,2.4L,23039242909,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1999,Plymouth,Prowler,Base Convertible 2-Door,3.5L,23039242938,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Plymouth,Laser,RS Hatchback 2-Door,2.0L,24036074394,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1998,Plymouth,Grand Voyager,Base Mini Passenger Van 3-Door,3.3L,24039231621,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Plymouth,Colt,GL Sedan 4-Door,1.5L,24047162815,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Plymouth,Neon,High Line Coupe 2-Door,2.0L,25037915225,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Plymouth,Breeze,Base Sedan 4-Door,2.0L,25037915423,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Plymouth,Colt,Base Hatchback 2-Door,1.5L,25047158195,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Plymouth,Laser,RS Hatchback 2-Door,2.0L,26036085027,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Plymouth,Laser,RS Hatchback 2-Door,2.0L,27036072304,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1999,Plymouth,Neon,High Line Coupe 2-Door,2.0L,27037916903,2.0L 1996CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Colt,GL Sedan 4-Door,1.5L,27047160203,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Plymouth,Laser,RS Hatchback 2-Door,2.0L,28036078529,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1999,Plymouth,Voyager,Base Mini Passenger Van 3-Door,--,28039235377,BATTERY EV (EV/BEV)
+1993,Plymouth,Colt,Base Sedan 2-Door,1.5L,28047169987,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Plymouth,Colt,DL Sedan 4-Door,1.5L,28047170029,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
