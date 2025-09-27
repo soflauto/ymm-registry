@@ -2468,7 +2468,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2025,Audi,S3,Premium Sedan 4-Door,2.0L,10073681781,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
 2025,Audi,A6 Sportback e-tron,Premium,--,10084553280,--
 2025,Audi,Q8,Prestige Sport Utility 4-Door,3.0L,11066009529,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
-2025,Audi,Q8 e-tron Sportback,Prestige Sport Utility 4-Door,--,11066009591,BATTERY EV (EV/BEV)
+2025,Audi,Q8 e-tron Sportback
+,Prestige Sport Utility 4-Door,--,11066009591,BATTERY EV (EV/BEV)
 2025,Audi,A4 allroad,Premium Wagon 4-Door,2.0L,11070708576,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
 2025,Audi,S3,Technik Sedan 4-Door,2.0L,10073681683,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
 2025,Audi,S5 Sportback,Prestige Hatchback 4-Door,3.0L,11071415650,3.0L 2995CC V6 GAS DOHC Turbocharged
@@ -2490,4 +2491,140 @@ year,make,model,trim,engine,epid,ebay_engine
 2025,Audi,A5 Sportback,Premium Plus Hatchback 4-Door,2.0L,13071423548,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
 2025,Audi,Q4 e-tron,Premium Sport Utility 4-Door,--,13071945988,BATTERY EV (EV/BEV)
 2025,Audi,Q6 e-tron,Premium Plus Sport Utility 4-Door,--,13073667792,BATTERY EV (EV/BEV)
-2025,Audi,Q7,Komfort Sport Utility 4-Door,3.0L,14070715053,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo
+2025,Audi,Q7,Komfort Sport Utility 4-Door,3.0L,14070715053,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q7,Technik Sport Utility 4-Door,3.0L,14070715074,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Sportback e-tron Quattro,Premium Plus,--,13084549307,--
+2025,Audi,A5 Sportback,Technik Hatchback 4-Door,2.0L,14071419743,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5,Technik Sport Utility 4-Door,2.0L,14071940847,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q3,Technik Sport Utility 4-Door,2.0L,14071940913,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2025,Audi,A6 Quattro,Premium Sedan 4-Door,2.0L,14070714973,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Audi,R8,Performance RWD Spyder Convertible 2-Door,5.2L,28055726310,5.2L 5204CC V10 GAS DOHC Naturally Aspirated
+2025,Audi,SQ6 e-tron,Prestige Sport Utility 4-Door,--,14075182492,BATTERY EV (EV/BEV)
+2025,Audi,A6 Sportback e-tron Quattro,Premium,--,14084539017,--
+2025,Audi,Q5,Komfort Sport Utility 4-Door,2.0L,15071954485,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5 PHEV,Premium Plus Sport Utility 4-Door,2.0L,15071954472,2.0L 1984CC 121Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Audi,S e-tron GT,Base Sedan 4-Door,--,15075763296,BATTERY EV (EV/BEV)
+2025,Audi,S e-tron GT,Prestige Sedan 4-Door,--,15075763295,BATTERY EV (EV/BEV)
+2025,Audi,A4 allroad,Komfort Wagon 4-Door,2.0L,16071419301,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,S5 Sportback,Progressiv Hatchback 4-Door,3.0L,16071419522,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,Q4 e-tron,Base Sport Utility 4-Door,--,17071954158,BATTERY EV (EV/BEV)
+2025,Audi,Q4 e-tron,Base Sport Utility 4-Door,--,17071954227,BATTERY EV (EV/BEV)
+2025,Audi,A5 Sportback,Komfort Hatchback 4-Door,2.0L,18071433837,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q3,Komfort Sport Utility 4-Door,2.0L,18071957447,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2025,Audi,A4 allroad,Premium Plus Wagon 4-Door,2.0L,16071419435,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ6 e-tron,Progressiv Sport Utility 4-Door,--,18075199272,BATTERY EV (EV/BEV)
+2025,Audi,Q5,Premium Plus Sport Utility 4-Door,2.0L,16071940528,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q6 e-tron,Prestige Sport Utility 4-Door,--,16073661140,BATTERY EV (EV/BEV)
+2025,Audi,A4 Quattro,Progressiv Sedan 4-Door,2.0L,20071426626,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,S e-tron GT,Premium Plus Sedan 4-Door,--,16075180745,BATTERY EV (EV/BEV)
+2025,Audi,A4 allroad,Progressiv Wagon 4-Door,2.0L,21071435789,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ6 e-tron,Premium Sport Utility 4-Door,--,16075180826,BATTERY EV (EV/BEV)
+2025,Audi,S5 Sportback,Technik Hatchback 4-Door,3.0L,21071435888,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,A6 Sportback e-tron Quattro,Prestige,--,16084540734,--
+2025,Audi,SQ5 Sportback,Technik Sport Utility 4-Door,3.0L,21071958381,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,A5 Sportback,Premium Hatchback 4-Door,2.0L,17070725933,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A4 Quattro,Prestige Sedan 4-Door,2.0L,17071431835,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Quattro,Premium Plus Sedan 4-Door,2.0L,17071431914,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q6 e-tron,Premium Plus Sport Utility 4-Door,--,17073674786,BATTERY EV (EV/BEV)
+2025,Audi,A3 Quattro,Premium Sedan 4-Door,2.0L,17075193160,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ5 Sportback,Progressiv Sport Utility 4-Door,3.0L,22071948930,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,Q3,Premium Plus Sport Utility 4-Door,2.0L,18071957404,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2025,Audi,Q6 e-tron,Base Sport Utility 4-Door,--,22073672454,BATTERY EV (EV/BEV)
+2025,Audi,SQ8,Prestige Sport Utility 4-Door,4.0L,19071430029,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A4 Quattro,Premium Plus Sedan 4-Door,2.0L,19071430116,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,S7 Sportback,Premium Plus Hatchback 4-Door,2.9L,19071430164,2.9L 2894CC 177Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5 PHEV,Prestige Sport Utility 4-Door,2.0L,19071951721,2.0L 1984CC 121Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Audi,A4 Quattro,Technik Sedan 4-Door,2.0L,23071439139,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ8 e-tron Sportback,Prestige Sport Utility 4-Door,--,20066022823,BATTERY EV (EV/BEV)
+2025,Audi,Q7,Premium Sport Utility 4-Door,3.0L,20069473867,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q3,Premium Sport Utility 4-Door,2.0L,20071949844,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2025,Audi,SQ5 Sportback,Premium Sport Utility 4-Door,3.0L,20071949911,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,Q5,Premium Sport Utility 4-Door,2.0L,20071949999,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A3 Quattro,Technik Sedan 4-Door,2.0L,23075197171,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A4 Quattro,Premium Sedan 4-Door,2.0L,21070730457,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Sportback e-tron,Premium Plus,--,21084562194,--
+2025,Audi,A4 allroad,Technik Wagon 4-Door,2.0L,24071421719,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q4 e-tron,Prestige Sport Utility 4-Door,--,22071948804,BATTERY EV (EV/BEV)
+2025,Audi,A6 allroad,Technik Wagon 4-Door,3.0L,24071421801,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ5,Technik Sport Utility 4-Door,3.0L,24071943540,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,SQ7,Prestige Sport Utility 4-Door,4.0L,23070732542,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Quattro,Prestige Sedan 4-Door,3.0L,23071439042,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ5,Prestige Sport Utility 4-Door,3.0L,23071960494,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,Q8,Technik Sport Utility 4-Door,3.0L,26067228164,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A7 Sportback,Technik Hatchback 4-Door,3.0L,26071438356,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ8 e-tron Sportback,Premium Plus Sport Utility 4-Door,--,25066012263,BATTERY EV (EV/BEV)
+2025,Audi,Q5,Progressiv Sport Utility 4-Door,2.0L,26071961180,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ7,Premium Plus Sport Utility 4-Door,4.0L,25069465854,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A7 Sportback,Premium Hatchback 4-Door,3.0L,25070713434,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Quattro,Premium Plus Sedan 4-Door,3.0L,25071418732,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,SQ8,Premium Plus Sport Utility 4-Door,4.0L,26071438463,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5 PHEV,Premium Sport Utility 4-Door,2.0L,26071961068,2.0L 1984CC 121Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Audi,A6 Quattro,Premium Sedan 4-Door,3.0L,27070726993,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,S4,Premium Plus Sedan 4-Door,3.0L,27071431268,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,A7 Sportback,Premium Plus Hatchback 4-Door,3.0L,27071431339,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A4 allroad,Prestige Wagon 4-Door,2.0L,27071431379,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,S5 Sportback,Premium Hatchback 4-Door,3.0L,28070732998,3.0L 2995CC V6 GAS DOHC Turbocharged
+2025,Audi,A7 Sportback,Prestige Hatchback 4-Door,3.0L,28071438803,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q4 e-tron Sportback,Premium Plus Sport Utility 4-Door,--,28071961014,BATTERY EV (EV/BEV)
+2025,Audi,A4 Quattro,Komfort Sedan 4-Door,2.0L,27071431299,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q6 e-tron,Technik Sport Utility 4-Door,--,27073676220,BATTERY EV (EV/BEV)
+2026,Audi,S3,Premium Plus Sedan 4-Door,2.0L,3075759023,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,Q8,Premium Sport Utility 4-Door,3.0L,3080787114,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,A6 Quattro,Technik Sedan 4-Door,3.0L,28071438615,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Premium Plus Sport Utility 4-Door,2.0L,5075767250,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5 Sportback,Technik Sport Utility 4-Door,2.0L,28071961126,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Audi,Q5 Sportback,Progressiv Sport Utility 4-Door,2.0L,28071961163,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,S e-tron GT,Premium Plus Sedan 4-Door,--,5080797505,BATTERY EV (EV/BEV)
+2026,Audi,Q7,Premium Plus Sport Utility 4-Door,3.0L,6075772226,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Technik Sport Utility 4-Door,3.0L,3078003873,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ7,Base Sport Utility 4-Door,4.0L,3078003899,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q8,Prestige Sport Utility 4-Door,3.0L,8080792066,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A6 Quattro,Premium Plus,--,8080792163,--
+2026,Audi,A6 allroad,Progressiv Wagon 4-Door,3.0L,3080787333,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A3 Quattro,Premium Plus Sedan 4-Door,2.0L,10075765664,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Prestige Sport Utility 4-Door,2.0L,10075765681,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A3 Quattro,Progressiv Sedan 4-Door,2.0L,5078011259,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A3 Quattro,Premium Sedan 4-Door,2.0L,11075746589,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Premium Sport Utility 4-Door,3.0L,12075744322,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ6 e-tron,Premium Sport Utility 4-Door,--,12075744406,BATTERY EV (EV/BEV)
+2026,Audi,S3,Technik Sedan 4-Door,2.0L,6078018264,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,Q6 e-tron,Premium Sport Utility 4-Door,--,12075744475,BATTERY EV (EV/BEV)
+2026,Audi,S e-tron GT,Prestige Sedan 4-Door,--,12080774322,BATTERY EV (EV/BEV)
+2026,Audi,SQ7,Prestige Sport Utility 4-Door,4.0L,15075763109,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q6 e-tron,Technik Sport Utility 4-Door,--,9077995624,BATTERY EV (EV/BEV)
+2026,Audi,SQ7,Premium Plus Sport Utility 4-Door,4.0L,15075763298,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Komfort Sport Utility 4-Door,3.0L,9077995631,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ8,Base Sport Utility 4-Door,4.0L,9080783878,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q6 e-tron,Progressiv Sport Utility 4-Door,--,12077988798,BATTERY EV (EV/BEV)
+2026,Audi,S3,Base Sedan 4-Door,2.0L,12077988886,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,SQ6 e-tron,Premium Plus Sport Utility 4-Door,--,17075762071,BATTERY EV (EV/BEV)
+2026,Audi,Q6 e-tron,Premium Plus Sport Utility 4-Door,--,17075762114,BATTERY EV (EV/BEV)
+2026,Audi,Q8,Progressiv Sport Utility 4-Door,3.0L,12080774460,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q6 e-tron,Base Sport Utility 4-Door,--,14077994783,BATTERY EV (EV/BEV)
+2026,Audi,S3,Progressiv Sedan 4-Door,2.0L,18078011530,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,SQ6 e-tron,Progressiv Sport Utility 4-Door,--,18078011807,BATTERY EV (EV/BEV)
+2026,Audi,Q8,Technik Sport Utility 4-Door,3.0L,19080785248,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,S3,Prestige Sedan 4-Door,2.0L,20075761843,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,A3 Quattro,Technik Sedan 4-Door,2.0L,20078007978,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A6 allroad,Premium Plus Wagon 4-Door,3.0L,20080794028,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Progressiv Sport Utility 4-Door,3.0L,21078014861,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q7,Komfort Sport Utility 4-Door,2.0L,21078015045,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,A6 allroad,Technik Wagon 4-Door,3.0L,21080801069,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ6 e-tron,Technik Sport Utility 4-Door,--,22078003065,BATTERY EV (EV/BEV)
+2026,Audi,SQ8,Premium Plus Sport Utility 4-Door,4.0L,21080801441,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,S3,Premium Sedan 4-Door,2.0L,22075758268,2.0L 1984CC 121Cu. In. l4 GAS DOHC Turbocharged
+2026,Audi,Q6 e-tron,Premium Sport Utility 4-Door,--,23075765047,BATTERY EV (EV/BEV)
+2026,Audi,A6 Quattro,Prestige,--,23080792348,--
+2026,Audi,Q6 e-tron,Premium Plus Sport Utility 4-Door,--,24075755328,BATTERY EV (EV/BEV)
+2026,Audi,A6 Quattro,Premium,--,24080786835,--
+2026,Audi,Q7,Prestige Sport Utility 4-Door,3.0L,26075766187,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q6 e-tron,Prestige Sport Utility 4-Door,--,26075766294,BATTERY EV (EV/BEV)
+2026,Audi,A6 allroad,Prestige Wagon 4-Door,3.0L,26080798431,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q8,Premium Plus Sport Utility 4-Door,3.0L,26080798479,3.0L 2995CC V6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,RS Q8,Base Sport Utility 4-Door,4.0L,28080797816,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ8,Prestige Sport Utility 4-Door,4.0L,27080793409,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,Q6 e-tron,Prestige Sport Utility 4-Door,--,28075770561,BATTERY EV (EV/BEV)
+2026,Audi,Q7,Premium Sport Utility 4-Door,2.0L,28075770627,2.0L 1984CC 121Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Audi,SQ6 e-tron,Prestige Sport Utility 4-Door,--,28075770864,BATTERY EV (EV/BEV)
+2026,Audi,S e-tron GT,Base Sedan 4-Door,--,26080798506,BATTERY EV (EV/BEV)
+2026,Audi,RS6 Avant,Performance Wagon 4-Door,4.0L,28078012686,4.0L 3996CC 244Cu. In. V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
