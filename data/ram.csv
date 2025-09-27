@@ -2265,8 +2265,7 @@ year,make,model,trim,engine,epid,ebay_engine
 2014,Ram,3500,Big Horn Extended Crew Cab Pickup 4-Door,6.7L,178378867,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2014,Ram,2500,Tradesman Standard Cab Pickup 2-Door,5.7L,178379167,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
 2014,Ram,3500,Big Horn Extended Crew Cab Pickup 4-Door,5.7L,178379537,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
-2014,Ram,1500,Laramie Limited 
-Crew Cab Pickup 4-Door,5.7L,178379547,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2014,Ram,1500,Laramie Limited Crew Cab Pickup 4-Door,5.7L,178379547,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
 2014,Ram,2500,Lone Star Extended Crew Cab Pickup 4-Door,5.7L,178402880,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
 2014,Ram,1500,Laramie Limited Crew Cab Pickup 4-Door,3.0L,178403190,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
 2014,Ram,1500,Tradesman Crew Cab Pickup 4-Door,3.6L,178403430,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
@@ -4515,8 +4514,7 @@ Crew Cab Pickup 4-Door,5.7L,178379547,5.7L 345Cu. In. V8 GAS OHV Naturally Aspir
 2020,Ram,1500,Laramie Crew Cab Pickup 4-Door,5.7L,28036078551,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
 2020,Ram,2500,Laramie Crew Cab Pickup 4-Door,6.7L,28036078567,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2025,Ram,1500,Big Horn Crew Cab Pickup 4-Door,3.6L,9068328414,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
-2020,Ram,1500 Classic,Express Crew Cab Pickup 4-Door,3.6L,28037923641,3.6L 3604CC 220Cu. In. V6 FLEX DOHC
- Naturally Aspirated
+2020,Ram,1500 Classic,Express Crew Cab Pickup 4-Door,3.6L,28037923641,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
 2020,Ram,1500 Classic,Warlock Crew Cab Pickup 4-Door,5.7L,28037923876,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
 2020,Ram,1500 Classic,SLT Crew Cab Pickup 4-Door,3.6L,28039235361,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
 2025,Ram,1500,Tradesman Extended Cab Pickup 4-Door,3.6L,10068297034,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
