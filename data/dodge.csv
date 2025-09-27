@@ -2285,7 +2285,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1999,Dodge,Ram 1500,ST Standard Cab Pickup 2-Door,5.2L,112503875,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
 2000,Dodge,Ram 1500,ST Extended Cab Pickup 2-Door,5.2L,112504561,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
 1990,Dodge,Spirit,LE Sedan 4-Door,2.5L,112507822,2.5L 2507CC 153Cu. In. l4 GAS SOHC Turbocharged
-1998,Dodge,Ram 1500,ST Crew Cab Pickup 4-Door,5.2L,112508342,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1998,Dodge,Ram 1500,ST Crew Cab Pickup 4-Door,5.2L,112508342,5.2L 5211CC 318Cu. In
+. V8 GAS OHV Naturally Aspirated
 1999,Dodge,Ram 1500,ST Extended Cab Pickup 2-Door,5.2L,112511009,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
 2012,Dodge,Grand Caravan,Crew Mini Passenger Van 4-Door,3.6L,112511079,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
 2012,Dodge,Challenger,SRT8 Coupe 2-Door,6.4L,112511529,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
@@ -4609,7 +4610,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2010,Dodge,Ram 5500,Laramie Cab & Chassis - Conventional 2-Door,6.7L,253632909,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2010,Dodge,Ram 4500,SLT Cab & Chassis - Conventional 2-Door,6.7L,253646485,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2010,Dodge,Ram 4500,ST Cab & Chassis - Conventional 2-Door,6.7L,253646575,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
-2010,Dodge,Ram 4500,Laramie Cab & Chassis - Conventional 2-Door,6.7L,253653617,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
+2010,Dodge,Ram 4500,Laramie Cab & Chassis - Conventional 2-Door,6.7L,
+253653617,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2010,Dodge,Ram 4500,ST Cab & Chassis - Conventional 2-Door,6.7L,253711488,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2010,Dodge,Ram 4500,Laramie Cab & Chassis - Conventional 2-Door,6.7L,253713668,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
 2010,Dodge,Ram 5500,SLT Cab & Chassis - Conventional 2-Door,6.7L,253714583,6.7L 408Cu. In. l6 DIESEL OHV Turbocharged
