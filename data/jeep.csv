@@ -2213,7 +2213,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2022,Jeep,Cherokee,Latitude Lux Sport Utility 4-Door,2.0L,3053891984,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
 2022,Jeep,Wrangler,Sport S Sport Utility 2-Door,3.6L,4051786386,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
 2022,Jeep,Gladiator,Willys Sport Crew Cab Pickup 4-Door,3.0L,5045493874,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
-2022,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,3.6L,5051275896,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,3.6L,5051275896,3.6L 3604CC 220Cu. In. V6 MILD HYB
+RID EV-GAS (MHEV) DOHC Naturally Aspirated
 2022,Jeep,Wrangler,Unlimited Willys Sport Sport Utility 4-Door,3.0L,5051275958,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
 2022,Jeep,Wrangler,Unlimited High Altitude Sport Utility 4-Door,3.6L,5053891623,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
 2022,Jeep,Wrangler,Unlimited High Altitude Sport Utility 4-Door,3.0L,5053891651,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
@@ -2230,4 +2231,369 @@ year,make,model,trim,engine,epid,ebay_engine
 2025,Jeep,Gladiator,NightHawk Crew Cab Pickup 4-Door,3.6L,25073661781,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
 2022,Jeep,Grand Cherokee L,Laredo Sport Utility 4-Door,3.6L,10046140473,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
 2022,Jeep,Compass,Latitude Lux Sport Utility 4-Door,2.4L,10051274215,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
-2022,Jeep,Grand Cherokee WK,Laredo X Sport Utility 4-Door,3.6L,10053355770,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspi
+2022,Jeep,Grand Cherokee WK,Laredo X Sport Utility 4-Door,3.6L,10053355770,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Cherokee,Latitude Lux Sport Utility 4-Door,2.0L,10053891522,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Grand Wagoneer,Series II Sport Utility 4-Door,3.0L,10055214784,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2022,Jeep,Grand Cherokee,Altitude Sport Utility 4-Door,3.6L,11051262371,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Renegade,Sport Sport Utility 4-Door,1.3L,11051784199,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2022,Jeep,Grand Wagoneer,Series III Sport Utility 4-Door,3.0L,11055201477,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2022,Jeep,Compass,North Sport Utility 4-Door,2.4L,10054603391,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series II Sport Utility 4-Door,5.7L,12050417096,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Willys Sport Sport Utility 4-Door,3.6L,12051261518,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.6L,13051267964,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sahara High Altitude Sport Utility 4-Door,2.0L,11051262358,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Grand Cherokee WK,Limited Sport Utility 4-Door,3.6L,13053347263,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Gladiator,Texas Trail Crew Cab Pickup 4-Door,3.6L,13061705346,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Cherokee,Latitude Lux Sport Utility 4-Door,3.2L,14053881061,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Grand Wagoneer,Obsidian Sport Utility 4-Door,3.0L,14055203992,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.6L,25075749449,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series II Carbide Sport Utility 4-Door,5.7L,15060484235,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Willys Sport Sport Utility 4-Door,3.6L,15061717024,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee WK,Limited X Sport Utility 4-Door,3.6L,14051787184,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Compass,Latitude Lux Sport Utility 4-Door,2.4L,16051263219,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee L,Altitude Sport Utility 4-Door,3.6L,16051263289,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Renegade,Limited Sport Utility 4-Door,1.3L,16051783817,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2022,Jeep,Renegade,North Sport Utility 4-Door,1.3L,15051795147,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2022,Jeep,Cherokee,Sport Sport Utility 4-Door,3.2L,15052742249,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee WK,Laredo E Sport Utility 4-Door,3.6L,17054596653,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Compass,Altitude Sport Utility 4-Door,2.4L,17059364714,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Gladiator,Sport Crew Cab Pickup 4-Door,3.6L,17061713388,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Gladiator,Willys Sport Crew Cab Pickup 4-Door,3.6L,18061713766,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee WK,Laredo X Sport Utility 4-Door,3.6L,19053353966,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Willys Sport Sport Utility 4-Door,2.0L,20051271949,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Grand Cherokee WK,Laredo E Sport Utility 4-Door,3.6L,20053352318,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee L,Limited Sport Utility 4-Door,3.6L,21046140414,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sport S Sport Utility 2-Door,3.0L,25080779032,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,3.0L,21051275471,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Cherokee,Limited Sport Utility 4-Door,2.4L,21052745700,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Grand Wagoneer,Series I Sport Utility 4-Door,3.0L,21055214059,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2022,Jeep,Wagoneer,Series I Carbide Sport Utility 4-Door,5.7L,21060485849,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2020,Jeep,Wrangler,Unlimited Sahara Sport Utility 4-Door,3.0L,26036881363,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Cherokee,Trailhawk Elite Sport Utility 4-Door,3.2L,21054602788,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2020,Jeep,Cherokee,Limited Sport Utility 4-Door,2.4L,26037470546,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2019,Jeep,Compass,Sport Sport Utility 4-Door,2.4L,26037470564,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series I Sport Utility 4-Door,5.7L,23050437461,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2012,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,26037929843,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,26037929846,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2022,Jeep,Cherokee,North Sport Utility 4-Door,3.2L,22052739056,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,26037929872,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2022,Jeep,Grand Cherokee WK,Laredo E Sport Utility 4-Door,3.6L,23053358878,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited Sahara Sport Utility 4-Door,3.6L,26038320783,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2021,Jeep,Cherokee,Limited Sport Utility 4-Door,2.0L,26038320818,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jeep,Renegade,Trailhawk Sport Utility 4-Door,1.3L,26038320885,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2022,Jeep,Wagoneer,Series III Carbide Sport Utility 4-Door,5.7L,23060489727,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2010,Jeep,Patriot,Limited Sport Utility 4-Door,2.4L,26039242552,2.4L 2360CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,2.0L,24051265672,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Wrangler,Unlimited Sahara Sport Utility 4-Door,2.0L,24051265745,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Compass,Latitude Sport Utility 4-Door,2.4L,24051265744,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series I Sport Utility 4-Door,5.7L,24055716692,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,3.6L,26041978071,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sport Sport Utility 4-Door,3.6L,24061706699,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited Sport S Sport Utility 4-Door,3.6L,26041999410,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee L,Overland Sport Utility 4-Door,5.7L,25046126666,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+1997,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.2L,26045495551,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+2022,Jeep,Grand Cherokee L,Overland Sport Utility 4-Door,5.7L,26046145287,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2006,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,26046145303,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,4.7L,26046145358,4.7L 287Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,3.7L,26046145359,3.7L 226Cu. In. V6 GAS SOHC Naturally Aspirated
+2009,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,3.7L,26046145381,3.7L 226Cu. In. V6 GAS SOHC Naturally Aspirated
+2015,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,26046145385,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2018,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,26046145463,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2018,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.6L,26046145466,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.0L,26046145470,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Grand Cherokee WK,Laredo Sport Utility 4-Door,3.6L,25053872338,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sahara High Altitude Sport Utility 4-Door,3.6L,26051279339,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee WK,Laredo Sport Utility 4-Door,3.6L,26051800796,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Sport Altitude Sport Utility 4-Door,2.0L,26051279306,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Laredo Sport Utility 4-Door,3.6L,26052748142,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Cherokee,Altitude Sport Utility 4-Door,3.2L,27054591329,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series III Sport Utility 4-Door,5.7L,27050420691,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2022,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,5.7L,27051265521,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Gladiator,Rubicon Crew Cab Pickup 4-Door,3.0L,26056462152,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Renegade,Latitude Sport Utility 4-Door,1.3L,27051786158,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2022,Jeep,Gladiator,Altitude Crew Cab Pickup 4-Door,3.0L,27053879562,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2022,Jeep,Grand Cherokee WK,Laredo X Sport Utility 4-Door,3.6L,27053879620,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wagoneer,Series II Sport Utility 4-Door,3.0L,26057793967,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Summit Reserve Sport Utility 4-Door,3.6L,26058117409,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer L,Base Sport Utility 4-Door,3.0L,26058117418,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee,4xe Sport Utility 4-Door,2.0L,26059072755,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,3.6L,26059072944,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,3.6L,28051273444,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Sport Sport Utility 2-Door,3.6L,26061720490,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Gladiator,Overland Crew Cab Pickup 4-Door,3.6L,26061720621,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,3.6L,2323788608,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Rubicon Sport Utility 4-Door,3.6L,26061720679,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer,Series III Sport Utility 4-Door,3.0L,2326258840,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2022,Jeep,Wrangler,Sport Sport Utility 2-Door,3.6L,26061720771,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2019,Jeep,Wrangler,Unlimited Sport S Sport Utility 4-Door,3.6L,26061720788,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Wrangler,Unlimited Willys Sport Utility 4-Door,3.6L,26061720821,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sahara High Altitude Sport Utility 4-Door,2.0L,5056457841,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,2329154477,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,2329154525,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Gladiator,Texas Trail Crew Cab Pickup 4-Door,3.6L,2332759501,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Cherokee L,Limited Sport Utility 4-Door,3.6L,26063612231,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sahara High Altitude Sport Utility 4-Door,3.6L,6056465394,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Freedom Sport Utility 2-Door,3.6L,3061717366,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,3.0L,3080787328,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,3.6L,4052732596,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Cherokee,Altitude Sport Utility 4-Door,2.4L,6059376385,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,2.0L,4080791204,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Freedom Sport Utility 4-Door,3.6L,4080791419,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,5058116936,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer L,Series I Sport Utility 4-Door,3.0L,8058111748,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Sport Sport Utility 4-Door,2.0L,5080797139,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Compass,North Sport Utility 4-Door,2.0L,8059368183,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Sport Sport Utility 4-Door,3.6L,5080797590,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Wagoneer,Series II Sport Utility 4-Door,3.0L,6057798613,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,High Tide Sport Utility 4-Door,3.6L,6060173306,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Overland Sport Utility 4-Door,3.6L,7052743688,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Laredo Sport Utility 4-Door,3.6L,7052743750,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Summit Sport Utility 4-Door,5.7L,7052743780,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Renegade,Limited Sport Utility 4-Door,1.3L,7057793333,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Renegade,Upland Sport Utility 4-Door,1.3L,7060489393,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Grand Cherokee,Limited 4xe Sport Utility 4-Door,2.0L,8052743605,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,8060163319,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer,Base Sport Utility 4-Door,3.0L,8062248162,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Compass,Latitude Sport Utility 4-Door,2.0L,9059361767,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Compass,Red Sport Utility 4-Door,2.0L,9060158279,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer,Base Sport Utility 4-Door,5.7L,9060158384,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2025,Jeep,Gladiator,Willys Crew Cab Pickup 4-Door,3.6L,26071438358,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,9063304755,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,9063304841,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Summit Sport Utility 4-Door,3.6L,10052745956,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,10058112486,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Renegade,Trailhawk Elite Sport Utility 4-Door,1.3L,12057775005,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Altitude Sport Utility 4-Door,3.6L,11052732575,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,High Altitude Sport Utility 4-Door,2.0L,11055712814,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Renegade,North Sport Utility 4-Door,1.3L,12057775139,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Wrangler,High Altitude Sport Utility 4-Door,3.6L,11055712860,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2014,Jeep,Cherokee,Sport Sport Utility 4-Door,3.2L,26071961164,3.2L 3239CC 198Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,3.6L,11080770162,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Wagoneer,Series III Sport Utility 4-Door,3.0L,12057775075,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Freedom Sport Utility 4-Door,3.6L,12080774041,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Overland Sport Utility 4-Door,5.7L,13052737219,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,5.7L,13052737328,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Grand Wagoneer,Series II Sport Utility 4-Door,3.0L,13055206082,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,13057777880,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer L,Series II Sport Utility 4-Door,3.0L,13058099240,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Freedom Sport Utility 2-Door,3.6L,13060155278,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2023,Jeep,Cherokee,Altitude Lux Sport Utility 4-Door,2.4L,14059057216,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2023,Jeep,Wrangler,Freedom Sport Utility 2-Door,2.0L,14060153292,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,15052742252,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Gladiator,Willys Sport Crew Cab Pickup 4-Door,3.0L,15056454665,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Renegade,Latitude Sport Utility 4-Door,1.3L,15057786357,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,15063311732,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sport Sport Utility 4-Door,3.6L,15080790508,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Sport Utility 2-Door,3.0L,15080790722,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Compass,Sport Sport Utility 4-Door,2.0L,15059366733,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,16063300704,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,16063300777,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,High Altitude Sport Utility 4-Door,3.0L,17055720211,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,3.6L,17080791553,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer,Base Sport Utility 4-Door,6.4L,18052743155,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Wagoneer L,Series III Sport Utility 4-Door,3.0L,18058111630,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee,Altitude Sport Utility 4-Door,3.6L,19053888201,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,20063311658,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys 4xe Sport Utility 4-Door,2.0L,22057223579,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,22058109073,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,22058109239,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer L,Series I Sport Utility 4-Door,3.0L,20058107593,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Cherokee,Altitude Sport Utility 4-Door,2.4L,20059365035,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2023,Jeep,Wagoneer,Series II Carbide Sport Utility 4-Door,3.0L,21058565804,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Gladiator,Freedom Crew Cab Pickup 4-Door,3.6L,23061720143,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Gladiator,Willys Sport Crew Cab Pickup 4-Door,3.6L,23061720163,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,High Altitude Sport Utility 4-Door,3.6L,23061720425,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Freedom Sport Utility 4-Door,2.0L,23080792163,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer,Obsidian Sport Utility 4-Door,3.0L,24055204382,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,24060154787,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wrangler,Sport Sport Utility 2-Door,3.0L,24080786954,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Limited Sport Utility 4-Door,3.6L,25052727230,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sport Sport Utility 4-Door,3.0L,25080779036,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2023,Jeep,Wrangler,Sport S Sport Utility 4-Door,3.6L,26080798484,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,3.6L,26052748127,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer,Base Sport Utility 4-Door,3.0L,26055218614,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,26057794276,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Wagoneer L,Base Sport Utility 4-Door,3.0L,26058117427,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,26063316654,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wagoneer,Base Sport Utility 4-Door,5.7L,27053879628,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2023,Jeep,Compass,Trailhawk Elite Sport Utility 4-Door,2.0L,23059373610,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Gladiator,Sport Crew Cab Pickup 4-Door,3.6L,27061713074,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,3.6L,28052744233,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2021,Jeep,Cherokee,Altitude Sport Utility 4-Door,2.4L,27038307109,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2023,Jeep,Grand Wagoneer,Series I Sport Utility 4-Door,6.4L,25059051621,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
+2012,Jeep,Compass,Sport Sport Utility 4-Door,2.0L,27039228442,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Jeep,Compass,Limited Sport Utility 4-Door,2.4L,27039228459,2.4L 2360CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Jeep,Patriot,Sport Sport Utility 4-Door,2.0L,27039228475,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2023,Jeep,Compass,Latitude Lux Sport Utility 4-Door,2.0L,28059370619,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+1998,Jeep,Grand Cherokee,5.9 Limited Sport Utility 4-Door,5.9L,27039837253,5.9L 360Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,28063317289,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,2330108528,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,2334354466,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Sport S Sport Utility 2-Door,3.6L,27041983117,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2021,Jeep,Compass,Sport Sport Utility 4-Door,2.4L,27042664756,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2021,Jeep,Compass,Altitude Sport Utility 4-Door,2.4L,27042664769,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited 80th Anniversary Sport Utility 4-Door,3.0L,27043409835,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Laredo A Sport Utility 4-Door,3.6L,2343824075,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,3059067654,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,3063314117,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Sahara High Altitude Sport Utility 4-Door,3.0L,27056447912,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2021,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,27046128644,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2019,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,5.7L,27046128704,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2008,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,4.7L,27046128735,4.7L 287Cu. In. V8 GAS SOHC Naturally Aspirated
+2016,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.0L,27046128779,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2017,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,5.7L,27046128787,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2021,Jeep,Grand Cherokee L,Summit Sport Utility 4-Door,5.7L,27047160477,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2024,Jeep,Grand Wagoneer,Base Sport Utility 4-Door,3.0L,4059059619,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Sport Sport Utility 4-Door,3.6L,4080791237,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Wagoneer,Series II Sport Utility 4-Door,3.0L,5059071995,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+1986,Jeep,Scrambler,Base Sport Utility 2-Door,2.5L,27054591283,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Jeep,Scrambler,Renegade Sport Utility 2-Door,2.5L,27054591335,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Utility 2-Door,2.0L,27055714257,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jeep,Renegade,Altitude Sport Utility 4-Door,1.3L,27057782773,1.3L 1332CC 81Cu. In. l4 GAS SOHC Turbocharged
+2023,Jeep,Wagoneer L,Series III Sport Utility 4-Door,3.0L,27058104625,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2023,Jeep,Compass,Trailhawk Sport Utility 4-Door,2.0L,27059362431,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Willys Sport Utility 2-Door,3.6L,27061712612,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Gladiator,Rubicon Crew Cab Pickup 4-Door,3.6L,27061712716,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer,Obsidian Sport Utility 4-Door,3.0L,7059072776,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Willys Sport Sport Utility 2-Door,2.0L,27061712939,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,7063318929,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wrangler,Rubicon 4xe Sport Utility 4-Door,2.0L,27061713066,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Jeep,Compass,Altitude Sport Utility 4-Door,2.0L,7066031549,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jeep,Wrangler,Unlimited Sport S Sport Utility 4-Door,3.6L,27061713154,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer L,Base Sport Utility 4-Door,3.0L,8059068089,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee L,Laredo Sport Utility 4-Door,3.6L,27063307390,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Gladiator,Sport Crew Cab Pickup 4-Door,3.6L,8064826459,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,9059061117,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Compass,Latitude Lux Sport Utility 4-Door,2.0L,9063304600,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,10059070121,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer,Series II Obsidian Sport Utility 4-Door,3.0L,12067208181,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Altitude Sport Utility 4-Door,3.6L,11059052236,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,11060149375,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,11063298603,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer L,Series II Obsidian Sport Utility 4-Door,3.0L,14067212137,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer,Series III Obsidian Sport Utility 4-Door,3.0L,12067208169,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,13063302450,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wrangler,Rubicon 392 Final Edition Sport Utility 4-Door,6.4L,14071940881,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
+2025,Jeep,Gladiator,Mojave X Crew Cab Pickup 4-Door,3.6L,27071431242,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,15063311599,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Compass,North Sport Utility 4-Door,2.0L,17064267839,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Wagoneer,Base Sport Utility 4-Door,3.0L,15067222360,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Gladiator,High Tide Crew Cab Pickup 4-Door,3.6L,15073676270,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,16059056740,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,16063300803,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,17059064125,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,18059066803,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer,Series II Sport Utility 4-Door,3.0L,19059069457,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,19059069465,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,3.6L,19059069494,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wagoneer,Series II Carbide Sport Utility 4-Door,3.0L,19059370271,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Gladiator,Jeep Beach Crew Cab Pickup 4-Door,3.6L,20073672880,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Wagoneer L,Series II Sport Utility 4-Door,3.0L,22059064019,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Sport Sport Utility 4-Door,2.0L,22080788073,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Wagoneer S,Launch Edition Sport Utility 4-Door,--,27074183308,BATTERY EV (EV/BEV)
+2024,Jeep,Gladiator,Texas Trail Crew Cab Pickup 4-Door,3.6L,23073679147,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,24063302547,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Grand Cherokee,Summit Sport Utility 4-Door,3.6L,25059051628,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2024,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,25060201956,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wagoneer,Base Sport Utility 4-Door,3.0L,25072768104,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,3.6L,27080793556,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Wagoneer L,Series II Obsidian Sport Utility 4-Door,3.0L,27067218869,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Compass,Latitude Sport Utility 4-Door,2.0L,28063317160,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Compass,Trailhawk Elite Sport Utility 4-Door,2.0L,28064272850,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Willys Sport Sport Utility 4-Door,2.0L,28080797951,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Series II Overland Sport Utility 4-Door,3.0L,2351401289,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,3066025580,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Super Sport Utility 4-Door,3.0L,3084548652,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Series III Obsidian Sport Utility 4-Door,3.0L,4066019173,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Base Sport Utility 4-Door,3.0L,5066031010,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer,Base Sport Utility 4-Door,3.0L,5071437815,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee L,Limited Sport Utility 4-Door,3.6L,5075767121,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee L,Altitude Sport Utility 4-Door,3.6L,5075767239,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.6L,5075767243,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Wrangler,Willys Sport Utility 4-Door,3.6L,27080793138,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2025,Jeep,Wrangler,Rubicon Sport Utility 4-Door,2.0L,27080793398,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Jeep,Gladiator,Texas Trail Crew Cab Pickup 4-Door,3.6L,6073684508,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wrangler,High Altitude 4xe Sport Utility 4-Door,2.0L,6074191816,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,6075772127,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,6075772160,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Wagoneer L,Base Sport Utility 4-Door,3.0L,7066031491,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,7073684506,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wrangler,Sahara Sport Utility 4-Door,3.6L,7084562780,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee,Summit 4xe Sport Utility 4-Door,2.0L,8074180710,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Jeep,Wagoneer,Series II Carbide Sport Utility 4-Door,3.0L,6073684533,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Overland Sport Utility 4-Door,3.0L,8080359567,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer L,Series II Sport Utility 4-Door,3.0L,9066016392,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2019,Jeep,Compass,Trailhawk Sport Utility 4-Door,2.4L,28037546385,2.4L 2360CC 144Cu. In. l4 GAS SOHC Naturally Aspirated
+2011,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,5.7L,28037923659,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2007,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,28037923726,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2025,Jeep,Grand Wagoneer,Obsidian Sport Utility 4-Door,3.0L,9071423776,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Compass,Latitude Sport Utility 4-Door,2.0L,9071423976,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2007,Jeep,Commander,Limited Sport Utility 4-Door,5.7L,28037923926,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2025,Jeep,Grand Cherokee,Overland 4xe Sport Utility 4-Door,2.0L,9074173435,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2012,Jeep,Patriot,Sport Sport Utility 4-Door,2.4L,28039235283,2.4L 2360CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2025,Jeep,Compass,North Sport Utility 4-Door,2.0L,9071423897,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2009,Jeep,Compass,Sport Sport Utility 4-Door,2.0L,28039235384,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Jeep,Compass,Sport Sport Utility 4-Door,2.4L,28039235411,2.4L 2360CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2025,Jeep,Gladiator,Sport Crew Cab Pickup 4-Door,3.6L,10071440621,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Compass,Altitude Sport Utility 4-Door,2.0L,10071440572,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Super Sport Utility 4-Door,3.0L,10084553515,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2021,Jeep,Wrangler,Unlimited 80th Anniversary Sport Utility 4-Door,3.6L,28043416752,3.6L 3604CC 220Cu. In. V6 MILD HYBRID EV-GAS (MHEV) DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited Islander Sport Utility 4-Door,3.0L,28043416762,3.0L 2987CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+1993,Jeep,Grand Cherokee,Base Sport Utility 4-Door,5.2L,28045487096,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1995,Jeep,Grand Cherokee,Orvis Sport Utility 4-Door,5.2L,28045487113,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+1993,Jeep,Grand Wagoneer,Base Sport Utility 4-Door,5.2L,28045487173,5.2L 5211CC 318Cu. In. V8 GAS OHV Naturally Aspirated
+2025,Jeep,Grand Cherokee,Trailhawk 4xe Sport Utility 4-Door,2.0L,11074166367,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,12066010191,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2008,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.0L,28046138586,3.0L 2985CC 182Cu. In. V6 DIESEL DOHC Turbocharged
+2020,Jeep,Grand Cherokee,Overland Sport Utility 4-Door,5.7L,28046138613,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,4.0L,28046138622,4.0L 242Cu. In. l6 GAS OHV Naturally Aspirated
+2013,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,28046138645,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2007,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,4.7L,28046138678,4.7L 287Cu. In. V8 FLEX SOHC Naturally Aspirated
+2016,Jeep,Grand Cherokee,SRT Sport Utility 4-Door,6.4L,28046138697,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
+2007,Jeep,Grand Cherokee,SRT8 Sport Utility 4-Door,6.1L,28046138717,6.1L 6059CC 370Cu. In. V8 GAS OHV Naturally Aspirated
+2015,Jeep,Grand Cherokee,SRT Sport Utility 4-Door,6.4L,28046138740,6.4L 6424CC 392Cu. In. V8 GAS OHV Naturally Aspirated
+2009,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,28046138751,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2010,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,3.7L,28046138773,3.7L 226Cu. In. V6 GAS SOHC Naturally Aspirated
+2008,Jeep,Grand Cherokee,Limited Sport Utility 4-Door,5.7L,28046138779,5.7L 345Cu. In. V8 GAS OHV Naturally Aspirated
+2025,Jeep,Grand Wagoneer,Series II Obsidian Sport Utility 4-Door,3.0L,12071416505,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,12075744240,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2022,Jeep,Wagoneer,Series II Sport Utility 4-Door,5.7L,28050428450,5.7L 345Cu. In. V8 MILD HYBRID EV-GAS (MHEV) OHV Naturally Aspirated
+2022,Jeep,Grand Cherokee,Trailhawk 4xe Sport Utility 4-Door,2.0L,28051273427,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,13066015096,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Gladiator,High Tide Crew Cab Pickup 4-Door,3.6L,13073667769,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer L,Super Sport Utility 4-Door,3.0L,14084538817,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Grand Wagoneer,Series III Sport Utility 4-Door,3.0L,28059070299,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Base Sport Utility 4-Door,3.0L,15073676387,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Series II Sport Utility 4-Door,3.0L,15074183192,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Laredo Sport Utility 4-Door,3.6L,15075763267,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee,Laredo X Sport Utility 4-Door,3.6L,15075763352,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2023,Jeep,Gladiator,High Altitude Crew Cab Pickup 4-Door,3.6L,28061719001,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,16066015551,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2022,Jeep,Gladiator,Sport S Crew Cab Pickup 4-Door,3.6L,28061719062,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2019,Jeep,Wrangler,Unlimited Rubicon Sport Utility 4-Door,3.6L,28061719093,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2021,Jeep,Wrangler,Unlimited Willys Sport Utility 4-Door,3.6L,28061719139,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2020,Jeep,Wrangler,Rubicon Sport Utility 2-Door,3.6L,28061719280,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer,Series II Sport Utility 4-Door,3.0L,16074168352,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Compass,Trailhawk Elite Sport Utility 4-Door,2.0L,20071426708,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Series I Sport Utility 4-Door,3.0L,21067226368,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee L,Laredo Sport Utility 4-Door,3.6L,16075750411,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2024,Jeep,Grand Cherokee L,Summit Sport Utility 4-Door,3.6L,28063612616,3.6L 3604CC 220Cu. In. V6 FLEX DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee,Laredo A Sport Utility 4-Door,3.6L,17075761815,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer L,Base Sport Utility 4-Door,3.0L,18066025922,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer,Carbide Sport Utility 4-Door,3.0L,18073680470,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Altitude Sport Utility 4-Door,3.6L,18075769320,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,19075758929,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer,Limited Sport Utility 4-Door,3.0L,19084549343,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer L,Limited Sport Utility 4-Door,3.0L,19084549436,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee L,Altitude X Sport Utility 4-Door,3.6L,20075761750,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Wagoneer L,Carbide Sport Utility 4-Door,3.0L,21066027915,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer L,Limited Sport Utility 4-Door,3.0L,21084562049,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Series I Sport Utility 4-Door,3.0L,25067209294,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee L,Laredo X Sport Utility 4-Door,3.6L,23075764875,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Wagoneer,Series III Obsidian Sport Utility 4-Door,3.0L,24071421947,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Cherokee,Altitude X Sport Utility 4-Door,3.6L,24075755514,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
+2025,Jeep,Grand Cherokee,Altitude 4xe Sport Utility 4-Door,2.0L,26074187105,2.0L 1997CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Jeep,Wagoneer,Limited Sport Utility 4-Door,3.0L,26084563187,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Grand Wagoneer L,Obsidian Sport Utility 4-Door,3.0L,27066020496,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2025,Jeep,Wagoneer L,Super Sport Utility 4-Door,3.0L,28084562005,3.0L 2993CC 183Cu. In. l6 GAS DOHC Turbocharged
+2024,Jeep,Wrangler,Rubicon Sport Utility 4-Door,3.6L,28080797956,3.6L 3604CC 220Cu. In. V6 GAS DOHC Naturally Aspirated
