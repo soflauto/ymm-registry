@@ -1,1 +1,181 @@
-
+year,make,model,trim,engine,epid,ebay_engine
+1993,Alfa Romeo,164,Sport Sedan 4-Door,3.0L,73947901,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1991,Alfa Romeo,164,Base Sedan 4-Door,3.0L,73950162,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1989,Alfa Romeo,Milano,Verde Sedan 4-Door,3.0L,73950192,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1991,Alfa Romeo,164,L Sedan 4-Door,3.0L,73950252,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1988,Alfa Romeo,Milano,Gold Sedan 4-Door,2.5L,73950662,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1987,Alfa Romeo,Milano,Platinum Sedan 4-Door,2.5L,73958076,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1991,Alfa Romeo,164,Sport Sedan 4-Door,3.0L,73958496,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1994,Alfa Romeo,164,Quadrifoglio Sedan 4-Door,3.0L,73971659,3.0L 2959CC V6 GAS DOHC Naturally Aspirated
+1989,Alfa Romeo,Milano,Gold Sedan 4-Door,2.5L,73971839,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1986,Alfa Romeo,GTV-6,2.5 Coupe 2-Door,2.5L,73976883,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1992,Alfa Romeo,164,L Sedan 4-Door,3.0L,73977073,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1987,Alfa Romeo,Milano,Gold Sedan 4-Door,2.5L,73977263,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1995,Alfa Romeo,164,LS Sedan 4-Door,3.0L,73983528,3.0L 2959CC V6 GAS DOHC Naturally Aspirated
+1987,Alfa Romeo,Milano,Silver Sedan 4-Door,2.5L,73988790,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1985,Alfa Romeo,GTV-6,2.5 Coupe 2-Door,2.5L,73988850,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1988,Alfa Romeo,Milano,Platinum Sedan 4-Door,2.5L,73988920,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1995,Alfa Romeo,164,Quadrifoglio Sedan 4-Door,3.0L,73988970,3.0L 2959CC V6 GAS DOHC Naturally Aspirated
+1988,Alfa Romeo,Milano,Verde Sedan 4-Door,3.0L,73989220,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1992,Alfa Romeo,164,Sport Sedan 4-Door,3.0L,74004997,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1994,Alfa Romeo,164,LS Sedan 4-Door,3.0L,74005027,3.0L 2959CC V6 GAS DOHC Naturally Aspirated
+1993,Alfa Romeo,164,L Sedan 4-Door,3.0L,74005327,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1993,Alfa Romeo,Spider,Base Convertible 2-Door,2.0L,83240504,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83248434,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Alfa Romeo,Spider,Base Convertible 2-Door,2.0L,83264194,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Alfa Romeo,Spider,Quadrifoglio Convertible 2-Door,2.0L,83272864,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83273872,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83285445,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83297112,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Alfa Romeo,Spider,Base Convertible 2-Door,2.0L,83298176,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Alfa Romeo,Spider,Base Convertible 2-Door,2.0L,83302675,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83303109,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Alfa Romeo,Spider,Quadrifoglio Convertible 2-Door,2.0L,83307726,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1986,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83309825,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83317551,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83321676,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Alfa Romeo,Spider,Quadrifoglio Convertible 2-Door,2.0L,83321738,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83333463,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83337108,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83340967,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Alfa Romeo,Spider,Quadrifoglio Convertible 2-Door,2.0L,83345878,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83351577,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83358470,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83364507,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Alfa Romeo,Milano,Verde Sedan 4-Door,3.0L,93721190,3.0L 2959CC V6 GAS SOHC Naturally Aspirated
+1989,Alfa Romeo,Milano,Platinum Sedan 4-Door,2.5L,153535368,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+2015,Alfa Romeo,4C,Spider Convertible 2-Door,1.7L,218513295,1.7L 1742CC l4 GAS DOHC Turbocharged
+2015,Alfa Romeo,4C,Base Coupe 2-Door,1.7L,221190485,1.7L 1742CC l4 GAS DOHC Turbocharged
+2015,Alfa Romeo,4C,Launch Edition Coupe 2-Door,1.7L,221197529,1.7L 1742CC l4 GAS DOHC Turbocharged
+2016,Alfa Romeo,4C,Spider Convertible 2-Door,1.7L,221272518,1.7L 1742CC l4 GAS DOHC Turbocharged
+2016,Alfa Romeo,4C,Base Coupe 2-Door,1.7L,221317793,1.7L 1742CC l4 GAS DOHC Turbocharged
+2017,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,232716899,2.9L 2891CC V6 GAS DOHC Turbocharged
+2017,Alfa Romeo,4C,Base Coupe 2-Door,1.7L,232759927,1.7L 1742CC l4 GAS DOHC Turbocharged
+2017,Alfa Romeo,4C,Spider Convertible 2-Door,1.7L,232793163,1.7L 1742CC l4 GAS DOHC Turbocharged
+2018,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,238910882,2.9L 2891CC V6 GAS DOHC Turbocharged
+2018,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,238956630,2.9L 2891CC V6 GAS DOHC Turbocharged
+2018,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,238987799,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2018,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,239066858,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2018,Alfa Romeo,4C,Base Coupe 2-Door,1.7L,241944176,1.7L 1742CC l4 GAS DOHC Turbocharged
+2018,Alfa Romeo,4C,Spider Coupe 2-Door,1.7L,242024383,1.7L 1742CC l4 GAS DOHC Turbocharged
+2018,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,250280711,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2017,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,250349072,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,250387720,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2018,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,250388260,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2017,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,250419289,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,4C,Spider Convertible 2-Door,1.7L,250428769,1.7L 1742CC l4 GAS DOHC Turbocharged
+2019,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,250431585,2.9L 2891CC V6 GAS DOHC Turbocharged
+2019,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,250442447,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,250445377,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,250445847,2.9L 2891CC V6 GAS DOHC Turbocharged
+2019,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,250501248,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,4C,Spider Convertible 2-Door,1.7L,251867611,1.7L 1742CC l4 GAS DOHC Turbocharged
+2020,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,251971980,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Stelvio,Sport Sport Utility 4-Door,2.0L,252000194,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,252004036,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,252074492,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Giulia,Sport Sedan 4-Door,2.0L,252074592,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,252112140,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Giulia,Sport Sedan 4-Door,2.0L,252161665,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,4C,Spider Italia Convertible 2-Door,1.7L,252230728,1.7L 1742CC l4 GAS DOHC Turbocharged
+2020,Alfa Romeo,Stelvio,Sport Sport Utility 4-Door,2.0L,253630639,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,2319845317,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,2326770748,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,2326770771,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,2331934448,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,2331934538,2.9L 2891CC V6 GAS DOHC Turbocharged
+2021,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,3041090451,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,4048796011,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Estrema Sport Utility 4-Door,2.0L,4055714003,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+1990,Alfa Romeo,Spider,Quadrifoglio Convertible 2-Door,2.0L,5041977526,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,5041998688,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+2022,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,5048807140,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,5051275998,2.9L 2891CC V6 GAS DOHC Turbocharged
+2022,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,5051276033,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,6060898864,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,7041089825,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,8046141231,2.9L 2891CC V6 GAS DOHC Turbocharged
+2022,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,8048805247,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,8060888414,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+1990,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,9041965884,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+2024,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,9060883415,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Giulia,Tributo Italiano Sedan 4-Door,2.0L,9072771408,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Base Sport Utility 4-Door,2.0L,10078737870,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Alfa Romeo,Giulia,Estrema Sedan 4-Door,2.0L,11055712879,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,11055712978,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Tonale,Sprint Sport Utility 4-Door,2.0L,12066010364,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Competizione Sport Utility 4-Door,2.0L,13060879137,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2008,Alfa Romeo,8C,Competizione Coupe 2-Door,4.7L,26039852109,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2024,Alfa Romeo,Giulia,Competizione Sedan 4-Door,2.0L,15060889817,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,16055714598,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Giulia,TI Sport Sedan 4-Door,2.0L,17041085340,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,17046135892,2.9L 2891CC V6 GAS DOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Veloce Sport Utility 4-Door,2.0L,17055719691,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2026,Alfa Romeo,Tonale,Base Sport Utility 4-Door,1.3L,17075762133,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,19046140984,2.9L 2891CC V6 GAS DOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,20060886005,2.9L 2891CC V6 GAS DOHC Turbocharged
+2021,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,21041084902,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Stelvio,TI Sport Sport Utility 4-Door,2.0L,21047567098,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,21060890587,2.9L 2891CC V6 GAS DOHC Turbocharged
+2019,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,250445477,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2019,Alfa Romeo,Stelvio,Sport Sport Utility 4-Door,2.0L,252171937,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,23071439025,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Stelvio,Base Sport Utility 4-Door,2.0L,252074392,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2020,Alfa Romeo,Stelvio,Sport Sport Utility 4-Door,2.0L,253711898,2.0L 1997CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,24041079845,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,24055716826,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,2312131557,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,6041095481,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,6041095490,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Itensa Sport Utility 4-Door,2.0L,24078732335,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Alfa Romeo,Giulia,TI Sport Sedan 4-Door,2.0L,25041075283,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2021,Alfa Romeo,Stelvio,Quadrifoglio Sport Utility 4-Door,2.9L,25046126809,2.9L 2891CC V6 GAS DOHC Turbocharged
+2022,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,25048787532,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Stelvio,Veloce Sport Utility 4-Door,2.0L,25048787538,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,3048807020,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,6048807457,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,14057779460,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2022,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,17048797276,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Tonale,Veloce Sport Utility 4-Door,1.3L,26061720858,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,26071438547,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,11057774736,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,16057778543,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,21055726963,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Stelvio,Lusso Sport Utility 4-Door,2.0L,22060886845,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,23057794641,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Itensa Sport Utility 4-Door,1.3L,26078743296,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Alfa Romeo,Giulia,Lusso Sedan 4-Door,2.0L,23060894190,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Lusso Sedan 4-Door,2.0L,26060895856,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Estrema Sedan 4-Door,2.0L,28055726308,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2023,Alfa Romeo,Giulia,Quadrifoglio Sedan 4-Door,2.9L,27055713882,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,TI Sport Utility 4-Door,2.0L,27060886326,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Tonale,Veloce Sport Utility 4-Door,2.0L,7066031488,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Veloce Sport Utility 4-Door,2.0L,27068288588,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Tonale,TI Sport Utility 4-Door,1.3L,9061709149,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Alfa Romeo,Tonale,Speciale Sport Utility 4-Door,1.3L,10071440373,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Alfa Romeo,Giulia,Quadrifoglio Supersport Sedan 4-Door,2.9L,10078005798,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Giulia,Quadrifoglio Carbon Sedan 4-Door,2.9L,11077988254,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Quadrifoglio Carbon Sport Utility 4-Door,2.9L,15078738545,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Giulia,Veloce Sedan 4-Door,2.0L,18060887997,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Veloce Sport Utility 4-Door,2.0L,18068291045,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Quadrifoglio Supersport Sport Utility 4-Door,2.9L,21078745709,2.9L 2891CC V6 GAS DOHC Turbocharged
+2024,Alfa Romeo,Stelvio,Sprint Sport Utility 4-Door,2.0L,23060894182,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,Competizione Sedan 4-Door,2.0L,25060876228,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,Sprint Sedan 4-Door,2.0L,25060876229,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Giulia,TI Sedan 4-Door,2.0L,27060886369,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Tributo Italiano Sport Utility 4-Door,1.3L,2337067495,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Giulia,Base Sedan 4-Door,2.0L,12071416462,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Sprint Sport Utility 4-Door,2.0L,13067213575,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Alfa Romeo,Giulia,Tributo Italiano Sedan 4-Door,2.0L,14071419612,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Stelvio,Tributo Italiano Sport Utility 4-Door,2.0L,15071433566,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2024,Alfa Romeo,Tonale,Sprint Sport Utility 4-Door,1.3L,28061719035,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Tonale,Sprint Sport Utility 4-Door,1.3L,20072776435,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Tonale,Veloce Sport Utility 4-Door,2.0L,21067226323,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Alfa Romeo,Stelvio,Tributo Sport Utility 4-Door,2.0L,21071435862,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2025,Alfa Romeo,Tonale,Base Sport Utility 4-Door,1.3L,19066023049,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Tonale,Veloce Sport Utility 4-Door,1.3L,26072786176,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Alfa Romeo,Giulia,Intensa Sedan 4-Door,2.0L,25080779108,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2026,Alfa Romeo,Tonale,Tributo Sport Utility 4-Door,1.3L,10078737791,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Alfa Romeo,Tonale,Itensa Sport Utility 4-Door,2.0L,19078732743,2.0L 1995CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Alfa Romeo,Giulia,Intensa Sedan 4-Door,2.0L,28080797756,2.0L 1995CC 122Cu. In. l4 GAS SOHC Turbocharged
+2026,Alfa Romeo,Tonale,Tributo Italiano Sport Utility 4-Door,1.3L,28075770709,1.3L 1332CC 81Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
