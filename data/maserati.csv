@@ -1,1 +1,233 @@
-﻿year,make,model,trim,engine,epid,ebay_engine
+year,make,model,trim,engine,epid,ebay_engine
+1985,Maserati,Biturbo,Base Coupe 2-Door,2.5L,73981234,2.5L 2491CC V6 GAS DOHC Turbocharged
+1986,Maserati,Spyder,Base Convertible 2-Door,2.5L,73981284,2.5L 2491CC V6 GAS SOHC Turbocharged
+1989,Maserati,Spyder,Base Convertible 2-Door,2.8L,73981374,2.8L 2791CC V6 GAS SOHC Turbocharged
+1991,Maserati,Spyder,Base Convertible 2-Door,2.8L,73981474,2.8L 2791CC V6 GAS SOHC Turbocharged
+2005,Maserati,Spyder,Cambiocorsa Convertible 2-Door,4.2L,74004514,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2005,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,74004884,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2006,Maserati,Quattroporte,Sport GT Sedan 4-Door,4.2L,74006144,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+1987,Maserati,Biturbo,Base Coupe 2-Door,2.5L,74007881,2.5L 2491CC V6 GAS SOHC Turbocharged
+1989,Maserati,430i,Base Coupe 2-Door,2.8L,74007951,2.8L 2791CC V6 GAS SOHC Turbocharged
+1989,Maserati,228i,Base Coupe 2-Door,2.8L,74007961,2.8L 2791CC V6 GAS SOHC Turbocharged
+1986,Maserati,Biturbo,Base Coupe 2-Door,2.5L,74016275,2.5L 2491CC V6 GAS DOHC Turbocharged
+1990,Maserati,Spyder,Base Convertible 2-Door,2.8L,74018046,2.8L 2791CC V6 GAS SOHC Turbocharged
+2009,Maserati,GranTurismo,Base Coupe 2-Door,4.2L,74021154,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2009,Maserati,Quattroporte,S Sedan 4-Door,4.7L,74021384,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2004,Maserati,Spyder,Cambiocorsa Convertible 2-Door,4.2L,74030232,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+1990,Maserati,430i,Base Coupe 2-Door,2.8L,74031259,2.8L 2791CC V6 GAS SOHC Turbocharged
+1990,Maserati,228i,Base Coupe 2-Door,2.8L,74036973,2.8L 2791CC V6 GAS SOHC Turbocharged
+2006,Maserati,GranSport,Base Coupe 2-Door,4.2L,74042386,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2006,Maserati,Coupe,Cambiocorsa Coupe 2-Door,4.2L,74042916,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2006,Maserati,Quattroporte,Executive GT Sedan 4-Door,4.2L,74043156,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+1987,Maserati,Spyder,Base Convertible 2-Door,2.5L,74043398,2.5L 2491CC V6 GAS SOHC Turbocharged
+2009,Maserati,GranTurismo,S Coupe 2-Door,4.7L,74049862,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2005,Maserati,GranSport,Base Coupe 2-Door,4.2L,74054649,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2008,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,74055546,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2008,Maserati,Quattroporte,Sport GT Sedan 4-Door,4.2L,74055736,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2005,Maserati,Coupe,Cambiocorsa Coupe 2-Door,4.2L,74059993,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2008,Maserati,Quattroporte,Executive GT Sedan 4-Door,4.2L,74068779,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2004,Maserati,Spyder,GT Convertible 2-Door,4.2L,74069300,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,74072433,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2008,Maserati,GranTurismo,Base Coupe 2-Door,4.2L,74074383,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2009,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,74076913,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2010,Maserati,Quattroporte,Sport GT S Sedan 4-Door,4.7L,83497054,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2010,Maserati,Quattroporte,S Sedan 4-Door,4.7L,83545996,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2010,Maserati,GranTurismo,Base Coupe 2-Door,4.2L,83555569,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2010,Maserati,GranTurismo,S Coupe 2-Door,4.7L,83580548,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2010,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,83588467,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2011,Maserati,GranTurismo,Base Coupe 2-Door,4.2L,112459014,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2011,Maserati,Quattroporte,S Sedan 4-Door,4.7L,112487652,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2011,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,112547193,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2011,Maserati,Quattroporte,Sport GT S Sedan 4-Door,4.7L,112567133,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,Quattroporte,S Sedan 4-Door,4.7L,114825604,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,GranTurismo,S Coupe 2-Door,4.7L,114827251,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,114829404,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,Quattroporte,Sport GT S Sedan 4-Door,4.7L,114868899,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+1985,Maserati,Quattroporte,Base Sedan 4-Door,4.9L,114887567,4.9L 4933CC V8 GAS DOHC Naturally Aspirated
+1986,Maserati,Quattroporte,Base Sedan 4-Door,4.9L,114904900,4.9L 4933CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,114921023,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2012,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,114934748,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2013,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,139635651,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2013,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,139673305,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2013,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,139722167,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2013,Maserati,Quattroporte,S Sedan 4-Door,4.7L,153476125,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2013,Maserati,Quattroporte,Sport GT S Sedan 4-Door,4.7L,153492037,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,178312661,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,178343355,3.8L 3799CC V8 GAS DOHC Turbocharged
+2014,Maserati,Quattroporte,S Sedan 4-Door,3.0L,178344095,3.0L 2979CC V6 GAS DOHC Turbocharged
+2014,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,178344595,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,Ghibli,Base Sedan 4-Door,3.0L,178353124,3.0L 2979CC V6 GAS DOHC Turbocharged
+2014,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,178362429,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,178367076,3.0L 2979CC V6 GAS DOHC Turbocharged
+2014,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,178379377,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,178404540,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2014,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,178404903,3.0L 2979CC V6 GAS DOHC Turbocharged
+2015,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,208423681,3.8L 3799CC V8 GAS DOHC Turbocharged
+2015,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,208424231,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2015,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,208481655,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2015,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,208490922,3.0L 2979CC V6 GAS DOHC Turbocharged
+2015,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,208491202,3.0L 2979CC V6 GAS DOHC Turbocharged
+2015,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,208496506,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2015,Maserati,Ghibli,Base Sedan 4-Door,3.0L,208499249,3.0L 2979CC V6 GAS DOHC Turbocharged
+2015,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,208581168,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,218510774,3.0L 2979CC V6 GAS DOHC Turbocharged
+2016,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,218514394,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,218541077,3.8L 3799CC V8 GAS DOHC Turbocharged
+2016,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,218594628,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,218598948,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,218600988,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,218680213,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2016,Maserati,Ghibli,Base Sedan 4-Door,3.0L,218680773,3.0L 2979CC V6 GAS DOHC Turbocharged
+2016,Maserati,Ghibli,S Sedan 4-Door,3.0L,218686433,3.0L 2979CC V6 GAS DOHC Turbocharged
+2016,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,218686533,3.0L 2979CC V6 GAS DOHC Turbocharged
+1986,Maserati,425,Base Sedan 4-Door,2.5L,74007901,2.5L 2491CC V6 GAS SOHC Turbocharged
+2017,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,232571371,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2017,Maserati,Levante,S Sport Utility 4-Door,3.0L,232691860,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,Ghibli,Base Sedan 4-Door,3.0L,232694480,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,232694850,3.0L 2979CC V6 GAS DOHC Turbocharged
+1987,Maserati,425,Base Sedan 4-Door,2.5L,74048880,2.5L 2491CC V6 GAS SOHC Turbocharged
+2017,Maserati,Ghibli,S Sedan 4-Door,3.0L,232706705,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,232708545,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,Levante,Base Sport Utility 4-Door,3.0L,232715804,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,232745746,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2017,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,232745764,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2017,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,232797463,3.8L 3799CC V8 GAS DOHC Turbocharged
+2017,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,232797823,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2017,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,239152215,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2018,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,241930064,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2018,Maserati,Levante,Base Sport Utility 4-Door,3.0L,241930124,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,GranTurismo,Base Convertible 2-Door,4.7L,241940806,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2018,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,241941516,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2018,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,241952475,3.8L 3799CC V8 GAS DOHC Turbocharged
+2018,Maserati,Ghibli,Base Sedan 4-Door,3.0L,241955547,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,Levante,S Sport Utility 4-Door,3.0L,242022128,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,Quattroporte,S Sedan 4-Door,3.0L,242025443,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,242027293,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2018,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,248104518,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2019,Maserati,Levante,Base Sport Utility 4-Door,3.0L,250311131,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,250312201,3.8L 3799CC V8 GAS DOHC Turbocharged
+2019,Maserati,Ghibli,Base Sedan 4-Door,3.0L,250418424,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,250422576,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,Levante,GTS Sport Utility 4-Door,3.8L,250423616,3.8L 3799CC V8 GAS DOHC Turbocharged
+2019,Maserati,GranTurismo,Sport Convertible 2-Door,4.7L,250423666,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2019,Maserati,Levante,Trofeo Sport Utility 4-Door,3.8L,250428489,3.8L 3799CC V8 GAS DOHC Turbocharged
+2019,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,250442075,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,Ghibli,S Sedan 4-Door,3.0L,250451147,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,Levante,S Sport Utility 4-Door,3.0L,250478247,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,250510078,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,Ghibli,S Sedan 4-Door,3.0L,250510593,3.0L 2979CC V6 GAS DOHC Turbocharged
+2018,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,250536438,3.0L 2979CC V6 GAS DOHC Turbocharged
+2019,Maserati,GranTurismo,MC Convertible 2-Door,4.7L,250536668,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+1986,Maserati,425,Base Coupe 2-Door,2.5L,153460672,2.5L 2491CC V6 GAS SOHC Turbocharged
+1987,Maserati,425,Base Coupe 2-Door,2.5L,153489997,2.5L 2491CC V6 GAS SOHC Turbocharged
+2021,Maserati,Levante,Base Sport Utility 4-Door,3.0L,2315562974,3.0L 2979CC V6 GAS DOHC Turbocharged
+2022,Maserati,Quattroporte,GT Sedan 4-Door,3.0L,2319845393,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,Grecale,Modena Sport Utility 4-Door,2.0L,2330408543,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Maserati,MC20,Base Coupe 2-Door,3.0L,2343824126,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2020,Maserati,Levante,S Sport Utility 4-Door,3.0L,3036083809,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Levante,Modena S Sport Utility 4-Door,3.8L,3056457945,3.8L 3799CC V8 GAS DOHC Turbocharged
+2020,Maserati,Levante,Trofeo Sport Utility 4-Door,3.8L,4036073051,3.8L 3799CC V8 GAS DOHC Turbocharged
+2021,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,4044510567,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,MC20,Cielo Convertible 2-Door,3.0L,4059360073,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2024,Maserati,Grecale,Trofeo Sport Utility 4-Door,3.0L,4059360230,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2020,Maserati,Quattroporte,GTS Sedan 4-Door,3.8L,5036883512,3.8L 3799CC V8 GAS DOHC Turbocharged
+2021,Maserati,Levante,S Sport Utility 4-Door,3.0L,5044523690,3.0L 2979CC V6 GAS DOHC Turbocharged
+2025,Maserati,MC20,Cielo Convertible 2-Door,3.0L,5072786937,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2025,Maserati,GranCabrio,Trofeo Coupe 2-Door,3.0L,5072787061,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2020,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,6036880419,3.0L 2979CC V6 GAS DOHC Turbocharged
+2022,Maserati,Ghibli,Modena Sedan 4-Door,3.0L,6048807566,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Grecale,GT Sport Utility 4-Door,2.0L,6056465327,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Maserati,Quattroporte,Trofeo Sedan 4-Door,3.8L,6056465387,3.8L 3799CC V8 GAS DOHC Turbocharged
+2024,Maserati,Quattroporte,Modena Ultima Q4 Sedan 4-Door,3.0L,7063614100,3.0L 2979CC V6 GAS DOHC Turbocharged
+2026,Maserati,GranCabrio,Folgore Coupe 2-Door,--,7075771907,BATTERY EV (EV/BEV)
+2026,Maserati,GranCabrio,Trofeo Coupe 2-Door,3.0L,7075772007,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2002,Maserati,Spyder,GT Convertible 2-Door,4.2L,25039834941,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2020,Maserati,Levante,Base Sport Utility 4-Door,3.0L,8036079849,3.0L 2979CC V6 GAS DOHC Turbocharged
+2020,Maserati,Levante,GTS Sport Utility 4-Door,3.8L,8036079853,3.8L 3799CC V8 GAS DOHC Turbocharged
+2020,Maserati,Ghibli,S Sedan 4-Door,3.0L,8036876550,3.0L 2979CC V6 GAS DOHC Turbocharged
+2025,Maserati,Grecale,Folgore Sport Utility 4-Door,--,8067215915,BATTERY EV (EV/BEV)
+2026,Maserati,GT2 Stradale,Base Coupe 2-Door,3.0L,8075762388,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2003,Maserati,Coupe,GT Coupe 2-Door,4.2L,13039844625,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2003,Maserati,Spyder,GT Convertible 2-Door,4.2L,14039841579,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2004,Maserati,Quattroporte,Base Sedan 4-Door,4.2L,74028081,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2021,Maserati,Quattroporte,Trofeo Sedan 4-Door,3.8L,9044512317,3.8L 3799CC V8 GAS DOHC Turbocharged
+2022,Maserati,Ghibli,Modena Q4 Sedan 4-Door,3.0L,9048795683,3.0L 2979CC V6 GAS DOHC Turbocharged
+2026,Maserati,GranTurismo,Trofeo Coupe 2-Door,3.0L,9075751740,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2004,Maserati,Coupe,GT Coupe 2-Door,4.2L,25039834988,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2005,Maserati,Coupe,GT Coupe 2-Door,4.2L,74060083,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2005,Maserati,Spyder,GT Convertible 2-Door,4.2L,74060103,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2024,Maserati,Levante,GT Ultima Sport Utility 4-Door,3.0L,10063613056,3.0L 2979CC V6 GAS DOHC Turbocharged
+2006,Maserati,Spyder,Cambiocorsa Convertible 2-Door,4.2L,74040555,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2006,Maserati,Coupe,GT Coupe 2-Door,4.2L,74042646,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2006,Maserati,Spyder,GT Convertible 2-Door,4.2L,74089597,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2003,Maserati,Coupe,Cambiocorsa Coupe 2-Door,4.2L,11039836428,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2023,Maserati,Quattroporte,Modena Sedan 4-Door,3.0L,11056442540,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,Levante,Trofeo V8 Ultima Sport Utility 4-Door,3.8L,11062729928,3.8L 3799CC V8 GAS DOHC Turbocharged
+2007,Maserati,GranSport,Base Coupe 2-Door,4.2L,74072673,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,Coupe,GT Coupe 2-Door,4.2L,74072683,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,Quattroporte,Executive GT Sedan 4-Door,4.2L,74072733,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,GranSport,Spyder Convertible 2-Door,4.2L,74079048,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,Coupe,Cambiocorsa Coupe 2-Door,4.2L,74100807,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2007,Maserati,Quattroporte,Sport GT Sedan 4-Door,4.2L,74100887,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2008,Maserati,Quattroporte,Sport GT S Sedan 4-Door,4.2L,153478252,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2022,Maserati,Quattroporte,Modena Q4 Sedan 4-Door,3.0L,13048797315,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Ghibli,Trofeo Sedan 4-Door,3.8L,13056447949,3.8L 3799CC V8 GAS DOHC Turbocharged
+2022,Maserati,Levante,GT Sport Utility 4-Door,3.0L,14048796186,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Levante,Modena Sport Utility 4-Door,3.0L,14056446814,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Quattroporte,Modena Q4 Sedan 4-Door,3.0L,14056446927,3.0L 2979CC V6 GAS DOHC Turbocharged
+2021,Maserati,Ghibli,S Sedan 4-Door,3.0L,15044520021,3.0L 2979CC V6 GAS DOHC Turbocharged
+2022,Maserati,Quattroporte,Trofeo Sedan 4-Door,3.8L,15048800928,3.8L 3799CC V8 GAS DOHC Turbocharged
+2025,Maserati,GT2 Stradale,Base Coupe 2-Door,3.0L,15072780966,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2004,Maserati,Coupe,Cambiocorsa Coupe 2-Door,4.2L,16039840479,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2022,Maserati,Ghibli,GT Sedan 4-Door,3.0L,16048797005,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Grecale,Trofeo Sport Utility 4-Door,3.0L,16056445514,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2024,Maserati,GranTurismo,Modena Coupe 2-Door,3.0L,16060474075,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2024,Maserati,Ghibli,Trofeo 334 Ultima Sedan 4-Door,3.8L,17062743136,3.8L 3799CC V8 GAS DOHC Turbocharged
+2020,Maserati,Quattroporte,S Q4 Sedan 4-Door,3.0L,18036870760,3.0L 2979CC V6 GAS DOHC Turbocharged
+2011,Maserati,GranTurismo,S Coupe 2-Door,4.7L,18039845142,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2021,Maserati,Levante,Trofeo Sport Utility 4-Door,3.8L,18044516819,3.8L 3799CC V8 GAS DOHC Turbocharged
+2021,Maserati,Ghibli,S Q4 Sedan 4-Door,3.0L,19044519645,3.0L 2979CC V6 GAS DOHC Turbocharged
+2022,Maserati,Ghibli,Trofeo Sedan 4-Door,3.8L,19048802807,3.8L 3799CC V8 GAS DOHC Turbocharged
+2025,Maserati,GranTurismo,Folgore Coupe 2-Door,--,19066023085,BATTERY EV (EV/BEV)
+2022,Maserati,Levante,Modena Sport Utility 4-Door,3.0L,20048801093,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,GranTurismo,Folgore Coupe 2-Door,--,20062743686,BATTERY EV (EV/BEV)
+2016,Maserati,Quattroporte,S Sedan 4-Door,3.0L,218597938,3.0L 2979CC V6 GAS DOHC Turbocharged
+2025,Maserati,Grecale,Modena Sport Utility 4-Door,2.0L,20072776516,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2020,Maserati,Ghibli,Base Sedan 4-Door,3.0L,21036868070,3.0L 2979CC V6 GAS DOHC Turbocharged
+2017,Maserati,Quattroporte,S Sedan 4-Door,3.0L,232710995,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,MC20,Cielo Convertible 2-Door,3.0L,21057227712,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2024,Maserati,Grecale,GT Sport Utility 4-Door,2.0L,21059069322,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Maserati,Levante,Modena S Sport Utility 4-Door,3.8L,22048799823,3.8L 3799CC V8 GAS DOHC Turbocharged
+2025,Maserati,GranTurismo,Trofeo Coupe 2-Door,3.0L,22066021758,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2025,Maserati,Grecale,GT Sport Utility 4-Door,2.0L,22072776743,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2019,Maserati,Quattroporte,S Sedan 4-Door,3.0L,250536893,3.0L 2979CC V6 GAS DOHC Turbocharged
+2021,Maserati,Ghibli,Base Sedan 4-Door,3.0L,23044524507,3.0L 2979CC V6 GAS DOHC Turbocharged
+2021,Maserati,Ghibli,Trofeo Sedan 4-Door,3.8L,23044524669,3.8L 3799CC V8 GAS DOHC Turbocharged
+2019,Maserati,GranTurismo,MC Coupe 2-Door,4.7L,2307938895,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2019,Maserati,GranTurismo,Sport Coupe 2-Door,4.7L,19036880091,4.7L 4691CC V8 GAS DOHC Naturally Aspirated
+2023,Maserati,MC20,Base Coupe 2-Door,3.0L,24053880435,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2020,Maserati,Quattroporte,S Sedan 4-Door,3.0L,15036874908,3.0L 2979CC V6 GAS DOHC Turbocharged
+2025,Maserati,Grecale,Trofeo Sport Utility 4-Door,3.0L,24072771920,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2025,Maserati,GranCabrio,Folgore Coupe 2-Door,--,24072771993,BATTERY EV (EV/BEV)
+2021,Maserati,Quattroporte,S Sedan 4-Door,3.0L,6044527145,3.0L 2979CC V6 GAS DOHC Turbocharged
+2026,Maserati,GranTurismo,Folgore Coupe 2-Door,--,24075755480,BATTERY EV (EV/BEV)
+2026,Maserati,GranTurismo,Modena Coupe 2-Door,3.0L,24075755501,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2022,Maserati,Levante,Trofeo Sport Utility 4-Door,3.8L,25048787684,3.8L 3799CC V8 GAS DOHC Turbocharged
+2024,Maserati,GranTurismo,Trofeo Coupe 2-Door,3.0L,25060471836,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2022,Maserati,Quattroporte,Modena Sedan 4-Door,3.0L,9048795777,3.0L 2979CC V6 GAS DOHC Turbocharged
+2022,Maserati,Levante,GT Ultima Sport Utility 4-Door,3.0L,16062734219,3.0L 2979CC V6 GAS DOHC Turbocharged
+2021,Maserati,Levante,GTS Sport Utility 4-Door,3.8L,26044525861,3.8L 3799CC V8 GAS DOHC Turbocharged
+2022,Maserati,MC20,Base Coupe 2-Door,3.0L,26051279316,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2023,Maserati,Ghibli,GT Sedan 4-Door,3.0L,26056462113,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Ghibli,Modena Q4 Sedan 4-Door,3.0L,26056462297,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Ghibli,Modena Sedan 4-Door,3.0L,12056444088,3.0L 2979CC V6 GAS DOHC Turbocharged
+2023,Maserati,Quattroporte,GT Sedan 4-Door,3.0L,28056457906,3.0L 2979CC V6 GAS DOHC Turbocharged
+2003,Maserati,Spyder,Cambiocorsa Convertible 2-Door,4.2L,27039837205,4.2L 4244CC V8 GAS DOHC Naturally Aspirated
+2023,Maserati,Levante,Trofeo Sport Utility 4-Door,3.8L,27056447695,3.8L 3799CC V8 GAS DOHC Turbocharged
+2024,Maserati,Levante,Modena Ultima Sport Utility 4-Door,3.0L,27062738984,3.0L 2979CC V6 GAS DOHC Turbocharged
+2025,Maserati,GranTurismo,Modena Coupe 2-Door,3.0L,27066020379,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2024,Maserati,MC20,Base Coupe 2-Door,3.0L,24059058036,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
+2023,Maserati,Grecale,Modena Sport Utility 4-Door,2.0L,28056457771,2.0L 1995CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Maserati,Levante,GT Sport Utility 4-Door,3.0L,28056457912,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,Ghibli,Modena Ultima Q4 Sedan 4-Door,3.0L,28062749297,3.0L 2979CC V6 GAS DOHC Turbocharged
+2024,Maserati,GranCabrio,Trofeo Coupe 2-Door,3.0L,28078012964,3.0L 2992CC 183Cu. In. V6 GAS DOHC Turbocharged
