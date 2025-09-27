@@ -1,1 +1,15 @@
-
+year,make,model,trim,engine,epid,ebay_engine
+2012,Koenigsegg,Agera,Base,--,243815490,--
+2012,Koenigsegg,Agera,S,--,243833834,--
+2012,Koenigsegg,Agera,R,--,243846276,--
+2012,Koenigsegg,Agera,R BLT,--,243862167,--
+2013,Koenigsegg,Agera,S,--,243776242,--
+2013,Koenigsegg,Agera,S Hundra 100,--,243849189,--
+2013,Koenigsegg,Agera,Base,--,243853585,--
+2013,Koenigsegg,Agera,R,--,243927873,--
+2014,Koenigsegg,One:1,Base,--,243816100,--
+2014,Koenigsegg,Agera,R,--,243859367,--
+2014,Koenigsegg,Agera,S,--,243863077,--
+2015,Koenigsegg,Regera,Base,--,243777032,--
+2015,Koenigsegg,Agera,RS,--,243862357,--
+2015,Koenigsegg,One:1,Base,--,243925013,--
