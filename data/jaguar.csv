@@ -1,1 +1,780 @@
-﻿year,make,model,trim,engine,epid,ebay_engine
+year,make,model,trim,engine,epid,ebay_engine
+2000,Jaguar,XJ8,L Sedan 4-Door,4.0L,73921434,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1988,Jaguar,XJS,Base Coupe 2-Door,5.3L,73921544,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1990,Jaguar,XJS,Classic Collection Coupe 2-Door,5.3L,73921594,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2000,Jaguar,XKR,Base Coupe 2-Door,4.0L,73921754,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2000,Jaguar,XK8,Base Convertible 2-Door,4.0L,73921804,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1993,Jaguar,XJRS,Base Convertible 2-Door,6.0L,73921844,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1999,Jaguar,XK8,Base Convertible 2-Door,4.0L,73921884,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1988,Jaguar,XJS,Base Convertible 2-Door,5.3L,73921954,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1999,Jaguar,XJ8,Base Sedan 4-Door,4.0L,73921964,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1999,Jaguar,XJR,Base Sedan 4-Door,4.0L,73921974,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2000,Jaguar,XK8,Base Coupe 2-Door,4.0L,73922194,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2000,Jaguar,XKR,Base Convertible 2-Door,4.0L,73948251,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,XJ8,Base Sedan 4-Door,4.0L,73948311,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,2+2 Coupe 2-Door,6.0L,73948471,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,73948601,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Jaguar,S-Type,Base Sedan 4-Door,4.2L,73950382,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Jaguar,XK8,Base Convertible 2-Door,4.0L,73950532,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1992,Jaguar,XJS,Base Convertible 2-Door,5.3L,73950552,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2002,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,73950602,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJS,Base Convertible 2-Door,6.0L,73950622,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,XKR,Base Coupe 2-Door,4.0L,73950652,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+1989,Jaguar,XJS,Base Convertible 2-Door,5.3L,73950682,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2003,Jaguar,XKR,Base Coupe 2-Door,4.2L,73951002,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,XK8,Base Coupe 2-Door,4.0L,73951042,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1999,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,73951052,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1991,Jaguar,XJS,Classic Collection Convertible 2-Door,5.3L,73951162,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1989,Jaguar,XJS,Collection Rouge Coupe 2-Door,5.3L,73956345,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1987,Jaguar,XJS,C Convertible 2-Door,5.3L,73956355,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,XJ8,Base Sedan 4-Door,4.0L,73956545,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1990,Jaguar,XJS,Base Convertible 2-Door,5.3L,73956575,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,S-Type,Base Sedan 4-Door,4.0L,73958366,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Jaguar,S-Type,Base Sedan 4-Door,3.0L,73958596,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1990,Jaguar,XJS,Base Coupe 2-Door,5.3L,73958736,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,XKR,Base Convertible 2-Door,4.0L,73958766,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+1994,Jaguar,XJ12,Base Sedan 4-Door,6.0L,73958796,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1996,Jaguar,XJ12,Base Sedan 4-Door,6.0L,73958806,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1992,Jaguar,XJS,Base Coupe 2-Door,5.3L,73958836,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2002,Jaguar,XK8,Base Convertible 2-Door,4.0L,73958856,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1988,Jaguar,XJS,C Convertible 2-Door,5.3L,73958866,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1997,Jaguar,XK8,Base Coupe 2-Door,4.0L,73958906,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1987,Jaguar,XJS,Base Convertible 2-Door,5.3L,73959016,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2000,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,73971509,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJ12,Base Sedan 4-Door,6.0L,73971719,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2002,Jaguar,XKR,Base Convertible 2-Door,4.0L,73971909,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2000,Jaguar,XJ8,Base Sedan 4-Door,4.0L,73972089,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJS,2+2 Coupe 2-Door,6.0L,73976963,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1998,Jaguar,XJR,Base Sedan 4-Door,4.0L,73977313,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,S-Type,Base Sedan 4-Door,4.0L,73977433,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1993,Jaguar,XJRS,Base Coupe 2-Door,6.0L,73983788,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2000,Jaguar,S-Type,Base Sedan 4-Door,4.0L,73983798,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Jaguar,S-Type,Base Sedan 4-Door,3.0L,73983878,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Jaguar,XJ8,L Sedan 4-Door,4.0L,73984028,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,Base Convertible 2-Door,6.0L,73984238,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2000,Jaguar,S-Type,Base Sedan 4-Door,3.0L,73988870,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1986,Jaguar,XJS,Base Coupe 2-Door,5.3L,73989110,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1999,Jaguar,XK8,Base Coupe 2-Door,4.0L,73989150,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2000,Jaguar,XJR,Base Sedan 4-Door,4.0L,73989170,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+1998,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,73989200,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1985,Jaguar,XJS,Base Coupe 2-Door,5.3L,73989210,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2003,Jaguar,S-Type,R Sedan 4-Door,4.2L,73989350,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+1986,Jaguar,XJS,Base Convertible 2-Door,5.3L,73989360,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,XJR,Base Sedan 4-Door,4.0L,73989500,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+1989,Jaguar,XJS,Base Coupe 2-Door,5.3L,73989530,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1995,Jaguar,XJS,Base Coupe 2-Door,6.0L,73989690,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1991,Jaguar,XJS,Classic Collection Coupe 2-Door,5.3L,74005127,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,XK8,Base Coupe 2-Door,4.0L,74005207,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1997,Jaguar,XK8,Base Convertible 2-Door,4.0L,74005317,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1987,Jaguar,XJS,Base Coupe 2-Door,5.3L,74005367,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1990,Jaguar,XJS,Collection Rouge Coupe 2-Door,5.3L,74005397,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2003,Jaguar,XKR,Base Convertible 2-Door,4.2L,74005667,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,X-Type,Base Sedan 4-Door,2.5L,74005677,2.5L 152Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Jaguar,XKR,Base Coupe 2-Door,4.0L,74005837,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XF,Supercharged Sedan 4-Door,4.2L,74019164,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,S-Type,Base Sedan 4-Door,3.0L,74021854,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Jaguar,S-Type,Base Sedan 4-Door,4.2L,74029992,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Jaguar,XKR,Base Convertible 2-Door,4.2L,74030292,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74034161,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XKR,Base Convertible 2-Door,4.2L,74034882,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XK,Base Coupe 2-Door,4.2L,74034952,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74036345,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Jaguar,XJR,Base Sedan 4-Door,4.2L,74036565,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2004,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,74036905,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,74040766,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XJR,Base Sedan 4-Door,4.2L,74042566,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2006,Jaguar,XJ8,L Sedan 4-Door,4.2L,74042656,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2008,Jaguar,XKR,Base Coupe 2-Door,4.2L,74047772,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XKR,Base Convertible 2-Door,4.2L,74050132,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XJR,Base Sedan 4-Door,4.2L,74050412,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2004,Jaguar,XKR,Base Coupe 2-Door,4.2L,74051239,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,Super V8,Base Sedan 4-Door,4.2L,74053555,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,X-Type,Base Sedan 4-Door,2.5L,74053809,2.5L 152Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,S-Type,Sport Sedan 4-Door,4.2L,74054039,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,Super V8,Base Sedan 4-Door,4.2L,74055789,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XK,Base Convertible 2-Door,4.2L,74056269,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Jaguar,S-Type,R Sedan 4-Door,4.2L,74057083,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XJ8,L Sedan 4-Door,4.2L,74057399,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2007,Jaguar,XJR,Base Sedan 4-Door,4.2L,74057689,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,Super V8,Base Sedan 4-Door,4.2L,74059643,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,XKR,Base Coupe 2-Door,4.2L,74059713,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,XK8,Base Convertible 2-Door,4.2L,74059803,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XK8,Base Coupe 2-Door,4.2L,74061223,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74061473,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XKR,Base Coupe 2-Door,4.2L,74061563,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XKR,Base Coupe 2-Door,4.2L,74062913,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,XKR,Base Convertible 2-Door,4.2L,74063063,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,Super V8,Base Sedan 4-Door,4.2L,74063153,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,XJR,Base Sedan 4-Door,4.2L,74065758,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,S-Type,R Sedan 4-Door,4.2L,74066028,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74066048,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74071529,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Jaguar,XJ8,L Sedan 4-Door,4.2L,74071680,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Jaguar,X-Type,Base Wagon 4-Door,2.5L,74071720,2.5L 152Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,Super V8,Portfolio Sedan 4-Door,4.2L,74073500,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XF,Luxury Sedan 4-Door,4.2L,74074993,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,XKR,Base Coupe 2-Door,4.2L,74077223,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,S-Type,Base Sedan 4-Door,4.2L,74078268,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2008,Jaguar,XJR,Base Sedan 4-Door,4.2L,74080598,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,XJ8,Base Sedan 4-Door,4.2L,74080808,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2008,Jaguar,S-Type,R Sedan 4-Door,4.2L,74084270,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2004,Jaguar,X-Type,Base Sedan 4-Door,3.0L,74085167,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Jaguar,XKR,Portfolio Coupe 2-Door,4.2L,74086350,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,XKR,Base Convertible 2-Door,4.2L,74086370,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,XKR,Portfolio Convertible 2-Door,4.2L,74086480,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XF,Premium Luxury Sedan 4-Door,4.2L,74086840,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Jaguar,XK8,Base Coupe 2-Door,4.2L,74087837,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Jaguar,XKR,Base Convertible 2-Door,4.2L,74088087,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2006,Jaguar,XK8,Base Convertible 2-Door,4.2L,74089587,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,XKR,Portfolio Coupe 2-Door,4.2L,74105287,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,Super V8,Base Sedan 4-Door,4.2L,74105417,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2009,Jaguar,XKR,Portfolio Convertible 2-Door,4.2L,74105517,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2010,Jaguar,XKR,Base Coupe 2-Door,5.0L,81727571,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XK,Base Coupe 2-Door,5.0L,81734093,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XFR,Base Sedan 4-Door,5.0L,81748479,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XK,Base Convertible 2-Door,5.0L,81760908,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XKR,Base Convertible 2-Door,5.0L,81784877,5.0L 5000CC V8 GAS DOHC Supercharged
+1996,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83248444,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83264984,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1989,Jaguar,XJ6,Base Sedan 4-Door,3.6L,83271294,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1990,Jaguar,Vanden Plas,Majestic Sedan 4-Door,4.0L,83272874,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1989,Jaguar,Vanden Plas,Majestic Sedan 4-Door,3.6L,83273094,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1992,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83274872,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJR,Base Sedan 4-Door,4.0L,83279495,4.0L 3980CC l6 GAS DOHC Supercharged
+1991,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83288605,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1993,Jaguar,XJS,Base Convertible 2-Door,4.0L,83289422,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1986,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,83291056,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1997,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83292891,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1989,Jaguar,Vanden Plas,Base Sedan 4-Door,3.6L,83297122,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,2+2 Coupe 2-Door,4.0L,83298356,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1990,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83299442,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1996,Jaguar,XJR,Base Sedan 4-Door,4.0L,83305082,4.0L 3980CC l6 GAS DOHC Supercharged
+1995,Jaguar,XJS,2+2 Coupe 2-Door,4.0L,83307322,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1991,Jaguar,XJ6,Sovereign Sedan 4-Door,4.0L,83307416,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1995,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83307736,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1990,Jaguar,XJ6,Sovereign Sedan 4-Door,4.0L,83309293,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1992,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83309835,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1988,Jaguar,XJ6,Base Sedan 4-Door,3.6L,83310045,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1991,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83310313,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1993,Jaguar,XJS,Base Coupe 2-Door,4.0L,83318669,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1997,Jaguar,XJR,Base Sedan 4-Door,4.0L,83320996,4.0L 3980CC l6 GAS DOHC Supercharged
+1997,Jaguar,XJ6,L Sedan 4-Door,4.0L,83324318,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJS,Base Coupe 2-Door,4.0L,83326640,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1986,Jaguar,XJ6,Base Sedan 4-Door,4.2L,83330028,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1990,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83330718,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1996,Jaguar,XJ6,Base Sedan 4-Door,4.0L,83332550,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1987,Jaguar,XJ6,Base Sedan 4-Door,4.2L,83332963,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1992,Jaguar,Vanden Plas,Majestic Sedan 4-Door,4.0L,83333473,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1985,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,83336377,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1985,Jaguar,XJ6,Base Sedan 4-Door,4.2L,83340600,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1988,Jaguar,Vanden Plas,Base Sedan 4-Door,3.6L,83341800,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,Base Convertible 2-Door,4.0L,83343357,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1992,Jaguar,XJ6,Sovereign Sedan 4-Door,4.0L,83346948,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1996,Jaguar,XJS,2+2 Convertible 2-Door,4.0L,83348080,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1994,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83351607,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1993,Jaguar,XJ6,Sovereign Sedan 4-Door,4.0L,83357340,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1987,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,83358397,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1997,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,83358480,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJS,Base Convertible 2-Door,4.0L,83363557,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2011,Jaguar,XJ,L Sedan 4-Door,5.0L,93648594,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2011,Jaguar,XJ,Base Sedan 4-Door,5.0L,93690552,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2011,Jaguar,XJ,L Supersport Sedan 4-Door,5.0L,93702409,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,93705036,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,93745507,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XJ,Supersport Sedan 4-Door,5.0L,93750518,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XK,Base Convertible 2-Door,5.0L,98923389,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2011,Jaguar,XK,Base Coupe 2-Door,5.0L,98932632,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2011,Jaguar,XKR,Base Convertible 2-Door,5.0L,98936181,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XKR,Base Coupe 2-Door,5.0L,98950016,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XFR,Base Sedan 4-Door,5.0L,109909869,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XF,Premium Sedan 4-Door,5.0L,109968618,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XJ,L Supersport Sedan 4-Door,5.0L,112475101,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XK,Base Convertible 2-Door,5.0L,112504361,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XJ,Supersport Sedan 4-Door,5.0L,112506469,5.0L 5000CC V8 GAS DOHC Supercharged
+2011,Jaguar,XF,Base Sedan 4-Door,5.0L,112506976,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XK,Base Coupe 2-Door,5.0L,112515835,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XKR,Base Coupe 2-Door,5.0L,112528620,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XFR,Base Sedan 4-Door,5.0L,112529236,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,112533337,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XF,Base Sedan 4-Door,5.0L,112542920,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,112549510,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XF,Portfolio Sedan 4-Door,5.0L,112550867,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XKR,Base Convertible 2-Door,5.0L,112561517,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XJ,Base Sedan 4-Door,5.0L,112564397,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2003,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,118190461,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Jaguar,XJS,2+2 Convertible 2-Door,6.0L,118191181,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1995,Jaguar,XJS,2+2 Convertible 2-Door,4.0L,118205814,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2002,Jaguar,XJR,Base Sedan 4-Door,4.0L,118230442,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+1994,Jaguar,XJS,Base Coupe 2-Door,6.0L,118230872,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+2003,Jaguar,XJR,Base Sedan 4-Door,4.0L,118241446,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2003,Jaguar,XJ8,Base Sedan 4-Door,4.0L,118261897,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,2+2 Convertible 2-Door,4.0L,118292413,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+1994,Jaguar,XJS,2+2 Convertible 2-Door,6.0L,118292553,6.0L 5994CC V12 GAS SOHC Naturally Aspirated
+1994,Jaguar,XJS,Base Coupe 2-Door,4.0L,118303138,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2013,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,139636311,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2013,Jaguar,XKR,Base Coupe 2-Door,5.0L,139673762,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,Supersport Sedan 4-Door,5.0L,139673812,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XKR,Base Convertible 2-Door,5.0L,139673875,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,L Supersport Sedan 4-Door,5.0L,139690439,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XFR,Base Sedan 4-Door,5.0L,139694686,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,Base Sedan 4-Door,3.0L,139734100,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2013,Jaguar,XF,3.0L AWD Sedan 4-Door,3.0L,153470582,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2010,Jaguar,XF,Luxury Sedan 4-Door,4.2L,153503540,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2014,Jaguar,F-Type,S Convertible 2-Door,3.0L,169205332,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,F-Type,Base Convertible 2-Door,3.0L,169216179,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,XKR-S,Base Convertible 2-Door,5.0L,194084981,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XKR-S,Base Coupe 2-Door,5.0L,194134359,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XKR-S,GT Convertible 2-Door,5.0L,194141282,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XKR,Base Coupe 2-Door,5.0L,194141692,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,F-Type,V8 S Convertible 2-Door,5.0L,194145866,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XK,Base Coupe 2-Door,5.0L,194146557,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2014,Jaguar,XK,Base Convertible 2-Door,5.0L,194176073,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2014,Jaguar,XKR,Base Convertible 2-Door,5.0L,194176143,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XKR-S,GT Coupe 2-Door,5.0L,194178273,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XKR-S,Base Coupe 2-Door,5.0L,197140261,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XKR,Base Coupe 2-Door,5.0L,197175735,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,F-Type,V8 S Convertible 2-Door,5.0L,197194939,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,F-Type,R Coupe 2-Door,5.0L,197199162,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XK,Base Convertible 2-Door,5.0L,197205526,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2015,Jaguar,XK,Base Coupe 2-Door,5.0L,197205616,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2015,Jaguar,XKR-S,Base Convertible 2-Door,5.0L,197205966,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,F-Type,S Convertible 2-Door,3.0L,197205986,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XKR,Base Convertible 2-Door,5.0L,197206086,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,F-Type,Base Convertible 2-Door,3.0L,197237420,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,F-Type,S Coupe 2-Door,3.0L,197237640,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,F-Type,Base Coupe 2-Door,3.0L,197237800,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XFR,Base Sedan 4-Door,5.0L,204273741,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XF,3.0L AWD Sedan 4-Door,3.0L,204274281,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XJ,Base Sedan 4-Door,3.0L,204320625,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XJ,Base Sedan 4-Door,3.0L,204321005,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XFR,Base Sedan 4-Door,5.0L,204321685,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,204338824,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XJ,Base Sedan 4-Door,3.0L,204339004,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XJR,Base Sedan 4-Door,5.0L,204339552,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XJ,Base Sedan 4-Door,3.0L,204339622,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,XFR-S,Base Sedan 4-Door,5.0L,204339942,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XJR,Base Sedan 4-Door,5.0L,204340092,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XF,Portfolio Sedan 4-Door,3.0L,204340722,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,XF,3.0L AWD Sedan 4-Door,3.0L,204342709,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XJR,L Sedan 4-Door,5.0L,204342719,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,204343129,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,204346716,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2015,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,204346776,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,204347046,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XFR-S,Base Sedan 4-Door,5.0L,204350157,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,204350687,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XJR,L Sedan 4-Door,5.0L,204375850,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,204420508,5.0L 5000CC V8 GAS DOHC Supercharged
+2014,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,204421158,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,F-Type,S Coupe 2-Door,3.0L,215404896,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,F-Type,S Convertible 2-Door,3.0L,215446610,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XF,S Sedan 4-Door,3.0L,217124411,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,217140821,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,217189592,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2016,Jaguar,XF,Prestige Sedan 4-Door,3.0L,217198174,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJR,Base Sedan 4-Door,5.0L,217200135,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,XJR,L Sedan 4-Door,5.0L,217206569,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,XF,Premium Sedan 4-Door,3.0L,217217597,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XF,R-Sport Sedan 4-Door,3.0L,217270628,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2006,Jaguar,X-Type,Sport Sedan 4-Door,3.0L,221883481,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Jaguar,S-Type,Base Sedan 4-Door,3.0L,221883671,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Jaguar,X-Type,Base Wagon 4-Door,3.0L,221885621,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,X-Type,Base Sedan 4-Door,3.0L,221885661,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,X-Type,Base Wagon 4-Door,3.0L,221885721,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Jaguar,X-Type,Base Wagon 4-Door,3.0L,221886171,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Jaguar,X-Type,Base Sedan 4-Door,3.0L,221998494,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,X-Type,Base Sedan 4-Door,3.0L,222002560,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Jaguar,S-Type,Base Sedan 4-Door,3.0L,222004525,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Jaguar,X-Type,Base Sedan 4-Door,3.0L,222007579,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Jaguar,X-Type,Base Sedan 4-Door,3.0L,222020097,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,S-Type,Base Sedan 4-Door,3.0L,222021637,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Jaguar,S-Type,Base Sedan 4-Door,3.0L,222021737,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,X-Type,Base Wagon 4-Door,3.0L,222083658,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Jaguar,X-Type,Base Sedan 4-Door,3.0L,222084268,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,S-Type,Sport Sedan 4-Door,3.0L,222117273,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,S-Type,Base Sedan 4-Door,3.0L,222120143,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,228070091,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,228070721,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Pace,Base Sport Utility 4-Door,3.0L,228154352,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,R-Sport Sedan 4-Door,3.0L,228154372,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Pace,Prestige Sport Utility 4-Door,3.0L,228154502,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,228177245,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XE,Premium Sedan 4-Door,2.0L,228177335,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Pace,Premium Sport Utility 4-Door,3.0L,228185414,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,Prestige Sedan 4-Door,2.0L,228198650,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Jaguar,XE,Premium Sedan 4-Door,3.0L,228202010,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Pace,First Edition Sport Utility 4-Door,3.0L,228204895,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,R-Sport Sedan 4-Door,2.0L,228211404,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Type,Base Convertible 2-Door,3.0L,228211604,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,S Convertible 2-Door,3.0L,228211849,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,3.0L,228211924,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,Premium Sedan 4-Door,2.0L,228212229,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Jaguar,XE,Prestige Sedan 4-Door,3.0L,228212419,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,Base Coupe 2-Door,3.0L,228212599,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,S Coupe 2-Door,3.0L,228220707,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,Prestige Sedan 4-Door,2.0L,228220977,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,228298443,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,228314748,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XF,Base Sedan 4-Door,2.0L,232570511,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XF,S Sedan 4-Door,3.0L,232649862,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,232650392,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XF,R-Sport Sedan 4-Door,2.0L,232651872,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,232654052,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XF,Premium Sedan 4-Door,3.0L,232682792,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XF,Prestige Sedan 4-Door,2.0L,232691890,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XF,R-Sport Sedan 4-Door,3.0L,232713034,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XF,Base Sedan 4-Door,3.0L,232714579,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XF,Premium Sedan 4-Door,2.0L,232714596,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,XJR,Base Sedan 4-Door,5.0L,232714876,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,F-Type,Base Coupe 2-Door,3.0L,232727227,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,F-Type,Base Convertible 2-Door,3.0L,232738000,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XJR,L Sedan 4-Door,5.0L,232743914,5.0L 5000CC V8 GAS DOHC Supercharged
+2017,Jaguar,XF,Prestige Sedan 4-Door,3.0L,232758536,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,R-Sport Sedan 4-Door,2.0L,238977591,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,Prestige Sedan 4-Door,3.0L,238979201,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,S Sedan 4-Door,3.0L,238981271,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,238982856,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Pace,Portfolio Sport Utility 4-Door,2.0L,238987911,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Premium Sedan 4-Door,2.0L,238993161,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Type,Base Convertible 2-Door,3.0L,238994721,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XE,Premium Sedan 4-Door,3.0L,238996081,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Type,SVR Coupe 2-Door,5.0L,238997241,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,XE,Prestige Sedan 4-Door,2.0L,238997981,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,239045472,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,239046122,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,239061283,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,239062383,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,239067508,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Type,Base Coupe 2-Door,2.0L,239091880,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Prestige Sedan 4-Door,2.0L,239099310,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XE,Prestige Sedan 4-Door,3.0L,239102720,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Premium Sedan 4-Door,2.0L,239104734,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,239106644,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,R-Sport Sedan 4-Door,2.0L,239106654,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XE,S Sedan 4-Door,3.0L,239111820,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,E-Pace,Base Sport Utility 4-Door,2.0L,239113174,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Premium Sedan 4-Door,2.0L,239114704,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,E-Pace,S Sport Utility 4-Door,2.0L,239116434,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,R Convertible 2-Door,5.0L,239116604,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,E-Pace,R-Dynamic SE Sport Utility 4-Door,2.0L,239120226,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,Base Coupe 2-Door,3.0L,239125836,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Premium Sedan 4-Door,3.0L,239126064,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,239132049,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,R-Sport Sedan 4-Door,2.0L,239132275,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XE,Portfolio Sedan 4-Door,3.0L,239132886,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XE,R-Sport Sedan 4-Door,3.0L,239136736,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Premium Sedan 4-Door,2.0L,239143246,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,R-Sport Sedan 4-Door,2.0L,239144029,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,R-Sport Sedan 4-Door,3.0L,239145805,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Prestige Sedan 4-Door,2.0L,239146917,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,239154877,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,R Coupe 2-Door,5.0L,239202488,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,E-Pace,First Edition Sport Utility 4-Door,2.0L,239216653,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,Prestige Sedan 4-Door,2.0L,239221013,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,E-Pace,R-Dynamic HSE Sport Utility 4-Door,2.0L,239224003,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,SVR Convertible 2-Door,5.0L,239224558,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,241777431,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2007,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,241940316,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2018,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,241943816,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,241951155,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2006,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,241961597,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,Vanden Plas,Base Sedan 4-Door,4.2L,242021793,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2018,Jaguar,XJR575,Base Sedan 4-Door,5.0L,242025463,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2016,Jaguar,F-Type,R Coupe 2-Door,5.0L,242530271,5.0L 5000CC V8 GAS DOHC Supercharged
+2017,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,242530731,5.0L 5000CC V8 GAS DOHC Supercharged
+2018,Jaguar,F-Type,R-Dynamic Convertible 2-Door,3.0L,242530951,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,R Coupe 2-Door,5.0L,242603142,5.0L 5000CC V8 GAS DOHC Supercharged
+2018,Jaguar,E-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,242603302,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,242604042,5.0L 5000CC V8 GAS DOHC Supercharged
+2017,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,242604152,5.0L 5000CC V8 GAS DOHC Supercharged
+2017,Jaguar,F-Type,SVR Convertible 2-Door,5.0L,242646480,5.0L 5000CC V8 GAS DOHC Supercharged
+2017,Jaguar,F-Type,R Convertible 2-Door,5.0L,242647080,5.0L 5000CC V8 GAS DOHC Supercharged
+2018,Jaguar,F-Type,R-Dynamic Coupe 2-Door,3.0L,242659944,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,SVR Coupe 2-Door,5.0L,242679319,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,F-Type,R Convertible 2-Door,5.0L,242682645,5.0L 5000CC V8 GAS DOHC Supercharged
+2016,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,242693027,5.0L 5000CC V8 GAS DOHC Supercharged
+2019,Jaguar,F-Type,Base Coupe 2-Door,3.0L,245714281,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,I-Pace,S Sport Utility 4-Door,--,245788992,BATTERY EV (EV/BEV)
+2019,Jaguar,F-Type,Base Convertible 2-Door,3.0L,245789152,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,F-Type,R Coupe 2-Door,5.0L,245789612,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,I-Pace,HSE Sport Utility 4-Door,--,245826720,BATTERY EV (EV/BEV)
+2019,Jaguar,I-Pace,First Edition Sport Utility 4-Door,--,245826780,BATTERY EV (EV/BEV)
+2019,Jaguar,F-Type,Base Convertible 2-Door,2.0L,245827150,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,I-Pace,SE Sport Utility 4-Door,--,245844234,BATTERY EV (EV/BEV)
+2019,Jaguar,F-Type,R-Dynamic Coupe 2-Door,3.0L,245858976,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,F-Type,SVR Convertible 2-Door,5.0L,245859716,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,F-Type,SVR Coupe 2-Door,5.0L,245862609,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,F-Type,Base Coupe 2-Door,2.0L,245862749,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,F-Type,R-Dynamic Convertible 2-Door,3.0L,245941588,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,F-Type,R Convertible 2-Door,5.0L,245942218,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,F-Pace,Portfolio Sport Utility 4-Door,2.0L,251646211,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,300 Sport Sedan 4-Door,2.0L,251647961,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,Prestige Sedan 4-Door,2.0L,251648611,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,Landmark Edition Sedan 4-Door,2.0L,251715152,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XJR575,Base Sedan 4-Door,5.0L,251715892,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XE,R-Sport Sedan 4-Door,2.0L,251717482,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,251717722,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,S Sedan 4-Door,3.0L,251718252,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XE,Portfolio Sedan 4-Door,2.0L,251718302,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,400 Sport Convertible 2-Door,3.0L,251718572,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XF,S Sedan 4-Door,3.0L,251718752,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XE,Prestige Sedan 4-Door,2.0L,251754130,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,E-Pace,S Sport Utility 4-Door,2.0L,251754770,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,251755850,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,E-Pace,R-Dynamic SE Sport Utility 4-Door,2.0L,251777694,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,R-Sport Sedan 4-Door,2.0L,251779444,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,Premium Sedan 4-Door,2.0L,251779504,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XE,Base Sedan 4-Door,2.0L,251779754,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,400 Sport Coupe 2-Door,3.0L,251779824,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XJ,XJ50 Sedan 4-Door,3.0L,251781464,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XE,Base Sedan 4-Door,2.0L,251781594,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XE,Premium Sedan 4-Door,2.0L,251782906,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,251786716,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XF,Portfolio Sedan 4-Door,2.0L,251787026,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,251802815,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XE,300 Sport Sedan 4-Door,2.0L,251803385,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,Landmark Edition Sedan 4-Door,2.0L,251804885,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,E-Pace,R-Dynamic HSE Sport Utility 4-Door,2.0L,251805765,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,251813337,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,251814807,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XE,SV Project 8 Sedan 4-Door,5.0L,251862775,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2020,Jaguar,F-Type,R-Dynamic Coupe 2-Door,3.0L,251867751,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,251872953,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,251873423,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,251873688,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XF,Portfolio Sedan 4-Door,2.0L,251873733,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,Premium Sedan 4-Door,2.0L,251874188,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,Prestige Sedan 4-Door,2.0L,251875333,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,251875448,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,E-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,251876148,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Type,Base Coupe 2-Door,2.0L,251931632,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Type,Checkered Flag Coupe 2-Door,3.0L,251935912,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,F-Type,R-Dynamic Convertible 2-Door,3.0L,251939702,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+1985,Jaguar,XJ12,Base Sedan 4-Door,5.3L,153495100,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,F-Type,Checkered Flag Convertible 2-Door,2.0L,251969690,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1985,Jaguar,XJS,Base Coupe 2-Door,5.3L,153516160,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,F-Type,Base Convertible 2-Door,3.0L,251976050,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+1985,Jaguar,XJ6,Sovereign Sedan 4-Door,4.2L,23047179045,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+2020,Jaguar,F-Type,Base Coupe 2-Door,3.0L,252004756,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,F-Type,R Convertible 2-Door,5.0L,252006809,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+1986,Jaguar,XJS,C Sedan 4-Door,5.3L,153468845,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,XE,S Sedan 4-Door,2.0L,252007459,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Type,Checkered Flag Coupe 2-Door,2.0L,252008536,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1986,Jaguar,XJS,Base Convertible 2-Door,5.3L,153485836,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,F-Type,SVR Convertible 2-Door,5.0L,252009609,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+1986,Jaguar,XJ12,Base Sedan 4-Door,5.3L,153516770,5.3L 5343CC V12 GAS Naturally Aspirated
+1986,Jaguar,XJS,Base Coupe 2-Door,5.3L,153524163,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,F-Type,Checkered Flag Convertible 2-Door,3.0L,252025265,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+1986,Jaguar,XJ6,Sovereign Sedan 4-Door,4.2L,4047161891,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+1987,Jaguar,XJS,C Convertible 2-Door,5.3L,153462056,5.3L 5343CC V12 GAS Naturally Aspirated
+1987,Jaguar,XJS,Base Coupe 2-Door,5.3L,153471735,5.3L 5343CC V12 GAS Naturally Aspirated
+1987,Jaguar,XJ12,Base Sedan 4-Door,5.3L,153499500,5.3L 5343CC V12 GAS Naturally Aspirated
+1987,Jaguar,XJS,Base Convertible 2-Door,5.3L,153521188,5.3L 5343CC V12 GAS Naturally Aspirated
+2020,Jaguar,I-Pace,SE Sport Utility 4-Door,--,252074472,BATTERY EV (EV/BEV)
+2020,Jaguar,F-Type,SVR Coupe 2-Door,5.0L,252091488,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2020,Jaguar,F-Type,R Coupe 2-Door,5.0L,252092138,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2020,Jaguar,F-Type,Base Convertible 2-Door,2.0L,252096608,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,252128441,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,I-Pace,S Sport Utility 4-Door,--,252171077,BATTERY EV (EV/BEV)
+2020,Jaguar,F-Pace,Prestige Sport Utility 4-Door,2.0L,252195982,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,S Sedan 4-Door,3.0L,252196606,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,F-Pace,Checkered Flag Sport Utility 4-Door,2.0L,252196902,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1987,Jaguar,XJ6,Sovereign Sedan 4-Door,3.6L,6036892988,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+2020,Jaguar,I-Pace,HSE Sport Utility 4-Door,--,252231583,BATTERY EV (EV/BEV)
+1987,Jaguar,XJ6,Sovereign Sedan 4-Door,4.2L,10047172367,4.2L 4235CC l6 GAS DOHC Naturally Aspirated
+2020,Jaguar,XF,Checkered Flag Sedan 4-Door,2.0L,252254924,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,2.0L,252256554,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1987,Jaguar,XJ6,Base Sedan 4-Door,3.6L,19036882794,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+2020,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,252271189,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2020,Jaguar,F-Pace,300 Sport Sport Utility 4-Door,2.0L,252283535,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,Prestige Sedan 4-Door,2.0L,252284038,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Pace,Portfolio Sport Utility 4-Door,2.0L,252293117,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,252352518,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1988,Jaguar,XJS,Base Coupe 2-Door,5.3L,153462482,5.3L 5343CC V12 GAS Naturally Aspirated
+1988,Jaguar,XJS,C Convertible 2-Door,5.3L,153463985,5.3L 5343CC V12 GAS Naturally Aspirated
+1988,Jaguar,XJS,Base Convertible 2-Door,5.3L,153495327,5.3L 5343CC V12 GAS Naturally Aspirated
+2004,Jaguar,XK8,Base Convertible 2-Door,4.2L,2310890117,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+1999,Jaguar,XJ8,L Sedan 4-Door,4.0L,2317183825,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+1988,Jaguar,XJ6,Sovereign Sedan 4-Door,3.6L,2307938707,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+2022,Jaguar,F-Type,R-Dynamic Coupe 2-Door,5.0L,2319845424,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+1988,Jaguar,XJ12,Vanden Plas Sedan 4-Door,5.3L,22043977610,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1989,Jaguar,XJ12,Vanden Plas Sedan 4-Door,5.3L,5043984331,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1989,Jaguar,XJ6,Sovereign Sedan 4-Door,3.6L,13036892425,3.6L 3590CC l6 GAS DOHC Naturally Aspirated
+1990,Jaguar,XJ6,Executive Sedan 4-Door,4.0L,153503687,4.0L 3980CC l6 GAS Naturally Aspirated
+2007,Jaguar,S-Type,R Sedan 4-Door,4.2L,3039847751,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2024,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,3060483822,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2024,Jaguar,I-Pace,R-Dynamic HSE Sport Utility 4-Door,--,3070724105,BATTERY EV (EV/BEV)
+1990,Jaguar,XJ12,Vanden Plas Sedan 4-Door,5.3L,11043969905,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1991,Jaguar,XJ6,Executive Sedan 4-Door,4.0L,153446874,4.0L 3980CC l6 GAS Naturally Aspirated
+2020,Jaguar,E-Pace,Checkered Flag Sport Utility 4-Door,2.0L,4037203655,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2003,Jaguar,XK8,Base Convertible 2-Door,4.2L,4039838468,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2021,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,4042665436,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2013,Jaguar,XKR-S,Base Convertible 2-Door,5.0L,4045480682,5.0L 5000CC V8 GAS DOHC Supercharged
+2022,Jaguar,F-Type,R Coupe 2-Door,5.0L,4048795948,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2023,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,4055714035,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,4055714050,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1991,Jaguar,XJS,Base Coupe 2-Door,5.3L,16043973142,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1991,Jaguar,XJ12,Vanden Plas Sedan 4-Door,5.3L,19043981225,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1991,Jaguar,XJS,Base Convertible 2-Door,5.3L,22043977653,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+1992,Jaguar,XJ6,Executive Sedan 4-Door,4.0L,153446434,4.0L 3980CC l6 GAS Naturally Aspirated
+1992,Jaguar,XJS,Base Convertible 2-Door,4.0L,153466642,4.0L 3980CC l6 GAS Naturally Aspirated
+1992,Jaguar,XJ6,Base Sedan 4-Door,4.0L,153510700,4.0L 3980CC l6 GAS Naturally Aspirated
+1992,Jaguar,XJS,Base Coupe 2-Door,4.0L,153523398,4.0L 3980CC l6 GAS Naturally Aspirated
+2025,Jaguar,I-Pace,R-Dynamic HSE Sport Utility 4-Door,--,4070724705,BATTERY EV (EV/BEV)
+2000,Jaguar,Vanden Plas,SC Sedan 4-Door,4.0L,73948211,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2026,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,4078738559,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1992,Jaguar,XJ12,Vanden Plas Sedan 4-Door,5.3L,19043982080,5.3L 5343CC V12 GAS SOHC Naturally Aspirated
+2001,Jaguar,Vanden Plas,SC Sedan 4-Door,4.0L,73958786,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2001,Jaguar,XKR,Silverstone Convertible 2-Door,4.0L,118227835,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2001,Jaguar,XKR,Silverstone Coupe 2-Door,4.0L,118271700,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,6051800356,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2002,Jaguar,XKR,100 Coupe 2-Door,4.0L,73958466,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,XKR,100 Convertible 2-Door,4.0L,73971649,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,XJR,100 Sedan 4-Door,4.0L,118231252,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,Vanden Plas,SC Sedan 4-Door,4.0L,118261817,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2002,Jaguar,XJ8,Sport Sedan 4-Door,4.0L,118262057,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2021,Jaguar,F-Type,R Convertible 2-Door,5.0L,7039847394,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2004,Jaguar,XK8,Base Coupe 2-Door,4.2L,7039847434,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,XK,Base Coupe 2-Door,4.2L,7039847467,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2021,Jaguar,F-Type,First Edition Coupe 2-Door,3.0L,7039847562,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2021,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,7043421552,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,7048802570,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jaguar,F-Type,Base Convertible 2-Door,5.0L,7059373699,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2024,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,7060489437,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,7060489513,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2003,Jaguar,Vanden Plas,SC Sedan 4-Door,4.0L,118230792,4.0L 3996CC 244Cu. In. V8 GAS DOHC Supercharged
+2003,Jaguar,XJ8,Sport Sedan 4-Door,4.0L,118292473,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2013,Jaguar,XK,Base Coupe 2-Door,5.0L,8045490899,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2022,Jaguar,F-Type,Base Coupe 2-Door,5.0L,8048805213,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2023,Jaguar,F-Type,Base Convertible 2-Door,5.0L,8053886812,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2024,Jaguar,E-Pace,R-Dynamic SE Sport Utility 4-Door,2.0L,8060483383,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,E-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,9036072229,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,E-Pace,R-Dynamic SE Sport Utility 4-Door,2.0L,9036072313,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,F-Type,R-Dynamic Convertible 2-Door,3.0L,9039840395,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2022,Jaguar,F-Pace,S Sport Utility 4-Door,3.0L,9051266084,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2023,Jaguar,F-Type,Base Coupe 2-Door,5.0L,9053880496,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2022,Jaguar,E-Pace,300 Sport Sport Utility 4-Door,2.0L,9055718471,2.0L 1997CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2021,Jaguar,F-Type,First Edition Convertible 2-Door,3.0L,10039846763,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2006,Jaguar,S-Type,R Sedan 4-Door,4.2L,10039846796,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2013,Jaguar,XKR-S,Base Coupe 2-Door,5.0L,10045489959,5.0L 5000CC V8 GAS DOHC Supercharged
+1998,Jaguar,XK8,Base Coupe 2-Door,4.0L,10046140556,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2024,Jaguar,F-Type,Base Coupe 2-Door,5.0L,10059371567,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2005,Jaguar,X-Type,Vanden Plas Sedan 4-Door,3.0L,221884771,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Jaguar,X-Type,Premium Sedan 4-Door,3.0L,222007999,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,XKR,Victory Edition Coupe 2-Door,4.2L,74005754,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2006,Jaguar,XKR,Victory Edition Convertible 2-Door,4.2L,74034692,4.2L 4196CC 256Cu. In. V8 GAS DOHC Supercharged
+2006,Jaguar,XK8,Victory Edition Coupe 2-Door,4.2L,74034852,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Jaguar,XK8,Victory Edition Convertible 2-Door,4.2L,74042696,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+1998,Jaguar,XJ8,L Sedan 4-Door,4.0L,11046130013,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2023,Jaguar,F-Type,R Convertible 2-Door,5.0L,11053877338,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2023,Jaguar,XF,R-Dynamic SE Sedan 4-Door,2.0L,11055712832,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jaguar,F-Type,R Convertible 2-Door,5.0L,11059353057,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2006,Jaguar,X-Type,VDP Edition Sedan 4-Door,3.0L,222005539,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Jaguar,S-Type,VDP Edition Sedan 4-Door,4.2L,5039852817,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Jaguar,XK8,Base Coupe 2-Door,4.2L,12039829993,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+1998,Jaguar,XK8,Base Convertible 2-Door,4.0L,12046129497,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2022,Jaguar,I-Pace,HSE Sport Utility 4-Door,--,12048790407,BATTERY EV (EV/BEV)
+2023,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,12055713168,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2021,Jaguar,F-Type,R-Dynamic Coupe 2-Door,3.0L,13039844554,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2013,Jaguar,XK,Base Convertible 2-Door,5.0L,13045487450,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2013,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,13045487618,5.0L 5000CC V8 GAS DOHC Supercharged
+2023,Jaguar,F-Type,R-Dynamic Convertible 2-Door,5.0L,13053882041,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2008,Jaguar,XJ8,L Sedan 4-Door,4.2L,74074453,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XF,Premium Luxury Sedan 4-Door,4.2L,153448984,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2009,Jaguar,XJ8,L Sedan 4-Door,4.2L,74056645,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2022,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,14060473017,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,XF,R-Dynamic SE Sedan 4-Door,2.0L,15042675424,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2010,Jaguar,XF,Premium Sedan 4-Door,5.0L,81687924,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,81709792,5.0L 5000CC V8 GAS DOHC Supercharged
+2012,Jaguar,XKR-S,Base Coupe 2-Door,5.0L,15045489298,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XF,Base Sedan 4-Door,4.2L,81765977,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,209758991,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,209833129,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XJ,L Supersport Sedan 4-Door,5.0L,209834754,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XJ,Base Sedan 4-Door,5.0L,209837727,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2010,Jaguar,XJ,Supersport Sedan 4-Door,5.0L,209839017,5.0L 5000CC V8 GAS DOHC Supercharged
+2010,Jaguar,XJ,L Sedan 4-Door,5.0L,209863070,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2011,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,109907021,5.0L 5000CC V8 GAS DOHC Supercharged
+2021,Jaguar,F-Type,R Coupe 2-Door,5.0L,16039840515,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2007,Jaguar,S-Type,Base Sedan 4-Door,4.2L,16039840686,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2022,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,16051263319,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2023,Jaguar,F-Type,R Coupe 2-Door,5.0L,16053876547,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,E-Pace,300 Sport Sport Utility 4-Door,2.0L,16055714452,2.0L 1997CC 122Cu. In. l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2012,Jaguar,XJ,L Portfolio Sedan 4-Door,5.0L,112509195,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2012,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,112558290,5.0L 5000CC V8 GAS DOHC Supercharged
+2021,Jaguar,F-Type,First Edition Convertible 2-Door,2.0L,17039842547,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,17045485736,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,139673374,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2013,Jaguar,XJ,L Ultimate Sedan 4-Door,5.0L,139690079,5.0L 5000CC V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,Base Sedan 4-Door,3.0L,139733670,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2013,Jaguar,XF,Base Sedan 4-Door,2.0L,153426471,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Jaguar,XF,3.0L Sedan 4-Door,3.0L,153460645,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2006,Jaguar,S-Type,Base Sedan 4-Door,4.2L,18039845164,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2022,Jaguar,F-Type,R Convertible 2-Door,5.0L,18048802076,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2013,Jaguar,XJ,L Portfolio Sedan 4-Door,5.0L,16045481681,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2013,Jaguar,XJ,L Portfolio Sedan 4-Door,5.0L,24045480516,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2015,Jaguar,XF,2.0T Luxury Sedan 4-Door,2.0L,208424861,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Jaguar,XF,3.0L AWD Sedan 4-Door,3.0L,208425681,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2015,Jaguar,XF,3.0L AWD Luxury Sedan 4-Door,3.0L,208492102,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XF,Base Sedan 4-Door,2.0L,178312951,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Jaguar,XF,3.0L AWD Sport Sedan 4-Door,3.0L,208497324,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XF,2.0T Sedan 4-Door,2.0L,208498134,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Jaguar,XF,3.0L AWD Luxury Sedan 4-Door,3.0L,208501449,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,XK,Touring Coupe 2-Door,5.0L,194147657,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2014,Jaguar,XK,Touring Convertible 2-Door,5.0L,194177453,5.0L 5000CC V8 GAS DOHC Naturally Aspirated
+2014,Jaguar,XF,3.0L Sedan 4-Door,3.0L,204272871,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2014,Jaguar,XF,3.0L Sedan 4-Door,3.0L,204273891,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2014,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,204349617,5.0L 5000CC V8 GAS DOHC Supercharged
+2015,Jaguar,XF,3.0L AWD Sedan 4-Door,3.0L,208536573,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XF,3.0L AWD Sport Sedan 4-Door,3.0L,208537963,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+1994,Jaguar,XJ6,Base Sedan 4-Door,4.0L,19046141135,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2024,Jaguar,XF,R-Dynamic SE Sedan 4-Door,2.0L,19060485388,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Jaguar,XF,Sport Sedan 4-Door,3.0L,204274661,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XF,Supercharged Sedan 4-Door,5.0L,204340792,5.0L 5000CC V8 GAS DOHC Supercharged
+2025,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,19068289240,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2015,Jaguar,XF,Premium Sedan 4-Door,2.0L,204342019,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Jaguar,XF,Sport Sedan 4-Door,3.0L,204375390,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2015,Jaguar,XF,Portfolio Sedan 4-Door,3.0L,204419928,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,Base Sedan 4-Door,3.0L,218533217,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,Base Sedan 4-Door,3.0L,218537327,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+1993,Jaguar,Vanden Plas,Base Sedan 4-Door,4.0L,20046138249,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2016,Jaguar,XF,Premium Sedan 4-Door,3.0L,217139821,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2022,Jaguar,F-Pace,S Sport Utility 4-Door,2.0L,20051272001,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,217194444,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2016,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,217196394,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2016,Jaguar,XF,Prestige Sedan 4-Door,3.0L,217222110,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,217226630,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XF,R-Sport Sedan 4-Door,3.0L,217285058,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,217336543,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2016,Jaguar,F-Type,Project 7 Convertible 2-Door,5.0L,242692507,5.0L 5000CC V8 GAS DOHC Supercharged
+2026,Jaguar,F-Pace,SVR 575 Edition Sport Utility 4-Door,5.0L,20078739991,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2017,Jaguar,XE,Base Sedan 4-Door,2.0L,228189446,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Jaguar,XE,Base Sedan 4-Door,2.0L,228211859,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Type,Premium Convertible 2-Door,3.0L,228215876,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,Base Sedan 4-Door,2.0L,228220266,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Jaguar,F-Type,Premium Coupe 2-Door,3.0L,228271533,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,Base Sedan 4-Door,2.0L,228298953,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2017,Jaguar,F-Type,British Design Edition Convertible 2-Door,3.0L,229123726,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,British Design Edition Convertible 2-Door,3.0L,229215794,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,British Design Edition Coupe 2-Door,3.0L,229223178,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,F-Type,British Design Edition Coupe 2-Door,3.0L,229223977,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2012,Jaguar,XKR-S,Base Convertible 2-Door,5.0L,21045488627,5.0L 5000CC V8 GAS DOHC Supercharged
+2023,Jaguar,I-Pace,HSE Sport Utility 4-Door,--,21053889995,BATTERY EV (EV/BEV)
+2023,Jaguar,F-Type,R-Dynamic Coupe 2-Door,5.0L,21053890001,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,XJ,Portfolio Sedan 4-Door,3.0L,241927945,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,First Edition Sedan 4-Door,3.0L,12084536861,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2017,Jaguar,XE,First Edition Sedan 4-Door,3.0L,23084556269,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Pace,Prestige Sport Utility 4-Door,3.0L,238970894,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Pace,Premium Sport Utility 4-Door,3.0L,238974794,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Base Sedan 4-Door,2.0L,238977571,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Base Sedan 4-Door,2.0L,238999071,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XF,Base Sedan 4-Door,2.0L,239066032,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,F-Pace,R-Sport Sport Utility 4-Door,3.0L,239071988,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Type,Base Convertible 2-Door,2.0L,239132779,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,Base Sedan 4-Door,2.0L,239140485,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,F-Type,Base Convertible 2-Door,2.0L,239146387,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Base Sedan 4-Door,2.0L,239150737,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Base Sedan 4-Door,2.0L,239198193,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Base Sedan 4-Door,2.0L,239201448,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XF,Base Sedan 4-Door,2.0L,239203298,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Jaguar,XF,Portfolio Sedan 4-Door,3.0L,239206783,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,F-Type,Base Coupe 2-Door,2.0L,239213258,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,241800451,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,241801131,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2018,Jaguar,XF,Portfolio Sedan 4-Door,3.0L,241801141,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,241930264,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,241931744,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2021,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,22045485132,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+1993,Jaguar,XJ6,Base Sedan 4-Door,4.0L,22046136986,4.0L 3980CC l6 GAS DOHC Naturally Aspirated
+2018,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,242021868,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2018,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,242025348,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,242025908,3.0L 2995CC 183Cu. In. V6 FLEX DOHC Supercharged
+2018,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,242026818,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2018,Jaguar,XF,Sportbrake First Edition Wagon 4-Door,3.0L,242660904,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XF,Sportbrake S Wagon 4-Door,3.0L,242682425,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2018,Jaguar,XE,Portfolio Sedan 4-Door,2.0L,251717522,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XF,Portfolio Sedan 4-Door,2.0L,251783276,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Jaguar,XE,Portfolio Sedan 4-Door,2.0L,251876593,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,R-Sport Sedan 4-Door,2.0L,251715502,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,Portfolio Sedan 4-Door,3.0L,251814467,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XF,R-Sport Sedan 4-Door,2.0L,251875463,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XE,Prestige Sedan 4-Door,2.0L,251644111,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,F-Pace,Premium Sport Utility 4-Door,2.0L,251644501,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XF,Prestige Sedan 4-Door,2.0L,251647271,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XE,Prestige Sedan 4-Door,2.0L,251648091,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,251715242,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,251718862,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XF,Premium Sedan 4-Door,2.0L,251753750,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,F-Pace,S Sport Utility 4-Door,2.0L,23042681320,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Jaguar,XFR-S,Base Sedan 4-Door,5.0L,23045496427,5.0L 5000CC V8 GAS DOHC Supercharged
+2019,Jaguar,E-Pace,Base Sport Utility 4-Door,2.0L,251779364,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,Supercharged Sedan 4-Door,5.0L,251779624,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XJ,XJ50 Sedan 4-Door,5.0L,251783006,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XJ,XJ50 Sedan 4-Door,5.0L,251783096,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XJ,R-Sport Sedan 4-Door,3.0L,251783256,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2022,Jaguar,XF,R-Dynamic SE Sedan 4-Door,2.0L,23052200032,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XJ,XJ50 Sedan 4-Door,3.0L,251802175,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2019,Jaguar,XF,Premium Sedan 4-Door,2.0L,251805355,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XJ,L Portfolio Sedan 4-Door,3.0L,251812267,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2023,Jaguar,F-Pace,S Sport Utility 4-Door,2.0L,23055730196,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XE,Prestige Sedan 4-Door,2.0L,251814437,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jaguar,F-Type,R-Dynamic Coupe 2-Door,5.0L,23059373625,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2019,Jaguar,XF,Premium Sedan 4-Door,2.0L,251874543,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2020,Jaguar,XE,SE Sedan 4-Door,2.0L,252354823,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XE,R-Dynamic SE Sedan 4-Door,2.0L,253596080,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,Prestige Sedan 4-Door,2.0L,253714318,2.0L 1999CC 122Cu. In. l4 DIESEL DOHC Turbocharged
+2019,Jaguar,XF,Sportbrake Prestige Wagon 4-Door,2.0L,252166280,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Jaguar,XF,Sportbrake S Wagon 4-Door,3.0L,252188304,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,XE,S Sedan 4-Door,2.0L,252019265,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XE,R-Dynamic S Sedan 4-Door,2.0L,252093668,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,Sportbrake S Wagon 4-Door,3.0L,252127522,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2020,Jaguar,XF,Prestige Sedan 4-Door,2.0L,252166990,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,Premium Sedan 4-Door,2.0L,252188294,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,XF,Premium Sedan 4-Door,2.0L,252203229,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,252256144,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,E-Pace,SE Sport Utility 4-Door,2.0L,24036074512,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,E-Pace,Base Sport Utility 4-Door,2.0L,4036073022,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2004,Jaguar,X-Type,Base Sedan 4-Door,2.5L,24043972244,2.5L 152Cu. In. V6 GAS DOHC Naturally Aspirated
+2020,Jaguar,XF,Sportbrake Prestige Wagon 4-Door,2.0L,12041073840,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,F-Type,First Edition Convertible 2-Door,3.0L,3039847628,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2025,Jaguar,F-Pace,SVR 575 Edition Sport Utility 4-Door,5.0L,24068281094,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,I-Pace,HSE Sport Utility 4-Door,--,9048795839,BATTERY EV (EV/BEV)
+2021,Jaguar,XF,SE Sedan 4-Door,2.0L,6042683702,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,F-Type,P300 Coupe 2-Door,--,10038316750,--
+2021,Jaguar,F-Type,First Edition Coupe 2-Door,3.0L,12039829979,3.0L 2995CC 183Cu. In. V6 GAS DOHC Supercharged
+2021,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,11042664098,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,XF,S Sedan 4-Door,2.0L,14042668619,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,XF,S Sedan 4-Door,2.0L,14042668685,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,I-Pace,S Sport Utility 4-Door,--,16048796892,BATTERY EV (EV/BEV)
+2021,Jaguar,F-Type,First Edition Coupe 2-Door,2.0L,25039835002,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,F-Type,P300 Convertible 2-Door,--,19038309215,--
+2008,Jaguar,XK,Base Convertible 2-Door,4.2L,25039835071,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2021,Jaguar,E-Pace,Base Sport Utility 4-Door,2.0L,19043419055,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Jaguar,XJ,L Supercharged Sedan 4-Door,5.0L,25045476844,5.0L 5000CC V8 GAS DOHC Supercharged
+2022,Jaguar,F-Type,R-Dynamic Convertible 2-Door,5.0L,25048787643,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,F-Type,First Edition Coupe 2-Door,2.0L,22039845983,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Jaguar,F-Type,R Coupe 2-Door,5.0L,25059353704,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2021,Jaguar,I-Pace,SE Sport Utility 4-Door,--,26048808557,BATTERY EV (EV/BEV)
+2021,Jaguar,F-Type,First Edition Convertible 2-Door,2.0L,28039845940,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Jaguar,XF,SE Sedan 4-Door,2.0L,27042664728,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,10051274189,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,XF,S Sedan 4-Door,2.0L,13052187283,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,E-Pace,Base Sport Utility 4-Door,2.0L,15048800957,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,13051268004,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,XF,SE Sedan 4-Door,2.0L,21052195845,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Jaguar,E-Pace,R-Dynamic HSE Sport Utility 4-Door,2.0L,26036084881,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2009,Jaguar,XK,Base Convertible 2-Door,4.2L,26039852047,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2024,Jaguar,F-Type,R-Dynamic Convertible 2-Door,5.0L,26059373882,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2025,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,2.0L,26068298694,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jaguar,XF,SE Sedan 4-Door,2.0L,4055714099,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jaguar,F-Pace,Base Sport Utility 4-Door,2.0L,6055733219,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Jaguar,XF,S Sedan 4-Door,2.0L,6055733233,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Jaguar,F-Pace,R-Dynamic S Sport Utility 4-Door,3.0L,26078743385,3.0L 2996CC 183Cu. In. l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbo/Supercharged
+2021,Jaguar,F-Type,Base Coupe 2-Door,2.0L,27039837109,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2008,Jaguar,XK,Base Coupe 2-Door,4.2L,27039837170,4.2L 4196CC 256Cu. In. V8 GAS DOHC Naturally Aspirated
+2021,Jaguar,F-Type,Base Convertible 2-Door,2.0L,27039838067,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Jaguar,F-Type,Base Convertible 2-Door,5.0L,27048793529,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
+2024,Jaguar,XF,R-Dynamic SE Sedan 4-Door,2.0L,5060491633,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+2003,Jaguar,X-Type,Base Sedan 4-Door,2.5L,28043977669,2.5L 152Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Jaguar,XJ8,Base Sedan 4-Door,4.0L,28046138633,4.0L 3996CC 244Cu. In. V8 GAS DOHC Naturally Aspirated
+2023,Jaguar,F-Pace,SVR Sport Utility 4-Door,5.0L,28060486860,5.0L 5000CC 305Cu. In. V8 GAS DOHC Supercharged
