@@ -2389,4 +2389,176 @@ year,make,model,trim,engine,epid,ebay_engine
 2021,Mercedes-Benz,AMG GT,Base Convertible 2-Door,4.0L,26038320714,4.0L 3982CC V8 GAS DOHC Turbocharged
 1998,Mercedes-Benz,S320,SWB Sedan 4-Door,3.2L,26038320767,3.2L 3199CC l6 GAS DOHC Naturally Aspirated
 2022,Mercedes-Benz,Sprinter 1500,Base Standard Passenger Van 3-Door,2.0L,24052184677,2.0L 1991CC l4 GAS DOHC Turbocharged
-2021,Mercedes-Benz,C300,4Matic Sedan 4-Door,2.0L,
+2021,Mercedes-Benz,C300,4Matic Sedan 4-Door,2.0L,26043426094,2.0L 1991CC l4 GAS DOHC Turbocharged
+2011,Mercedes-Benz,E350,Base Sedan 4-Door,3.5L,26045495642,3.5L 3498CC V6 GAS DOHC Naturally Aspirated
+2022,Mercedes-Benz,E450,Base Coupe 2-Door,3.0L,26052198416,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Mercedes-Benz,GLC300,Base Sport Utility 4-Door,2.0L,26052198501,2.0L 1991CC l4 GAS DOHC Turbocharged
+2021,Mercedes-Benz,AMG GT 63 S,Base Hatchback 4-Door,4.0L,26051800758,4.0L 3982CC V8 GAS DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 3500XD,Base Standard Cargo Van 3-Door,3.0L,26052198375,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2022,Mercedes-Benz,EQS 450+,Base Hatchback 4-Door,--,26052198417,BATTERY EV (EV/BEV)
+2022,Mercedes-Benz,Sprinter 3500,Base Standard Cargo Van 3-Door,3.0L,26052198494,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 2500,Base Standard Passenger Van 3-Door,3.0L,26052198532,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2003,Mercedes-Benz,SL500,Base Convertible 2-Door,5.0L,26053358494,5.0L 4966CC V8 GAS SOHC Naturally Aspirated
+2004,Mercedes-Benz,SL500,Base Convertible 2-Door,5.0L,26053893990,5.0L 4966CC V8 GAS SOHC Naturally Aspirated
+2022,Mercedes-Benz,Sprinter 4500,Base Extended Cargo Van,3.0L,26058117415,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2023,Mercedes-Benz,E63 AMG S,4Matic Sedan 4-Door,4.0L,26059072885,4.0L 3982CC V8 GAS DOHC Turbocharged
+2017,Mercedes-Benz,GLC300,4Matic Sport Utility Coupe 4-Door,2.0L,26059373826,2.0L 1991CC l4 GAS DOHC Turbocharged
+2017,Mercedes-Benz,GLE43 AMG,4Matic Sport Utility Coupe 4-Door,3.0L,26059373876,3.0L 2996CC V6 GAS DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 3500XD,Base Crew Van 3-Door,2.1L,26060170519,2.1L 2143CC 131Cu. In. l4 DIESEL DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 2500,Base Standard Passenger Van 3-Door,2.1L,26060170562,2.1L 2143CC 131Cu. In. l4 DIESEL DOHC Turbocharged
+2022,Mercedes-Benz,GLS580,4Matic Sport Utility 4-Door,4.0L,28053354841,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Mercedes-Benz,C300,Base Convertible 2-Door,2.0L,28054602324,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,S580e,4Matic Sedan 4-Door,3.0L,2327501055,3.0L 2999CC l6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Mercedes-Benz,EQE 350 SUV,4Matic Sport Utility 4-Door,--,26062750525,BATTERY EV (EV/BEV)
+2024,Mercedes-Benz,Sprinter 2500,Base Extended Cargo Van 3-Door,2.0L,26066029449,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2023,Mercedes-Benz,GLE63 AMG S,4Matic Sport Utility Coupe 4-Door,4.0L,3059369289,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,G63 4x4 Squared AMG,Base Sport Utility 4-Door,4.0L,26066029476,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,Sprinter 3500XD,Base Crew Van 3-Door,2.0L,26066029480,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2020,Mercedes-Benz,AMG GT R Pro,Base Hatchback 2-Door,4.0L,26068298365,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,E450,Base Coupe 2-Door,3.0L,4057217068,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,AMG GT 43,Base Hatchback 4-Door,3.0L,5058116858,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,E350,Base Sedan 4-Door,2.0L,6057234973,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,Sprinter 1500,Base Standard Passenger Van 3-Door,2.0L,6059075877,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,CLA250,Base Sedan 4-Door,2.0L,8057225778,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,E450,Base Convertible 2-Door,3.0L,10057225942,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,AMG GT 63 S,Base Hatchback 4-Door,4.0L,10059070220,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,C300,Base Coupe 2-Door,2.0L,11053877231,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,Sprinter 1500,Base Standard Cargo Van 3-Door,2.0L,11059052210,2.0L 1991CC l4 GAS DOHC Turbocharged
+2022,Mercedes-Benz,GLE450 SUV,4Matic Sport Utility 4-Door,3.0L,26072786078,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,GLE450 SUV,4Matic Sport Utility 4-Door,3.0L,26072786122,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,Sprinter 3500,Base Extended Cargo Van 3-Door,2.0L,26072786223,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2023,Mercedes-Benz,GLA250,Base Sport Utility 4-Door,2.0L,14053346402,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,GLE350,Base Sport Utility 4-Door,2.0L,14057216422,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,C300,Base Sedan 4-Door,2.0L,14060878484,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,G550,Base Sport Utility 4-Door,4.0L,15059065381,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,GLC300,4Matic Sport Utility Coupe 4-Door,2.0L,16060154485,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,CLS53 AMG,4Matic Sedan 4-Door,3.0L,15060163807,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,C300,Base Coupe 2-Door,2.0L,16060878359,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,SL43 AMG,Base Convertible 2-Door,2.0L,16063596348,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,EQS 450+ SUV,Base Sport Utility 4-Door,--,17060481481,BATTERY EV (EV/BEV)
+2023,Mercedes-Benz,C300,Base Sedan 4-Door,2.0L,19053888198,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,AMG GT 63,Base Hatchback 4-Door,4.0L,19059069467,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,SL55 AMG,4Matic Convertible 2-Door,4.0L,21056457692,4.0L 3982CC V8 GAS DOHC Turbocharged
+2023,Mercedes-Benz,GLB250,Base Sport Utility 4-Door,2.0L,22057223660,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,C300,Base Convertible 2-Door,2.0L,23053894138,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,EQE 350+ SUV,Base Sport Utility 4-Door,--,23061720165,BATTERY EV (EV/BEV)
+2023,Mercedes-Benz,GLE580,4Matic Sport Utility 4-Door,4.0L,24057217006,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,GLC300,Base Sport Utility 4-Door,2.0L,25060876171,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2010,Mercedes-Benz,Sprinter 3500,Base Extended Cargo Van 3-Door,3.0L,27036072024,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2020,Mercedes-Benz,Sprinter 2500,Base Crew Van 3-Door,2.0L,27036887151,2.0L 1991CC l4 GAS DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 2500,Base Standard Passenger Van 3-Door,3.0L,27037456083,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2019,Mercedes-Benz,Sprinter 4500,Base Standard Cargo Van,3.0L,27037916962,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2021,Mercedes-Benz,E53 AMG,4Matic Convertible 2-Door,3.0L,27039837138,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2006,Mercedes-Benz,SL600,Base Convertible 2-Door,5.5L,27039837245,5.5L 5513CC 336Cu. In. V12 GAS SOHC Turbocharged
+2023,Mercedes-Benz,GLC43 AMG,4Matic Sport Utility Coupe 4-Door,3.0L,28060166391,3.0L 2996CC V6 GAS DOHC Turbocharged
+2023,Mercedes-Benz,C300,Base Convertible 2-Door,2.0L,28060893070,2.0L 1991CC l4 GAS DOHC Turbocharged
+2021,Mercedes-Benz,C63 AMG S,Base Sedan 4-Door,4.0L,27041078053,4.0L 3982CC V8 GAS DOHC Turbocharged
+2021,Mercedes-Benz,E450,4Matic Convertible 2-Door,3.0L,27043409697,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2020,Mercedes-Benz,Sprinter 4500,Base Extended Passenger Van,3.0L,27043409886,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2004,Mercedes-Benz,CL55 AMG,Base Coupe 2-Door,5.5L,27045477673,5.5L 5439CC 332Cu. In. V8 GAS SOHC Supercharged
+2022,Mercedes-Benz,E53 AMG,4Matic Sedan 4-Door,3.0L,27052184217,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 3500XD,Base Extended Cargo Van 3-Door,3.0L,27052184322,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2023,Mercedes-Benz,GLA35 AMG,4Matic Sport Utility 4-Door,2.0L,27053344664,2.0L 1991CC l4 GAS DOHC Turbocharged
+2023,Mercedes-Benz,EQB 300,4Matic Sport Utility 4-Door,--,27056447935,BATTERY EV (EV/BEV)
+2021,Mercedes-Benz,Sprinter 4500,Base Extended Cargo Van,3.0L,27058104642,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 4500,Base Cab & Chassis,3.0L,27058104765,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2017,Mercedes-Benz,GLE63 AMG S,4Matic Sport Utility Coupe 4-Door,5.5L,27059362358,5.5L 5461CC 333Cu. In. V8 GAS DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 3500,Base Extended Cargo Van 3-Door,2.1L,27060160312,2.1L 2143CC 131Cu. In. l4 DIESEL DOHC Turbocharged
+2024,Mercedes-Benz,GLS63 AMG,Base Sport Utility 4-Door,4.0L,27060481454,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,EQE AMG,4Matic+ Sedan 4-Door,--,27060481617,BATTERY EV (EV/BEV)
+2023,Mercedes-Benz,C300,4Matic Convertible 2-Door,2.0L,27060886235,2.0L 1991CC l4 GAS DOHC Turbocharged
+2024,Mercedes-Benz,GLS580,4Matic Sport Utility 4-Door,4.0L,27064263344,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,Sprinter 2500,Base Standard Cargo Van 3-Door,2.0L,27066020251,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2024,Mercedes-Benz,G550,Base Sport Utility 4-Door,4.0L,27066020396,4.0L 3982CC V8 GAS DOHC Turbocharged
+2024,Mercedes-Benz,GLC43 AMG,4Matic Sport Utility Coupe 4-Door,2.0L,27066550648,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,AMG GT 63,4Matic+ Hatchback 4-Door,4.0L,27068287961,4.0L 3982CC V8 GAS DOHC Turbocharged
+2024,Mercedes-Benz,SL43 AMG,Base Convertible 2-Door,2.0L,9063600165,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,GLC300,Base Sport Utility 4-Door,2.0L,10066561607,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,EQE 350+ SUV,Base Sport Utility 4-Door,--,11062730750,BATTERY EV (EV/BEV)
+2024,Mercedes-Benz,EQE 350+,Base Sedan 4-Door,--,12060470230,BATTERY EV (EV/BEV)
+2024,Mercedes-Benz,CLA250,Base Sedan 4-Door,2.0L,14068281876,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,Sprinter 4500,Base Standard Cargo Van,2.0L,27071431264,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2024,Mercedes-Benz,GLA250,Base Sport Utility 4-Door,2.0L,15066553967,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,GLE450 SUV,4Matic Sport Utility 4-Door,3.0L,27072780705,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,S580e,4Matic Sedan 4-Door,3.0L,27072780717,3.0L 2999CC l6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Mercedes-Benz,GLE53 AMG SUV,4Matic+ Sport Utility 4-Door,3.0L,27072780763,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,EQS 450,4Matic Hatchback 4-Door,--,27072780831,BATTERY EV (EV/BEV)
+2024,Mercedes-Benz,CLE450,4Matic Coupe 2-Door,3.0L,20066022864,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,AMG GT 63 S E Performance,Base Hatchback 4-Door,4.0L,24059057959,4.0L 3982CC V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Mercedes-Benz,GLB250,Base Sport Utility 4-Door,2.0L,24073667133,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,C300,Base Sedan 4-Door,2.0L,25059051577,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,CLE450,4Matic Convertible 2-Door,3.0L,25071941303,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,GLE580,4Matic Sport Utility 4-Door,4.0L,27069479791,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,Sprinter 4500,Base Standard Passenger Van,2.0L,2344717269,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2025,Mercedes-Benz,GLC63 AMG S E Performance,4Matic+ Sport Utility 4-Door,2.0L,4073675171,2.0L 1991CC l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Mercedes-Benz,GLC63 AMG S E Performance,4Matic+ Sport Utility Coupe 4-Door,2.0L,4073675210,2.0L 1991CC l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLA250,4Matic Sport Utility 4-Door,2.0L,27080359652,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,GLB250,Base Sport Utility 4-Door,2.0L,5073681147,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,E350,Base Sedan 4-Door,2.0L,6074191760,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,GLA250,Base Sport Utility 4-Door,2.0L,7072789653,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,EQS 450+ SUV,Base Sport Utility 4-Door,--,7072789714,BATTERY EV (EV/BEV)
+2020,Mercedes-Benz,S63 AMG,4Matic Sedan 4-Door,4.0L,28036078390,4.0L 3982CC V8 GAS DOHC Turbocharged
+2019,Mercedes-Benz,Sprinter 1500,Base Standard Passenger Van 3-Door,2.0L,28036078471,2.0L 1991CC l4 GAS DOHC Turbocharged
+2020,Mercedes-Benz,Metris,Base Mini Passenger Van 4-Door,2.0L,28036078493,2.0L 1991CC l4 GAS DOHC Turbocharged
+2025,Mercedes-Benz,EQE 350+,Base Sedan 4-Door,--,8072778716,BATTERY EV (EV/BEV)
+2025,Mercedes-Benz,EQS 450+,Base Hatchback 4-Door,--,8072778764,BATTERY EV (EV/BEV)
+2025,Mercedes-Benz,EQE 350+ SUV,Base Sport Utility 4-Door,--,8072778881,BATTERY EV (EV/BEV)
+2021,Mercedes-Benz,GLE350,4Matic Sport Utility 4-Door,2.0L,28037463531,2.0L 1991CC l4 GAS DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 2500,Base Standard Cargo Van 3-Door,3.0L,28037463544,3.0L 2987CC V6 DIESEL DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 2500,Base Standard Passenger Van 3-Door,2.0L,28037546374,2.0L 1991CC l4 GAS DOHC Turbocharged
+1994,Mercedes-Benz,C220,Base Sedan 4-Door,2.2L,28038313965,2.2L 2199CC l4 GAS DOHC Naturally Aspirated
+2021,Mercedes-Benz,C43 AMG,4Matic Sedan 4-Door,3.0L,28041087126,3.0L 2996CC V6 GAS DOHC Turbocharged
+2025,Mercedes-Benz,CLA250,Base Sedan 4-Door,2.0L,11071938817,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2004,Mercedes-Benz,E55 AMG,Base Sedan 4-Door,5.5L,28045487313,5.5L 5439CC 332Cu. In. V8 GAS SOHC Supercharged
+2017,Mercedes-Benz,S65 AMG,Base Sedan 4-Door,6.0L,28046138686,6.0L 5980CC 365Cu. In. V12 GAS DOHC Turbocharged
+1998,Mercedes-Benz,C43 AMG,Base Sedan 4-Door,4.3L,28046138702,4.3L 4266CC V8 GAS SOHC Naturally Aspirated
+2017,Mercedes-Benz,S65 AMG,Base Coupe 2-Door,6.0L,28046138727,6.0L 5980CC 365Cu. In. V12 GAS DOHC Turbocharged
+2022,Mercedes-Benz,C43 AMG,4Matic Convertible 2-Door,3.0L,28052194100,3.0L 2996CC V6 GAS DOHC Turbocharged
+2022,Mercedes-Benz,E450,4Matic Coupe 2-Door,3.0L,28052194126,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Mercedes-Benz,GLC300,4Matic Sport Utility 4-Door,2.0L,28052194170,2.0L 1991CC l4 GAS DOHC Turbocharged
+2022,Mercedes-Benz,Maybach S580,4Matic Sedan 4-Door,4.0L,28052744356,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,E450,4Matic Convertible 2-Door,3.0L,28057227058,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,E53 AMG,4Matic Coupe 2-Door,3.0L,28057227174,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2023,Mercedes-Benz,CLA45 AMG,4Matic Sedan 4-Door,2.0L,28058566816,2.0L 1991CC l4 GAS DOHC Turbocharged
+2021,Mercedes-Benz,GLC300,4Matic Sport Utility Coupe 4-Door,2.0L,28059370594,2.0L 1991CC l4 GAS DOHC Turbocharged
+2018,Mercedes-Benz,GLE43 AMG,4Matic Sport Utility Coupe 4-Door,3.0L,28059370613,3.0L 2996CC V6 GAS DOHC Turbocharged
+2019,Mercedes-Benz,GLC43 AMG,4Matic Sport Utility Coupe 4-Door,3.0L,28059370674,3.0L 2996CC V6 GAS DOHC Turbocharged
+2020,Mercedes-Benz,Sprinter 3500,Base Standard Cargo Van 3-Door,2.1L,28060166381,2.1L 2143CC 131Cu. In. l4 DIESEL DOHC Turbocharged
+2021,Mercedes-Benz,Sprinter 3500XD,Base Crew Van 3-Door,2.1L,28060166393,2.1L 2143CC 131Cu. In. l4 DIESEL DOHC Turbocharged
+2024,Mercedes-Benz,GLA250,4Matic Sport Utility 4-Door,2.0L,28066559324,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2024,Mercedes-Benz,GLE450,4Matic Sport Utility 4-Door,3.0L,28066559364,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2019,Mercedes-Benz,AMG GT,Base Hatchback 2-Door,4.0L,28068295419,4.0L 3982CC V8 GAS DOHC Turbocharged
+2017,Mercedes-Benz,AMG GT S,Base Hatchback 2-Door,4.0L,28068296555,4.0L 3982CC V8 GAS DOHC Turbocharged
+2025,Mercedes-Benz,SL63 AMG S E Performance,4Matic+ Convertible 2-Door,4.0L,18071957289,4.0L 3982CC V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Mercedes-Benz,EQB 350,4Matic Sport Utility 4-Door,--,20072776559,BATTERY EV (EV/BEV)
+2025,Mercedes-Benz,C300,Base Sedan 4-Door,2.0L,23070732544,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,GLE350,Base Sport Utility 4-Door,2.0L,23073679067,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,AMG GT 43,4Matic+ Hatchback 4-Door,3.0L,23075764917,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,GLC300,Base Sport Utility 4-Door,2.0L,25072768059,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,Sprinter 4500,Base Standard Passenger Van,2.0L,26073680208,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2025,Mercedes-Benz,AMG GT 43,Base Hatchback 2-Door,2.0L,25075749294,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,G63 AMG,Base Sport Utility 4-Door,4.0L,28071438512,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2022,Mercedes-Benz,Sprinter 4500,Base Standard Passenger Van,2.0L,28071438571,2.0L 1950CC 119Cu. In. l4 DIESEL DOHC Turbocharged
+2025,Mercedes-Benz,GLE580,4Matic Sport Utility 4-Door,4.0L,28072787864,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLA250,Base Sport Utility 4-Door,2.0L,3080354362,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLC63 AMG S E Performance,4Matic+ Sport Utility Coupe 4-Door,2.0L,4078738535,2.0L 1991CC l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Mercedes-Benz,eSprinter,Base Standard Cargo Van 3-Door,--,7080369242,BATTERY EV (EV/BEV)
+2025,Mercedes-Benz,GLC43 AMG,4Matic Sport Utility 4-Door,2.0L,28073682898,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,C300,Base Sedan 4-Door,2.0L,8080359510,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,E350,Base Sedan 4-Door,2.0L,9080349780,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLC63 AMG S E Performance,4Matic+ Sport Utility 4-Door,2.0L,10078737768,2.0L 1991CC l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Mercedes-Benz,E450,4Matic Wagon 4-Door,3.0L,10080360398,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLS580,4Matic Sport Utility 4-Door,4.0L,10080360448,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLS63 AMG,Base Sport Utility 4-Door,4.0L,10080360586,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,AMG GT 43,Base Hatchback 2-Door,2.0L,11080337318,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,CLA250,Base Sedan 4-Door,2.0L,14080344152,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2025,Mercedes-Benz,Maybach S680,4Matic Sedan 4-Door,6.0L,28075201315,6.0L 5980CC 365Cu. In. V12 GAS DOHC Turbocharged
+2025,Mercedes-Benz,AMG GT 63 Pro,4Matic+ Hatchback 2-Door,4.0L,28075770742,4.0L 3982CC V8 GAS DOHC Turbocharged
+2026,Mercedes-Benz,SL63 AMG S E Performance,4Matic+ Convertible 2-Door,4.0L,18080365032,4.0L 3982CC V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLB250,Base Sport Utility 4-Door,2.0L,19080351492,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,E450,4Matic Sedan 4-Door,3.0L,20080360197,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,GLC300,Base Sport Utility 4-Door,2.0L,20080360403,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,AMG GT 43,4Matic+ Hatchback 4-Door,3.0L,21080367862,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,CLA35 AMG,4Matic Sedan 4-Door,2.0L,28080365107,2.0L 1991CC l4 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,Maybach GLS600,4Matic Sport Utility 4-Door,4.0L,24080354003,4.0L 3982CC V8 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
+2026,Mercedes-Benz,S500,4Matic Sedan 4-Door,3.0L,28080365268,3.0L 2999CC l6 MILD HYBRID EV-GAS (MHEV) DOHC Turbocharged
