@@ -2250,7 +2250,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2002,Chevrolet,Express 1500,LS Standard Passenger Van 3-Door,5.0L,73994206,5.0L 305Cu. In. V8 GAS OHV Naturally Aspirated
 2000,Chevrolet,Express 3500,Base Standard Passenger Van 3-Door,5.7L,73994213,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
 1995,Chevrolet,C1500,Cheyenne Extended Cab Pickup 2-Door,5.0L,73994236,5.0L 305Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Chevrolet,R30,Silverado Crew Cab Pickup 4-Door,5.7L,73994239,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Chevrolet,R30,Silverado Crew Cab Pickup 4-Door,5
+.7L,73994239,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
 1999,Chevrolet,Express 3500,LS Extended Passenger Van 3-Door,5.7L,73994253,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
 1999,Chevrolet,Express 2500,LS Standard Passenger Van 3-Door,5.0L,73994256,5.0L 305Cu. In. V8 GAS OHV Naturally Aspirated
 2002,Chevrolet,Express 3500,Base Cutaway Van 2-Door,5.7L,73994263,5.7L 350Cu. In. V8 BI-FUEL OHV Naturally Aspirated
@@ -4487,7 +4488,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2004,Chevrolet,Colorado,Sport LS Extended Cab Pickup 3-Door,2.8L,83328818,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
 1987,Chevrolet,V20,Silverado Standard Cab Pickup 2-Door,4.8L,83328849,4.8L 292Cu. In. l6 GAS OHV Naturally Aspirated
 1985,Chevrolet,K30,Silverado Standard Cab Pickup 2-Door,4.8L,83328869,4.8L 292Cu. In. l6 GAS OHV Naturally Aspirated
-2007,Chevrolet,Cobalt,LS Sedan 4-Door,2.2L,83328900,2.2L 2198CC 134Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Chevrolet,
+Cobalt,LS Sedan 4-Door,2.2L,83328900,2.2L 2198CC 134Cu. In. l4 GAS DOHC Naturally Aspirated
 2004,Chevrolet,Colorado,Z71 LS Crew Cab Pickup 4-Door,2.8L,83328960,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
 2004,Chevrolet,Colorado,Z71 Crew Cab Pickup 4-Door,2.8L,83329323,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
 2006,Chevrolet,Cobalt,LT Coupe 2-Door,2.2L,83329717,2.2L 2198CC 134Cu. In. l4 GAS DOHC Naturally Aspirated
@@ -6692,7 +6694,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1990,Chevrolet,Cavalier,Base Sedan 4-Door,3.1L,153525708,3.1L 189Cu. In. V6 GAS OHV Naturally Aspirated
 1994,Chevrolet,K2500,Cheyenne Cab & Chassis 2-Door,5.7L,153525728,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
 1997,Chevrolet,K3500,Base Cab & Chassis 4-Door,5.7L,153525758,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Chevrolet,V30,Custom Deluxe Cab & Chassis 4-Door,7.4L,153525768,7.4L 454Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Chevrolet,V30,Custom Deluxe Cab & Chassis 4-Door,7.4L,153525768,7.4L 454Cu. In. V8
+ GAS OHV Naturally Aspirated
 1995,Chevrolet,K3500,Cheyenne Cab & Chassis 2-Door,5.7L,153525913,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Chevrolet,C20,Scottsdale Crew Cab Pickup 4-Door,4.8L,153525943,4.8L 292Cu. In. l6 GAS OHV Naturally Aspirated
 1985,Chevrolet,S10,Sport Extended Cab Pickup 2-Door,2.5L,153525953,2.5L 2474CC 151Cu. In. l4 GAS OHV Naturally Aspirated
@@ -8862,7 +8865,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2018,Chevrolet,Equinox,LT Sport Utility 4-Door,2.0L,239092295,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Chevrolet,Equinox,LT Sport Utility 4-Door,1.6L,239092555,1.6L 1598CC 98Cu. In. l4 DIESEL DOHC Turbocharged
 2018,Chevrolet,Equinox,LS Sport Utility 4-Door,1.5L,239098227,1.5L 1490CC 91Cu. In. l4 GAS DOHC Turbocharged
-2018,Chevrolet,Equinox,Premier Sport Utility 4-Door,1.6L,239098507,1.6L 1598CC 98Cu. In. l4 DIESEL DOHC Turbocharged
+2018,Chevrolet,Equinox,Premier Sport Utility 4-Door,1.6L,239098507,1.6L 1598CC 98Cu. In. l4 DIESEL DOHC Turbo
+charged
 2004,Chevrolet,Express 3500,Base Extended Passenger Van 3-Door,4.8L,239101670,4.8L 294Cu. In. V8 GAS OHV Naturally Aspirated
 2018,Chevrolet,Corvette,Grand Sport Convertible 2-Door,6.2L,239104074,6.2L 6162CC 376Cu. In. V8 GAS OHV Naturally Aspirated
 2018,Chevrolet,Camaro,LT Convertible 2-Door,2.0L,239107100,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
@@ -11044,7 +11048,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1991,Chevrolet,Sprint,Base Convertible 2-Door,1.0L,6036883069,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 2023,Chevrolet,Silverado 3500 HD,LT Crew Cab Pickup 4-Door,6.6L,4055202295,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
 2023,Chevrolet,Silverado 3500 HD,LT Crew Cab Pickup 4-Door,6.6L,4055202314,6.6L 6599CC 403Cu. In. V8 DIESEL OHV Turbocharged
-2023,Chevrolet,Silverado 1500,High Country Crew Cab Pickup 4-Door,5.3L,4055202341,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2023,Chevrolet,Silverado 1500,High Country Crew Cab Pickup 4-Door,5.3L,4055202341,5.3L 5328CC 325Cu. In. V8 GAS OHV Natura
+lly Aspirated
 2023,Chevrolet,Silverado 1500,LT Crew Cab Pickup 4-Door,2.7L,4055202354,2.7L 2720CC 166Cu. In. l4 GAS DOHC Turbocharged
 2023,Chevrolet,Silverado 1500,High Country Crew Cab Pickup 4-Door,3.0L,4056446791,3.0L 2993CC 183Cu. In. l6 DIESEL DOHC Turbocharged
 2005,Chevrolet,Silverado 1500,Z71 Off-Road Crew Cab Pickup 4-Door,6.0L,4058555834,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
@@ -13182,7 +13187,8 @@ year,make,model,trim,engine,epid,ebay_engine
 2001,Chevrolet,Silverado 2500 HD,LS Crew Cab Pickup 4-Door,8.1L,13037923944,8.1L 496Cu. In. V8 GAS OHV Naturally Aspirated
 2007,Chevrolet,C5500 Kodiak,C5E044 Cab & Chassis - Crew Cab,8.1L,2308970236,8.1L 496Cu. In. V8 GAS OHV Naturally Aspirated
 2001,Chevrolet,Silverado 3500,LS Cab & Chassis 2-Door,8.1L,13037923953,8.1L 496Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Chevrolet,Express 3500,LS Standard Passenger Van 3-Door,6.0L,13037923955,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Che
+vrolet,Express 3500,LS Standard Passenger Van 3-Door,6.0L,13037923955,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
 2003,Chevrolet,Express 1500,LS Standard Passenger Van 3-Door,4.3L,13037923956,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
 2004,Chevrolet,Express 2500,Base Extended Cargo Van 3-Door,4.3L,13037923961,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
 2004,Chevrolet,Silverado 3500,Base Cab & Chassis 2-Door,6.0L,13037923962,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
@@ -15283,7 +15289,8 @@ year,make,model,trim,engine,epid,ebay_engine
 1987,Chevrolet,Camaro,Z28 Convertible 2-Door,5.0L,21037546985,5.0L 305Cu. In. V8 GAS OHV Naturally Aspirated
 1986,Chevrolet,Caprice,Classic Coupe 2-Door,5.0L,21037547007,5.0L 305Cu. In. V8 GAS OHV Naturally Aspirated
 2003,Chevrolet,Express 2500,LS Extended Passenger Van 3-Door,4.3L,21037923766,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Chevrolet,C2500,Cheyenne Extended Cab Pickup 2-Door,4.3L,21037923785,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Chevrolet,C2500,Cheyenne Extended Cab Pickup 2-Door,4.3L,21037923785,4.3L 262Cu. In. V6 GAS OHV Naturally
+ Aspirated
 2002,Chevrolet,Silverado 1500 HD,LS Crew Cab Pickup 4-Door,6.0L,21037923799,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
 2021,Chevrolet,Silverado 2500 HD,WT Extended Cab Pickup 4-Door,6.6L,21037923821,6.6L 6599CC 403Cu. In. V8 DIESEL OHV Turbocharged
 2011,Chevrolet,Traverse,LT Sport Utility 4-Door,3.6L,21037923867,3.6L 3564CC 217Cu. In. V6 GAS DOHC Naturally Aspirated
@@ -17389,5 +17396,6 @@ year,make,model,trim,engine,epid,ebay_engine
 1988,Chevrolet,P30,Step-Van Delivery Van 2-Door,7.4L,28084562034,7.4L 454Cu. In. V8 GAS OHV Naturally Aspirated
 1988,Chevrolet,P20,Step-Van Delivery Van 2-Door,4.8L,28084562059,4.8L 292Cu. In. l6 GAS OHV Naturally Aspirated
 1988,Chevrolet,P30,Step-Van Delivery Van 2-Door,6.2L,28084562098,6.2L 379Cu. In. V8 DIESEL OHV Naturally Aspirated
-1989,Chevrolet,P30,Step-Van Delivery Van 2-Door,6.2L,28084562179,6.2L 379Cu. In. V8 DIESEL OHV Naturally Aspirated
+1989,
+Chevrolet,P30,Step-Van Delivery Van 2-Door,6.2L,28084562179,6.2L 379Cu. In. V8 DIESEL OHV Naturally Aspirated
 2026,Chevrolet,Express 3500,Base,--,28084562027,--
