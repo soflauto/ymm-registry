@@ -1,878 +1,678 @@
 year,make,model,trim,engine,epid,ebay_engine
 1985,Lincoln,Continental,Base Sedan 4-Door,5.0L,73973514,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Lincoln,Continental,Base Sedan 4-Door,4.6L,73973534,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2001,Lincoln,Continental,Base Sedan 4-Door,4.6L,73973544,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1985,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,73973554,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,73973594,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1999,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,73973604,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1989,Lincoln,Town Car,Base Sedan 4-Door,5.0L,73973624,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,73973634,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Lincoln,Town Car,Anniversary Sedan 4-Door,4.6L,73973644,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1998,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973664,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-1988,Lincoln,Town Car,Base Sedan 4-Door,5.0L,73973674,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973684,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-1991,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,73973694,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,73973704,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973714,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-2000,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,73973724,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1996,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,73973734,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1992,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,73973754,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,73973764,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,73973774,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,73973824,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2000,Lincoln,LS,Base Sedan 4-Door,3.9L,74000111,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-1998,Lincoln,Continental,Base Sedan 4-Door,4.6L,74000131,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1992,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74000161,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Lincoln,LS,Base Sedan 4-Door,3.0L,74000181,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1987,Lincoln,Continental,Givenchy Sedan 4-Door,5.0L,74000191,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74000241,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74000291,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Lincoln,Continental,Base Sedan 4-Door,3.8L,74000301,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74000321,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000331,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74000341,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Town Car,Cypress Sedan 4-Door,5.0L,74000361,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74000381,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74000401,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1987,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000411,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74000431,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000451,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74000501,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Lincoln,Town Car,Jack Nicklaus Sedan 4-Door,4.6L,74000531,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74000591,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74001554,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Ultimate Sedan 4-Door,4.6L,74001574,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Continental,Base Sedan 4-Door,4.6L,74002192,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1994,Lincoln,Continental,Base Sedan 4-Door,3.8L,74002202,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74002262,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1987,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002272,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Lincoln,Town Car,Base Limousine 4-Door,5.0L,74002282,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Lincoln,LS,Base Sedan 4-Door,3.0L,74002292,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74002312,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002322,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74002332,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Lincoln,Mark VII,Versace Sedan 2-Door,5.0L,74002342,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74002362,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002372,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74002382,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002392,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74002402,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74002422,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Town Car,Touring Edition Sedan 4-Door,5.0L,74002432,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74002452,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1995,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74002462,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002472,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002512,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74004404,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74005064,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74006464,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,74008225,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1988,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008255,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008335,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74008385,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74008395,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008405,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
 1985,Lincoln,Continental,Givenchy Sedan 4-Door,5.0L,74008415,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74008425,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74008445,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74008455,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74008465,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1994,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74008475,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74008515,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74008555,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2001,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74008595,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1996,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74008615,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74010206,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2001,Lincoln,LS,Base Sedan 4-Door,3.0L,74010256,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1989,Lincoln,Continental,Base Sedan 4-Door,3.8L,74010296,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Lincoln,Continental,Anniversary Sedan 4-Door,4.6L,74010306,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1991,Lincoln,Continental,Base Sedan 4-Door,3.8L,74010316,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1989,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74010336,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Lincoln,LS,Base Sedan 4-Door,3.9L,74010346,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-1985,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74010356,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74010386,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74010396,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74010406,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1998,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74010426,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2000,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74010436,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1985,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74010446,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74010456,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-1987,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74010466,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74010476,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,74010486,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1998,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74010496,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74010506,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2001,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74010516,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Continental,Signature Sedan 4-Door,4.6L,74023529,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1996,Lincoln,Mark VIII,Anniversary Sedan 2-Door,4.6L,74023539,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1987,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74023619,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74023629,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74023639,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Lincoln,LS,Base Sedan 4-Door,3.9L,74023649,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2002,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74023669,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74023699,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1998,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74023709,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1998,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74023719,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Tournament Edition Sedan 4-Door,4.6L,74023729,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74023739,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74023749,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1989,Lincoln,Town Car,Signature SE Sedan 4-Door,5.0L,74023809,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Lincoln,LS,Base Sedan 4-Door,3.0L,74028341,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2002,Lincoln,Blackwood,Base Crew Cab Pickup 4-Door,5.4L,74028903,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-1987,Lincoln,Continental,Base Sedan 4-Door,5.0L,74028983,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74028993,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Lincoln,LS,Base Sedan 4-Door,3.9L,74029013,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-1993,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74029033,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1987,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74029043,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1995,Lincoln,Continental,Diamond Anniversary Sedan 4-Door,4.6L,74029053,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1990,Lincoln,Town Car,Executive Limousine 4-Door,5.0L,74029063,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Lincoln,Continental,Givenchy Sedan 4-Door,5.0L,74029073,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74029093,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74029103,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74029113,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Lincoln,Continental,Base Sedan 4-Door,3.8L,74029133,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029143,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74029153,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74029183,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74029213,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74029223,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1995,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029253,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029283,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74030062,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74032081,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Navigator,Ultimate Sport Utility 4-Door,5.4L,74033271,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74033802,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74034341,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74035092,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-1999,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74035125,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,74035418,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2000,Lincoln,LS,Base Sedan 4-Door,3.0L,74035428,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74035438,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-2000,Lincoln,Continental,Base Sedan 4-Door,4.6L,74035458,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1987,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74035468,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Lincoln,Town Car,Executive Sedan 4-Door,5.0L,74035488,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74035498,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74035518,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-1997,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74035528,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1995,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035538,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74035548,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2001,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035588,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74035598,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74035618,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74035628,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1998,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74035638,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74035648,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035668,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74036392,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74038596,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
-2005,Lincoln,LS,Sport Sedan 4-Door,3.9L,74039506,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2006,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74039545,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74040075,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-1986,Lincoln,Continental,Base Sedan 4-Door,5.0L,74040990,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1994,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74041000,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74041050,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74041110,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1990,Lincoln,Continental,Base Sedan 4-Door,3.8L,74041120,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74041180,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041190,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1989,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74041210,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74041215,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2000,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74041230,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041240,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1996,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74041250,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1988,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74041260,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041270,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74041280,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74041290,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041300,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74041310,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041320,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74041330,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74041350,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74041355,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041380,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Navigator,Luxury Sport Utility 4-Door,5.4L,74041485,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74043266,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74043456,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,74044421,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2009,Lincoln,MKS,Base Sedan 4-Door,3.7L,74046891,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,74048461,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74048692,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74052089,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2008,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74052375,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74052415,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74053899,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74054909,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74054959,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74056319,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2008,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74056556,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74056705,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74056843,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1988,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74057217,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Lincoln,Continental,Valentino Sedan 4-Door,5.0L,74057247,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74057287,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1985,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057327,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Lincoln,Continental,Base Sedan 4-Door,3.8L,74057367,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057387,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057397,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74057407,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74057437,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2002,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74057467,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74057477,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1999,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74057497,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2001,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,74057507,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74057537,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74057547,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74057567,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1988,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74057587,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74057966,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,LS,Ultimate Sedan 4-Door,3.9L,74058423,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2006,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74060613,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74060673,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74062193,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2005,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74065928,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Zephyr,Base Sedan 4-Door,3.0L,74067588,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74068168,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74068438,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74069010,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,Town Car,Ultimate L Sedan 4-Door,4.6L,74069070,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74069468,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74070239,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,LS,Luxury Sedan 4-Door,3.0L,74070490,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74072120,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Navigator,L Luxury Sport Utility 4-Door,5.4L,74073118,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Lincoln,Navigator,L Ultimate Sport Utility 4-Door,5.4L,74073158,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Lincoln,LS,Base Sedan 4-Door,3.9L,74085117,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2005,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74086827,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74088937,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2006,Lincoln,LS,Sport Sedan 4-Door,3.9L,74089117,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2007,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74090047,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74090317,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,81672224,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2010,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,81708362,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2010,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,81714576,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2010,Lincoln,MKZ,Base Sedan 4-Door,3.5L,81728001,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2010,Lincoln,MKS,Base Sedan 4-Door,3.7L,81731459,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2010,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,81749040,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 1985,Lincoln,Continental,Valentino Sedan 4-Door,2.4L,83331830,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
 1985,Lincoln,Continental,Givenchy Sedan 4-Door,2.4L,83332509,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
 1985,Lincoln,Continental,Base Sedan 4-Door,2.4L,83354497,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
-2010,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,83526822,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2010,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,83555939,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,MKS,Base Sedan 4-Door,3.7L,93687975,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2010,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,93727343,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,98892294,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,MKZ,Base Sedan 4-Door,3.5L,98925189,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2011,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,98932919,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,98943626,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,MKZ,Hybrid Sedan 4-Door,2.5L,98980897,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2006,Lincoln,Navigator,Ultimate Sport Utility 4-Door,5.4L,109903692,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Navigator,Luxury Sport Utility 4-Door,5.4L,109948803,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,109951273,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
-2012,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,112474444,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2012,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,112497955,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,112501542,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2012,Lincoln,MKS,Base Sedan 4-Door,3.7L,112507615,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2012,Lincoln,MKZ,Hybrid Sedan 4-Door,2.5L,112515659,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2012,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,112546716,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2012,Lincoln,MKZ,Base Sedan 4-Door,3.5L,112547088,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-1996,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,114827841,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKS,Base Sedan 4-Door,3.7L,114864505,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,118190651,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,153412881,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+1985,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,73973554,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Lincoln,Mark VII,Versace Sedan 2-Door,5.0L,74002342,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74010356,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057327,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Lincoln,Mark VII,Versace Sedan 2-Door,2.4L,153414501,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
 1985,Lincoln,Mark VII,Base Sedan 2-Door,2.4L,153423921,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
-2013,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,153453554,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153454784,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 1985,Lincoln,Mark VII,LSC Sedan 2-Door,2.4L,153463494,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
-2012,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,153466795,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2010,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153467754,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153469292,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2013,Lincoln,MKZ,Base Sedan 4-Door,3.7L,153469505,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153470256,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153489927,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,153519133,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 1985,Lincoln,Mark VII,Bill Blass Sedan 2-Door,2.4L,153527438,2.4L 146Cu. In. l6 DIESEL SOHC Turbocharged
+1985,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74010446,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74029213,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74029223,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Continental,Givenchy Sedan 4-Door,5.0L,74029073,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Continental,Base Sedan 4-Door,5.0L,74040990,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74002332,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74029183,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057387,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,73973634,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000331,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74035498,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Continental,Givenchy Sedan 4-Door,5.0L,74000191,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Continental,Base Sedan 4-Door,5.0L,74028983,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002272,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Mark VII,Base Sedan 2-Door,5.0L,74023619,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74029043,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000411,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74010466,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74035468,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008255,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Lincoln,Continental,Base Sedan 4-Door,3.8L,74057367,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74057217,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74057397,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Lincoln,Town Car,Base Sedan 4-Door,5.0L,73973674,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74041260,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74057587,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Continental,Base Sedan 4-Door,3.8L,74010296,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74010336,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74008465,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74041210,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Town Car,Base Sedan 4-Door,5.0L,73973624,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74002452,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Town Car,Signature SE Sedan 4-Door,5.0L,74023809,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74057407,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008405,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Lincoln,Continental,Base Sedan 4-Door,3.8L,74041120,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002372,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74029103,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Cypress Sedan 4-Door,5.0L,74000361,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Base Sedan 4-Door,5.0L,74000451,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Base Limousine 4-Door,5.0L,74002282,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Touring Edition Sedan 4-Door,5.0L,74002432,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Signature Sedan 4-Door,5.0L,74023629,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Executive Limousine 4-Door,5.0L,74029063,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Executive Sedan 4-Door,5.0L,74035488,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Lincoln,Town Car,Cartier Sedan 4-Door,5.0L,74057547,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74002262,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Lincoln,Continental,Base Sedan 4-Door,3.8L,74010316,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74028993,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,73973694,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74000241,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74002382,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002392,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74002402,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74008385,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74010396,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74041180,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041320,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1991,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74057537,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74000161,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74008335,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Lincoln,Continental,Base Sedan 4-Door,3.8L,74029133,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Lincoln,Mark VII,Bill Blass Sedan 2-Door,5.0L,74002322,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Lincoln,Mark VII,LSC Sedan 2-Door,5.0L,74008455,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,73973754,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,73973764,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74002422,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002512,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74008445,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74008515,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74023739,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74029093,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Continental,Base Sedan 4-Door,3.8L,74000301,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74023639,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74029033,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,73973594,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1993,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74000341,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74000381,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Jack Nicklaus Sedan 4-Door,4.6L,74000531,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74002362,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74008425,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74023699,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029143,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74035628,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74041350,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Continental,Base Sedan 4-Door,3.8L,74002202,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Lincoln,Continental,Executive Sedan 4-Door,3.8L,74041000,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Lincoln,Continental,Signature Sedan 4-Door,3.8L,74041050,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74041110,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1994,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74000401,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74008475,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74010506,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Tournament Edition Sedan 4-Door,4.6L,74023729,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029283,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74035648,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041240,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74041280,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041380,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,74008225,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Lincoln,Continental,Signature Sedan 4-Door,4.6L,74023529,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Lincoln,Continental,Diamond Anniversary Sedan 4-Door,4.6L,74029053,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74023589,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74057477,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1995,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74002462,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74002472,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74008555,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Base Sedan 4-Door,4.6L,74029253,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035538,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041190,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Cypress Sedan 4-Door,4.6L,74041300,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74041310,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Continental,Anniversary Sedan 4-Door,4.6L,74010306,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1996,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,114827841,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1996,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,73973734,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1996,Lincoln,Mark VIII,Anniversary Sedan 2-Door,4.6L,74023539,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1996,Lincoln,Town Car,Anniversary Sedan 4-Door,4.6L,73973644,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74000291,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74000321,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74008615,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74029113,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74041250,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Continental,Spinnaker Edition Sedan 4-Door,4.6L,74035418,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1997,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74010406,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1997,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74035528,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1997,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,73973824,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74000431,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Town Car,Touring Edition Sedan 4-Door,4.6L,74000591,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74008395,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74010386,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74041330,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Continental,Base Sedan 4-Door,4.6L,74000131,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1998,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74010426,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1998,Lincoln,Mark VIII,LSC Sedan 2-Door,4.6L,74057287,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1998,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973664,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74000501,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74010496,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74023709,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74023719,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74035638,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Continental,Base Sedan 4-Door,4.6L,73973534,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+1999,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74035125,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,73973604,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,73973704,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74010476,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74023609,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74057497,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Lincoln,Continental,Base Sedan 4-Door,4.6L,74035458,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2000,Lincoln,LS,Base Sedan 4-Door,3.9L,74000111,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2000,Lincoln,LS,Base Sedan 4-Door,3.0L,74035428,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74035438,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2000,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,73973724,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74002312,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74010436,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74041230,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Lincoln,Town Car,Cartier Limousine 4-Door,4.6L,6036084073,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Continental,Base Sedan 4-Door,4.6L,73973544,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Lincoln,LS,LSE Sedan 4-Door,3.9L,74000311,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Lincoln,LS,Base Sedan 4-Door,3.0L,74010256,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Lincoln,LS,Base Sedan 4-Door,3.9L,74010346,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Lincoln,LS,LSE Sedan 4-Door,3.0L,74035508,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74010456,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2001,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74008595,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74010516,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035588,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74057437,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,74057507,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74057567,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Blackwood,Base Crew Cab Pickup 4-Door,5.4L,74028903,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Lincoln,Continental,Base Sedan 4-Door,4.6L,74002192,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Lincoln,LS,LSE Sedan 4-Door,3.9L,73973574,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Lincoln,LS,Base Sedan 4-Door,3.0L,74002292,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Lincoln,LS,LSE Sedan 4-Door,3.0L,74008375,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Lincoln,LS,Base Sedan 4-Door,3.9L,74029013,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973684,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2002,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,74010486,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74023669,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74029153,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74035598,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74035668,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74057467,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74010206,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Lincoln,LS,Base Sedan 4-Door,3.0L,74000181,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Lincoln,LS,LSE Sedan 4-Door,3.9L,74008355,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Lincoln,LS,Base Sedan 4-Door,3.9L,74023649,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Lincoln,LS,LSE Sedan 4-Door,3.0L,74041130,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,73973714,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Lincoln,Town Car,Cartier L Sedan 4-Door,4.6L,73973774,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74023749,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74035548,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74035618,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Executive Protection Series Sedan 4-Door,4.6L,74041200,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Cartier Sedan 4-Door,4.6L,74041270,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74041290,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74052089,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Lincoln,LS,Base Sedan 4-Door,3.0L,74028341,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Lincoln,LS,Base Sedan 4-Door,3.9L,74085117,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74038596,5.4L 330Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74001554,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Ultimate Sedan 4-Door,4.6L,74001574,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74030062,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,74056843,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74069010,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Ultimate L Sedan 4-Door,4.6L,74069070,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,3036083779,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Aviator,Base Sport Utility 4-Door,4.6L,74086827,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Lincoln,LS,Appearance Sedan 4-Door,3.0L,74036182,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Lincoln,LS,Premium Sedan 4-Door,3.0L,74037675,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Lincoln,LS,Sport Sedan 4-Door,3.9L,74039506,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Lincoln,LS,Ultimate Sedan 4-Door,3.9L,74058423,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2005,Lincoln,LS,Luxury Sedan 4-Door,3.0L,74070490,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,109951273,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74004404,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74030711,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74053899,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74065928,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74072120,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153506083,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,7036079499,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,15036080555,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Lincoln,LS,Sport Sedan 4-Door,3.9L,74089117,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
+2006,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74039545,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Lincoln,Navigator,Ultimate Sport Utility 4-Door,5.4L,109903692,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Lincoln,Navigator,Luxury Sport Utility 4-Door,5.4L,109948803,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74040075,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74060703,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74032081,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74033802,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74088937,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74054949,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153489927,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,17036078744,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,19036072239,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Lincoln,Zephyr,Base Sedan 4-Door,3.0L,74067588,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74036392,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74069468,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74034341,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Lincoln,Navigator,Ultimate Sport Utility 4-Door,5.4L,74033271,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Lincoln,Navigator,Luxury Sport Utility 4-Door,5.4L,74041485,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Lincoln,Navigator,L Luxury Sport Utility 4-Door,5.4L,74073118,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Lincoln,Navigator,L Ultimate Sport Utility 4-Door,5.4L,74073158,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74068438,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Signature Sedan 4-Door,4.6L,74035092,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Designer Series Sedan 4-Door,4.6L,74043456,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74043266,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74090047,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74062193,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153454784,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,5036087292,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Mark LT,Base Crew Cab Pickup 4-Door,5.4L,74048692,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2008,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74056556,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74052375,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,74044421,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2008,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74052415,5.4L 330Cu. In. V8 GAS SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74047691,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74049942,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74055745,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74083068,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153466522,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2008,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,22036081313,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,MKS,Base Sedan 4-Door,3.7L,74046891,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,74057966,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Lincoln,MKZ,Base Sedan 4-Door,3.5L,74070239,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,74048461,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,74056705,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74022034,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74089390,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153499400,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,11036074827,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2009,Lincoln,Town Car,Executive Hearse 4-Door,4.6L,20036080571,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,MKS,Base Sedan 4-Door,3.7L,81731459,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2010,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,7039847414,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2010,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,81749040,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2010,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,4039838275,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2010,Lincoln,MKX,Base Sport Utility 4-Door,3.5L,81672224,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2010,Lincoln,MKZ,Base Sedan 4-Door,3.5L,81728001,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2010,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,81708362,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,81714576,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,83526822,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,83555939,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,93727343,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153467754,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Executive Hearse 4-Door,4.6L,24036074289,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2010,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,26036084896,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,MKS,Base Sedan 4-Door,3.7L,93687975,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2011,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,22039846075,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2011,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,93748427,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2011,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,8039846913,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2011,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,112501542,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2011,Lincoln,MKZ,Base Sedan 4-Door,3.5L,98925189,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2011,Lincoln,MKZ,Hybrid Sedan 4-Door,2.5L,98980897,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2011,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,98932919,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,98943626,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,98892294,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,98930492,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,98930615,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,98954473,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2011,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,153512253,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2012,Lincoln,MKS,Base Sedan 4-Door,3.7L,112507615,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2012,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,11039837255,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2012,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,112532625,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2012,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,5064836333,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2012,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,23039852167,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2012,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,112474444,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2012,Lincoln,MKZ,Hybrid Sedan 4-Door,2.5L,112515659,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2012,Lincoln,MKZ,Base Sedan 4-Door,3.5L,112547088,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2012,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,112497955,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2012,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,112546716,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2013,Lincoln,MKS,Base Sedan 4-Door,3.7L,114864505,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2013,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,13039844581,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2013,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,167299352,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2013,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,169208489,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241948889,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2013,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,3064832204,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2013,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,5064836527,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,19064830245,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2013,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,24064820536,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2013,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,118190651,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2013,Lincoln,MKZ,Base Sedan 4-Door,3.7L,153469505,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2013,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211388705,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2013,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,2326258825,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2013,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,153412881,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2013,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,153453554,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
 2014,Lincoln,MKS,Base Sedan 4-Door,3.7L,169193054,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2014,Lincoln,MKZ,Base Sedan 4-Door,3.7L,169195685,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2014,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,170470702,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2014,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,170476356,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2014,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241960467,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2014,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,167343683,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2014,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,169210899,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2014,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241952435,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2014,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,11064815624,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2014,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,19064830300,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2014,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,22064829064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2014,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,178365726,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2014,Lincoln,MKZ,Base Sedan 4-Door,3.7L,169195685,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2014,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211398232,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2014,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,2326258750,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2014,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,170457505,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
+2014,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,170470702,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
 2015,Lincoln,MKC,Base Sport Utility 4-Door,2.3L,194086691,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,194147987,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,194115375,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,211333441,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,211393677,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKS,Base Sedan 4-Door,3.7L,208424961,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2015,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241960167,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2015,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,208425431,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2015,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,208536513,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241780401,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2015,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,3064832264,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,16064820143,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2015,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,20064829884,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2015,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,26064835469,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2015,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,208423791,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2015,Lincoln,MKZ,Base Sedan 4-Door,3.7L,204099491,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2015,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,211327711,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2015,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,211404219,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211428670,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,2326258845,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2015,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,20055210021,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2015,Lincoln,Navigator,L Sport Utility 4-Door,3.5L,204167569,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2015,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,204207493,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2015,Lincoln,MKX,Base Sport Utility 4-Door,3.7L,208423791,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKS,Base Sedan 4-Door,3.7L,208424961,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211388705,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211398232,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Base Sedan 4-Door,2.0L,211428670,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,215346401,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2016,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,215404336,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2016,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,215404876,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2016,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,215407355,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,215407825,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2016,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,215407992,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,215412664,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,215411554,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKS,Base Sedan 4-Door,3.7L,218447561,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241954575,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,220223384,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,220275860,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241900000,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,3064832290,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,3064832326,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,19064830305,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,27064825408,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,218451991,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,218455531,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,218501916,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,218503784,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,218503996,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,218509294,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,218511484,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2016,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,218596408,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2016,Lincoln,MKZ,Base Sedan 4-Door,2.0L,217126031,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,217174966,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,217191532,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Lincoln,MKZ,Base Sedan 4-Door,3.7L,217204639,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2016,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,6055222083,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2016,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,15055211555,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2016,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,217136831,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2016,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,217176566,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2016,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,217180436,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2016,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,217190005,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKZ,Base Sedan 4-Door,3.7L,217204639,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKS,Base Sedan 4-Door,3.7L,218447561,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,218455531,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,218501916,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,218509294,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,218596408,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,223576441,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,223576681,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,223579531,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,223585091,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,223661322,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,223706956,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,223707006,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,223707350,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Select Sedan 4-Door,2.0L,223712815,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,223712829,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,223728447,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,223728847,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,223808323,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,225417602,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Select Sedan 4-Door,3.0L,225424372,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Black Label Sedan 4-Door,3.0L,225468350,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,232570601,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,232571581,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,232608341,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,232713589,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,232716209,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,232726757,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,Continental,Select Sedan 4-Door,2.7L,232847638,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,238529820,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,Continental,Select Sedan 4-Door,2.7L,238842921,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,238993565,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,239062332,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,239066142,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,239067868,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,239126676,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241780401,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,241800081,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2018,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,241801951,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Black Label Sedan 4-Door,3.0L,241855162,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241900000,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,241910030,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKT,Base Sport Utility 4-Door,3.5L,241912764,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Select Sedan 4-Door,2.0L,241913910,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,241913950,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,241914460,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,241927189,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,241930114,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,241940816,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,241941676,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,241943856,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2013,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241948889,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2014,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,241952435,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241954575,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2015,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241960167,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2014,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,241960467,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,241961947,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,242025238,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2018,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,242027558,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2018,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,242028308,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,247950542,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKT,Reserve Sport Utility 4-Door,3.5L,247990370,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,248035325,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,250381462,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,250394640,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,250432005,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2019,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,250448576,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,250477767,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,250510038,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,251718192,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Select Sport Utility 4-Door,2.7L,251718352,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,251752610,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Select Sport Utility 4-Door,2.0L,251785536,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve II Sedan 4-Door,3.0L,251812477,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-1995,Lincoln,Mark VIII,Base Sedan 2-Door,4.6L,74023589,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKZ,Select Sedan 4-Door,3.0L,252059971,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,252126732,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,252142856,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,252172107,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,252196872,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,252197306,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,252257064,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,252272139,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2020,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,252354023,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2020,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,253556312,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253595250,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2020,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,253597280,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,253626746,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,253657147,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,2309360846,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2014,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,2326258750,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2013,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,2326258825,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2021,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,2326258855,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,2335874709,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,2337067479,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2004,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,3036083779,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,3036083795,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,3037468313,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,3038319143,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,3055215063,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-1999,Lincoln,Town Car,Base Limousine 4-Door,4.6L,74023609,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2021,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,4037918547,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2010,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,4039838275,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,4053344232,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,4055202276,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,4059360108,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2007,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,5036087292,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,5036087322,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2022,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,5061721770,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,5063614906,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
-2012,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,5064836333,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,5064836370,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,5066030915,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2001,Lincoln,LS,LSE Sedan 4-Door,3.9L,74000311,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2001,Lincoln,LS,LSE Sedan 4-Door,3.0L,74035508,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Lincoln,Town Car,Cartier Limousine 4-Door,4.6L,6036084073,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2022,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,6045495527,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,6053897383,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,6055222083,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2024,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,6064277450,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,6075771967,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,6075772190,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2002,Lincoln,LS,LSE Sedan 4-Door,3.9L,73973574,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2002,Lincoln,LS,LSE Sedan 4-Door,3.0L,74008375,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,7036079499,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,7036079606,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2010,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,7039847414,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,7045490882,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,7061722295,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2003,Lincoln,LS,LSE Sedan 4-Door,3.9L,74008355,3.9L 242Cu. In. V8 GAS DOHC Naturally Aspirated
-2003,Lincoln,LS,LSE Sedan 4-Door,3.0L,74041130,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2003,Lincoln,Town Car,Executive Protection Series Sedan 4-Door,4.6L,74041200,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2011,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,8039846913,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,8055211113,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,8055723833,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2005,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74030711,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Lincoln,LS,Appearance Sedan 4-Door,3.0L,74036182,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,LS,Premium Sedan 4-Door,3.0L,74037675,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153506083,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,10055214775,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,10064274001,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,10071440425,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
-2025,Lincoln,Corsair,Premiere Sport Utility 4-Door,2.0L,10075765488,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2006,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74031591,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74054949,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74060703,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2012,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,11039837255,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,11051262389,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,11053342346,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,11055201498,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,11064254079,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,11064815677,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,11066009508,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2005,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,15036080555,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2013,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,13039844581,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2008,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74047691,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74049722,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74049942,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74055665,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74055745,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,74055945,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74057576,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2023,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,13053882017,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,13055206142,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,74083068,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2014,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,13064822181,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153466522,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153483537,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2021,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,14037460229,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,14037460248,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2008,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,22036081313,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,22036081360,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,14051266825,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,14051266828,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2009,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,74022034,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,74089390,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,14064819809,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,153499400,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,225475444,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,3036083844,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,11036074827,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Executive Hearse 4-Door,4.6L,20036080571,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2009,Lincoln,Town Car,Executive Hearse 4-Door,4.6L,24036074279,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,83241074,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2011,Lincoln,Town Car,Executive Sedan 4-Door,4.6L,153512253,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2017,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,15055211510,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2010,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,228043781,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,228216496,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2025,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,15075763537,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2011,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,93748427,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2011,Lincoln,Town Car,Executive L Sedan 4-Door,4.6L,98930492,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,Town Car,Signature L Sedan 4-Door,4.6L,98930615,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2011,Lincoln,Town Car,Executive L Limousine 4-Door,4.6L,98954473,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2021,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,16037920901,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16038311836,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,16064258036,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16064820388,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,16065323445,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16066015789,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2011,Lincoln,Town Car,Signature Limited Sedan 4-Door,4.6L,228287058,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2026,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16075750491,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2012,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,112532625,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Lincoln,Town Car,Protection Series Sedan 4-Door,4.6L,17036078744,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,17036078894,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2023,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,17053884387,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,17055719651,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2018,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,17064831123,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2013,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,19064830245,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2013,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,153474526,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2013,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,153487907,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2013,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,167299352,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,169208489,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2026,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,17078739661,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,18066025801,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2013,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,3064832204,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,5064836527,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2013,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,12041073834,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2013,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,14064819833,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,22064829236,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2013,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,26041093834,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2014,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,167343683,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2014,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,169210899,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Lincoln,Navigator,Base Sport Utility 4-Door,5.4L,170457505,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2014,Lincoln,Navigator,L Sport Utility 4-Door,5.4L,170548348,5.4L 330Cu. In. V8 FLEX SOHC Naturally Aspirated
-2026,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,18075769261,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2006,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,19036072239,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2021,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,19037918047,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2014,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,11064815624,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2014,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,19064830366,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,25063592609,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,25063592613,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,194115375,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKC,Base Sport Utility 4-Door,2.3L,194147346,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,20064829884,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,19064266102,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,19064830300,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,208425431,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,208536513,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,211327711,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,211333441,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,211379002,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,211393677,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,211395457,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,211404219,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,211428090,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,211474718,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2025,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,19075758894,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,2326258845,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2015,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,3064832264,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,16064820143,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,20064829763,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,23064838338,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,27063602731,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2015,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,28063612606,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,215346401,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,215407825,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,215411554,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,215412554,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,215418239,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,215427527,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,217174966,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,20051271903,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,217191532,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,20055210021,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2016,Lincoln,MKZ,Black Label Sedan 4-Door,3.7L,217203955,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,217210137,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,19064830305,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,20059365158,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,218451991,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,218503784,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,218503996,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,218509166,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,218511484,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,218512605,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,218601768,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,218684723,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,220223384,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,220275860,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2026,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,20075761840,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2016,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,3064832290,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,3064832326,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,8063603375,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKT,Base Sport Utility 4-Door,2.0L,10063613134,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,15055211555,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2016,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,16064820450,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2016,Lincoln,MKT,Livery Sport Utility 4-Door,2.0L,25064818136,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,223661512,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,223708826,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,223709026,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,223710716,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,223714659,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,223715356,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,223799908,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,223807938,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,223811323,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,224103763,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,21041084847,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2021,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,21041084864,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,21041084889,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,232573191,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,Continental,Premiere Sedan 4-Door,3.7L,232601351,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,Continental,Premiere Sedan 4-Door,3.7L,232684162,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2017,Lincoln,Continental,Select Sedan 4-Door,3.7L,232693700,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,Continental,Select Sedan 4-Door,3.7L,232694000,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,232694010,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,Continental,Select Sedan 4-Door,2.7L,232694200,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,21047174198,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,232709235,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,232713589,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,232714689,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,232727027,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,21055214128,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,21055726975,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253491761,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,223579531,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,223661512,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,223707006,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,223709026,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,223710716,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,223712829,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,223799908,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,234059538,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKT,Base Sport Utility 4-Door,3.5L,241912764,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,5064836370,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,6064839909,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,11064815677,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKT,Limousine Sport Utility 4-Door,3.7L,13064822172,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,232571581,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,232608341,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,232716209,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,232726757,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2017,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,232730257,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2017,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,232759917,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,232792163,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2017,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,232793323,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,232797093,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,232798103,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,232798573,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,232814818,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,232814838,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,MKT,Limousine Sport Utility 4-Door,3.7L,13064822172,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2024,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,21064834267,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2017,Lincoln,MKT,Base Sport Utility 4-Door,3.7L,234059538,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,MKT,Base Sport Utility 4-Door,3.5L,242025383,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253491761,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2017,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253557292,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKT,Elite Sport Utility 4-Door,3.5L,242026208,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,21075769980,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,6064839909,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,223585091,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,223708826,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Select Sedan 4-Door,2.0L,223712815,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,223728447,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,225417602,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Select Sedan 4-Door,3.0L,225424372,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Black Label Sedan 4-Door,3.0L,225468350,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,13055206142,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2017,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,15055211510,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2017,Lincoln,MKZ,Premiere Hybrid Sedan 4-Door,2.0L,17055208055,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2017,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,26064835568,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,26055218559,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2017,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,223576441,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,223576681,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,223661322,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,223707350,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,Continental,Select Sedan 4-Door,3.7L,238841881,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2018,Lincoln,Continental,Premiere Sedan 4-Door,3.7L,238842101,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,Continental,Select Sedan 4-Door,3.7L,238842341,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2018,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,238842791,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,Continental,Select Sedan 4-Door,2.7L,238842891,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,238911322,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,238911912,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,238969734,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Premiere Sedan 4-Door,3.7L,238986889,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKT,Premiere Sport Utility 4-Door,3.7L,238988521,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,238999337,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,239061733,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253596340,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2018,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,239046172,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,239047982,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,239061733,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,239062332,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2018,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,239072712,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Premiere Sport Utility 4-Door,2.0L,239117350,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,239127294,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,239126676,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,239143256,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2018,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,239143547,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,239144625,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,239212573,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,239225578,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKC,Select Sport Utility 4-Door,2.3L,239226468,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Premiere Sport Utility 4-Door,3.5L,241777361,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Premiere Sport Utility 4-Door,3.5L,241799601,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,241800391,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKT,Premiere Sport Utility 4-Door,3.7L,238988521,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018,Lincoln,MKT,Reserve Sport Utility 4-Door,3.5L,241913150,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKT,Elite Sport Utility 4-Door,3.5L,242026208,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,2335874709,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKT,Livery Sport Utility 4-Door,3.5L,17064831123,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKX,Select Sport Utility 4-Door,2.7L,241801951,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,241871232,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2018,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,241871562,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,241871602,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Premiere Sport Utility 4-Door,3.7L,241872612,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,MKT,Reserve Sport Utility 4-Door,3.5L,241913150,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKX,Reserve Sport Utility 4-Door,3.7L,241913950,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2018,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,241926534,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,241928064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2011,Lincoln,MKS,EcoBoost Sedan 4-Door,3.5L,22039846075,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,241931064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Premiere Sport Utility 4-Door,2.7L,241940656,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKX,Reserve Sport Utility 4-Door,2.7L,241927189,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,241954005,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,22053348771,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Black Label Sport Utility 4-Door,3.7L,241954785,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018,Lincoln,MKX,Select Sport Utility 4-Door,3.7L,241961947,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,241800081,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2018,Lincoln,MKZ,Black Label Sedan 4-Door,3.0L,241855162,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,241871602,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Lincoln,MKZ,Black Label Sedan 4-Door,2.0L,241910030,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Lincoln,MKZ,Select Sedan 4-Door,2.0L,241913910,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,241930114,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,241940816,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,MKZ,Premiere Hybrid Sedan 4-Door,2.0L,241961417,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2018,Lincoln,MKZ,Premiere Sedan 4-Door,2.0L,242006373,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Lincoln,MKX,Black Label Sport Utility 4-Door,2.7L,242022138,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,22058109190,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2018,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,242025238,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2018,Lincoln,MKZ,Black Label Hybrid Sedan 4-Door,2.0L,242027558,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2018,Lincoln,MKZ,Select Sedan 4-Door,3.0L,252059971,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,Premiere Sport Utility 4-Door,3.5L,241777361,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,241800391,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,241928064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,241931064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,241941676,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,242028308,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2018,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,242531141,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2014,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,22064829064,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2018,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253596340,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2018,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253713143,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2019,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,247949912,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,247989710,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,248013704,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKT,Base Sport Utility 4-Door,3.5L,248022056,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,248044857,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,248104378,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,250311331,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,250312021,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,250312041,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,250312211,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve I Hybrid Sedan 4-Door,2.0L,250384700,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2019,Lincoln,Continental,Select Sedan 4-Door,3.7L,250393560,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2019,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,250393820,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Base Sedan 4-Door,2.0L,250411704,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve I Sedan 4-Door,2.0L,250412074,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,250419850,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,250419900,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,250422446,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Base Sedan 4-Door,3.7L,250424596,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2019,Lincoln,MKZ,Base Sedan 4-Door,2.0L,250442077,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,250449206,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,250466745,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,250467415,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve I Sedan 4-Door,2.0L,250504288,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,250511318,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,250536353,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Select Sedan 4-Door,3.7L,250536688,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2019,Lincoln,MKZ,Reserve II Hybrid Sedan 4-Door,2.0L,251646571,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,23038322429,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,252148739,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2012,Lincoln,MKT,EcoBoost Sport Utility 4-Door,3.5L,23039852167,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,252203179,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2019,Lincoln,MKZ,Reserve II Sedan 4-Door,2.0L,251719472,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve II Sedan 4-Door,3.0L,251752130,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,252203419,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve II Sedan 4-Door,2.0L,251754960,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,252226047,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,251777854,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,251781254,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,251783466,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,23047177104,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,251793689,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Select Sport Utility 4-Door,2.7L,251801445,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,251814477,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,Continental,Select Sedan 4-Door,2.7L,18055211393,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,251876533,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253557272,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2019,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253625186,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2019,Lincoln,Continental,80th Anniversary Coach Door Edition Sedan 4-Door,3.0L,253654267,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Continental,Select Sedan 4-Door,2.7L,18055211393,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,MKC,Base Sport Utility 4-Door,2.0L,247949912,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKC,Select Sport Utility 4-Door,2.0L,247950542,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKC,Black Label Sport Utility 4-Door,2.0L,247989710,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKC,Reserve Sport Utility 4-Door,2.0L,248035325,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Lincoln,MKC,Reserve Sport Utility 4-Door,2.3L,3041090457,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2019,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,19041083796,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKC,Black Label Sport Utility 4-Door,2.3L,24041079706,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,252005121,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,252127452,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,252134274,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,252161905,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,252171227,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,252188034,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,252188214,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2026,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,23075765065,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2020,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,252225457,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKT,Reserve Sport Utility 4-Door,3.5L,247990370,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,MKT,Base Sport Utility 4-Door,3.5L,248022056,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,MKT,Livery Sport Utility 4-Door,3.7L,252272139,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019,Lincoln,MKT,Limousine Sport Utility 4-Door,3.7L,24064820474,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Reserve I Hybrid Sedan 4-Door,2.0L,250384700,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Base Sedan 4-Door,2.0L,250411704,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKZ,Reserve I Sedan 4-Door,2.0L,250412074,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKZ,Hybrid Sedan 4-Door,2.0L,250432005,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Reserve II Hybrid Sedan 4-Door,2.0L,251646571,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Reserve II Sedan 4-Door,2.0L,251719472,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,MKZ,Reserve II Sedan 4-Door,3.0L,251752130,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,MKZ,Select Hybrid Sedan 4-Door,2.0L,252148739,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,252203179,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2019,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,252203419,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,251718192,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Select Sport Utility 4-Door,2.7L,251718352,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,251752610,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,251777854,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,251781254,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Select Sport Utility 4-Door,2.0L,251785536,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,251814477,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,250312211,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,250381462,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,Select Sport Utility 4-Door,3.5L,250393820,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,250394640,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,250467415,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,L Select Sport Utility 4-Door,3.5L,250477767,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,250511318,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,252196872,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,252257064,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2020,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,252271419,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,252285063,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,252285383,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,252351938,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2020,Lincoln,Aviator,Black Label Grand Touring Sport Utility 4-Door,3.0L,252353473,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2020,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,252354023,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2020,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,253490831,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2026,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,23078739488,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Continental,Reserve Sedan 4-Door,3.0L,253491541,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,253556312,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Continental,Livery Sedan 4-Door,3.7L,253595250,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2020,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,253619464,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,MKZ,Base Sedan 4-Door,2.0L,253620954,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2020,Lincoln,Continental,Base Sedan 4-Door,3.7L,253624816,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
 2020,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,253632679,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,253648165,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Continental,Reserve Sedan 4-Door,2.7L,253654277,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,MKZ,Base Sedan 4-Door,2.0L,253656177,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2020,Lincoln,Continental,Coach Door Edition Sedan 4-Door,3.0L,253712298,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Continental,Black Label Sedan 4-Door,3.0L,253712948,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Continental,Black Label Sedan 4-Door,2.7L,253713153,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2010,Lincoln,Town Car,Executive Hearse 4-Door,4.6L,24036074289,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2006,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,24036074462,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2022,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,24045480555,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
-2020,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,9055205477,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Lincoln,MKT,Limousine Sport Utility 4-Door,3.7L,24064820474,3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
-2013,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,24064820536,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,3036083795,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,3055215063,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,11055201498,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,MKZ,Reserve Sedan 4-Door,3.0L,253597280,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,MKZ,Base Sedan 4-Door,2.0L,253620954,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,MKZ,Reserve Sedan 4-Door,2.0L,253626746,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,253657147,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,252126732,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,252127452,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,252188034,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,252188214,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,252225457,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,252005121,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,252134274,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,252142856,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,252171227,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,252172107,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,21041084889,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2021,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,4037918547,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2021,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,14037460229,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2021,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,19037918047,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Lincoln,Aviator,Black Label Grand Touring Sport Utility 4-Door,3.0L,20037925819,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,26037930055,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2021,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,2326258855,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,3037468313,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,10055214775,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,25041980004,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,2309360846,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2021,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,3038319143,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,21037924037,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,26038320850,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
 2021,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,4037918887,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2021,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,11037920159,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,13037462819,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2021,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,13037923977,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2021,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,14037543080,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,17037922485,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,25041980004,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
-2021,Lincoln,Aviator,Black Label Grand Touring Sport Utility 4-Door,3.0L,20037925819,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2021,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,21037924037,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2021,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,21037924195,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,23037932298,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,21041084864,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2021,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,24037921135,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,24055204390,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,26037930055,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2021,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,26038320850,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,2332759253,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,4061709759,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,7061722419,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2022,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,8047171505,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,8061713939,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2022,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,10054603465,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.3L,10061719900,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
 2022,Lincoln,Aviator,Black Label Grand Touring Sport Utility 4-Door,3.0L,11047161017,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,12054589867,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.3L,13061705717,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
-2022,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,15051273671,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,L Base Sport Utility 4-Door,3.5L,16061704272,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,17051268298,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,18051274141,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2026,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,25078725096,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2022,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,19047170703,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,21047174526,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,21061717098,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2010,Lincoln,Town Car,Executive Limousine 4-Door,4.6L,26036084896,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2021,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,26037486986,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Navigator,L Base Sport Utility 4-Door,3.5L,25061701140,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2022,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,26047178770,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,21047174198,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,23047177104,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2022,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,4055202276,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.3L,6045495527,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,8055211113,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.3L,10061719900,2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,24045480555,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,11051262389,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,14051266828,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,15051273671,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,18051274141,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,2332759253,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,5061721770,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,7061722295,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,7061722419,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,8061713939,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2022,Lincoln,Navigator,L Base Sport Utility 4-Door,3.5L,16061704272,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2022,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,26061720871,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2017,Lincoln,MKZ,Reserve Hybrid Sedan 4-Door,2.0L,26055218559,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2022,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,26055218657,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,26059373847,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,2335313726,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,26064835469,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2023,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,5055728437,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,5064275183,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,10055725760,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,11053877315,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,11053877343,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,8055723833,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2023,Lincoln,Aviator,Black Label Grand Touring Sport Utility 4-Door,3.0L,11055712768,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,12053341950,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,12053877257,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,14053880989,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,15053353288,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,21053355479,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,22055722017,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,25053872306,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,25055708510,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2023,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,27053879642,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Aviator,Grand Touring Sport Utility 4-Door,3.0L,17055719651,3.0L 2956CC 181Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Lincoln,Aviator,Base Sport Utility 4-Door,3.0L,21055726975,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2023,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,28055726274,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,2330408536,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,4059360156,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,2335313726,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,5064275183,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,22058109190,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2023,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.7L,4053344232,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,11053342346,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Lincoln,Nautilus,Base Sport Utility 4-Door,2.0L,12053341950,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.7L,15053353288,2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,6053897383,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,11053877315,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,12053877257,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,13053882017,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,14053880989,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2023,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,27053879642,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2024,Lincoln,Aviator,Premiere Sport Utility 4-Door,3.0L,4065328698,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,5059072022,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2024,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,5065338572,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Nautilus,Black Label Hybrid Sport Utility 4-Door,2.0L,6064839851,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2022,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,27061712968,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2016,Lincoln,MKT,Limousine Sport Utility 4-Door,3.5L,27064825408,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2024,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,8065327651,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,9059361675,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,9064823052,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,11059052196,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Aviator,Premiere Sport Utility 4-Door,3.0L,13065325029,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,15059366801,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,16064820210,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2024,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,18064267556,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,22064828975,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,25065321240,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2024,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,26065338069,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Black Label Hybrid Sport Utility 4-Door,2.0L,3066025476,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2025,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,4066019066,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,5063614906,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2024,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,6064277450,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Lincoln,Corsair,Base Sport Utility 4-Door,2.0L,18064267556,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Lincoln,Nautilus,Black Label Hybrid Sport Utility 4-Door,2.0L,6064839851,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2024,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,9064823052,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,16064820210,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2024,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16064820388,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,21064834267,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2024,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,22064828975,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,2330408536,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,4059360108,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,4059360156,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,Base Sport Utility 4-Door,3.5L,5059072022,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,9059361675,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2024,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,26059373847,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2025,Lincoln,Aviator,Reserve Sport Utility 4-Door,3.0L,2337067479,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
 2025,Lincoln,Aviator,Black Label Sport Utility 4-Door,3.0L,5066030993,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,13075754622,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
-2020,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,28055213312,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,15066024361,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,15066024395,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Corsair,Premiere Sport Utility 4-Door,2.0L,20075761818,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Lincoln,Aviator,Premiere Sport Utility 4-Door,3.0L,22066021733,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Aviator,Livery Sport Utility 4-Door,3.0L,23066032317,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
-2025,Lincoln,Aviator,Premiere Sport Utility 4-Door,3.0L,23066032386,3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2025,Lincoln,Corsair,Reserve Sport Utility 4-Door,2.0L,6075771967,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Lincoln,Corsair,Grand Touring Sport Utility 4-Door,2.5L,10071440425,2.5L 2488CC 152Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Naturally Aspirated
+2025,Lincoln,Corsair,Premiere Sport Utility 4-Door,2.0L,10075765488,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Lincoln,Nautilus,Black Label Hybrid Sport Utility 4-Door,2.0L,3066025476,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2025,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,5066030915,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2025,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,11066009508,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2025,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,15066024361,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16066015789,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,18066025801,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,6075772190,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2025,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,13075754622,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2025,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,19075758894,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2025,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,21075769980,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2025,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,23075765025,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2026,Lincoln,Nautilus,Black Label Sport Utility 4-Door,2.0L,2346804193,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
 2026,Lincoln,Nautilus,Black Label Hybrid Sport Utility 4-Door,2.0L,4075762087,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2026,Lincoln,Nautilus,Reserve Sport Utility 4-Door,2.0L,16075750491,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Lincoln,Nautilus,Premiere Sport Utility 4-Door,2.0L,18075769261,2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Lincoln,Nautilus,Premiere Hybrid Sport Utility 4-Door,2.0L,20075761840,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2026,Lincoln,Nautilus,Reserve Hybrid Sport Utility 4-Door,2.0L,23075765065,2.0L 1999CC 122Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
 2026,Lincoln,Navigator,L Black Label Sport Utility 4-Door,3.5L,12078720616,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
 2026,Lincoln,Navigator,Black Label Sport Utility 4-Door,3.5L,14078726298,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2026,Lincoln,Navigator,L Livery Sport Utility 4-Door,3.5L,17078739661,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2026,Lincoln,Navigator,L Reserve Sport Utility 4-Door,3.5L,23078739488,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2026,Lincoln,Navigator,Reserve Sport Utility 4-Door,3.5L,25078725096,3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
