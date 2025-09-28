@@ -1,779 +1,681 @@
 year,make,model,trim,engine,epid,ebay_engine
-1991,Mercury,Colony Park,LS Wagon 4-Door,5.0L,73973804,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Colony Park,LS Wagon 4-Door,5.0L,73973894,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Cougar,LS Sedan 2-Door,5.0L,73973984,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Mercury,Cougar,V6 Coupe 2-Door,2.5L,73974014,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1985,Mercury,Grand Marquis,Base Sedan 2-Door,5.0L,73974044,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,73974074,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,73974094,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,73974114,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,73974124,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,73974144,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Mercury,Marquis,Brougham Sedan 4-Door,3.8L,73974424,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,73974564,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,73974574,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,LS Wagon 4-Door,3.8L,73974614,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1988,Mercury,Sable,LS Sedan 4-Door,3.0L,73974624,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,73974634,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1988,Mercury,Sable,LS Sedan 4-Door,3.8L,73974644,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1989,Mercury,Sable,LS Wagon 4-Door,3.8L,73974654,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Sable,LS Sedan 4-Door,3.0L,73974674,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1989,Mercury,Sable,LS Wagon 4-Door,3.0L,73974684,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,73974744,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1994,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,73974914,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1991,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74000621,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Mercury,Cougar,LS Sedan 2-Door,3.8L,74000691,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74000721,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1996,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74000741,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1985,Mercury,Grand Marquis,Base Sedan 4-Door,5.0L,74000791,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74000831,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74000851,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74000871,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1985,Mercury,Marquis,Base Wagon 4-Door,3.8L,74001001,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74001131,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1987,Mercury,Sable,GS Sedan 4-Door,3.0L,74001151,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,LS Wagon 4-Door,3.0L,74001231,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74001301,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-1988,Mercury,Sable,GS Sedan 4-Door,3.8L,74001331,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Topaz,GS Sedan 2-Door,3.0L,74001341,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,LS Wagon 4-Door,3.8L,74001371,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Sable,GS Sedan 4-Door,3.0L,74001381,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1997,Mercury,Sable,LS Sedan 4-Door,3.0L,74001441,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1992,Mercury,Topaz,Sport Sedan 4-Door,3.0L,74001451,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74001511,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2002,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74001541,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1993,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74001661,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1986,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.0L,74002572,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74002602,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Mercury,Cougar,LS Sedan 2-Door,3.8L,74002622,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74002642,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74002672,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Mercury,Cougar,LS Sedan 2-Door,5.0L,74002712,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74002722,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1993,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74002752,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1988,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74002792,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.0L,74002884,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1986,Mercury,Marquis,Base Sedan 4-Door,3.8L,74002992,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74003082,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Sable,GS Wagon 4-Door,3.0L,74003142,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Sable,GS Wagon 4-Door,3.0L,74003182,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1988,Mercury,Sable,LS Wagon 4-Door,3.8L,74003212,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,LS Wagon 4-Door,3.8L,74003232,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Mystique,LS Sedan 4-Door,2.5L,74003242,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1989,Mercury,Sable,GS Wagon 4-Door,3.0L,74003252,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Sable,GS Sedan 4-Door,3.8L,74003272,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,LS Wagon 4-Door,3.8L,74003332,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,LS Sedan 4-Door,3.8L,74003342,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Topaz,GS Sedan 4-Door,3.0L,74003432,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74003472,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1998,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74003592,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1995,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74003602,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2006,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74005024,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74007644,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1986,Mercury,Cougar,LS Sedan 2-Door,3.8L,74008605,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74008655,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74008705,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74008735,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74008745,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Cougar,Base Sedan 2-Door,5.0L,74008775,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74008785,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74008805,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74008855,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74008865,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74008915,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,74008965,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74009235,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1999,Mercury,Sable,GS Sedan 4-Door,3.0L,74009275,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2002,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74009295,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-2002,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74009315,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1991,Mercury,Sable,LS Sedan 4-Door,3.8L,74009345,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Mystique,LS Sedan 4-Door,2.5L,74009355,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1992,Mercury,Sable,LS Wagon 4-Door,3.8L,74009365,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,LS Wagon 4-Door,3.0L,74009375,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74009395,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1997,Mercury,Sable,GS Wagon 4-Door,3.0L,74009455,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1997,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009495,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Mercury,Topaz,GS Sedan 2-Door,3.0L,74009505,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Sedan 4-Door,3.0L,74009525,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1996,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009535,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2003,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74009555,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1994,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009645,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Mercury,Topaz,XR5 Sedan 2-Door,3.0L,74009665,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74009765,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1987,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74010676,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Cougar,LS Sedan 2-Door,3.8L,74010756,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74010776,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74010806,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74010836,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74010846,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1985,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,74010866,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74010886,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1993,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74010906,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Marquis,Brougham Wagon 4-Door,3.8L,74011136,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74011246,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Mercury,Sable,GS Wagon 4-Door,3.8L,74011276,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,GS Sedan 4-Door,3.8L,74011336,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,GS Wagon 4-Door,3.0L,74011346,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,GS Sedan 4-Door,3.8L,74011356,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1987,Mercury,Sable,LS Sedan 4-Door,3.0L,74011396,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Sable,LS Sedan 4-Door,3.0L,74011426,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1995,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74011596,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2001,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74011606,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1993,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74011616,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1998,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74023552,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1989,Mercury,Cougar,LS Sedan 2-Door,3.8L,74023819,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Cougar,Base Sedan 2-Door,3.8L,74023849,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74023859,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1989,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74023899,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74023989,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1987,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74024099,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,GS Sedan 4-Door,2.5L,74024309,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-2002,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74024359,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1985,Mercury,Marquis,Base Sedan 4-Door,3.8L,74024389,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,GS Wagon 4-Door,3.8L,74024429,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1989,Mercury,Sable,GS Sedan 4-Door,3.0L,74024469,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,GS Spree Sedan 4-Door,2.5L,74024549,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74024569,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Mercury,Sable,GS Wagon 4-Door,3.8L,74024579,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1988,Mercury,Sable,GS Wagon 4-Door,3.0L,74024609,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,GS Wagon 4-Door,3.8L,74024639,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,GS Sedan 4-Door,3.0L,74024659,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,LS Sedan 4-Door,3.8L,74024699,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,LS Sedan 4-Door,3.8L,74024709,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Sable,LS Wagon 4-Door,3.0L,74024739,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,LS Sedan 4-Door,3.0L,74024769,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-1997,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74024869,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74024899,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74024959,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1994,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74024989,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74025009,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2004,Mercury,Marauder,Base Sedan 4-Door,4.6L,74028591,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-1987,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74029273,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74029473,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Grand Marquis,Base Sedan 2-Door,5.0L,74029503,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Cougar,LS Sedan 2-Door,5.0L,74029523,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74029533,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74029553,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1991,Mercury,Cougar,LS Sedan 2-Door,5.0L,74029563,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74029583,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74029601,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74029603,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1995,Mercury,Sable,GS Wagon 4-Door,3.8L,74029903,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,LS Wagon 4-Door,3.8L,74029913,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Sable,GS Wagon 4-Door,3.0L,74029953,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1988,Mercury,Sable,GS Sedan 4-Door,3.0L,74029973,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,GS Sedan 4-Door,3.0L,74029993,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,GS Sedan 4-Door,3.0L,74030003,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1989,Mercury,Sable,LS Sedan 4-Door,3.8L,74030023,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,GS Wagon 4-Door,3.0L,74030043,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,LS Sedan 4-Door,3.8L,74030053,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,LS Sedan 4-Door,3.0L,74030063,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1992,Mercury,Sable,GS Sedan 4-Door,3.0L,74030093,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1987,Mercury,Sable,LS Wagon 4-Door,3.0L,74030103,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74030193,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1995,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74030203,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1998,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74030243,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2000,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74030283,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1992,Mercury,Topaz,Sport Sedan 2-Door,3.0L,74030363,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2005,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74031402,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.0L,74031552,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-2006,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74031661,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.6L,74031791,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.0L,74031881,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2006,Mercury,Montego,Premier Sedan 4-Door,3.0L,74033792,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Mariner,Luxury Sport Utility 4-Door,3.0L,74035242,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74035432,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1985,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.0L,74035748,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Capri,GS Hatchback 2-Door,3.8L,250435685,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Mercury,Capri,GS Hatchback 2-Door,2.3L,250500693,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Capri,RS Hatchback 2-Door,5.0L,250501158,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Mercury,Cougar,Base Sedan 2-Door,5.0L,74035778,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Mercury,Cougar,LS Sedan 2-Door,5.0L,74035798,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74035858,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1993,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74035898,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74035908,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74035918,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74035928,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1997,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74035968,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2003,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74036268,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Mercury,Milan,Premier Sedan 4-Door,3.0L,74036282,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1995,Mercury,Mystique,Base Sedan 4-Door,2.5L,74036338,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1990,Mercury,Sable,GS Wagon 4-Door,3.8L,74036348,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2004,Mercury,Sable,GS Sedan 4-Door,3.0L,74036355,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-1990,Mercury,Sable,GS Sedan 4-Door,3.8L,74036378,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74036388,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1993,Mercury,Sable,GS Sedan 4-Door,3.8L,74036408,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,LS Young America Sedan 4-Door,2.5L,74036418,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1997,Mercury,Sable,LS Wagon 4-Door,3.0L,74036438,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1995,Mercury,Sable,GS Sedan 4-Door,3.8L,74036458,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Sable,LS Wagon 4-Door,3.0L,74036468,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2004,Mercury,Sable,GS Wagon 4-Door,3.0L,74036475,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-2000,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74036488,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1992,Mercury,Sable,LS Sedan 4-Door,3.8L,74036498,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Wagon 4-Door,3.0L,74036508,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2001,Mercury,Sable,LS Sedan 4-Door,3.0L,74036518,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2001,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74036528,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1994,Mercury,Topaz,GS Sedan 4-Door,3.0L,74036568,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Topaz,GS Sedan 2-Door,3.0L,74036588,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74036628,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-2001,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74036748,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1998,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74036788,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2004,Mercury,Monterey,Base Mini Passenger Van 4-Door,4.2L,74036945,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
-2005,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74037925,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2007,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74041335,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Cougar,LS Sedan 2-Door,5.0L,74041450,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041475,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 1985,Mercury,Cougar,Base Sedan 2-Door,3.8L,74041520,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74041590,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2007,Mercury,Montego,Luxury Sedan 4-Door,3.0L,74041595,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1994,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74041610,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Cougar,LS Sedan 2-Door,3.8L,74041620,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041630,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1987,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74041640,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Mercury,Montego,Premier Sedan 4-Door,3.0L,74041645,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041660,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2000,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74041670,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1994,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74041710,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Milan,Base Sedan 4-Door,3.0L,74041886,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1986,Mercury,Marquis,Base Wagon 4-Door,3.8L,74041950,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74041995,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1999,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74042080,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Mercury,Sable,LS Sedan 4-Door,3.0L,74042100,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Mystique,LS Sedan 4-Door,2.5L,74042110,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1989,Mercury,Sable,GS Sedan 4-Door,3.8L,74042140,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1988,Mercury,Sable,GS Wagon 4-Door,3.8L,74042150,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Sable,LS Wagon 4-Door,3.0L,74042180,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,LS Wagon 4-Door,3.0L,74042190,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2000,Mercury,Sable,LS Sedan 4-Door,3.0L,74042250,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1992,Mercury,Topaz,LTS Sedan 4-Door,3.0L,74042260,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74042420,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2001,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74044056,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-2007,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74044516,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74051839,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74052429,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Monterey,Convenience Mini Passenger Van 4-Door,4.2L,74052799,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
-2008,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74053106,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2006,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74054839,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74054969,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2004,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74057243,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2002,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74057727,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74057733,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1990,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74057757,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74057787,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Mercury,Cougar,LS Sedan 2-Door,3.8L,74057817,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74057837,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1986,Mercury,Grand Marquis,Base Sedan 4-Door,5.0L,74057927,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Mercury,Sable,LS Sedan 4-Door,3.0L,74058227,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,LS Sedan 4-Door,3.0L,74058277,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,GS Sedan 4-Door,3.0L,74058377,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74058387,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1988,Mercury,Sable,LS Wagon 4-Door,3.0L,74058407,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1991,Mercury,Sable,GS Wagon 4-Door,3.8L,74058427,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Mercury,Sable,LS Sedan 4-Door,3.0L,74058467,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2005,Mercury,Monterey,Premier Mini Passenger Van 4-Door,4.2L,74058513,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74058517,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1995,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74058647,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1993,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74058677,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2004,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74063838,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-2004,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74063848,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.6L,74064508,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74064758,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-2006,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74066888,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Milan,Premier Sedan 4-Door,3.0L,74066898,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,74074230,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
-2007,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74074240,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2007,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74074340,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74085417,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2004,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74085677,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2006,Mercury,Montego,Luxury Sedan 4-Door,3.0L,74088897,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2002,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74091167,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-2009,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74105207,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-1990,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83244434,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Mercury,Tracer,GS Sedan 4-Door,2.0L,83252764,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83253464,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Mercury,Topaz,GS Sedan 4-Door,2.3L,83253644,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Tracer,Base Hatchback 4-Door,1.6L,83259944,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,LS Sedan 4-Door,2.3L,83261124,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,GS Spree Sedan 4-Door,2.0L,83269064,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83269774,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83269784,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83270914,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83274395,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83274415,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1999,Mercury,Tracer,LS Sedan 4-Door,2.0L,83275294,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Wagon 4-Door,1.9L,83276434,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Cougar,XR-7 Sedan 2-Door,2.3L,83276694,2.3L 140Cu. In. l4 GAS SOHC Turbocharged
-1985,Mercury,Marquis,Base Sedan 4-Door,2.3L,83276704,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Mercury,Topaz,LTS AWD Sedan 4-Door,2.3L,83277134,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,LS Sedan 2-Door,2.0L,83277185,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1992,Mercury,Capri,Base Convertible 2-Door,1.6L,83278254,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1986,Mercury,Topaz,GS Sedan 2-Door,2.0L,83278594,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1989,Mercury,Tracer,Base Hatchback 2-Door,1.6L,83278642,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Hatchback 4-Door,2.0L,83279682,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1991,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83280341,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1994,Mercury,Tracer,Base Sedan 4-Door,1.9L,83280361,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,LS Sedan 4-Door,2.3L,83280882,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Tracer,LS Sedan 4-Door,2.0L,83281011,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Lynx,GS Wagon 4-Door,1.6L,83281481,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83282451,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Mercury,Mystique,GS Sedan 4-Door,2.0L,83282911,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Mercury,Tracer,Base Sedan 4-Door,1.9L,83283035,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Mercury,Topaz,LTS AWD Sedan 4-Door,2.3L,83283075,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Tracer,LS Wagon 4-Door,2.0L,83283465,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,GS Sedan 4-Door,2.3L,83284935,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Mercury,Cougar,Base Coupe 2-Door,2.0L,83285165,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1987,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83285542,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83285552,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2000,Mercury,Cougar,Base Coupe 2-Door,2.0L,83286192,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83287352,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Tracer,Base Sedan 4-Door,1.9L,83287371,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Topaz,Base Sedan 4-Door,2.0L,83287972,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Topaz,GS Sedan 4-Door,2.0L,83288831,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Topaz,Base Sedan 2-Door,2.0L,83291115,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Marquis,Brougham Wagon 4-Door,2.3L,83291895,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Mercury,Topaz,LS Sedan 4-Door,2.3L,83292665,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,Base Sedan 4-Door,2.0L,83292852,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83293942,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Lynx,L Wagon 4-Door,1.9L,83294162,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2007,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,83294376,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-1993,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83294512,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83295536,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83295731,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83295751,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83295952,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1990,Mercury,Topaz,GS Sedan 2-Door,2.3L,83296226,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Topaz,LS Sedan 2-Door,2.0L,83296331,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1991,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83296956,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83298285,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1994,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83298305,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Topaz,LS Sedan 4-Door,2.3L,83298989,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83299935,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Marquis,Base Wagon 4-Door,2.3L,83300305,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Mercury,Capri,Base Convertible 2-Door,1.6L,83300335,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1986,Mercury,Topaz,Base Sedan 2-Door,2.3L,83300429,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1994,Mercury,Topaz,GS Sedan 4-Door,2.3L,83300515,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Lynx,L Wagon 4-Door,2.0L,83300702,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1990,Mercury,Topaz,XR5 AWD Sedan 2-Door,2.3L,83300889,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Lynx,GS Wagon 4-Door,1.9L,83301372,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Topaz,GS Sedan 4-Door,2.0L,83301962,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Topaz,Base Sedan 4-Door,2.3L,83301986,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Mercury,Tracer,GS Sedan 4-Door,2.0L,83302961,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Topaz,LS Sedan 4-Door,2.0L,83303222,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1988,Mercury,Tracer,Base Wagon 4-Door,1.6L,83303722,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Mercury,Topaz,GS Sedan 2-Door,2.3L,83303821,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83304761,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1987,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83304876,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1994,Mercury,Capri,Base Convertible 2-Door,1.6L,83305155,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Mercury,Tracer,Base Hatchback 4-Door,1.6L,83305405,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Mercury,Mystique,GS Sedan 4-Door,2.0L,83305661,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1995,Mercury,Mystique,GS Sedan 4-Door,2.0L,83306029,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1985,Mercury,Topaz,GS Sedan 2-Door,2.3L,83306313,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83306715,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,GS Sedan 4-Door,2.3L,83306909,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83307413,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83307459,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Mercury,Tracer,Base Wagon 4-Door,1.6L,83308383,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83308769,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-2010,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,83309093,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-1989,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83309102,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1990,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83309319,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-2006,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,83309632,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-1986,Mercury,Marquis,Base Sedan 4-Door,2.3L,83309746,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Mercury,Topaz,GS Sedan 2-Door,2.3L,83310482,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Lynx,L Wagon 4-Door,1.6L,83311301,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83311506,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Mercury,Tracer,Base Sedan 4-Door,1.9L,83311516,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83312116,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Mercury,Tracer,LS Wagon 4-Door,2.0L,83312259,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Marquis,Brougham Sedan 4-Door,2.3L,83312261,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83312321,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1993,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83312576,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Mercury,Milan,Base Sedan 4-Door,2.3L,83313689,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83313721,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Tracer,Trio Wagon 4-Door,2.0L,83314063,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Sable,GS Sedan 4-Door,2.5L,83314443,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
-2006,Mercury,Milan,Premier Sedan 4-Door,2.3L,83314663,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-1990,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83315509,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,GS Sedan 2-Door,2.0L,83316339,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Topaz,GS Sedan 4-Door,2.3L,83316896,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Capri,Base Convertible 2-Door,1.6L,83317279,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1990,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83318426,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1987,Mercury,Topaz,GS Sedan 2-Door,2.3L,83320953,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,Base Sedan 2-Door,2.3L,83321409,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Tracer,GS Sedan 4-Door,2.0L,83322573,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Mercury,Mystique,GS Sedan 4-Door,2.0L,83323263,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1985,Mercury,Topaz,LS Sedan 2-Door,2.3L,83323419,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83323453,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83324153,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83324679,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83324689,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,LS Sedan 2-Door,2.3L,83324796,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1990,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83326218,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,Base Sedan 4-Door,2.3L,83327206,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Topaz,LS Sedan 2-Door,2.3L,83327568,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Mercury,Topaz,LS Sedan 4-Door,2.3L,83328753,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,Base Sedan 2-Door,2.0L,83328918,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1994,Mercury,Topaz,GS Sedan 2-Door,2.3L,83329110,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1988,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83329580,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1987,Mercury,Topaz,GS Sedan 4-Door,2.3L,83329897,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Mystique,LS Sedan 4-Door,2.0L,83329990,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Mercury,Topaz,GS Sedan 4-Door,2.3L,83330199,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83330647,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Mercury,Tracer,LS Wagon 4-Door,2.0L,83330839,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83331287,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
-1991,Mercury,Topaz,XR5 AWD Sedan 2-Door,2.3L,83331403,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83331460,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1994,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83331480,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83331557,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83331719,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-2002,Mercury,Cougar,Base Coupe 2-Door,2.0L,83331959,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1999,Mercury,Mystique,GS Sedan 4-Door,2.0L,83331967,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83332390,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
-1993,Mercury,Topaz,GS Sedan 4-Door,2.3L,83333848,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83334518,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
-1994,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83334688,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Hatchback 4-Door,1.9L,83334698,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83334838,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1995,Mercury,Tracer,Base Sedan 4-Door,1.9L,83334848,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83336488,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1987,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83336563,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
 1985,Mercury,Cougar,XR-7 Sedan 2-Door,2.3L,83337333,2.3L 140Cu. In. l4 GAS SOHC Turbocharged
-1989,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83337340,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83337623,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83337633,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Topaz,GS Sedan 4-Door,2.3L,83338010,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83338453,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,LS Sedan 4-Door,2.0L,83338627,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1988,Mercury,Tracer,Base Hatchback 2-Door,1.6L,83338890,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Wagon 4-Door,2.0L,83338953,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1995,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83339193,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-1993,Mercury,Tracer,Base Sedan 4-Door,1.9L,83341368,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83342598,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Topaz,GS Sedan 2-Door,2.3L,83344118,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1985,Mercury,Topaz,LS Sedan 4-Door,2.3L,83345060,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Topaz,GS Sedan 2-Door,2.3L,83345267,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Mystique,LS Sedan 4-Door,2.0L,83345767,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83346997,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83347130,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83349198,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1991,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83351118,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
-1990,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83352190,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1987,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83353147,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83353620,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
-1988,Mercury,Topaz,GS Sedan 2-Door,2.3L,83354107,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1990,Mercury,Topaz,GS Sedan 4-Door,2.3L,83354190,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83354790,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2000,Mercury,Mystique,GS Sedan 4-Door,2.0L,83355290,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-2001,Mercury,Cougar,Base Coupe 2-Door,2.0L,83355530,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Mercury,Mystique,LS Sedan 4-Door,2.0L,83357078,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Mercury,Topaz,GS Sedan 2-Door,2.3L,83357478,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Mercury,Tracer,LS Sedan 4-Door,2.0L,83358148,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
-1999,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83358878,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Grand Marquis,Base Sedan 2-Door,5.0L,73974044,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,Base Sedan 4-Door,5.0L,74000791,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,74010866,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74029533,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.0L,74035748,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,2318214001,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,20047170806,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Mercury,Lynx,GS Wagon 4-Door,1.6L,83281481,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Lynx,L Wagon 4-Door,1.9L,83294162,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Lynx,L Wagon 4-Door,2.0L,83300702,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Lynx,GS Wagon 4-Door,1.9L,83301372,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Lynx,L Wagon 4-Door,1.6L,83311301,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Wagon 4-Door,2.0L,83360080,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1991,Mercury,Topaz,LS Sedan 4-Door,2.3L,83362350,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Topaz,Base Sedan 4-Door,2.0L,83363157,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-2011,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,98985357,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Mercury,Milan,Premier Sedan 4-Door,3.0L,109906279,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,109908701,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Milan,Premier Sedan 4-Door,2.3L,109908971,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,109919045,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,109961767,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1986,Mercury,Grand Marquis,LS Sedan 2-Door,5.8L,139635811,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Grand Marquis,GS Sedan 2-Door,5.0L,139636201,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Cougar,LS Sedan 2-Door,3.8L,139673312,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Grand Marquis,LS Sedan 4-Door,5.8L,139673752,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,139690069,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,139733890,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Mercury,Lynx,GS Wagon 4-Door,1.9L,153410321,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2002,Mercury,Cougar,Base Coupe 2-Door,2.5L,153421471,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1986,Mercury,Lynx,L Wagon 4-Door,2.0L,153423961,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1994,Mercury,Tracer,Base Wagon 4-Door,1.9L,153424091,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Mercury,Tracer,Base Wagon 4-Door,1.9L,153425851,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Sable,GS Wagon 4-Door,2.5L,153451415,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Mercury,Mystique,LS Sedan 4-Door,2.5L,153456975,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1996,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,153459982,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Tracer,Base Wagon 4-Door,1.9L,153463789,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,GS Wagon 4-Door,2.0L,153464626,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1995,Mercury,Tracer,Base Wagon 4-Door,1.9L,153466982,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Mercury,Tracer,Base Wagon 4-Door,1.9L,153467729,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Mercury,Mystique,GS Sedan 4-Door,2.5L,153472415,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1996,Mercury,Mystique,LS Sedan 4-Door,2.5L,153484976,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-2001,Mercury,Sable,LS Wagon 4-Door,3.0L,153494977,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2001,Mercury,Sable,LS Wagon 4-Door,3.0L,153498690,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-1998,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,153498980,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
-2001,Mercury,Cougar,Base Coupe 2-Door,2.5L,153502143,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1986,Mercury,Marquis,Base Wagon 4-Door,2.3L,153507100,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Sable,GS Sedan 4-Door,3.0L,153508933,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Mercury,Sable,GS Wagon 4-Door,3.0L,153516933,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-2005,Mercury,Sable,GS Sedan 4-Door,3.0L,153521378,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-1996,Mercury,Mystique,GS Sedan 4-Door,2.5L,153529038,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
-1986,Mercury,Lynx,L Wagon 4-Door,1.9L,153529978,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Mercury,Tracer,Base Wagon 4-Door,1.9L,153531188,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2003,Mercury,Sable,GS Sedan 4-Door,3.0L,153535248,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
-1995,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,153538758,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-2005,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,182708549,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2003,Mercury,Sable,LS Sedan 4-Door,3.0L,182759990,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1994,Mercury,Sable,LS Wagon 4-Door,3.0L,221883661,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Sable,GS Sedan 4-Door,3.0L,221884561,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,LTS Sedan 4-Door,3.0L,221885011,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,LS Sedan 4-Door,3.0L,221886031,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Mercury,Sable,GS Wagon 4-Door,3.0L,221955572,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,LS Wagon 4-Door,3.0L,221955722,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,G Sedan 4-Door,3.0L,221955862,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,GS Wagon 4-Door,3.0L,221957592,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,GS Sedan 4-Door,3.0L,221991586,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,GS Sedan 4-Door,3.0L,221994036,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,LS Wagon 4-Door,3.0L,221994516,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,LS Sedan 4-Door,3.0L,221995494,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,221995984,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,LS Wagon 4-Door,3.0L,221996344,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Sable,GS Sedan 4-Door,3.0L,221997254,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2004,Mercury,Sable,GS Sedan 4-Door,3.0L,221998074,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Sable,GS Wagon 4-Door,3.0L,221999154,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Wagon 4-Door,3.0L,222003890,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,LS Sedan 4-Door,3.0L,222003940,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2001,Mercury,Sable,GS Wagon 4-Door,3.0L,222004359,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Mercury,Sable,LS Sedan 4-Door,3.0L,222004645,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,GS Sedan 4-Door,3.0L,222005479,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Mercury,Sable,GS Wagon 4-Door,3.0L,222005619,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,GS Wagon 4-Door,3.0L,222005669,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2002,Mercury,Sable,GS Sedan 4-Door,3.0L,222005925,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Sable,LS Wagon 4-Door,3.0L,222006969,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Mercury,Sable,GS Wagon 4-Door,3.0L,222008299,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2003,Mercury,Sable,GS Sedan 4-Door,3.0L,222019347,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Sable,LS Sedan 4-Door,3.0L,222019927,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,LS Sedan 4-Door,3.0L,222020857,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,GS Sedan 4-Door,3.0L,222021677,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,GS Wagon 4-Door,3.0L,222082848,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,222083208,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1994,Mercury,Sable,GS Sedan 4-Door,3.0L,222085368,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1998,Mercury,Sable,LS Sedan 4-Door,3.0L,222116983,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-2004,Mercury,Sable,GS Wagon 4-Door,3.0L,222118493,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Sable,GS Wagon 4-Door,3.0L,222118933,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Mercury,Sable,GS Sedan 4-Door,3.0L,222120393,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1999,Mercury,Sable,GS Sedan 4-Door,3.0L,222120573,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1985,Mercury,Marquis,Brougham Wagon 4-Door,3.8L,74009125,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1985,Mercury,Marquis,Brougham Sedan 4-Door,3.8L,74029783,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1985,Mercury,Marquis,Brougham Sedan 4-Door,2.3L,83301952,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Marquis,Brougham Wagon 4-Door,2.3L,83328908,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
-2010,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,223807658,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-1992,Mercury,Topaz,LS Sedan 2-Door,3.0L,169196944,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,LS Sedan 2-Door,2.3L,169244627,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,LS Sedan 4-Door,3.0L,169261343,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1992,Mercury,Topaz,LS Sedan 4-Door,2.3L,169262163,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Lynx,L Hatchback 2-Door,1.9L,250275481,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Lynx,Base Wagon 4-Door,2.0L,153486007,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Lynx,Base Wagon 4-Door,1.6L,153525648,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Lynx,Base Wagon 4-Door,1.9L,153527558,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 4-Door,2.0L,250275921,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 2-Door,2.0L,250276211,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Lynx,GS Hatchback 2-Door,2.0L,250279061,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 2-Door,1.6L,250279091,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 4-Door,1.6L,250348532,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 4-Door,2.0L,250348582,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1987,Mercury,Lynx,L Hatchback 2-Door,1.9L,250348842,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 4-Door,1.6L,250384230,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,Base Hatchback 2-Door,1.9L,250384440,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 2-Door,1.6L,250388020,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,GS Hatchback 2-Door,1.9L,250388080,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 2-Door,2.0L,250388790,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 2-Door,1.9L,250407704,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,XR3 Hatchback 2-Door,1.9L,250408144,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Hatchback 2-Door,1.9L,250408274,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Capri,GS Hatchback 2-Door,3.8L,250408404,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
 1985,Mercury,Lynx,GL Hatchback 4-Door,1.9L,250408574,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 2-Door,1.6L,250411204,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 2-Door,1.9L,250413606,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1987,Mercury,Lynx,L Hatchback 2-Door,2.0L,250413706,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 2-Door,2.0L,250416956,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Lynx,GS Hatchback 4-Door,2.0L,250418589,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 4-Door,1.9L,250418819,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,L Hatchback 4-Door,2.0L,250419029,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Capri,GS Hatchback 2-Door,2.3L,250431415,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 4-Door,2.0L,250431835,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1986,Mercury,Capri,5.0 Hatchback 2-Door,5.0L,250435295,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Mercury,Capri,GS Hatchback 2-Door,3.8L,250435685,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
-1986,Mercury,Lynx,GS Hatchback 4-Door,1.9L,250441465,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,GL Hatchback 4-Door,2.0L,250446867,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1987,Mercury,Lynx,GS Hatchback 2-Door,2.0L,250446877,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1985,Mercury,Capri,GS Hatchback 2-Door,2.3L,250500693,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,XR3 Hatchback 2-Door,1.9L,250500913,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 4-Door,1.9L,250501143,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Capri,RS Hatchback 2-Door,5.0L,250501158,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Mercury,Lynx,GL Hatchback 4-Door,1.6L,250501573,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,XR3 Hatchback 2-Door,2.0L,250501603,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
 1985,Mercury,Lynx,GS Hatchback 4-Door,1.6L,250504343,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,XR3 Hatchback 2-Door,1.6L,250504708,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,XR3 Hatchback 2-Door,1.9L,250504723,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,L Hatchback 2-Door,1.9L,250505433,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1986,Mercury,Lynx,L Hatchback 4-Door,1.9L,250505588,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1985,Mercury,Lynx,Base Hatchback 4-Door,1.9L,250505623,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Marquis,Base Wagon 4-Door,3.8L,74001001,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Mercury,Marquis,Brougham Wagon 4-Door,3.8L,74009125,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Mercury,Marquis,Base Sedan 4-Door,3.8L,74024389,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Mercury,Marquis,Brougham Sedan 4-Door,3.8L,74029783,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1985,Mercury,Marquis,Base Sedan 4-Door,2.3L,83276704,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Marquis,Base Wagon 4-Door,2.3L,83300305,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Marquis,Brougham Sedan 4-Door,2.3L,83301952,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Marquis,Brougham Wagon 4-Door,2.3L,83328908,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1985,Mercury,Topaz,LS Sedan 2-Door,2.0L,83277185,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,Base Sedan 4-Door,2.0L,83287972,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,GS Sedan 4-Door,2.0L,83301962,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,GS Sedan 2-Door,2.3L,83306313,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1985,Mercury,Topaz,GS Sedan 2-Door,2.0L,83316339,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,Base Sedan 2-Door,2.3L,83321409,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1985,Mercury,Topaz,LS Sedan 2-Door,2.3L,83323419,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1985,Mercury,Topaz,Base Sedan 4-Door,2.3L,83327206,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1985,Mercury,Topaz,Base Sedan 2-Door,2.0L,83328918,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,GS Sedan 4-Door,2.3L,83338010,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1985,Mercury,Topaz,LS Sedan 4-Door,2.0L,83338627,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1985,Mercury,Topaz,LS Sedan 4-Door,2.3L,83345060,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Capri,GS Hatchback 2-Door,3.8L,250408404,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Capri,GS Hatchback 2-Door,2.3L,250431415,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Capri,5.0 Hatchback 2-Door,5.0L,250435295,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Cougar,LS Sedan 2-Door,3.8L,74008605,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Cougar,Base Sedan 2-Door,5.0L,74008775,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Cougar,Base Sedan 2-Door,3.8L,74023849,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Cougar,LS Sedan 2-Door,5.0L,74041450,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Cougar,XR-7 Sedan 2-Door,2.3L,83276694,2.3L 140Cu. In. l4 GAS SOHC Turbocharged
+1986,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,73974144,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.0L,74002572,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,74008965,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Base Sedan 2-Door,5.0L,74029503,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Base Sedan 4-Door,5.0L,74057927,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,LS Sedan 2-Door,5.8L,139635811,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,LS Sedan 4-Door,5.8L,139673752,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,139690069,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,139733890,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.8L,28047168223,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Lynx,GS Wagon 4-Door,1.9L,153410321,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,L Wagon 4-Door,2.0L,153423961,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Lynx,GS Wagon 4-Door,2.0L,153464626,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Lynx,L Wagon 4-Door,1.9L,153529978,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,L Hatchback 2-Door,1.9L,250275481,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,GS Hatchback 2-Door,2.0L,250279061,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Lynx,Base Hatchback 2-Door,1.9L,250384440,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,GS Hatchback 2-Door,1.9L,250388080,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,GS Hatchback 4-Door,2.0L,250418589,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Lynx,L Hatchback 4-Door,2.0L,250419029,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Lynx,GS Hatchback 4-Door,1.9L,250441465,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,XR3 Hatchback 2-Door,1.9L,250504723,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Lynx,L Hatchback 4-Door,1.9L,250505588,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1986,Mercury,Lynx,L Hatchback 2-Door,2.0L,250505818,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1985,Mercury,Lynx,Base Wagon 4-Door,2.0L,153486007,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
-1985,Mercury,Lynx,Base Wagon 4-Door,1.6L,153525648,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Lynx,Base Wagon 4-Door,1.9L,153527558,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1985,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,2318214001,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1985,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,20047170806,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Mercury,Marquis,Brougham Sedan 4-Door,3.8L,73974424,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Marquis,Base Sedan 4-Door,3.8L,74002992,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Marquis,Brougham Wagon 4-Door,3.8L,74011136,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Marquis,Base Wagon 4-Door,3.8L,74041950,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Marquis,Brougham Wagon 4-Door,2.3L,83291895,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Marquis,Base Sedan 4-Door,2.3L,83309746,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Marquis,Brougham Sedan 4-Door,2.3L,83312261,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Marquis,Base Wagon 4-Door,2.3L,153507100,2.3L 140Cu. In. l4 GAS SOHC Naturally Aspirated
+1986,Mercury,Sable,LS Sedan 4-Door,3.0L,73974674,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Sable,GS Wagon 4-Door,3.0L,74003182,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Sable,LS Wagon 4-Door,3.0L,74042180,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1986,Mercury,Sable,GS Sedan 4-Door,2.5L,83314443,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Sable,GS Wagon 4-Door,2.5L,153451415,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Sable,GS Sedan 4-Door,3.0L,153508933,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
 1986,Mercury,Sable,LS Sedan 4-Door,2.5L,218503546,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
 1986,Mercury,Sable,LS Wagon 4-Door,2.5L,218505944,2.5L 153Cu. In. l4 GAS OHV Naturally Aspirated
-1986,Mercury,Grand Marquis,Colony Park Wagon 4-Door,5.8L,28047168223,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Mercury,Tracer,Base Hatchback 4-Door,1.6L,153461665,1.6L 1597CC 98Cu. In. l4 GAS Naturally Aspirated
-1987,Mercury,Tracer,Base Hatchback 2-Door,1.6L,153543088,1.6L 1597CC 98Cu. In. l4 GAS Naturally Aspirated
+1986,Mercury,Topaz,GS Sedan 2-Door,2.0L,83278594,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Topaz,GS Sedan 4-Door,2.0L,83288831,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Topaz,Base Sedan 2-Door,2.0L,83291115,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Topaz,LS Sedan 2-Door,2.0L,83296331,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Topaz,LS Sedan 4-Door,2.3L,83298989,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,Base Sedan 2-Door,2.3L,83300429,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,Base Sedan 4-Door,2.3L,83301986,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,LS Sedan 4-Door,2.0L,83303222,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1986,Mercury,Topaz,GS Sedan 4-Door,2.3L,83316896,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,LS Sedan 2-Door,2.3L,83327568,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,GS Sedan 2-Door,2.3L,83344118,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1986,Mercury,Topaz,Base Sedan 4-Door,2.0L,83363157,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1987,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74010676,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74029273,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Cougar,LS Sedan 2-Door,5.0L,73973984,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74041640,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Cougar,LS Sedan 2-Door,3.8L,139673312,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Mercury,Grand Marquis,LS Sedan 2-Door,5.0L,73974114,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74000831,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74024099,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Grand Marquis,GS Sedan 2-Door,5.0L,139636201,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1987,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,2318218392,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
 1987,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,9047164162,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Mercury,Lynx,GS Wagon 4-Door,1.9L,83276434,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Mercury,Lynx,GS Hatchback 4-Door,2.0L,83279682,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1987,Mercury,Lynx,GS Hatchback 4-Door,1.9L,83334698,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Mercury,Lynx,GS Wagon 4-Door,2.0L,83338953,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1987,Mercury,Lynx,L Hatchback 2-Door,1.9L,250348842,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Mercury,Lynx,XR3 Hatchback 2-Door,1.9L,250408144,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Mercury,Lynx,GS Hatchback 2-Door,1.9L,250408274,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1987,Mercury,Lynx,L Hatchback 2-Door,2.0L,250413706,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1987,Mercury,Lynx,GS Hatchback 2-Door,2.0L,250446877,2.0L 1989CC 122Cu. In. l4 DIESEL SOHC Naturally Aspirated
+1987,Mercury,Sable,GS Sedan 4-Door,3.0L,74001151,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Mercury,Sable,GS Wagon 4-Door,3.0L,74003142,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Mercury,Sable,LS Sedan 4-Door,3.0L,74011396,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Mercury,Sable,LS Wagon 4-Door,3.0L,74030103,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,LS Sedan 4-Door,2.3L,83261124,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83285542,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83295536,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83304876,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83308769,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83311506,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,GS Sedan 2-Door,2.3L,83320953,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,LS Sedan 2-Door,2.3L,83324796,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,GS Sedan 4-Door,2.3L,83329897,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83331719,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83336563,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1987,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83353147,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
 1987,Mercury,Topaz,Base Sedan 4-Door,2.3L,15041972283,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
-2005,Mercury,Montego,Premier Sedan 4-Door,3.0L,2316532862,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1987,Mercury,Tracer,Base Hatchback 4-Door,1.6L,153461665,1.6L 1597CC 98Cu. In. l4 GAS Naturally Aspirated
+1987,Mercury,Tracer,Base Hatchback 2-Door,1.6L,153543088,1.6L 1597CC 98Cu. In. l4 GAS Naturally Aspirated
+1988,Mercury,Colony Park,LS Wagon 4-Door,5.0L,73973894,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74008705,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Cougar,LS Sedan 2-Door,3.8L,74010756,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74010836,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Cougar,LS Sedan 2-Door,5.0L,74029523,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74002792,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74057787,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1988,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,4047160206,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
 1988,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,24047164608,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,LS Sedan 4-Door,3.0L,73974624,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,LS Sedan 4-Door,3.8L,73974644,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,GS Sedan 4-Door,3.8L,74001331,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,LS Wagon 4-Door,3.8L,74003212,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,GS Wagon 4-Door,3.0L,74024609,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,GS Sedan 4-Door,3.0L,74029973,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,GS Wagon 4-Door,3.8L,74042150,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Sable,LS Wagon 4-Door,3.0L,74058407,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83253464,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83274395,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,LS Sedan 4-Door,2.3L,83280882,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,GS Sedan 4-Door,2.3L,83284935,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83295731,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83298285,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83304761,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83307413,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83312116,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83329580,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83342598,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Topaz,GS Sedan 2-Door,2.3L,83354107,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Mercury,Tracer,Base Hatchback 4-Door,1.6L,83259944,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Mercury,Tracer,Base Wagon 4-Door,1.6L,83303722,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Mercury,Tracer,Base Hatchback 2-Door,1.6L,83338890,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74008735,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74023899,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Mercury,Cougar,LS Sedan 2-Door,3.8L,74023819,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,11045477078,3.8L 232Cu. In. V6 GAS OHV Supercharged
+1989,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74000851,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74008805,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
 1989,Mercury,Grand Marquis,Base Sedan 4-Door,5.8L,2318217635,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
 1989,Mercury,Grand Marquis,Base Sedan 2-Door,5.8L,28047168202,5.8L 5753CC 351Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,LS Wagon 4-Door,3.8L,73974654,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,LS Wagon 4-Door,3.0L,73974684,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,GS Wagon 4-Door,3.0L,74003252,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,GS Wagon 4-Door,3.8L,74011276,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,GS Sedan 4-Door,3.0L,74024469,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,LS Sedan 4-Door,3.8L,74030023,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,GS Sedan 4-Door,3.8L,74042140,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Sable,LS Sedan 4-Door,3.0L,74058227,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,GS Sedan 4-Door,2.3L,83253644,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83295952,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,Sport AWD Sedan 4-Door,2.3L,83309102,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83313721,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,LS Sedan 4-Door,2.3L,83328753,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83334838,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83336488,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83337340,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83338453,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83347130,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83349198,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Topaz,GS Sedan 2-Door,2.3L,83357478,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Mercury,Tracer,Base Hatchback 2-Door,1.6L,83278642,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Mercury,Tracer,Base Hatchback 4-Door,1.6L,83305405,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Mercury,Tracer,Base Wagon 4-Door,1.6L,83308383,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Mercury,Colony Park,LS Wagon 4-Door,5.0L,74008655,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74057757,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Mercury,Cougar,LS Sedan 2-Door,3.8L,74002622,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,11045477180,3.8L 232Cu. In. V6 GAS OHV Supercharged
+1990,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74008865,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74035918,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,LS Wagon 4-Door,3.8L,73974614,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,LS Wagon 4-Door,3.0L,74009375,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,LS Sedan 4-Door,3.8L,74024709,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,GS Wagon 4-Door,3.0L,74030043,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,GS Wagon 4-Door,3.8L,74036348,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,GS Sedan 4-Door,3.8L,74036378,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,GS Sedan 4-Door,3.0L,74058377,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Sable,LS Sedan 4-Door,3.0L,74058467,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83244434,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83270914,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,LTS AWD Sedan 4-Door,2.3L,83277134,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83282451,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,LS Sedan 4-Door,2.3L,83292665,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,GS Sedan 2-Door,2.3L,83296226,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,XR5 AWD Sedan 2-Door,2.3L,83300889,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83309319,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83315509,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83318426,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83326218,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83352190,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1990,Mercury,Topaz,GS Sedan 4-Door,2.3L,83354190,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
 1990,Mercury,Tracer,Base Hatchback 4-Door,1.6L,153433721,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Mercury,Tracer,Base Hatchback 2-Door,1.6L,153456974,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-2005,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,3036083588,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
 1990,Mercury,Tracer,Base Wagon 4-Door,1.6L,153515650,1.6L 1598CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Mercury,Capri,Base Convertible 2-Door,1.6L,83317279,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83351118,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
+1991,Mercury,Colony Park,LS Wagon 4-Door,5.0L,73973804,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Colony Park,GS Wagon 4-Door,5.0L,74002602,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74008785,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Cougar,LS Sedan 2-Door,5.0L,74029563,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Cougar,LS Sedan 2-Door,3.8L,74041620,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Grand Marquis,LS Sedan 4-Door,5.0L,74000621,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Grand Marquis,GS Sedan 4-Door,5.0L,74010806,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,LS Wagon 4-Door,3.0L,74001231,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,LS Sedan 4-Door,3.8L,74009345,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,GS Sedan 4-Door,3.8L,74011336,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,GS Wagon 4-Door,3.0L,74011346,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,LS Wagon 4-Door,3.8L,74029913,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,GS Sedan 4-Door,3.0L,74029993,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,LS Sedan 4-Door,3.0L,74058277,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Sable,GS Wagon 4-Door,3.8L,74058427,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83280341,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,LTS AWD Sedan 4-Door,2.3L,83283075,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,GS AWD Sedan 2-Door,2.3L,83287352,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,GS AWD Sedan 4-Door,2.3L,83299935,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,83312321,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83323453,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,Sport AWD Sedan 2-Door,2.3L,83324679,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,GS Sedan 4-Door,2.3L,83330199,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,LS AWD Sedan 4-Door,2.3L,83330647,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,XR5 AWD Sedan 2-Door,2.3L,83331403,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83337623,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,GS Sedan 2-Door,2.3L,83345267,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Topaz,LS Sedan 4-Door,2.3L,83362350,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1991,Mercury,Tracer,Base Sedan 4-Door,1.9L,83287371,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83293942,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83296956,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83346997,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Mercury,Tracer,Base Wagon 4-Door,1.9L,153425851,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1991,Mercury,Tracer,LS Wagon 4-Door,1.9L,153525348,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Mercury,Tracer,LS Wagon 4-Door,1.9L,153497500,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1999,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,7039847368,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
-1999,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,20039848415,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+1992,Mercury,Capri,Base Convertible 2-Door,1.6L,83278254,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83334518,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
+1992,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,73974094,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Mercury,Cougar,LS Sedan 2-Door,3.8L,74000691,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Cougar,LS Sedan 2-Door,5.0L,74002712,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74010886,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041630,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1992,Mercury,Sable,GS Sedan 4-Door,3.8L,74003272,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,LS Wagon 4-Door,3.8L,74009365,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,GS Wagon 4-Door,3.8L,74024579,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,LS Wagon 4-Door,3.0L,74024739,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,GS Wagon 4-Door,3.0L,74029953,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,GS Sedan 4-Door,3.0L,74030093,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,LS Sedan 4-Door,3.8L,74036498,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Sable,LS Sedan 4-Door,3.0L,74042100,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,Sport Sedan 4-Door,3.0L,74001451,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,GS Sedan 2-Door,3.0L,74009505,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,XR5 Sedan 2-Door,3.0L,74009665,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,GS Sedan 4-Door,3.0L,74024659,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,Sport Sedan 2-Door,3.0L,74030363,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LTS Sedan 4-Door,3.0L,74042260,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,Sport Sedan 4-Door,2.3L,83269774,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,GS Sedan 2-Door,2.3L,83303821,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LTS Sedan 4-Door,2.3L,83306715,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,GS Sedan 4-Door,2.3L,83306909,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,Sport Sedan 2-Door,2.3L,83331460,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LS Sedan 2-Door,3.0L,169196944,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LS Sedan 2-Door,2.3L,169244627,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LS Sedan 4-Door,3.0L,169261343,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1992,Mercury,Topaz,LS Sedan 4-Door,2.3L,169262163,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
 1992,Mercury,Topaz,XR5 Sedan 2-Door,2.3L,218680933,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1992,Mercury,Tracer,Base Sedan 4-Door,1.9L,83283035,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83324153,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83353620,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83354790,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Mercury,Tracer,Base Wagon 4-Door,1.9L,153463789,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Mercury,Tracer,LS Wagon 4-Door,1.9L,153497500,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Mercury,Capri,Base Convertible 2-Door,1.6L,83300335,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83331287,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
+1993,Mercury,Cougar,XR-7 Sedan 2-Door,5.0L,74010776,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1993,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74035898,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74002752,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74010906,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1993,Mercury,Sable,LS Wagon 4-Door,3.8L,74001371,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,GS Wagon 4-Door,3.8L,74024429,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,LS Sedan 4-Door,3.8L,74030053,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,GS Sedan 4-Door,3.8L,74036408,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,LS Wagon 4-Door,3.0L,221996344,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,LS Sedan 4-Door,3.0L,222020857,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,GS Wagon 4-Door,3.0L,222082848,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Sable,GS Sedan 4-Door,3.0L,222120393,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Topaz,GS Sedan 4-Door,3.0L,74003432,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Topaz,GS Sedan 2-Door,3.0L,74036588,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Mercury,Topaz,GS Sedan 2-Door,2.3L,83310482,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1993,Mercury,Topaz,GS Sedan 4-Door,2.3L,83333848,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1993,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83294512,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83312576,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83331557,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Mercury,Tracer,Base Sedan 4-Door,1.9L,83341368,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Mercury,Tracer,LS Wagon 4-Door,1.9L,153451284,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2001,Mercury,Cougar,S Coupe 2-Door,2.5L,74049423,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1993,Mercury,Tracer,Base Wagon 4-Door,1.9L,153531188,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74001661,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74011616,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74058677,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Mercury,Capri,Base Convertible 2-Door,1.6L,83305155,1.6L 1598CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Mercury,Capri,XR2 Convertible 2-Door,1.6L,83332390,1.6L 1598CC 98Cu. In. l4 GAS DOHC Turbocharged
+1994,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74041590,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74041610,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74002672,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74041710,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1994,Mercury,Sable,LS Wagon 4-Door,3.8L,74003232,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,GS Sedan 4-Door,3.8L,74011356,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,GS Wagon 4-Door,3.8L,74024639,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,LS Sedan 4-Door,3.8L,74024699,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,LS Wagon 4-Door,3.0L,221883661,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,GS Wagon 4-Door,3.0L,221957592,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,LS Sedan 4-Door,3.0L,221995494,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Sable,GS Sedan 4-Door,3.0L,222085368,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Topaz,GS Sedan 2-Door,3.0L,74001341,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Topaz,GS Sedan 4-Door,3.0L,74036568,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Mercury,Topaz,GS Sedan 4-Door,2.3L,83300515,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1994,Mercury,Topaz,GS Sedan 2-Door,2.3L,83329110,2.3L 140Cu. In. l4 GAS OHV Naturally Aspirated
+1994,Mercury,Tracer,Base Sedan 4-Door,1.9L,83280361,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83298305,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83331480,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83334688,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
 1994,Mercury,Tracer,LS Wagon 4-Door,1.9L,153419621,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Mercury,Tracer,Base Wagon 4-Door,1.9L,153424091,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,73974914,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009645,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74024989,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74042420,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74002642,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,153538758,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74023859,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74029603,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1995,Mercury,Mystique,GS Sedan 4-Door,2.5L,74024309,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,GS Spree Sedan 4-Door,2.5L,74024549,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,Base Sedan 4-Door,2.5L,74036338,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,LS Young America Sedan 4-Door,2.5L,74036418,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,GS Spree Sedan 4-Door,2.0L,83269064,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,Base Sedan 4-Door,2.0L,83292852,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,GS Sedan 4-Door,2.0L,83306029,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Mercury,Mystique,LS Sedan 4-Door,2.0L,83329990,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Mercury,Sable,LS Wagon 4-Door,3.8L,74003332,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,LS Sedan 4-Door,3.8L,74003342,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,GS Wagon 4-Door,3.8L,74029903,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,GS Sedan 4-Door,3.8L,74036458,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,LTS Sedan 4-Door,3.0L,221885011,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,LS Sedan 4-Door,3.0L,221886031,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,GS Sedan 4-Door,3.0L,221991586,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,LS Wagon 4-Door,3.0L,221994516,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Sable,GS Wagon 4-Door,3.0L,222008299,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83269784,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83274415,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Mercury,Tracer,Base Sedan 4-Door,1.9L,83334848,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83339193,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Mercury,Tracer,Base Wagon 4-Door,1.9L,153466982,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
 1995,Mercury,Tracer,LS Wagon 4-Door,1.9L,153476679,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Mercury,Tracer,LS Wagon 4-Door,1.9L,153429851,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
-2002,Mercury,Sable,LS Sedan 4-Door,3.0L,221993886,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74003602,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74011596,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74030203,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74058647,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74010846,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,153459982,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74000721,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74000741,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1996,Mercury,Mystique,GS Sedan 4-Door,2.0L,83305661,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Mercury,Mystique,LS Sedan 4-Door,2.0L,83357078,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Mercury,Mystique,LS Sedan 4-Door,2.5L,153484976,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1996,Mercury,Mystique,GS Sedan 4-Door,2.5L,153529038,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1996,Mercury,Sable,LS Sedan 4-Door,3.0L,74030063,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1996,Mercury,Sable,LS Wagon 4-Door,3.0L,74042190,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 1996,Mercury,Sable,GS Wagon 4-Door,3.0L,218503064,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 1996,Mercury,Sable,GS Sedan 4-Door,3.0L,218504984,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 1996,Mercury,Sable,G Sedan 4-Door,3.0L,218562100,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-1996,Mercury,Sable,LS Wagon 4-Door,3.0L,221993516,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Mercury,Sable,LS Sedan 4-Door,3.0L,222002725,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,153517663,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1996,Mercury,Tracer,Trio Sedan 4-Door,1.9L,83285552,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Mercury,Tracer,LTS Sedan 4-Door,1.8L,83307459,1.8L 112Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Mercury,Tracer,Base Sedan 4-Door,1.9L,83311516,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Mercury,Tracer,Trio Wagon 4-Door,1.9L,83337633,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Mercury,Tracer,LS Wagon 4-Door,1.9L,153429851,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Mercury,Tracer,Base Wagon 4-Door,1.9L,153467729,1.9L 116Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009535,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74024899,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74024959,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74025009,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,74029473,3.8L 232Cu. In. V6 GAS OHV Naturally Aspirated
+1997,Mercury,Cougar,XR-7 Sedan 2-Door,4.6L,74035908,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74035968,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74057837,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1997,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74003082,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1997,Mercury,Mystique,GS Sedan 4-Door,2.0L,83323263,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Mercury,Mystique,LS Sedan 4-Door,2.0L,83345767,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Mercury,Mystique,LS Sedan 4-Door,2.5L,153456975,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Mystique,GS Sedan 4-Door,2.5L,153472415,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Sable,GS Sedan 4-Door,3.0L,74001381,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Sable,LS Sedan 4-Door,3.0L,74001441,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Sable,GS Wagon 4-Door,3.0L,74009455,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Sable,LS Wagon 4-Door,3.0L,74036438,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1997,Mercury,Tracer,LS Sedan 4-Door,2.0L,83281011,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Mercury,Tracer,LS Wagon 4-Door,2.0L,83283465,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83295751,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Mercury,Tracer,Trio Wagon 4-Door,2.0L,83314063,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Mercury,Tracer,GS Sedan 4-Door,2.0L,83322573,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74001511,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,74003472,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74009495,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74024869,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74000871,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74023989,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1998,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,73974564,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1998,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74009235,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Mercury,Mystique,LS Sedan 4-Door,2.5L,74003242,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Mystique,GS Sedan 4-Door,2.0L,83282911,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Mercury,Sable,LS Sedan 4-Door,3.0L,74009525,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74023552,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Sable,GS Sedan 4-Door,3.0L,74030003,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Sable,LS Wagon 4-Door,3.0L,74036508,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74058387,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1998,Mercury,Tracer,GS Sedan 4-Door,2.0L,83252764,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83324689,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Mercury,Tracer,LS Wagon 4-Door,2.0L,83330839,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Mercury,Tracer,LS Sedan 4-Door,2.0L,83358148,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1998,Mercury,Villager,GS Mini Passenger Van 3-Door,3.0L,74003592,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Mercury,Villager,LS Mini Passenger Van 3-Door,3.0L,74030243,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Mercury,Villager,Nautica Mini Passenger Van 3-Door,3.0L,74036788,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1998,Mercury,Villager,GS Mini Cargo Van 3-Door,3.0L,153498980,3.0L 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74002722,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1999,Mercury,Cougar,Base Coupe 2-Door,2.0L,83285165,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,73974074,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74035928,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+1999,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,73974574,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+1999,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74042080,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+1999,Mercury,Mystique,LS Sedan 4-Door,2.5L,74042110,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+1999,Mercury,Mystique,GS Sedan 4-Door,2.0L,83331967,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+1999,Mercury,Sable,GS Sedan 4-Door,3.0L,74009275,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1999,Mercury,Sable,LS Sedan 4-Door,3.0L,74011426,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1999,Mercury,Sable,LS Wagon 4-Door,3.0L,74036468,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+1999,Mercury,Tracer,LS Sedan 4-Door,2.0L,83275294,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Mercury,Tracer,GS Sedan 4-Door,2.0L,83302961,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Mercury,Tracer,LS Wagon 4-Door,2.0L,83312259,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Mercury,Tracer,Trio Sedan 4-Door,2.0L,83358878,2.0L 1989CC 121Cu. In. l4 GAS SOHC Naturally Aspirated
+1999,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,7039847368,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+1999,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,20039848415,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+1999,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,25039835958,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2000,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74029553,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Mercury,Cougar,Base Coupe 2-Door,2.0L,83286192,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+2000,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041660,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74041670,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2000,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74024569,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+2000,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74036388,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2000,Mercury,Mystique,LS Sedan 4-Door,2.5L,74009355,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Mercury,Mystique,GS Sedan 4-Door,2.0L,83355290,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+2000,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74030193,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74036488,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Mercury,Sable,LS Sedan 4-Door,3.0L,74042250,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2000,Mercury,Sable,GS Sedan 4-Door,3.0L,221997254,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Mercury,Sable,GS Wagon 4-Door,3.0L,221999154,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74030283,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2000,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74036628,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2000,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74041995,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2001,Mercury,Cougar,V6 Coupe 2-Door,2.5L,73974014,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Cougar,S Coupe 2-Door,2.5L,74049423,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Cougar,Base Coupe 2-Door,2.0L,83355530,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+2001,Mercury,Cougar,Base Coupe 2-Door,2.5L,153502143,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,73974124,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74029583,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2001,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74001131,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2001,Mercury,Mountaineer,Base Sport Utility 4-Door,5.0L,74011246,5.0L 302Cu. In. V8 GAS OHV Naturally Aspirated
+2001,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,73974634,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Sable,LS Sedan 4-Door,3.0L,74024769,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2001,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74036528,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Sable,LS Wagon 4-Door,3.0L,153494977,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2001,Mercury,Sable,GS Sedan 4-Door,3.0L,221994036,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2001,Mercury,Sable,GS Wagon 4-Door,3.0L,222004359,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2001,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74011606,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2001,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74036748,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2001,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74044056,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2002,Mercury,Cougar,V6 Coupe 2-Door,2.5L,74035858,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Mercury,Cougar,Base Coupe 2-Door,2.0L,83331959,2.0L 1989CC 121Cu. In. l4 GAS DOHC Naturally Aspirated
+2002,Mercury,Cougar,Base Coupe 2-Door,2.5L,153421471,2.5L 2450CC 155Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74008915,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74057727,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74009295,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2002,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74009315,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2002,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,73974744,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74058517,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2002,Mercury,Sable,LS Sedan 4-Door,3.0L,221993886,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2002,Mercury,Sable,GS Wagon 4-Door,3.0L,222005619,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2002,Mercury,Sable,GS Sedan 4-Door,3.0L,222005925,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2002,Mercury,Villager,Estate Mini Passenger Van 3-Door,3.3L,74001541,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2002,Mercury,Villager,Sport Mini Passenger Van 3-Door,3.3L,74009765,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2002,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,74091167,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
+2003,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74008745,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74008855,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2003,Mercury,Grand Marquis,LSE Sedan 4-Door,4.6L,153430001,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,8036079760,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,8036079788,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
-1997,Mercury,Sable,LS Sedan 4-Door,3.0L,221999094,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Mercury,Sable,LS Wagon 4-Door,3.0L,222020507,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2003,Mercury,Marauder,Base Sedan 4-Door,4.6L,13045487521,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2003,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74001301,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2003,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74036268,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2003,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74009395,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74009555,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2003,Mercury,Sable,GS Wagon 4-Door,3.0L,153516933,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2003,Mercury,Sable,GS Sedan 4-Door,3.0L,153535248,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2003,Mercury,Sable,LS Sedan 4-Door,3.0L,182759990,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74057733,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74063848,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Mercury,Marauder,Base Sedan 4-Door,4.6L,74028591,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
+2004,Mercury,Monterey,Base Mini Passenger Van 4-Door,4.2L,74036945,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2004,Mercury,Monterey,Premier Mini Passenger Van 4-Door,4.2L,74054419,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
 2004,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74004644,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
 2004,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74041466,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2004,Mercury,Monterey,Premier Mini Passenger Van 4-Door,4.2L,74054419,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
-2005,Mercury,Sable,LS Sedan 4-Door,3.0L,74002584,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Mercury,Sable,Platinum Edition Sedan 4-Door,3.0L,74002854,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74063838,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2004,Mercury,Mountaineer,Base Sport Utility 4-Door,4.6L,74085677,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2004,Mercury,Sable,GS Sedan 4-Door,3.0L,74036355,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2004,Mercury,Sable,GS Wagon 4-Door,3.0L,74036475,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2004,Mercury,Sable,LS Premium Sedan 4-Door,3.0L,74051839,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2004,Mercury,Sable,LS Premium Wagon 4-Door,3.0L,74057243,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74031402,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2005,Mercury,Grand Marquis,Limited Edition Sedan 4-Door,4.6L,74031462,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74052429,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2005,Mercury,Grand Marquis,Ultimate Edition Sedan 4-Door,4.6L,74058393,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Sable,LS Wagon 4-Door,3.0L,74070300,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2005,Mercury,Grand Marquis,GSL Sedan 4-Door,4.6L,74070420,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2005,Mercury,Mariner,Base Sport Utility 4-Door,2.3L,83329373,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Mercury,Mariner,Base Sport Utility 4-Door,2.3L,118293133,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,222004875,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Mercury,Sable,GS Sedan 4-Door,3.0L,222116893,3.0L 2986CC 182Cu. In. V6 GAS OHV Naturally Aspirated
+2005,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,182708549,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Mercury,Montego,Premier Sedan 4-Door,3.0L,2316532862,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2005,Mercury,Montego,Luxury Sedan 4-Door,3.0L,13045487582,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Mercury,Montego,Luxury Sedan 4-Door,3.0L,28045487195,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,74005304,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2005,Mercury,Monterey,Convenience Mini Passenger Van 4-Door,4.2L,74052799,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2005,Mercury,Monterey,Premier Mini Passenger Van 4-Door,4.2L,74058513,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2005,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,3036083588,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2005,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.0L,74031552,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2005,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74029601,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74064758,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2005,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.6L,74064508,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,8036079760,4.0L 245Cu. In. V6 FLEX SOHC Naturally Aspirated
+2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.6L,15036080647,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2005,Mercury,Sable,LS Sedan 4-Door,3.0L,74002584,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Mercury,Sable,Platinum Edition Sedan 4-Door,3.0L,74002854,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Mercury,Sable,LS Wagon 4-Door,3.0L,74070300,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2005,Mercury,Sable,GS Sedan 4-Door,3.0L,153521378,3.0L 2986CC 182Cu. In. V6 FLEX OHV Naturally Aspirated
+2006,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74005024,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2006,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74054969,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 2006,Mercury,Mariner,Luxury Sport Utility 4-Door,3.0L,74031571,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2006,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74039905,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,74089047,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
 2006,Mercury,Mariner,Convenience Sport Utility 4-Door,2.3L,83282791,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Mercury,Mariner,Convenience Sport Utility 4-Door,2.3L,109872074,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Mercury,Mariner,Luxury Sport Utility 4-Door,3.0L,109924516,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2006,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,109956510,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1989,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,11045477078,3.8L 232Cu. In. V6 GAS OHV Supercharged
-1990,Mercury,Cougar,XR-7 Sedan 2-Door,3.8L,11045477180,3.8L 232Cu. In. V6 GAS OHV Supercharged
-2007,Mercury,Milan,Base Sedan 4-Door,3.0L,74042255,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74042615,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2006,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,83309632,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2006,Mercury,Milan,Base Sedan 4-Door,3.0L,74041886,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Mercury,Milan,Premier Sedan 4-Door,3.0L,74066898,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Mercury,Milan,Base Sedan 4-Door,2.3L,83313689,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Mercury,Milan,Premier Sedan 4-Door,2.3L,83314663,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Mercury,Montego,Premier Sedan 4-Door,3.0L,74033792,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Mercury,Montego,Luxury Sedan 4-Door,3.0L,74088897,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2006,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,74089047,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2006,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,74005304,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2006,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74031661,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.6L,74031791,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2006,Mercury,Mountaineer,Luxury Sport Utility 4-Door,4.0L,74031881,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2007,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74074240,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74041475,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
+2007,Mercury,Mariner,Luxury Sport Utility 4-Door,3.0L,74035242,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74035432,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2007,Mercury,Mariner,Convenience Sport Utility 4-Door,2.3L,83247534,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,83294376,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2007,Mercury,Milan,Premier Sedan 4-Door,3.0L,74036282,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Mercury,Milan,Base Sedan 4-Door,3.0L,74042255,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2007,Mercury,Milan,Base Sedan 4-Door,2.3L,109877624,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Mercury,Mariner,Convenience Sport Utility 4-Door,2.3L,109907555,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Mercury,Milan,Base Sedan 4-Door,3.0L,109912849,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2007,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,109934526,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2007,Mercury,Milan,Base Sedan 4-Door,2.3L,153410261,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2003,Mercury,Marauder,Base Sedan 4-Door,4.6L,13045487521,4.6L 281Cu. In. V8 GAS DOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74017684,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74022094,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2008,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74044902,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Milan,Premier Sedan 4-Door,3.0L,74045351,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Sable,Premier Sedan 4-Door,3.5L,74054606,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,74071923,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Sable,Base Sedan 4-Door,3.5L,74079248,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74085180,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2007,Mercury,Milan,Premier Sedan 4-Door,2.3L,109908971,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Mercury,Montego,Luxury Sedan 4-Door,3.0L,74041595,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Mercury,Montego,Premier Sedan 4-Door,3.0L,74041645,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2007,Mercury,Monterey,Luxury Mini Passenger Van 4-Door,4.2L,74074230,4.2L 256Cu. In. V6 GAS OHV Naturally Aspirated
+2007,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74007644,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2007,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74042615,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2007,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74044516,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2008,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74053106,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 2008,Mercury,Grand Marquis,GS Sedan 4-Door,4.6L,74100037,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
-2008,Mercury,Milan,Base Sedan 4-Door,3.0L,74102277,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74044902,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,74071923,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2008,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,83311925,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2008,Mercury,Mariner,Base Sport Utility 4-Door,2.3L,83334247,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Mariner,Base Sport Utility 4-Door,2.3L,109871134,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Milan,Base Sedan 4-Door,3.0L,109896011,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,109908299,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2008,Mercury,Milan,Premier Sedan 4-Door,3.0L,74045351,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Mercury,Milan,Base Sedan 4-Door,3.0L,74102277,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2008,Mercury,Milan,Base Sedan 4-Door,2.3L,109913099,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Sable,Base Sedan 4-Door,3.5L,109916339,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Sable,Premier Sedan 4-Door,3.5L,109917119,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,109917422,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,109929086,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2008,Mercury,Milan,Premier Sedan 4-Door,2.3L,109946753,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,109966438,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2008,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.3L,109967008,2.3L 140Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2008,Mercury,Milan,Premier Sedan 4-Door,2.3L,153458312,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Milan,Base Sedan 4-Door,2.3L,153475139,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,223712750,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2009,Mercury,Sable,Premier Sedan 4-Door,3.5L,74021364,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74047721,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2009,Mercury,Milan,Premier Sedan 4-Door,3.0L,74055115,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74017684,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74022094,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2008,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74085180,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2008,Mercury,Sable,Premier Sedan 4-Door,3.5L,74054606,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2008,Mercury,Sable,Base Sedan 4-Door,3.5L,74079248,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,74105207,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 2009,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,74055875,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2009,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,74057836,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74057916,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2009,Mercury,Sable,Base Sedan 4-Door,3.5L,74083228,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Base Sedan 4-Door,3.0L,74103987,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74104817,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
 2009,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,83320969,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
 2009,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,83334180,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,109893291,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2009,Mercury,Sable,Base Sedan 4-Door,3.5L,109895101,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Base Sedan 4-Door,2.3L,109897291,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Sable,Premier Sedan 4-Door,3.5L,109905752,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,109914149,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Premier Sedan 4-Door,2.3L,109946730,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Premier Sedan 4-Door,3.0L,109951173,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,109951923,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2009,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,109956670,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,109962917,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2009,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,109963437,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2009,Mercury,Milan,Base Sedan 4-Door,3.0L,109963457,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
 2009,Mercury,Mariner,Premier Sport Utility 4-Door,2.5L,153464855,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Base Sedan 4-Door,2.3L,153464896,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Milan,Premier Sedan 4-Door,2.3L,153511930,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Mariner,Premier Sport Utility 4-Door,2.5L,153519003,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,223816973,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.6L,15036080647,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Mercury,Milan,Premier Sedan 4-Door,3.0L,81731723,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,81732709,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,81732779,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,81746208,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2010,Mercury,Milan,Base Sedan 4-Door,2.5L,83272024,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Mercury,Milan,Premier Sedan 4-Door,3.0L,74055115,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Mercury,Milan,Base Sedan 4-Door,3.0L,74103987,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Mercury,Milan,Base Sedan 4-Door,2.3L,109897291,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Mercury,Milan,Premier Sedan 4-Door,2.3L,109946730,2.3L 140Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,74047721,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2009,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,74057916,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2009,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,74104817,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2009,Mercury,Sable,Premier Sedan 4-Door,3.5L,74021364,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2009,Mercury,Sable,Base Sedan 4-Door,3.5L,74083228,3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2010,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,83309093,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 2010,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,83291381,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Mercury,Milan,Hybrid Sedan 4-Door,2.5L,83305212,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2010,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,83307151,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2010,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,93726033,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
 2010,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,93731900,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,109873594,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2010,Mercury,Milan,Premier Sedan 4-Door,2.5L,109902702,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,109904461,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,109908675,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2010,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,109914302,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2010,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,109915955,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,109951633,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,109952033,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2010,Mercury,Milan,Premier Sedan 4-Door,3.0L,109959997,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
 2010,Mercury,Mariner,Premier Sport Utility 4-Door,2.5L,153463509,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Mercury,Mariner,Premier Sport Utility 4-Door,2.5L,153477796,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Mercury,Milan,Premier Sedan 4-Door,2.5L,153535678,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Mercury,Milan,Premier Sedan 4-Door,3.0L,81731723,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
+2010,Mercury,Milan,Base Sedan 4-Door,2.5L,83272024,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Mercury,Milan,Hybrid Sedan 4-Door,2.5L,83305212,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
+2010,Mercury,Milan,Premier Sedan 4-Door,2.5L,109902702,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.6L,81732709,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
+2010,Mercury,Mountaineer,Premier Sport Utility 4-Door,4.0L,81732779,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2010,Mercury,Mountaineer,Base Sport Utility 4-Door,4.0L,81746208,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
+2011,Mercury,Grand Marquis,LS Sedan 4-Door,4.6L,98985357,4.6L 281Cu. In. V8 FLEX SOHC Naturally Aspirated
 2011,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,98942636,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
 2011,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,98942706,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2011,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,98947436,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
 2011,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,98980427,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2011,Mercury,Mariner,Base Sport Utility 4-Door,2.5L,109893751,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Mercury,Mariner,Base Sport Utility 4-Door,3.0L,109956077,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2011,Mercury,Mariner,Premier Sport Utility 4-Door,3.0L,109960918,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2011,Mercury,Mariner,Hybrid Sport Utility 4-Door,2.5L,109961868,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2011,Mercury,Milan,Base Sedan 4-Door,2.5L,112492674,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
 2011,Mercury,Milan,Premier Sedan 4-Door,3.0L,112529055,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
-2011,Mercury,Milan,Premier Sedan 4-Door,3.0L,112531897,3.0L 2968CC 181Cu. In. V6 FLEX DOHC Naturally Aspirated
 2011,Mercury,Milan,Hybrid Sedan 4-Door,2.5L,112535786,2.5L 2488CC 152Cu. In. l4 FULL HYBRID EV-GAS (FHEV) DOHC Naturally Aspirated
 2011,Mercury,Milan,Premier Sedan 4-Door,2.5L,112540176,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Mercury,Milan,Premier Sedan 4-Door,2.5L,153533008,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.6L,17036078877,4.6L 281Cu. In. V8 GAS SOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,18036080418,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-2005,Mercury,Montego,Premier Sedan 4-Door,3.0L,19045489567,3.0L 2968CC 181Cu. In. V6 GAS DOHC Naturally Aspirated
-2005,Mercury,Mountaineer,Convenience Sport Utility 4-Door,4.0L,24036074391,4.0L 245Cu. In. V6 GAS SOHC Naturally Aspirated
-1999,Mercury,Villager,Base Mini Passenger Van 3-Door,3.3L,25039835958,3.3L 3275CC V6 GAS SOHC Naturally Aspirated
