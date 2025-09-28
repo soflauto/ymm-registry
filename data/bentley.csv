@@ -1,390 +1,386 @@
 year,make,model,trim,engine,epid,ebay_engine
-1995,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,73977734,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1995,Bentley,Continental,R Coupe 2-Door,6.8L,73977744,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2002,Bentley,Continental,R Coupe 2-Door,6.8L,73977804,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1999,Bentley,Arnage,Base Sedan 4-Door,4.4L,73977854,4.4L 4398CC V8 GAS DOHC Turbocharged
-1995,Bentley,Continental,Base Convertible 2-Door,6.8L,73977954,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1993,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,73978054,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1989,Bentley,Turbo R,Base Sedan 4-Door,6.8L,73978124,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2004,Bentley,Arnage,T Sedan 4-Door,6.8L,74002214,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2001,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74004451,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1995,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74004461,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1994,Bentley,Continental,Base Convertible 2-Door,6.8L,74004491,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1989,Bentley,Continental,Base Convertible 2-Door,6.8L,74004511,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74004531,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Bentley,Continental,T Coupe 2-Door,6.8L,74004551,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1985,Bentley,Mulsanne,L Sedan 4-Door,6.8L,74004591,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74004671,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1994,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74004691,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1998,Bentley,Azure,Base Convertible 2-Door,6.8L,74006392,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1995,Bentley,Continental,Base Convertible 2-Door,6.8L,74006492,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Bentley,Arnage,T Sedan 4-Door,6.8L,74006562,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1988,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74006572,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74006582,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1996,Bentley,Continental,R Coupe 2-Door,6.8L,74006632,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1991,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74006692,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1990,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74006712,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1994,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74012575,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Bentley,Continental,Base Convertible 2-Door,6.8L,74012595,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Bentley,Continental,Base Convertible 2-Door,6.8L,74012635,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1987,Bentley,Continental,Base Convertible 2-Door,6.8L,74012645,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Bentley,Azure,Base Convertible 2-Door,6.8L,74012655,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1998,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74012675,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1991,Bentley,Continental,Base Convertible 2-Door,6.8L,74012685,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Bentley,Continental,Base Convertible 2-Door,6.8L,74012705,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1994,Bentley,Continental,Base Convertible 2-Door,6.8L,74012715,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74012735,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1991,Bentley,Eight,Base Sedan 4-Door,6.8L,74012775,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74012805,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1988,Bentley,Continental,Base Convertible 2-Door,6.8L,74014486,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Bentley,Eight,Base Sedan 4-Door,6.8L,74014556,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Bentley,Azure,Base Convertible 2-Door,6.8L,74014566,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2003,Bentley,Arnage,T Sedan 4-Door,6.8L,74014576,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1985,Bentley,Mulsanne,L Sedan 4-Door,6.8L,74004591,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
 1985,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,74014586,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1994,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74014596,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Bentley,Azure,Base Convertible 2-Door,6.8L,74014626,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1992,Bentley,Continental,Base Convertible 2-Door,6.8L,74014636,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1996,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74014646,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1993,Bentley,Continental,Base Convertible 2-Door,6.8L,74014676,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Bentley,Azure,Base Convertible 2-Door,6.8L,74020814,6.8L 6748CC V8 GAS OHV Turbocharged
-1990,Bentley,Continental,Base Convertible 2-Door,6.8L,74027739,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74027819,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1986,Bentley,Continental,Base Convertible 2-Door,6.8L,74012595,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Bentley,Eight,Base Sedan 4-Door,6.8L,74014556,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,74033383,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1986,Bentley,Mulsanne,L Sedan 4-Door,6.8L,74039918,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Bentley,Continental,Base Convertible 2-Door,6.8L,74012645,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1987,Bentley,Eight,Base Sedan 4-Door,6.8L,74039868,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
 1987,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74027879,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74027939,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1988,Bentley,Continental,Base Convertible 2-Door,6.8L,74014486,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Bentley,Eight,Base Sedan 4-Door,6.8L,74039878,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1988,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74006572,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
 1988,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74027959,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1989,Bentley,Continental,Base Convertible 2-Door,6.8L,74004511,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Bentley,Eight,Base Sedan 4-Door,6.8L,74045250,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74045370,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1989,Bentley,Turbo R,Base Sedan 4-Door,6.8L,73978124,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1990,Bentley,Continental,Base Convertible 2-Door,6.8L,74027739,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Bentley,Eight,Base Sedan 4-Door,6.8L,74045230,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74012735,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1990,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74006712,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1991,Bentley,Continental,Base Convertible 2-Door,6.8L,74012685,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Bentley,Eight,Base Sedan 4-Door,6.8L,74012775,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74039768,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1991,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74006692,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1992,Bentley,Continental,Base Convertible 2-Door,6.8L,74045190,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74039808,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1992,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74012805,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1992,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74033543,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1993,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74004531,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1993,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74039818,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1993,Bentley,Continental,Base Convertible 2-Door,6.8L,74014676,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1993,Bentley,Continental,R Coupe 2-Door,6.8L,74061537,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1993,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,73978054,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1993,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74061757,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1994,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74012575,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1994,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74014596,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1994,Bentley,Continental,Base Convertible 2-Door,6.8L,74012715,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1994,Bentley,Continental,R Coupe 2-Door,6.8L,74061577,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1994,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74004691,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1994,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74061727,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1995,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,73977734,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1995,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74004461,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1995,Bentley,Continental,R Coupe 2-Door,6.8L,73977744,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1995,Bentley,Continental,Base Convertible 2-Door,6.8L,74006492,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1995,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74033503,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1995,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74045580,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1996,Bentley,Azure,Base Convertible 2-Door,6.8L,74045330,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1996,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74039678,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1996,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74045280,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
+1996,Bentley,Continental,R Coupe 2-Door,6.8L,74006632,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1996,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74014646,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1996,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74033463,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Azure,Base Convertible 2-Door,6.8L,74039588,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74027819,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74033263,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Continental,T Coupe 2-Door,6.8L,74004551,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Continental,R Coupe 2-Door,6.8L,74045360,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1997,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74004671,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Azure,Base Convertible 2-Door,6.8L,74006392,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74012675,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74061607,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Continental,R Coupe 2-Door,6.8L,74033403,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Continental,T Coupe 2-Door,6.8L,74039728,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1998,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74027939,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1999,Bentley,Arnage,Base Sedan 4-Door,4.4L,73977854,4.4L 4398CC V8 GAS DOHC Turbocharged
+1999,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74036312,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1999,Bentley,Azure,Base Convertible 2-Door,6.7L,220252967,6.7L 6748CC V8 GAS OHV Turbocharged
+1999,Bentley,Continental,R Coupe 2-Door,6.8L,74033303,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1999,Bentley,Continental,SC Coupe 2-Door,6.8L,74045290,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+1999,Bentley,Continental,T Coupe 2-Door,6.8L,74045400,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74006582,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Arnage,Green Label Sedan 4-Door,4.4L,74074890,4.4L 4398CC V8 GAS DOHC Turbocharged
+2000,Bentley,Azure,Base Convertible 2-Door,6.8L,74014566,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74057509,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Continental,SC Coupe 2-Door,6.8L,74014506,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Continental,T Coupe 2-Door,6.8L,74027849,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2000,Bentley,Continental,R Coupe 2-Door,6.8L,74033353,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74004451,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Arnage,Green Label Sedan 4-Door,4.4L,74036222,4.4L 4398CC V8 GAS DOHC Turbocharged
+2001,Bentley,Arnage,RL Sedan 4-Door,6.8L,74061437,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Azure,Base Convertible 2-Door,6.8L,74039648,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74044206,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Continental,T Coupe 2-Door,6.8L,74006642,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2001,Bentley,Continental,R Coupe 2-Door,6.8L,74027769,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Arnage,RL Sedan 4-Door,6.8L,73977764,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Arnage,R Sedan 4-Door,6.8L,74004481,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Arnage,T Sedan 4-Door,6.8L,74006562,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74007474,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Azure,Base Convertible 2-Door,6.8L,74012655,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74057189,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Continental,R Coupe 2-Door,6.8L,73977804,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2002,Bentley,Continental,T Coupe 2-Door,6.8L,74006502,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Arnage,R Sedan 4-Door,6.8L,74006602,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Arnage,T Sedan 4-Door,6.8L,74014576,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Arnage,RL Sedan 4-Door,6.8L,74045170,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Azure,Base Convertible 2-Door,6.8L,74014626,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Continental,R Coupe 2-Door,6.8L,74012725,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2003,Bentley,Continental,GT Coupe 2-Door,6.0L,74077557,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2003,Bentley,Continental,T Coupe 2-Door,6.8L,74077627,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2004,Bentley,Arnage,T Sedan 4-Door,6.8L,74002214,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
 2004,Bentley,Arnage,R Sedan 4-Door,6.8L,74028831,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
 2004,Bentley,Arnage,RL Sedan 4-Door,6.8L,74029061,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1997,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74033263,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2000,Bentley,Continental,R Coupe 2-Door,6.8L,74033353,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1986,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,74033383,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Bentley,Continental,R Coupe 2-Door,6.8L,74033403,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1996,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74033463,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1995,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74033503,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1992,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74033543,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2007,Bentley,Continental,GTC Convertible 2-Door,6.0L,74034051,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2001,Bentley,Arnage,Green Label Sedan 4-Door,4.4L,74036222,4.4L 4398CC V8 GAS DOHC Turbocharged
-2005,Bentley,Arnage,R Sedan 4-Door,6.8L,74039195,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
 2004,Bentley,Continental,GT Coupe 2-Door,6.0L,74039275,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-1997,Bentley,Azure,Base Convertible 2-Door,6.8L,74039588,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2001,Bentley,Azure,Base Convertible 2-Door,6.8L,74039648,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1996,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74039678,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Bentley,Continental,T Coupe 2-Door,6.8L,74039728,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1991,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74039768,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1992,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74039808,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1993,Bentley,Brooklands,LWB Sedan 4-Door,6.8L,74039818,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1987,Bentley,Eight,Base Sedan 4-Door,6.8L,74039868,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1988,Bentley,Eight,Base Sedan 4-Door,6.8L,74039878,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1986,Bentley,Mulsanne,L Sedan 4-Door,6.8L,74039918,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Bentley,Continental,GT Coupe 2-Door,6.0L,74040575,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2007,Bentley,Arnage,R Sedan 4-Door,6.8L,74041915,6.8L 6748CC V8 GAS OHV Turbocharged
+2005,Bentley,Arnage,R Sedan 4-Door,6.8L,74039195,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2005,Bentley,Arnage,T Sedan 4-Door,6.8L,74054509,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2005,Bentley,Arnage,RL Sedan 4-Door,6.8L,74071940,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2005,Bentley,Continental,GT Coupe 2-Door,6.0L,74060123,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2006,Bentley,Arnage,R Sedan 4-Door,6.8L,74042486,6.8L 6748CC V8 GAS OHV Turbocharged
+2006,Bentley,Arnage,T Sedan 4-Door,6.8L,74061423,6.8L 6748CC V8 GAS OHV Turbocharged
+2006,Bentley,Arnage,RL Sedan 4-Door,6.8L,74089417,6.8L 6748CC V8 GAS OHV Turbocharged
+2006,Bentley,Azure,Base Convertible 2-Door,6.8L,74034422,6.8L 6748CC V8 GAS OHV Turbocharged
+2006,Bentley,Continental,GT Coupe 2-Door,6.0L,74040575,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2006,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74060303,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2007,Bentley,Arnage,R Sedan 4-Door,6.8L,74041915,6.8L 6748CC V8 GAS OHV Turbocharged
 2007,Bentley,Arnage,RL Sedan 4-Door,6.8L,74043876,6.8L 6748CC V8 GAS OHV Turbocharged
+2007,Bentley,Arnage,T Sedan 4-Door,6.8L,74068988,6.8L 6748CC V8 GAS OHV Turbocharged
+2007,Bentley,Azure,Base Convertible 2-Door,6.8L,74066899,6.8L 6748CC V8 GAS OHV Turbocharged
+2007,Bentley,Continental,GTC Convertible 2-Door,6.0L,74034051,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2007,Bentley,Continental,GT Coupe 2-Door,6.0L,74043956,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2007,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74044016,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2008,Bentley,Azure,Base Convertible 2-Door,6.8L,74044521,6.8L 6748CC V8 GAS OHV Turbocharged
-2008,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,74044621,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-1992,Bentley,Continental,Base Convertible 2-Door,6.8L,74045190,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1990,Bentley,Eight,Base Sedan 4-Door,6.8L,74045230,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1989,Bentley,Eight,Base Sedan 4-Door,6.8L,74045250,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74045280,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Bentley,Continental,SC Coupe 2-Door,6.8L,74045290,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1996,Bentley,Azure,Base Convertible 2-Door,6.8L,74045330,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1997,Bentley,Continental,R Coupe 2-Door,6.8L,74045360,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1989,Bentley,Mulsanne,S Sedan 4-Door,6.8L,74045370,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Bentley,Continental,T Coupe 2-Door,6.8L,74045400,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1995,Bentley,Turbo R,LWB Sedan 4-Door,6.8L,74045580,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2008,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74046322,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2008,Bentley,Continental,GT Coupe 2-Door,6.0L,74046342,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2008,Bentley,Brooklands,Base Coupe 2-Door,6.8L,74046722,6.8L 6748CC V8 GAS OHV Turbocharged
-2009,Bentley,Arnage,R Sedan 4-Door,6.8L,74049452,6.8L 6748CC V8 GAS OHV Turbocharged
-2005,Bentley,Arnage,T Sedan 4-Door,6.8L,74054509,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2008,Bentley,Continental,GTC Convertible 2-Door,6.0L,74054796,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2009,Bentley,Arnage,RL Sedan 4-Door,6.8L,74057586,6.8L 6748CC V8 GAS OHV Turbocharged
-2009,Bentley,Continental,GT Coupe 2-Door,6.0L,74057686,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2005,Bentley,Continental,GT Coupe 2-Door,6.0L,74060123,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2006,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74060303,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2001,Bentley,Arnage,RL Sedan 4-Door,6.8L,74061437,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1993,Bentley,Continental,R Coupe 2-Door,6.8L,74061537,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1994,Bentley,Continental,R Coupe 2-Door,6.8L,74061577,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1998,Bentley,Brooklands,Base Sedan 4-Door,6.8L,74061607,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1994,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74061727,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1993,Bentley,Turbo R,Base Sedan 4-Door,6.8L,74061757,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2007,Bentley,Azure,Base Convertible 2-Door,6.8L,74066899,6.8L 6748CC V8 GAS OHV Turbocharged
-2007,Bentley,Arnage,T Sedan 4-Door,6.8L,74068988,6.8L 6748CC V8 GAS OHV Turbocharged
-2009,Bentley,Arnage,T Sedan 4-Door,6.8L,74070499,6.8L 6748CC V8 GAS OHV Turbocharged
-2009,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74070549,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2005,Bentley,Arnage,RL Sedan 4-Door,6.8L,74071940,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
 2008,Bentley,Arnage,RL Sedan 4-Door,6.8L,74073493,6.8L 6748CC V8 GAS OHV Turbocharged
-2000,Bentley,Arnage,Green Label Sedan 4-Door,4.4L,74074890,4.4L 4398CC V8 GAS DOHC Turbocharged
-2009,Bentley,Continental,GTC Convertible 2-Door,6.0L,74076403,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2008,Bentley,Arnage,T Sedan 4-Door,6.8L,74079378,6.8L 6748CC V8 GAS OHV Turbocharged
 2008,Bentley,Arnage,R Sedan 4-Door,6.8L,74079788,6.8L 6748CC V8 GAS OHV Turbocharged
+2008,Bentley,Azure,Base Convertible 2-Door,6.8L,74044521,6.8L 6748CC V8 GAS OHV Turbocharged
+2008,Bentley,Brooklands,Base Coupe 2-Door,6.8L,74046722,6.8L 6748CC V8 GAS OHV Turbocharged
+2008,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,74044621,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2008,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74046322,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2008,Bentley,Continental,GT Coupe 2-Door,6.0L,74046342,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2008,Bentley,Continental,GTC Convertible 2-Door,6.0L,74054796,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2009,Bentley,Arnage,R Sedan 4-Door,6.8L,74049452,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Arnage,RL Sedan 4-Door,6.8L,74057586,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Arnage,T Sedan 4-Door,6.8L,74070499,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Azure,Base Convertible 2-Door,6.8L,74020814,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Azure,T Convertible 2-Door,6.8L,81671064,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Brooklands,Base Coupe 2-Door,6.8L,74088320,6.8L 6748CC V8 GAS OHV Turbocharged
+2009,Bentley,Continental,GT Coupe 2-Door,6.0L,74057686,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2009,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,74070549,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2009,Bentley,Continental,GTC Convertible 2-Door,6.0L,74076403,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2009,Bentley,Continental,Flying Spur Speed Sedan 4-Door,6.0L,74082618,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2009,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,74082848,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2009,Bentley,Brooklands,Base Coupe 2-Door,6.8L,74088320,6.8L 6748CC V8 GAS OHV Turbocharged
-2006,Bentley,Arnage,RL Sedan 4-Door,6.8L,74089417,6.8L 6748CC V8 GAS OHV Turbocharged
-2009,Bentley,Azure,T Convertible 2-Door,6.8L,81671064,6.8L 6748CC V8 GAS OHV Turbocharged
-2010,Bentley,Continental,GTC Convertible 2-Door,6.0L,83538651,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Azure,T Convertible 2-Door,6.8L,83545846,6.8L 6748CC V8 GAS OHV Turbocharged
+2010,Bentley,Continental,GTC Convertible 2-Door,6.0L,83538651,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,83546726,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Continental,GT Coupe 2-Door,6.0L,83555379,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Continental,Flying Spur Speed Sedan 4-Door,6.0L,83580268,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,83583970,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2010,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,83588377,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2010,Bentley,Continental,Supersports Coupe 2-Door,6.0L,178344715,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2011,Bentley,Continental,GT Coupe 2-Door,6.0L,98934111,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2011,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,112492391,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2011,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,112512786,6.8L 6748CC V8 GAS OHV Turbocharged
 2011,Bentley,Continental,GTC Convertible 2-Door,6.0L,112512856,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2011,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,112544556,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2011,Bentley,Continental,Flying Spur Speed Sedan 4-Door,6.0L,112564303,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2011,Bentley,Continental,Supersports Coupe 2-Door,6.0L,114916853,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2011,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,112512786,6.8L 6748CC V8 GAS OHV Turbocharged
 2012,Bentley,Continental,GT Coupe 2-Door,6.0L,114830594,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2012,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,114860955,6.8L 6748CC V8 GAS OHV Turbocharged
 2012,Bentley,Continental,Supersports Coupe 2-Door,6.0L,114873086,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2012,Bentley,Continental,Flying Spur Speed Sedan 4-Door,6.0L,114887407,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2011,Bentley,Continental,Supersports Coupe 2-Door,6.0L,114916853,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2012,Bentley,Continental,GTC Convertible 2-Door,6.0L,114919343,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2012,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,153464555,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2012,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,114860955,6.8L 6748CC V8 GAS OHV Turbocharged
 2013,Bentley,Continental,GTC V8 Convertible 2-Door,4.0L,153427561,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2013,Bentley,Continental,Supersports ISR Convertible 2-Door,6.0L,153458004,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2012,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,153464555,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2013,Bentley,Continental,GT V8 Coupe 2-Door,4.0L,153466356,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2013,Bentley,Continental,Flying Spur Sedan 4-Door,6.0L,153468759,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2013,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,153508650,6.8L 6748CC V8 GAS OHV Turbocharged
 2013,Bentley,Continental,GT Coupe 2-Door,6.0L,153517373,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2013,Bentley,Continental,Flying Spur Speed Sedan 4-Door,6.0L,153525493,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2013,Bentley,Continental,GTC Convertible 2-Door,6.0L,153544228,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2013,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251791209,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2013,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251872288,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2013,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,153508650,6.8L 6748CC V8 GAS OHV Turbocharged
 2014,Bentley,Continental,GT Coupe 2-Door,6.0L,172950934,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2014,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,172952794,6.8L 6748CC V8 GAS OHV Turbocharged
 2014,Bentley,Continental,GTC V8 Convertible 2-Door,4.0L,172952984,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2014,Bentley,Continental,GT V8 Coupe 2-Door,4.0L,173005140,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2014,Bentley,Continental,GTC Convertible 2-Door,6.0L,173006120,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2010,Bentley,Continental,Supersports Coupe 2-Door,6.0L,178344715,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2014,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251778174,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2014,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251787286,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2014,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251875398,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2014,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,172952794,6.8L 6748CC V8 GAS OHV Turbocharged
 2015,Bentley,Continental,GT V8 S Coupe 2-Door,4.0L,202587071,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2015,Bentley,Continental,GT Coupe 2-Door,6.0L,202650299,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2015,Bentley,Continental,GTC V8 Convertible 2-Door,4.0L,202657476,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2015,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,202658786,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2015,Bentley,Continental,GT V8 Coupe 2-Door,4.0L,202660167,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2015,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,202688973,6.8L 6748CC V8 GAS OHV Turbocharged
 2015,Bentley,Continental,GTC Convertible 2-Door,6.0L,202689053,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2015,Bentley,Continental,GTC V8 S Convertible 2-Door,4.0L,202689280,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2015,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251716272,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2015,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251872478,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2015,Bentley,Continental,GT3-R Coupe 2-Door,4.0L,25039835119,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2015,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,202658786,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2015,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251719762,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2015,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,202688973,6.8L 6748CC V8 GAS OHV Turbocharged
 2016,Bentley,Continental,GT V8 Coupe 2-Door,4.0L,217125511,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2016,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,217131041,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2016,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,217180266,6.8L 6748CC V8 GAS OHV Turbocharged
 2016,Bentley,Continental,GTC V8 S Convertible 2-Door,4.0L,217187016,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2016,Bentley,Continental,GT Coupe 2-Door,6.0L,217219857,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2016,Bentley,Continental,GTC V8 Convertible 2-Door,4.0L,217224477,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2016,Bentley,Continental,GTC Convertible 2-Door,6.0L,217230040,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2016,Bentley,Continental,GT V8 S Coupe 2-Door,4.0L,219557486,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2016,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251647031,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2016,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251792629,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2016,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,217131041,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2016,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251875318,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2016,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,217180266,6.8L 6748CC V8 GAS OHV Turbocharged
 2016,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,217352383,6.8L 6748CC V8 GAS OHV Turbocharged
 2017,Bentley,Bentayga,First Edition Sport Utility 4-Door,6.0L,228070411,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2017,Bentley,Bentayga,Base Sport Utility 4-Door,6.0L,228212559,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2017,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,228980521,6.8L 6748CC V8 GAS OHV Turbocharged
 2017,Bentley,Continental,GT V8 S Coupe 2-Door,4.0L,229107130,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2017,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,229123426,6.8L 6748CC V8 GAS OHV Turbocharged
 2017,Bentley,Continental,GTC Convertible 2-Door,6.0L,229131047,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2017,Bentley,Continental,GT V8 Coupe 2-Door,4.0L,229131797,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2017,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,229199080,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2017,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,229205655,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2017,Bentley,Continental,GT Coupe 2-Door,6.0L,229205773,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2017,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,229206085,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2017,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,229214809,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2017,Bentley,Continental,GTC V8 Convertible 2-Door,4.0L,229224078,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2017,Bentley,Continental,GTC V8 S Convertible 2-Door,4.0L,229297633,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2017,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,229205655,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2017,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,229206085,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2017,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251805415,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2017,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,228980521,6.8L 6748CC V8 GAS OHV Turbocharged
+2017,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,229123426,6.8L 6748CC V8 GAS OHV Turbocharged
 2018,Bentley,Bentayga,Mulliner Sport Utility 4-Door,6.0L,241913340,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,241927139,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2018,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,241929034,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,241930615,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
 2018,Bentley,Bentayga,Black Edition Sport Utility 4-Door,6.0L,241931714,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Continental,GT Convertible 2-Door,6.0L,241950709,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,241954285,6.8L 6748CC V8 GAS OHV Turbocharged
-2018,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,242027888,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2018,Bentley,Continental,GT Supersports Convertible 2-Door,6.0L,242661194,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
 2018,Bentley,Bentayga,Onyx Edition Sport Utility 4-Door,6.0L,242673486,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Flying Spur,W12 S Sedan 4-Door,6.0L,242680039,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2018,Bentley,Bentayga,W12 Signature Sport Utility 4-Door,6.0L,242680099,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2018,Bentley,Bentayga,Activity Edition Sport Utility 4-Door,6.0L,242756693,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2018,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,241929034,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2018,Bentley,Continental,GT Convertible 2-Door,6.0L,241950709,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2018,Bentley,Continental,GT Supersports Convertible 2-Door,6.0L,242661194,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
+2018,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,241927139,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2018,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,241930615,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2018,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,242027888,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2018,Bentley,Flying Spur,W12 S Sedan 4-Door,6.0L,242680039,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2018,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,241954285,6.8L 6748CC V8 GAS OHV Turbocharged
+2018,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,252271929,6.8L 6748CC V8 GAS OHV Turbocharged
 2019,Bentley,Bentayga,Mulliner Sport Utility 4-Door,6.0L,250286111,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2016,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251647031,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2019,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,251715402,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2015,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251716272,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2015,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251719762,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2014,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251778174,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2019,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,251781484,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2019,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,251785146,6.8L 6748CC V8 GAS OHV Turbocharged
-2014,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251787286,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2013,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251791209,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2019,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,251792529,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2016,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,251792629,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2019,Bentley,Flying Spur,W12 S Sedan 4-Door,6.0L,251792709,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2017,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251805415,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2019,Bentley,Bentayga,Base Sport Utility 4-Door,6.0L,251805625,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2019,Bentley,Continental,GT First Edition Coupe 2-Door,6.0L,251813470,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2019,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,251861565,6.8L 6748CC V8 GAS OHV Turbocharged
-2013,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251872288,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2015,Bentley,Continental,GTC Speed Convertible 2-Door,6.0L,251872478,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2019,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,251874693,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2016,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251875318,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
-2014,Bentley,Flying Spur,Base Sedan 4-Door,6.0L,251875398,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
 2019,Bentley,Continental,GT Coupe 2-Door,6.0L,251932843,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2018,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,252271929,6.8L 6748CC V8 GAS OHV Turbocharged
-2020,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,253626386,6.8L 6748CC V8 GAS OHV Turbocharged
-2020,Bentley,Continental,GT Coupe 2-Door,6.0L,253626906,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2020,Bentley,Continental,GT Convertible 2-Door,6.0L,253627046,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2020,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,253714758,6.8L 6748CC V8 GAS OHV Turbocharged
+2019,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,251715402,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2019,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,251792529,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2019,Bentley,Flying Spur,W12 S Sedan 4-Door,6.0L,251792709,6.0L 5998CC 366Cu. In. W12 FLEX DOHC Turbocharged
+2019,Bentley,Flying Spur,V8 S Sedan 4-Door,4.0L,251874693,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
+2019,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,251785146,6.8L 6748CC V8 GAS OHV Turbocharged
+2019,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,251861565,6.8L 6748CC V8 GAS OHV Turbocharged
 2020,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,253715178,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2020,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,253717313,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
 2020,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,253717413,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,2320712907,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,2329154427,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2025,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,2344717267,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,3048309186,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,3062254080,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Bentayga EWB,Mulliner Sport Utility 4-Door,4.0L,3063609892,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-1999,Bentley,Continental,R Coupe 2-Door,6.8L,74033303,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-1999,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74036312,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
 2020,Bentley,Bentayga,Base Sport Utility 4-Door,6.0L,4037203611,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,2.9L,4049663498,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-1999,Bentley,Azure,Base Convertible 2-Door,6.7L,220252967,6.7L 6748CC V8 GAS OHV Turbocharged
-2000,Bentley,Continental,SC Coupe 2-Door,6.8L,74014506,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2000,Bentley,Continental,T Coupe 2-Door,6.8L,74027849,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2000,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74057509,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2023,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,5058117018,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2001,Bentley,Continental,T Coupe 2-Door,6.8L,74006642,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2001,Bentley,Continental,R Coupe 2-Door,6.8L,74027769,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2001,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74044206,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2025,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,5073681197,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2020,Bentley,Bentayga,Design Edition Sport Utility 4-Door,6.0L,16037205785,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2020,Bentley,Continental,GT Coupe 2-Door,6.0L,253626906,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2020,Bentley,Continental,GT Convertible 2-Door,6.0L,253627046,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2020,Bentley,Continental,GT Convertible 2-Door,4.0L,18036080482,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2020,Bentley,Continental,GT Coupe 2-Door,4.0L,19036072286,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
 2020,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,6041980261,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2022,Bentley,Continental,GT Coupe 2-Door,4.0L,6047571822,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Coupe 2-Door,4.0L,6053897371,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,6058119745,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,6062753474,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2026,Bentley,Continental,GTC Mulliner Convertible 2-Door,4.0L,6075772214,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2002,Bentley,Arnage,RL Sedan 4-Door,6.8L,73977764,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2002,Bentley,Arnage,R Sedan 4-Door,6.8L,74004481,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2002,Bentley,Continental,T Coupe 2-Door,6.8L,74006502,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2002,Bentley,Arnage,Red Label Sedan 4-Door,6.8L,74007474,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2002,Bentley,Azure,Mulliner Convertible 2-Door,6.8L,74057189,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2021,Bentley,Continental,GT Convertible 2-Door,4.0L,7037925163,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2020,Bentley,Flying Spur,First Edition Sedan 4-Door,6.0L,25041958402,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2020,Bentley,Mulsanne,Speed Sedan 4-Door,6.8L,253626386,6.8L 6748CC V8 GAS OHV Turbocharged
+2020,Bentley,Mulsanne,Base Sedan 4-Door,6.8L,253714758,6.8L 6748CC V8 GAS OHV Turbocharged
 2021,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,7041089822,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Speed Sedan 4-Door,6.0L,7058568350,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2025,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,7073684531,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2003,Bentley,Arnage,R Sedan 4-Door,6.8L,74006602,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2003,Bentley,Continental,R Coupe 2-Door,6.8L,74012725,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2003,Bentley,Arnage,RL Sedan 4-Door,6.8L,74045170,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
-2003,Bentley,Continental,GT Coupe 2-Door,6.0L,74077557,6.0L 5998CC 366Cu. In. W12 GAS DOHC Turbocharged
-2003,Bentley,Continental,T Coupe 2-Door,6.8L,74077627,6.8L 6750CC 412Cu. In. V8 GAS OHV Turbocharged
+2021,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,26041093926,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,26041093997,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2021,Bentley,Continental,GT Convertible 2-Door,4.0L,7037925163,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2021,Bentley,Continental,GT Coupe 2-Door,4.0L,11037920130,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2021,Bentley,Continental,GT Coupe 2-Door,6.0L,18037926271,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2021,Bentley,Continental,GT Convertible 2-Door,6.0L,28037923963,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2021,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,12047555006,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2021,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,24042665283,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,3048309186,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,14048300850,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,22048302058,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,25048289696,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2022,Bentley,Continental,GT Coupe 2-Door,4.0L,6047571822,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,9047557949,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Continental,GT Convertible 2-Door,6.0L,17047560400,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Continental,GT Convertible 2-Door,4.0L,19047565055,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Continental,GT Coupe 2-Door,6.0L,19047565069,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,2320712907,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,2.9L,4049663498,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2022,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,8047566647,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2022,Bentley,Flying Spur,Hybrid Sedan 4-Door,2.9L,18049671544,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2022,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,19047565103,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,6.0L,19049672270,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,2329154427,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,5058117018,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,6058119745,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Bentayga,Odyssean Edition Sport Utility 4-Door,3.0L,16058100668,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,20058107762,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,22058109125,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Bentayga,Azure Sport Utility 4-Door,4.0L,26058117420,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,28058114096,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,18058563927,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,20058561058,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Bentayga EWB,Azure First Edition Sport Utility 4-Door,4.0L,21058566101,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Coupe 2-Door,6.0L,2332759203,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Coupe 2-Door,4.0L,6053897371,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
 2023,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,8053886853,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2023,Bentley,Continental,GT S Coupe 2-Door,4.0L,8061713911,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2022,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,9047557949,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Convertible 2-Door,4.0L,13053882062,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Azure Coupe 2-Door,4.0L,14061704158,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Convertible 2-Door,6.0L,17061713317,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,19061714610,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Mulliner Coupe 2-Door,6.0L,20061713486,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT Azure Convertible 2-Door,4.0L,21061716973,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Continental,GT S Convertible 2-Door,4.0L,28061719080,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,Speed Sedan 4-Door,6.0L,7058568350,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,7062260259,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,S Hybrid Sedan 4-Door,2.9L,10058565882,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,11058549386,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,S Sedan 4-Door,4.0L,13058552235,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,Mulliner Sedan 4-Door,6.0L,19058564067,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2023,Bentley,Flying Spur,Hybrid Sedan 4-Door,2.9L,21053890010,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Flying Spur,Odyssean Edition Sedan 4-Door,2.9L,22058561440,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Flying Spur,Azure Hybrid Sedan 4-Door,2.9L,27058556250,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Bentley,Flying Spur,Azure Sedan 4-Door,6.0L,28058566959,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,11063594268,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Bentley,Bentayga,Azure Sport Utility 4-Door,4.0L,12063593429,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,16063596383,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,16063596427,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,17063606325,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,26063612335,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Bentayga EWB,Mulliner Sport Utility 4-Door,4.0L,3063609892,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,19062251304,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,24062244212,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,3062254080,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT S Convertible 2-Door,4.0L,11062236039,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Speed Edition 12 Convertible 2-Door,6.0L,12062237824,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT S Coupe 2-Door,4.0L,13062240686,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Speed Edition 12 Coupe 2-Door,6.0L,13062241822,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Convertible 2-Door,4.0L,15062254182,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Mulliner Coupe 2-Door,6.0L,15062254776,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,16062240934,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Azure Coupe 2-Door,4.0L,16062242292,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Azure Convertible 2-Door,4.0L,18062251610,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Continental,GT Coupe 2-Door,4.0L,22062250993,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,6062753474,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
 2024,Bentley,Flying Spur,Speed Sedan 4-Door,6.0L,9062245199,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2024,Bentley,Flying Spur,Azure Hybrid Sedan 4-Door,2.9L,9062246486,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Bentley,Flying Spur,Base Sedan 4-Door,4.0L,9063600134,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,9073666149,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,S Hybrid Sedan 4-Door,2.9L,10058565882,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Bentley,Flying Spur,S Hybrid Sedan 4-Door,2.9L,10062254324,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2006,Bentley,Azure,Base Convertible 2-Door,6.8L,74034422,6.8L 6748CC V8 GAS OHV Turbocharged
-2006,Bentley,Arnage,T Sedan 4-Door,6.8L,74061423,6.8L 6748CC V8 GAS OHV Turbocharged
-2021,Bentley,Continental,GT Coupe 2-Door,4.0L,11037920130,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,11058549386,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT S Convertible 2-Door,4.0L,11062236039,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,11063594268,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2021,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,12047555006,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Speed Edition 12 Convertible 2-Door,6.0L,12062237824,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,Azure Sport Utility 4-Door,4.0L,12063593429,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga EWB,Mulliner Sport Utility 4-Door,4.0L,12066010153,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Convertible 2-Door,4.0L,13053882062,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,S Sedan 4-Door,4.0L,13058552235,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT S Coupe 2-Door,4.0L,13062240686,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Speed Edition 12 Coupe 2-Door,6.0L,13062241822,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2024,Bentley,Flying Spur,Speed Edition 12 Sedan 4-Door,6.0L,13063597998,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2025,Bentley,Continental,GT Speed Convertible 2-Door,4.0L,13073667950,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2026,Bentley,Continental,GTC Speed Convertible 2-Door,4.0L,13075754805,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2026,Bentley,Continental,GT Speed Convertible 2-Door,4.0L,13075754873,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,14048300850,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Azure Coupe 2-Door,4.0L,14061704158,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Continental,GTC Mulliner Convertible 2-Door,4.0L,14073663307,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2024,Bentley,Continental,GT Convertible 2-Door,4.0L,15062254182,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Mulliner Coupe 2-Door,6.0L,15062254776,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2020,Bentley,Bentayga,Design Edition Sport Utility 4-Door,6.0L,16037205785,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Speed Coupe 2-Door,6.0L,16062240934,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Azure Coupe 2-Door,4.0L,16062242292,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,16063596383,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,16063596427,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Continental,GT Convertible 2-Door,6.0L,17047560400,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,17063606325,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2020,Bentley,Continental,GT Convertible 2-Door,4.0L,18036080482,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2021,Bentley,Continental,GT Coupe 2-Door,6.0L,18037926271,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2022,Bentley,Flying Spur,Hybrid Sedan 4-Door,2.9L,18049671544,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,18058563927,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Continental,GT Azure Convertible 2-Door,4.0L,18062251610,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,18066025850,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,18073680593,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2020,Bentley,Continental,GT Coupe 2-Door,4.0L,19036072286,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2022,Bentley,Continental,GT Convertible 2-Door,4.0L,19047565055,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2022,Bentley,Continental,GT Coupe 2-Door,6.0L,19047565069,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2022,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,19047565103,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2022,Bentley,Flying Spur,Mulliner Sedan 4-Door,6.0L,19049672270,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Mulliner Sedan 4-Door,6.0L,19058564067,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,19062251304,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga,S Black Edition Hybrid Sport Utility 4-Door,3.0L,19073670751,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2015,Bentley,Continental,GT3-R Coupe 2-Door,4.0L,25039835119,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,Speed Sport Utility 4-Door,6.0L,20058107762,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,20058561058,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Mulliner Coupe 2-Door,6.0L,20061713486,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2016,Bentley,Continental,GT V8 S Coupe 2-Door,4.0L,219557486,4.0L 3993CC 243Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,20073672878,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2026,Bentley,Continental,GT Speed Coupe 2-Door,4.0L,20075761846,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Bentley,Flying Spur,Hybrid Sedan 4-Door,2.9L,21053890010,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Bentley,Bentayga EWB,Azure First Edition Sport Utility 4-Door,4.0L,21058566101,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Azure Convertible 2-Door,4.0L,21061716973,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Continental,GT Speed Coupe 2-Door,4.0L,21073681538,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,22048302058,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,22058109125,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Odyssean Edition Sedan 4-Door,2.9L,22058561440,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2024,Bentley,Continental,GT Coupe 2-Door,4.0L,22062250993,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2024,Bentley,Flying Spur,Azure Sedan 4-Door,6.0L,14062242233,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2024,Bentley,Flying Spur,Mulliner Sedan 4-Door,6.0L,22063606022,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2025,Bentley,Continental,GTC Speed Convertible 2-Door,4.0L,22073672401,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2025,Bentley,Continental,GT Mulliner Coupe 2-Door,4.0L,22073672669,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Bentley,Flying Spur,S Sedan 4-Door,4.0L,23062258003,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2021,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,24042665283,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2024,Bentley,Flying Spur,V8 Sedan 4-Door,4.0L,24062243667,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,24062244212,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,24066014419,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2020,Bentley,Flying Spur,First Edition Sedan 4-Door,6.0L,25041958402,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2022,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,25048289696,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Bentley,Flying Spur,Odyssean Edition Sedan 4-Door,2.9L,24063597478,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Bentley,Flying Spur,Hybrid Sedan 4-Door,2.9L,25062238650,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Bentley,Flying Spur,Mulliner Sedan 4-Door,2.9L,25062730381,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Bentley,Flying Spur,W12 Sedan 4-Door,6.0L,8047566647,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
+2025,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,2344717267,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Bentayga,S Sport Utility 4-Door,4.0L,5073681197,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2025,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,7073684531,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,9073666149,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2025,Bentley,Bentayga,Azure Hybrid Sport Utility 4-Door,3.0L,18073680593,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Bentayga,S Black Edition Hybrid Sport Utility 4-Door,3.0L,19073670751,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2025,Bentley,Bentayga,Azure Sport Utility 4-Door,4.0L,25073661603,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2025,Bentley,Flying Spur,Speed Sedan 4-Door,4.0L,25073661848,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2021,Bentley,Bentayga,Hybrid Sport Utility 4-Door,3.0L,26041093926,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2021,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,26041093997,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,Azure Sport Utility 4-Door,4.0L,26058117420,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Coupe 2-Door,6.0L,2332759203,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2024,Bentley,Bentayga,V8 Sport Utility 4-Door,4.0L,26063612335,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,7062260259,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,Odyssean Edition Sport Utility 4-Door,3.0L,16058100668,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Bentley,Continental,GT Speed Convertible 2-Door,6.0L,19061714610,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Continental,GT Convertible 2-Door,6.0L,17061713317,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Azure Sedan 4-Door,6.0L,28058566959,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Flying Spur,Azure Hybrid Sedan 4-Door,2.9L,27058556250,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2024,Bentley,Flying Spur,Azure Sedan 4-Door,6.0L,14062242233,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
 2025,Bentley,Bentayga,S Black Edition Sport Utility 4-Door,4.0L,27073676016,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2024,Bentley,Flying Spur,Odyssean Edition Sedan 4-Door,2.9L,24063597478,2.9L 2894CC 177Cu. In. V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2026,Bentley,Continental,GT Mulliner Coupe 2-Door,4.0L,27075764411,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2021,Bentley,Continental,GT Convertible 2-Door,6.0L,28037923963,6.0L 5950CC 363Cu. In. W12 GAS DOHC Turbocharged
-2023,Bentley,Bentayga,S Hybrid Sport Utility 4-Door,3.0L,28058114096,3.0L 2995CC V6 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Bentley,Continental,GT S Convertible 2-Door,4.0L,28061719080,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
-2026,Bentley,Flying Spur,Base,--,2355597898,--
+2025,Bentley,Bentayga EWB,Mulliner Sport Utility 4-Door,4.0L,12066010153,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2025,Bentley,Bentayga EWB,V8 Sport Utility 4-Door,4.0L,18066025850,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2025,Bentley,Bentayga EWB,Azure V8 Sport Utility 4-Door,4.0L,24066014419,4.0L 3996CC 244Cu. In. V8 GAS DOHC Turbocharged
+2025,Bentley,Continental,GT Speed Convertible 2-Door,4.0L,13073667950,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Continental,GTC Mulliner Convertible 2-Door,4.0L,14073663307,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Continental,GT Speed Coupe 2-Door,4.0L,21073681538,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Continental,GTC Speed Convertible 2-Door,4.0L,22073672401,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Continental,GT Mulliner Coupe 2-Door,4.0L,22073672669,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Flying Spur,Mulliner Sedan 4-Door,4.0L,20073672878,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2025,Bentley,Flying Spur,Speed Sedan 4-Door,4.0L,25073661848,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2026,Bentley,Bentayga,Azure,--,5084557126,--
 2026,Bentley,Bentayga,Atelier Edition,--,7084562855,--
-2026,Bentley,Flying Spur,Azure,--,10084553282,--
 2026,Bentley,Bentayga,Atelier Edition Hybrid,--,13084549418,--
-2026,Bentley,Flying Spur,Mulliner,--,14084538959,--
-2026,Bentley,Bentayga EWB,Atelier Edition,--,15084555485,--
 2026,Bentley,Bentayga,Azure Hybrid,--,16084540715,--
-2026,Bentley,Flying Spur,Speed,--,19084549598,--
 2026,Bentley,Bentayga,Base,--,21084561989,--
-2026,Bentley,Bentayga EWB,Base,--,21084562080,--
 2026,Bentley,Bentayga,Speed,--,22084551064,--
-2026,Bentley,Bentayga EWB,Mulliner,--,25084538331,--
 2026,Bentley,Bentayga,Hybrid,--,26084562975,--
+2026,Bentley,Bentayga EWB,Atelier Edition,--,15084555485,--
+2026,Bentley,Bentayga EWB,Base,--,21084562080,--
+2026,Bentley,Bentayga EWB,Mulliner,--,25084538331,--
 2026,Bentley,Bentayga EWB,Azure,--,26084563103,--
+2026,Bentley,Continental,GTC Mulliner Convertible 2-Door,4.0L,6075772214,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Bentley,Continental,GTC Speed Convertible 2-Door,4.0L,13075754805,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Bentley,Continental,GT Speed Convertible 2-Door,4.0L,13075754873,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Bentley,Continental,GT Speed Coupe 2-Door,4.0L,20075761846,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Bentley,Continental,GT Mulliner Coupe 2-Door,4.0L,27075764411,4.0L 3996CC 244Cu. In. V8 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2026,Bentley,Flying Spur,Base,--,2355597898,--
+2026,Bentley,Flying Spur,Azure,--,10084553282,--
+2026,Bentley,Flying Spur,Mulliner,--,14084538959,--
+2026,Bentley,Flying Spur,Speed,--,19084549598,--
