@@ -1,146 +1,82 @@
 year,make,model,trim,engine,epid,ebay_engine
-1993,Geo,Metro,Base Hatchback 4-Door,1.0L,83241754,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Storm,Base Hatchback 2-Door,1.6L,83243784,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83246784,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Geo,Metro,LSi Convertible 2-Door,1.0L,83250114,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1997,Geo,Prizm,LSi Sedan 4-Door,1.8L,83256694,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83257354,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Metro,LSi Hatchback 2-Door,1.3L,83266354,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Metro,LSi Convertible 2-Door,1.0L,83273714,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1997,Geo,Tracker,LSi Sport Utility 4-Door,1.6L,83275004,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Geo,Metro,LSi Hatchback 2-Door,1.0L,83275392,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Prizm,LSi Sedan 4-Door,1.8L,83275402,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Geo,Prizm,GSi Sedan 4-Door,1.6L,83275892,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1991,Geo,Prizm,LSi Sedan 4-Door,1.6L,83279022,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1991,Geo,Storm,2+2 GSi Hatchback 2-Door,1.6L,83279505,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
 1989,Geo,Metro,XFi Hatchback 2-Door,1.0L,83280595,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Metro,LSi Sedan 4-Door,1.3L,83283252,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83283912,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Metro,XFi Hatchback 2-Door,1.0L,83285871,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Metro,LSi Convertible 2-Door,1.0L,83286995,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1991,Geo,Storm,Base Wagon 2-Door,1.6L,83287825,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Geo,Metro,XFi Hatchback 2-Door,1.0L,83290372,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1993,Geo,Metro,XFi Hatchback 2-Door,1.0L,83292806,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1993,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83292951,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Geo,Storm,2+2 GSi Hatchback 2-Door,1.6L,83294005,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1990,Geo,Prizm,GSi Sedan 4-Door,1.6L,83295905,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
 1989,Geo,Metro,LSi Hatchback 4-Door,1.0L,83298542,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83298649,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Storm,Base Hatchback 2-Door,1.6L,83299611,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83300876,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Metro,LSi Convertible 2-Door,1.0L,83301146,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1989,Geo,Metro,Base Hatchback 4-Door,1.0L,83301551,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,LSi Sedan 4-Door,1.3L,83303005,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,LSi Hatchback 2-Door,1.3L,83304495,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Geo,Tracker,LSi Sport Utility 4-Door,1.6L,83304989,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Geo,Tracker,Base Sport Utility 4-Door,1.6L,83306555,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Geo,Prizm,Base Sedan 4-Door,1.6L,83308715,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Geo,Storm,Base Wagon 2-Door,1.6L,83309843,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Metro,LSi Hatchback 2-Door,1.0L,83312349,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Metro,LSi Hatchback 4-Door,1.0L,83313379,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1994,Geo,Prizm,LSi Sedan 4-Door,1.8L,83315166,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
 1989,Geo,Metro,LSi Hatchback 2-Door,1.0L,83317171,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1993,Geo,Storm,Base Hatchback 2-Door,1.6L,83317181,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Geo,Metro,LSi Hatchback 2-Door,1.0L,83319113,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1997,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83319123,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Metro,LSi Sedan 4-Door,1.3L,83320699,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Geo,Spectrum,Base Hatchback 2-Door,1.5L,83320709,1.5L 1471CC 92Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Prizm,LSi Sedan 4-Door,1.8L,83321099,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
-1995,Geo,Prizm,LSi Sedan 4-Door,1.8L,83323058,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Geo,Spectrum,Base Sedan 4-Door,1.5L,83323086,1.5L 1471CC 92Cu. In. l4 GAS SOHC Turbocharged
-1991,Geo,Prizm,Base Sedan 4-Door,1.6L,83325163,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1991,Geo,Metro,LSi Hatchback 4-Door,1.0L,83325479,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1993,Geo,Metro,Base Hatchback 2-Door,1.0L,83326910,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Prizm,Base Sedan 4-Door,1.6L,83326920,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1990,Geo,Metro,XFi Hatchback 2-Door,1.0L,83328379,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Metro,LSi Hatchback 2-Door,1.3L,83330838,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Tracker,Base Sport Utility 4-Door,1.6L,83331578,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Metro,LSi Hatchback 4-Door,1.0L,83332948,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1994,Geo,Metro,Base Hatchback 2-Door,1.0L,83334653,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1993,Geo,Metro,LSi Hatchback 4-Door,1.0L,83334997,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1994,Geo,Metro,XFi Hatchback 2-Door,1.0L,83335110,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,LSi Hatchback 2-Door,1.0L,83335183,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1989,Geo,Spectrum,Base Hatchback 2-Door,1.5L,83336280,1.5L 1471CC 92Cu. In. l4 GAS SOHC Turbocharged
-1994,Geo,Metro,LSi Hatchback 4-Door,1.0L,83338148,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1991,Geo,Storm,Base Hatchback 2-Door,1.6L,83338158,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Prizm,LSi Sedan 4-Door,1.6L,83340323,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1990,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83341643,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Geo,Metro,LSi Hatchback 2-Door,1.0L,83343040,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1992,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83344357,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Metro,Base Hatchback 2-Door,1.0L,83347058,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1991,Geo,Prizm,GSi Sedan 4-Door,1.6L,83350760,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1992,Geo,Metro,LSi Hatchback 2-Door,1.0L,83351790,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1991,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83351800,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Geo,Metro,Base Hatchback 4-Door,1.0L,83351947,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1989,Geo,Metro,Base Hatchback 2-Door,1.0L,83356048,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1991,Geo,Metro,LSi Hatchback 2-Door,1.0L,83356130,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Storm,Base Wagon 2-Door,1.6L,83358667,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Storm,Base Wagon 2-Door,1.6L,83358900,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Geo,Prizm,Base Sedan 4-Door,1.6L,83308715,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Geo,Prizm,Base Hatchback 4-Door,1.6L,250435965,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Geo,Spectrum,Base Hatchback 2-Door,1.5L,83320709,1.5L 1471CC 92Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Geo,Spectrum,Base Sedan 4-Door,1.5L,83365887,1.5L 1471CC 92Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Prizm,Base Sedan 4-Door,1.6L,83366457,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1992,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153431981,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Geo,Tracker,Base Hardtop 2-Door,1.6L,153446684,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Tracker,LSi Convertible 2-Door,1.6L,153452655,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Tracker,Base Convertible 2-Door,1.6L,153458882,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Geo,Tracker,LSi Convertible 2-Door,1.6L,153460229,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,LSi Sedan 4-Door,1.0L,153461264,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1994,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153462212,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Geo,Tracker,Base Convertible 2-Door,1.6L,153462432,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Tracker,LSi Convertible 2-Door,1.6L,153462439,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Geo,Tracker,Base Convertible 2-Door,1.6L,153462659,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Tracker,Base Hardtop 2-Door,1.6L,153462696,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Geo,Tracker,Base Hardtop 2-Door,1.6L,153462899,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Geo,Tracker,LSi Convertible 2-Door,1.6L,153468369,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Prizm,LSi Sedan 4-Door,1.6L,153468609,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1993,Geo,Tracker,Base Convertible 2-Door,1.6L,153470355,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Tracker,Base Hardtop 2-Door,1.6L,153476542,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153484696,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153485466,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Tracker,Base Hardtop 2-Door,1.6L,153487887,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Geo,Prizm,LSi Sedan 4-Door,1.6L,153496950,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Geo,Metro,LSi Sedan 4-Door,1.0L,153497507,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1990,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153500170,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Geo,Tracker,Base Convertible 2-Door,1.6L,153502543,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Prizm,LSi Sedan 4-Door,1.6L,153506973,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Geo,Tracker,Base Hardtop 2-Door,1.6L,153507887,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Metro,Base Sedan 4-Door,1.0L,153512120,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1995,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153515800,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Geo,Prizm,LSi Sedan 4-Door,1.6L,153515870,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Geo,Tracker,LSi Convertible 2-Door,1.6L,153521938,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Geo,Tracker,Base Convertible 2-Door,1.6L,153522688,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Tracker,LSi Convertible 2-Door,1.6L,153524393,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Geo,Prizm,LSi Sedan 4-Door,1.6L,153537368,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Geo,Storm,2+2 GSi Hatchback 2-Door,1.8L,228216626,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1993,Geo,Storm,2+2 GSi Hatchback 2-Door,1.8L,228287198,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83246784,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83300876,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Metro,LSi Convertible 2-Door,1.0L,83286995,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1990,Geo,Metro,Base Hatchback 2-Door,1.0L,83299781,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1990,Geo,Metro,Base Hatchback 4-Door,1.0L,83308526,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1990,Geo,Metro,LSi Hatchback 4-Door,1.0L,83313379,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1990,Geo,Metro,LSi Hatchback 2-Door,1.0L,83319113,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1990,Geo,Metro,XFi Hatchback 2-Door,1.0L,83328379,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1990,Geo,Prizm,GSi Sedan 4-Door,1.6L,83295905,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1990,Geo,Prizm,Base Sedan 4-Door,1.6L,83326920,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1990,Geo,Prizm,GSi Hatchback 4-Door,1.6L,250434795,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1990,Geo,Prizm,Base Hatchback 4-Door,1.6L,250500883,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1990,Geo,Storm,Base Hatchback 2-Door,1.6L,83243784,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Storm,2+2 GSi Hatchback 2-Door,1.6L,83294005,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83341643,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Storm,Base Wagon 2-Door,1.6L,83358667,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Tracker,LSi Convertible 2-Door,1.6L,153460229,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Tracker,Base Convertible 2-Door,1.6L,153462659,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Tracker,Base Hardtop 2-Door,1.6L,153462899,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153500170,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Metro,LSi Convertible 2-Door,1.0L,83250114,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1991,Geo,Metro,Base Hatchback 4-Door,1.0L,83285911,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1991,Geo,Metro,XFi Hatchback 2-Door,1.0L,83290372,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1991,Geo,Metro,LSi Hatchback 4-Door,1.0L,83325479,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1991,Geo,Metro,Base Hatchback 2-Door,1.0L,83342067,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1991,Geo,Metro,LSi Hatchback 2-Door,1.0L,83356130,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1991,Geo,Prizm,LSi Sedan 4-Door,1.6L,83279022,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1991,Geo,Prizm,Base Sedan 4-Door,1.6L,83325163,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1991,Geo,Prizm,GSi Sedan 4-Door,1.6L,83350760,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
 1991,Geo,Prizm,LSi Hatchback 4-Door,1.6L,250345932,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1992,Geo,Metro,Base Hatchback 2-Door,1.0L,83306092,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1992,Geo,Metro,Base Hatchback 4-Door,1.0L,83342783,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1992,Geo,Metro,LSi Sedan 4-Door,1.0L,153417551,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1992,Geo,Prizm,LSi Hatchback 4-Door,1.6L,250345422,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1993,Geo,Prizm,Base Sedan 4-Door,1.6L,83350437,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
 1991,Geo,Prizm,Base Hatchback 4-Door,1.6L,250349202,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
 1991,Geo,Prizm,GSi Hatchback 4-Door,1.6L,250388890,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1990,Geo,Prizm,GSi Hatchback 4-Door,1.6L,250434795,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1989,Geo,Prizm,Base Hatchback 4-Door,1.6L,250435965,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Geo,Prizm,Base Sedan 4-Door,1.6L,83305629,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1990,Geo,Prizm,Base Hatchback 4-Door,1.6L,250500883,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
-1995,Geo,Metro,Base Sedan 4-Door,1.3L,83283632,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Prizm,Base Sedan 4-Door,1.6L,83293046,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1995,Geo,Metro,Base Hatchback 2-Door,1.0L,83301801,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,Base Hatchback 2-Door,1.3L,83309116,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Geo,Metro,Base Sedan 4-Door,1.0L,153522898,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Prizm,Base Sedan 4-Door,1.6L,83311503,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Geo,Metro,Base Hatchback 2-Door,1.0L,83335539,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1996,Geo,Metro,Base Sedan 4-Door,1.0L,153500730,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
-1997,Geo,Prizm,Base Sedan 4-Door,1.6L,83335549,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Geo,Storm,2+2 GSi Hatchback 2-Door,1.6L,83279505,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Geo,Storm,Base Wagon 2-Door,1.6L,83287825,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Storm,Base Hatchback 2-Door,1.6L,83338158,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83351800,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Tracker,LSi Convertible 2-Door,1.6L,153468369,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153485466,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Tracker,Base Hardtop 2-Door,1.6L,153507887,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Geo,Tracker,Base Convertible 2-Door,1.6L,153522688,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,LSi Convertible 2-Door,1.0L,83273714,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,XFi Hatchback 2-Door,1.0L,83285871,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,Base Hatchback 2-Door,1.0L,83306092,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,LSi Hatchback 4-Door,1.0L,83332948,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,Base Hatchback 4-Door,1.0L,83342783,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,LSi Hatchback 2-Door,1.0L,83351790,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1992,Geo,Metro,LSi Sedan 4-Door,1.0L,153417551,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1992,Geo,Metro,XFi Hatchback 2-Door,1.3L,153501097,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1992,Geo,Metro,LSi Hatchback 4-Door,1.3L,153506557,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1992,Geo,Metro,LSi Hatchback 2-Door,1.3L,153517150,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1992,Geo,Metro,LSi Convertible 2-Door,1.3L,153534038,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Prizm,GSi Sedan 4-Door,1.6L,83275892,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1992,Geo,Prizm,LSi Sedan 4-Door,1.6L,83340323,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1992,Geo,Prizm,Base Sedan 4-Door,1.6L,83366457,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1992,Geo,Prizm,LSi Hatchback 4-Door,1.6L,250345422,1.6L 1587CC l4 GAS DOHC Naturally Aspirated
+1992,Geo,Storm,Base Hatchback 2-Door,1.6L,83299611,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Storm,Base Wagon 2-Door,1.6L,83309843,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83344357,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Storm,2+2 GSi Hatchback 2-Door,1.8L,228216626,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153431981,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Tracker,LSi Convertible 2-Door,1.6L,153452655,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Tracker,Base Hardtop 2-Door,1.6L,153487887,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Geo,Tracker,Base Convertible 2-Door,1.6L,153502543,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,Base Hatchback 4-Door,1.0L,83241754,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,XFi Hatchback 2-Door,1.0L,83292806,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,LSi Convertible 2-Door,1.0L,83301146,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,LSi Hatchback 2-Door,1.0L,83312349,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,Base Hatchback 2-Door,1.0L,83326910,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1993,Geo,Metro,LSi Hatchback 4-Door,1.0L,83334997,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1993,Geo,Metro,Base Hatchback 4-Door,1.3L,153418831,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Geo,Metro,Base Hatchback 2-Door,1.3L,153422341,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Geo,Metro,LSi Convertible 2-Door,1.3L,153423381,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
@@ -149,6 +85,22 @@ year,make,model,trim,engine,epid,ebay_engine
 1993,Geo,Metro,LSi Sedan 4-Door,1.3L,153483196,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Geo,Metro,XFi Hatchback 2-Door,1.3L,153496180,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Geo,Metro,LSi Hatchback 4-Door,1.3L,153512790,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Prizm,LSi Sedan 4-Door,1.8L,83321099,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Geo,Prizm,Base Sedan 4-Door,1.6L,83350437,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Geo,Prizm,LSi Sedan 4-Door,1.6L,153468609,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Geo,Storm,2+2 Hatchback 2-Door,1.6L,83292951,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Storm,Base Hatchback 2-Door,1.6L,83317181,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Storm,Base Wagon 2-Door,1.6L,83358900,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Storm,2+2 GSi Hatchback 2-Door,1.8L,228287198,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Geo,Tracker,LSi Convertible 2-Door,1.6L,153462439,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Tracker,Base Hardtop 2-Door,1.6L,153462696,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Tracker,Base Convertible 2-Door,1.6L,153470355,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153484696,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Geo,Metro,Base Hatchback 2-Door,1.0L,83334653,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1994,Geo,Metro,XFi Hatchback 2-Door,1.0L,83335110,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1994,Geo,Metro,LSi Hatchback 4-Door,1.0L,83338148,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1994,Geo,Metro,LSi Hatchback 2-Door,1.0L,83343040,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1994,Geo,Metro,Base Hatchback 4-Door,1.0L,83351947,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
 1994,Geo,Metro,XFi Hatchback 2-Door,1.3L,153452794,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Geo,Metro,LSi Hatchback 4-Door,1.3L,153455195,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Geo,Metro,Base Sedan 4-Door,1.0L,153468909,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
@@ -156,3 +108,49 @@ year,make,model,trim,engine,epid,ebay_engine
 1994,Geo,Metro,Base Hatchback 2-Door,1.3L,153513693,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Geo,Metro,Base Hatchback 4-Door,1.3L,153521068,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Geo,Metro,Base Sedan 4-Door,1.3L,153522093,1.3L 1298CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Geo,Prizm,Base Sedan 4-Door,1.6L,83305629,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Geo,Prizm,LSi Sedan 4-Door,1.8L,83315166,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Geo,Prizm,LSi Sedan 4-Door,1.6L,153515870,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Geo,Tracker,Base Hardtop 2-Door,1.6L,153446684,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153462212,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Geo,Tracker,Base Convertible 2-Door,1.6L,153462432,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Geo,Tracker,LSi Convertible 2-Door,1.6L,153521938,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,Base Sedan 4-Door,1.3L,83283632,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,Base Hatchback 2-Door,1.0L,83301801,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,LSi Sedan 4-Door,1.3L,83303005,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,LSi Hatchback 2-Door,1.3L,83304495,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,Base Hatchback 2-Door,1.3L,83309116,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,LSi Hatchback 2-Door,1.0L,83335183,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,LSi Sedan 4-Door,1.0L,153461264,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1995,Geo,Metro,Base Sedan 4-Door,1.0L,153522898,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1995,Geo,Prizm,Base Sedan 4-Door,1.6L,83293046,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Geo,Prizm,LSi Sedan 4-Door,1.8L,83323058,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Geo,Prizm,LSi Sedan 4-Door,1.6L,153506973,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Geo,Tracker,Base Convertible 2-Door,1.6L,153458882,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Tracker,Base Hardtop 2-Door,1.6L,153476542,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Tracker,LSi Hardtop 2-Door,1.6L,153515800,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Geo,Tracker,LSi Convertible 2-Door,1.6L,153524393,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,LSi Hatchback 2-Door,1.0L,83275392,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,LSi Sedan 4-Door,1.3L,83283252,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,LSi Hatchback 2-Door,1.3L,83330838,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,Base Hatchback 2-Door,1.0L,83335539,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,LSi Sedan 4-Door,1.0L,153497507,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1996,Geo,Metro,Base Sedan 4-Door,1.0L,153500730,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1996,Geo,Prizm,LSi Sedan 4-Door,1.8L,83275402,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Geo,Prizm,Base Sedan 4-Door,1.6L,83311503,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Geo,Prizm,LSi Sedan 4-Door,1.6L,153496950,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83283912,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83298649,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Tracker,LSi Sport Utility 4-Door,1.6L,83304989,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Geo,Tracker,Base Sport Utility 4-Door,1.6L,83306555,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Metro,LSi Hatchback 2-Door,1.3L,83266354,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Metro,LSi Sedan 4-Door,1.3L,83320699,1.3L 1295CC 79Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Metro,Base Hatchback 2-Door,1.0L,83347058,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1997,Geo,Metro,Base Sedan 4-Door,1.0L,153512120,1.0L 993CC 61Cu. In. l3 GAS SOHC Naturally Aspirated
+1997,Geo,Prizm,LSi Sedan 4-Door,1.8L,83256694,1.8L 1762CC 107Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Geo,Prizm,Base Sedan 4-Door,1.6L,83335549,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Geo,Prizm,LSi Sedan 4-Door,1.6L,153537368,1.6L 1588CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Geo,Tracker,Base Sport Utility 2-Door,1.6L,83257354,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Tracker,LSi Sport Utility 4-Door,1.6L,83275004,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Tracker,LSi Sport Utility 2-Door,1.6L,83319123,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
+1997,Geo,Tracker,Base Sport Utility 4-Door,1.6L,83331578,1.6L 1588CC 98Cu. In. l4 GAS SOHC Naturally Aspirated
