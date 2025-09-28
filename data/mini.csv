@@ -1,123 +1,130 @@
 year,make,model,trim,engine,epid,ebay_engine
-2010,Mini,Cooper,Base Convertible 2-Door,1.6L,83305379,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2002,Mini,Cooper,S Hatchback 2-Door,1.6L,114825554,1.6L 1600CC l4 GAS SOHC Supercharged
+2002,Mini,Cooper,Base Hatchback 2-Door,1.6L,114825991,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2003,Mini,Cooper,S Hatchback 2-Door,1.6L,114829224,1.6L 1600CC l4 GAS SOHC Supercharged
+2003,Mini,Cooper,Base Hatchback 2-Door,1.6L,114862415,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2004,Mini,Cooper,Base Hatchback 2-Door,1.6L,114906310,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2004,Mini,Cooper,S Hatchback 2-Door,1.6L,114919443,1.6L 1600CC l4 GAS SOHC Supercharged
+2005,Mini,Cooper,S Convertible 2-Door,1.6L,83342658,1.6L 1600CC l4 GAS SOHC Supercharged
+2005,Mini,Cooper,Base Convertible 2-Door,1.6L,83352600,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2005,Mini,Cooper,Base Hatchback 2-Door,1.6L,114862875,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2005,Mini,Cooper,S Hatchback 2-Door,1.6L,153478586,1.6L 1600CC l4 GAS SOHC Supercharged
 2006,Mini,Cooper,Base Convertible 2-Door,1.6L,83307486,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2008,Mini,Cooper,S Convertible 2-Door,1.6L,83309565,1.6L 1600CC l4 GAS SOHC Supercharged
 2006,Mini,Cooper,S Convertible 2-Door,1.6L,83313706,1.6L 1600CC l4 GAS SOHC Supercharged
-2009,Mini,Cooper,Base Convertible 2-Door,1.6L,83314311,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2006,Mini,Cooper,Base Hatchback 2-Door,1.6L,114919643,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2006,Mini,Cooper,S Hatchback 2-Door,1.6L,153519743,1.6L 1600CC l4 GAS SOHC Supercharged
 2007,Mini,Cooper,Base Convertible 2-Door,1.6L,83322433,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
 2007,Mini,Cooper,S Convertible 2-Door,1.6L,83333478,1.6L 1600CC l4 GAS SOHC Supercharged
-2010,Mini,Cooper,S Convertible 2-Door,1.6L,83334269,1.6L 1598CC l4 GAS DOHC Turbocharged
+2007,Mini,Cooper,S Hatchback 2-Door,1.6L,114824571,1.6L 1598CC l4 GAS DOHC Turbocharged
+2007,Mini,Cooper,Base Hatchback 2-Door,1.6L,114828481,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2008,Mini,Cooper,S Convertible 2-Door,1.6L,83309565,1.6L 1600CC l4 GAS SOHC Supercharged
 2008,Mini,Cooper,Base Convertible 2-Door,1.6L,83336129,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2005,Mini,Cooper,S Convertible 2-Door,1.6L,83342658,1.6L 1600CC l4 GAS SOHC Supercharged
+2008,Mini,Cooper,S Hatchback 2-Door,1.6L,114869999,1.6L 1598CC l4 GAS DOHC Turbocharged
+2008,Mini,Cooper,Base Hatchback 2-Door,1.6L,114916863,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2008,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172970859,1.6L 1598CC l4 GAS DOHC Turbocharged
+2008,Mini,Cooper,Clubman Wagon 3-Door,1.6L,173009773,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2009,Mini,Cooper,Base Convertible 2-Door,1.6L,83314311,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2009,Mini,Cooper,S Convertible 2-Door,1.6L,83348280,1.6L 1598CC l4 GAS DOHC Turbocharged
-2005,Mini,Cooper,Base Convertible 2-Door,1.6L,83352600,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2009,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114861482,1.6L 1598CC l4 GAS DOHC Turbocharged
+2009,Mini,Cooper,S Hatchback 2-Door,1.6L,114870289,1.6L 1598CC l4 GAS DOHC Turbocharged
+2009,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,114871919,1.6L 1598CC l4 GAS DOHC Turbocharged
+2009,Mini,Cooper,Base Hatchback 2-Door,1.6L,114934758,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2009,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172917731,1.6L 1598CC l4 GAS DOHC Turbocharged
+2009,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172951274,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2009,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172987217,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,Base Convertible 2-Door,1.6L,83305379,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2010,Mini,Cooper,S Convertible 2-Door,1.6L,83334269,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,Base Hatchback 2-Door,1.6L,114858992,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2010,Mini,Cooper,S Hatchback 2-Door,1.6L,114873836,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,114906590,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114936868,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172942845,1.6L 1598CC l4 GAS DOHC Turbocharged
+2010,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172988667,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2010,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172988757,1.6L 1598CC l4 GAS DOHC Turbocharged
 2011,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,98948536,1.6L 1598CC l4 GAS DOHC Turbocharged
+2011,Mini,Cooper,S Convertible 2-Door,1.6L,112505859,1.6L 1598CC l4 GAS DOHC Turbocharged
+2011,Mini,Cooper,Base Convertible 2-Door,1.6L,112515155,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2011,Mini,Cooper,Base Hatchback 2-Door,1.6L,114863225,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2011,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114934778,1.6L 1598CC l4 GAS DOHC Turbocharged
+2011,Mini,Cooper,S Hatchback 2-Door,1.6L,114934788,1.6L 1598CC l4 GAS DOHC Turbocharged
+2011,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172942565,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2011,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172987767,1.6L 1598CC l4 GAS DOHC Turbocharged
+2011,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,173036028,1.6L 1598CC l4 GAS DOHC Turbocharged
 2011,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,109935186,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2011,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,109969587,1.6L 1598CC l4 GAS DOHC Turbocharged
 2011,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,112499652,1.6L 1598CC l4 GAS DOHC Turbocharged
-2011,Mini,Cooper,S Convertible 2-Door,1.6L,112505859,1.6L 1598CC l4 GAS DOHC Turbocharged
-2011,Mini,Cooper,Base Convertible 2-Door,1.6L,112515155,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2007,Mini,Cooper,S Hatchback 2-Door,1.6L,114824571,1.6L 1598CC l4 GAS DOHC Turbocharged
-2002,Mini,Cooper,S Hatchback 2-Door,1.6L,114825554,1.6L 1600CC l4 GAS SOHC Supercharged
-2002,Mini,Cooper,Base Hatchback 2-Door,1.6L,114825991,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2012,Mini,Cooper,Roadster Convertible 2-Door,1.6L,114827234,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2012,Mini,Cooper,Roadster John Cooper Works Convertible 2-Door,1.6L,114827664,1.6L 1598CC l4 GAS DOHC Turbocharged
 2012,Mini,Cooper,S Hatchback 2-Door,1.6L,114828454,1.6L 1598CC l4 GAS DOHC Turbocharged
-2007,Mini,Cooper,Base Hatchback 2-Door,1.6L,114828481,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2003,Mini,Cooper,S Hatchback 2-Door,1.6L,114829224,1.6L 1600CC l4 GAS SOHC Supercharged
-2010,Mini,Cooper,Base Hatchback 2-Door,1.6L,114858992,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2012,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114860082,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114861482,1.6L 1598CC l4 GAS DOHC Turbocharged
 2012,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,114862192,1.6L 1598CC l4 GAS DOHC Turbocharged
-2003,Mini,Cooper,Base Hatchback 2-Door,1.6L,114862415,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2005,Mini,Cooper,Base Hatchback 2-Door,1.6L,114862875,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2011,Mini,Cooper,Base Hatchback 2-Door,1.6L,114863225,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2012,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,114863605,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,Coupe Coupe 2-Door,1.6L,114864115,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2012,Mini,Cooper,Base Hatchback 2-Door,1.6L,114865265,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2008,Mini,Cooper,S Hatchback 2-Door,1.6L,114869999,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,S Hatchback 2-Door,1.6L,114870289,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,114871919,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,114872136,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2010,Mini,Cooper,S Hatchback 2-Door,1.6L,114873836,1.6L 1598CC l4 GAS DOHC Turbocharged
 2012,Mini,Cooper,Base Convertible 2-Door,1.6L,114874336,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2012,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,114890217,1.6L 1598CC l4 GAS DOHC Turbocharged
-2004,Mini,Cooper,Base Hatchback 2-Door,1.6L,114906310,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2010,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,114906590,1.6L 1598CC l4 GAS DOHC Turbocharged
-2008,Mini,Cooper,Base Hatchback 2-Door,1.6L,114916863,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2004,Mini,Cooper,S Hatchback 2-Door,1.6L,114919443,1.6L 1600CC l4 GAS SOHC Supercharged
-2006,Mini,Cooper,Base Hatchback 2-Door,1.6L,114919643,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2012,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,114904560,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,114904720,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,114906300,1.6L 1598CC l4 GAS DOHC Turbocharged
 2012,Mini,Cooper,S Convertible 2-Door,1.6L,114934678,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,Base Hatchback 2-Door,1.6L,114934758,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2011,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114934778,1.6L 1598CC l4 GAS DOHC Turbocharged
-2011,Mini,Cooper,S Hatchback 2-Door,1.6L,114934788,1.6L 1598CC l4 GAS DOHC Turbocharged
-2010,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,114936868,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172943055,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,173034878,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper,Clubman Wagon 3-Door,1.6L,173036308,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2012,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,114863605,1.6L 1598CC l4 GAS DOHC Turbocharged
+2012,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,114872136,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2012,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,114890217,1.6L 1598CC l4 GAS DOHC Turbocharged
 2013,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,153447614,1.6L 1598CC l4 GAS DOHC Turbocharged
-2008,Mini,Cooper,S Convertible 2-Door,1.6L,153454914,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,153463265,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,153468679,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2007,Mini,Cooper,Base Hatchback 2-Door,1.6L,153469412,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
+2013,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,153458052,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,Roadster Convertible 2-Door,1.6L,153458405,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2013,Mini,Cooper,Base Convertible 2-Door,1.6L,153460242,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2013,Mini,Cooper,Roadster John Cooper Works Convertible 2-Door,1.6L,153460399,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,John Cooper Works GP Hatchback 2-Door,1.6L,153463679,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,Base Hatchback 2-Door,1.6L,153466832,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2013,Mini,Cooper,Coupe Coupe 2-Door,1.6L,153471999,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2013,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,153473605,1.6L 1598CC l4 GAS DOHC Turbocharged
-2005,Mini,Cooper,S Hatchback 2-Door,1.6L,153478586,1.6L 1600CC l4 GAS SOHC Supercharged
-2008,Mini,Cooper,S Hatchback 2-Door,1.6L,153486056,1.6L 1600CC l4 GAS SOHC Supercharged
+2013,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,153477732,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,153484097,1.6L 1598CC l4 GAS DOHC Turbocharged
 2013,Mini,Cooper,S Convertible 2-Door,1.6L,153495727,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,S Hatchback 2-Door,1.6L,153507963,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172950744,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2013,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172987347,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,173036508,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,153463265,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,153463854,1.6L 1598CC l4 GAS DOHC Turbocharged
+2013,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,153468679,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2013,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,153516223,1.6L 1598CC l4 GAS DOHC Turbocharged
 2013,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,153498537,1.6L 1598CC l4 GAS DOHC Turbocharged
 2013,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,153499680,1.6L 1598CC l4 GAS DOHC Turbocharged
-2007,Mini,Cooper,S Hatchback 2-Door,1.6L,153504063,1.6L 1600CC l4 GAS SOHC Supercharged
-2008,Mini,Cooper,Base Hatchback 2-Door,1.6L,153504450,1.6L 1600CC l4 GAS SOHC Naturally Aspirated
-2013,Mini,Cooper,S Hatchback 2-Door,1.6L,153507963,1.6L 1598CC l4 GAS DOHC Turbocharged
-2008,Mini,Cooper,Base Convertible 2-Door,1.6L,153509950,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,153516223,1.6L 1598CC l4 GAS DOHC Turbocharged
-2007,Mini,Cooper,Base Convertible 2-Door,1.6L,153517360,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2006,Mini,Cooper,S Hatchback 2-Door,1.6L,153519743,1.6L 1600CC l4 GAS SOHC Supercharged
+2013,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,153524273,1.6L 1598CC l4 GAS DOHC Turbocharged
 2013,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,153533938,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2007,Mini,Cooper,S Convertible 2-Door,1.6L,153535988,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,172917091,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172917731,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,172917921,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2014,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,172917971,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2011,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172942565,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2010,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172942845,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172943055,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172950744,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2009,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172951274,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2014,Mini,Cooper,Roadster John Cooper Works Convertible 2-Door,1.6L,172951534,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,172952014,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,172953014,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Base Convertible 2-Door,1.6L,172956982,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2014,Mini,Cooper,S Convertible 2-Door,1.6L,172968256,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Roadster Convertible 2-Door,1.6L,172968486,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2008,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172970859,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,172971139,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172972089,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,172972849,1.6L 1598CC l4 GAS DOHC Turbocharged
-2009,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172987217,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172987347,1.6L 1598CC l4 GAS DOHC Turbocharged
-2011,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,172987767,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Coupe Coupe 2-Door,1.6L,172987877,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2010,Mini,Cooper,Clubman Wagon 3-Door,1.6L,172988667,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2010,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,172988757,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,173004470,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,173004540,1.6L 1598CC l4 GAS DOHC Turbocharged
-2008,Mini,Cooper,Clubman Wagon 3-Door,1.6L,173009773,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2014,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,173010673,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Clubman Wagon 3-Door,1.6L,173011123,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2012,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,173034878,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,173036008,1.6L 1598CC l4 GAS DOHC Turbocharged
-2011,Mini,Cooper,S Clubman Wagon 3-Door,1.6L,173036028,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,Clubman Wagon 3-Door,1.6L,173036308,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper,John Cooper Works Clubman Wagon 3-Door,1.6L,173036508,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,S Convertible 2-Door,2.0L,204097731,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,S Hatchback 2-Door,2.0L,204166212,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Base Hatchback 2-Door,1.6L,204169229,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2014,Mini,Cooper,S Hatchback 2-Door,1.6L,204201700,1.6L 1598CC l4 GAS DOHC Turbocharged
 2014,Mini,Cooper,Base Hatchback 2-Door,1.5L,204209163,1.5L 1499CC l3 GAS DOHC Turbocharged
 2014,Mini,Cooper,Base Convertible 2-Door,1.5L,204246418,1.5L 1499CC l3 GAS DOHC Turbocharged
+2014,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,172917091,1.6L 1598CC l4 GAS DOHC Turbocharged
+2014,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,172917921,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2014,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,172971139,1.6L 1598CC l4 GAS DOHC Turbocharged
+2014,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,173004820,1.6L 1598CC l4 GAS DOHC Turbocharged
+2014,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,172917971,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2014,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,172953014,1.6L 1598CC l4 GAS DOHC Turbocharged
+2014,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,173004470,1.6L 1598CC l4 GAS DOHC Turbocharged
+2014,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,173005290,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,Base Convertible 2-Door,1.5L,208423101,1.5L 1499CC l3 GAS DOHC Turbocharged
 2015,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,208424271,1.6L 1598CC l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,208481265,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2015,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,208491062,1.6L 1598CC l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,208491962,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,Base Convertible 2-Door,1.6L,208492912,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2015,Mini,Cooper,S Hatchback 2-Door,2.0L,208493302,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,208496304,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,John Cooper Works Convertible 2-Door,1.6L,208498176,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,Base Hatchback 2-Door,1.5L,208499349,1.5L 1499CC l3 GAS DOHC Turbocharged
 2015,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,208500789,1.6L 1598CC l4 GAS DOHC Turbocharged
@@ -131,16 +138,19 @@ year,make,model,trim,engine,epid,ebay_engine
 2015,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,208538013,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,S Convertible 2-Door,1.6L,208580078,1.6L 1598CC l4 GAS DOHC Turbocharged
 2015,Mini,Cooper,S Hatchback 4-Door,2.0L,208580908,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,208581508,1.6L 1598CC l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,208582128,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2015,Mini,Cooper,Coupe Coupe 2-Door,1.6L,208582568,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2015,Mini,Cooper,Base Hatchback 4-Door,1.6L,208582778,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2016,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,217123471,1.6L 1598CC l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,217125541,1.6L 1598CC l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,217230020,1.6L 1598CC l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,217344113,1.6L 1598CC l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,219570899,1.5L 1499CC l3 GAS DOHC Turbocharged
-2016,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,219649378,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,219567272,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,221995464,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,222116663,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,208491062,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,208493552,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,208496304,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,208582128,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2015,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,208481265,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2015,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,208491962,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,208492292,1.6L 1598CC l4 GAS DOHC Turbocharged
+2015,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,208581508,1.6L 1598CC l4 GAS DOHC Turbocharged
 2016,Mini,Cooper,Base Hatchback 2-Door,1.5L,220236825,1.5L 1499CC l3 GAS DOHC Turbocharged
 2016,Mini,Cooper,S Hatchback 4-Door,2.0L,220237995,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2016,Mini,Cooper,Base Hatchback 4-Door,1.5L,220278690,1.5L 1499CC l3 GAS DOHC Turbocharged
@@ -149,9 +159,16 @@ year,make,model,trim,engine,epid,ebay_engine
 2016,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,222005500,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2016,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,222019497,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2016,Mini,Cooper,Base Convertible 2-Door,1.5L,222117083,1.5L 1499CC l3 GAS DOHC Turbocharged
-2017,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,225338161,1.5L 1499CC l3 GAS DOHC Turbocharged
-2017,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,225464399,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,225466380,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,219570899,1.5L 1499CC l3 GAS DOHC Turbocharged
+2016,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,219649378,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,217123471,1.6L 1598CC l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,217223897,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2016,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,1.6L,217230020,1.6L 1598CC l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,217274958,1.6L 1598CC l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Paceman,John Cooper Works ALL4 Hatchback 2-Door,1.6L,217125541,1.6L 1598CC l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,217211957,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
+2016,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,217228250,1.6L 1598CC l4 GAS DOHC Turbocharged
+2016,Mini,Cooper Paceman,S ALL4 Hatchback 2-Door,1.6L,217344113,1.6L 1598CC l4 GAS DOHC Turbocharged
 2017,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,232706755,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2017,Mini,Cooper,Base Convertible 2-Door,1.5L,232713866,1.5L 1499CC l3 GAS DOHC Turbocharged
 2017,Mini,Cooper,Base Hatchback 4-Door,1.5L,232714869,1.5L 1499CC l3 GAS DOHC Turbocharged
@@ -160,186 +177,161 @@ year,make,model,trim,engine,epid,ebay_engine
 2017,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,232759727,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2017,Mini,Cooper,S Convertible 2-Door,2.0L,232796743,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2017,Mini,Cooper,Base Hatchback 2-Door,1.5L,232796783,1.5L 1499CC l3 GAS DOHC Turbocharged
+2017,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,225338161,1.5L 1499CC l3 GAS DOHC Turbocharged
+2017,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,225461235,1.5L 1499CC l3 GAS DOHC Turbocharged
+2017,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,225464399,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,225466380,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,242679929,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,236437441,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2017,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,236516372,1.5L 1499CC l3 GAS DOHC Turbocharged
 2017,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,236541459,1.5L 1499CC l3 GAS DOHC Turbocharged
 2017,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,236579405,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Mini,Cooper,Base Hatchback 4-Door,1.5L,241780351,1.5L 1499CC l3 GAS DOHC Turbocharged
-2018,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,241929254,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,241954645,1.5L 1499CC l3 GAS DOHC Turbocharged
 2018,Mini,Cooper,Base Hatchback 2-Door,1.5L,242025798,1.5L 1499CC l3 GAS DOHC Turbocharged
 2018,Mini,Cooper,Base Convertible 2-Door,1.5L,242027678,1.5L 1499CC l3 GAS DOHC Turbocharged
 2018,Mini,Cooper,S Hatchback 2-Door,2.0L,242531441,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,242672916,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,242679929,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,242680489,1.5L 1499CC l3 GAS DOHC Turbocharged
 2018,Mini,Cooper,S Convertible 2-Door,2.0L,242682345,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,242682445,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Mini,Cooper,S Hatchback 4-Door,2.0L,242692477,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,243700611,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2018,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,243857115,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,243929018,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2018,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,243929278,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,247990160,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,241913780,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,241929254,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,241954645,1.5L 1499CC l3 GAS DOHC Turbocharged
+2018,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,241958957,1.5L 1499CC l3 GAS DOHC Turbocharged
+2018,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,242672916,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,241801041,1.5L 1499CC l3 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,241943336,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,242680489,1.5L 1499CC l3 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,242682445,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,243700611,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,243929018,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2019,Mini,Cooper,Base Convertible 2-Door,1.5L,247990280,1.5L 1499CC l3 GAS DOHC Turbocharged
 2019,Mini,Cooper,Base Hatchback 4-Door,1.5L,248013994,1.5L 1499CC l3 GAS DOHC Turbocharged
 2019,Mini,Cooper,Base Hatchback 2-Door,1.5L,248035435,1.5L 1499CC l3 GAS DOHC Turbocharged
 2019,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,248101343,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,248101853,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,251805115,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,251863371,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2019,Mini,Cooper,S Convertible 2-Door,2.0L,251864761,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,251872363,1.5L 1499CC l3 GAS DOHC Turbocharged
-2019,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,251978290,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Mini,Cooper,S Hatchback 2-Door,2.0L,251998884,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Mini,Cooper,S Hatchback 4-Door,2.0L,252007556,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,247990160,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,251704321,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,251805115,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,251872363,1.5L 1499CC l3 GAS DOHC Turbocharged
+2019,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,251874328,1.5L 1499CC l3 GAS DOHC Turbocharged
+2019,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,251648271,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,251780634,1.5L 1499CC l3 GAS DOHC Turbocharged
+2019,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,251863371,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2019,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,251978290,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,252023295,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2019,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,252096438,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper,Base Convertible 2-Door,1.5L,6036084300,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper,S Convertible 2-Door,2.0L,14036077146,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,14057216364,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper,Oxford Edition Sedan 4-Door,--,15036868706,--
+2020,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,15057222809,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper,S Hatchback 4-Door,2.0L,17036078882,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper,Base Hatchback 4-Door,1.5L,17036078923,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper,SE Hatchback 2-Door,--,17041969925,BATTERY EV (EV/BEV)
+2020,Mini,Cooper,S Hatchback 2-Door,2.0L,24036074464,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper,Oxford Edition Coupe 2-Door,--,25036860923,--
+2020,Mini,Cooper,Base Hatchback 2-Door,1.5L,27036072203,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,5036087199,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,16036076637,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,18047172061,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,20036080513,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2020,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,252112220,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2020,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,252112470,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2020,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,252134964,1.5L 1499CC l3 GAS DOHC Turbocharged
+2020,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,252230368,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,252230458,1.5L 1499CC l3 GAS DOHC Turbocharged
 2020,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,252230473,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,3056458056,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Mini,Cooper,S Hatchback 2-Door,2.0L,3075190906,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Mini,Countryman,John Cooper Works ALL4 Sport Utility 4-Door,2.0L,3075190908,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper,S Hatchback 2-Door,2.0L,4045480584,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,5036087199,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper,Base Convertible 2-Door,1.5L,5045493806,1.5L 1499CC l3 GAS DOHC Turbocharged
-2025,Mini,Countryman,S ALL4 Sport Utility 4-Door,2.0L,5075197242,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,Base Convertible 2-Door,1.5L,6036084300,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper,Base Hatchback 4-Door,1.5L,6045495532,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,6047177774,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2021,Mini,Cooper,Base Hatchback 4-Door,1.5L,7037925334,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper,SE Hatchback 2-Door,--,7044520726,BATTERY EV (EV/BEV)
-2023,Mini,Cooper,Base Hatchback 4-Door,1.5L,7056457776,1.5L 1499CC l3 GAS DOHC Turbocharged
-2026,Mini,Countryman,John Cooper Works ALL4 Sport Utility 4-Door,2.0L,7075771943,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2021,Mini,Cooper,John Cooper Works GP Hatchback 2-Door,2.0L,8043981246,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,S Hatchback 2-Door,2.0L,14037920465,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,15057222794,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,SE Hatchback 2-Door,--,16041964608,BATTERY EV (EV/BEV)
+2021,Mini,Cooper,Base Hatchback 2-Door,1.5L,20037925783,1.5L 1499CC l3 GAS DOHC Turbocharged
+2021,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,21057227921,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,S Hatchback 4-Door,2.0L,24037921100,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,S Convertible 2-Door,2.0L,25037915371,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper,Base Convertible 2-Door,1.5L,27037917025,1.5L 1499CC l3 GAS DOHC Turbocharged
+2021,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,7047171040,1.5L 1499CC l3 GAS DOHC Turbocharged
+2021,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,18041969599,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,24041985764,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,27041962073,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,5039852558,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,16039840567,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,16039840658,1.5L 1499CC l3 GAS DOHC Turbocharged
+2021,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,19039841378,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2021,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,22039845870,1.5L 1499CC l3 GAS DOHC Turbocharged
+2021,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,23039852133,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper,S Hatchback 2-Door,2.0L,4045480584,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper,Base Convertible 2-Door,1.5L,5045493806,1.5L 1499CC l3 GAS DOHC Turbocharged
+2022,Mini,Cooper,Base Hatchback 4-Door,1.5L,6045495532,1.5L 1499CC l3 GAS DOHC Turbocharged
+2022,Mini,Cooper,SE Hatchback 2-Door,--,7044520726,BATTERY EV (EV/BEV)
+2022,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,17057221629,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper,Base Hatchback 2-Door,1.5L,19045489574,1.5L 1499CC l3 GAS DOHC Turbocharged
+2022,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,20057221656,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper,S Hatchback 4-Door,2.0L,22045485226,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper,S Convertible 2-Door,2.0L,27045477698,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,6047177774,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,18047170362,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,22047169935,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,3047174580,1.5L 1499CC l3 GAS DOHC Turbocharged
 2022,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,8047171704,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2024,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,8060483230,1.5L 1499CC l3 GAS DOHC Turbocharged
+2022,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,24047164941,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,26047176252,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,26047177240,1.5L 1499CC l3 GAS DOHC Turbocharged
+2022,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,28048304701,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,Base Hatchback 4-Door,1.5L,7056457776,1.5L 1499CC l3 GAS DOHC Turbocharged
+2023,Mini,Cooper,SE Hatchback 2-Door,--,10056455563,BATTERY EV (EV/BEV)
+2023,Mini,Cooper,Base Convertible 2-Door,1.5L,12056444352,1.5L 1499CC l3 GAS DOHC Turbocharged
+2023,Mini,Cooper,S Convertible 2-Door,2.0L,13056447824,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,13057215515,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,S Hatchback 4-Door,2.0L,18056455107,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,21057227854,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,S Hatchback 2-Door,2.0L,24056447662,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper,Base Hatchback 2-Door,1.5L,27056447915,1.5L 1499CC l3 GAS DOHC Turbocharged
+2023,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,11056442726,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,15056454794,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,22056454042,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,3056458056,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,8056455689,1.5L 1499CC l3 GAS DOHC Turbocharged
+2023,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,12056444176,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,13056447933,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,21062745613,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2023,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,28056457750,1.5L 1499CC l3 GAS DOHC Turbocharged
 2024,Mini,Cooper,Base Hatchback 4-Door,1.5L,8060483322,1.5L 1499CC l3 GAS DOHC Turbocharged
 2024,Mini,Cooper,Base Hatchback 2-Door,1.5L,9060477167,1.5L 1499CC l3 GAS DOHC Turbocharged
 2024,Mini,Cooper,Base Convertible 2-Door,1.5L,9060477304,1.5L 1499CC l3 GAS DOHC Turbocharged
 2024,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,9060477323,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper,S Convertible 2-Door,2.0L,9060477398,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,SE Hatchback 2-Door,--,10056455563,BATTERY EV (EV/BEV)
-2024,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,10060489453,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper,SE Hatchback 2-Door,--,10060489529,BATTERY EV (EV/BEV)
-2023,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,12056444176,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,Base Convertible 2-Door,1.5L,12056444352,1.5L 1499CC l3 GAS DOHC Turbocharged
-2023,Mini,Cooper,S Convertible 2-Door,2.0L,13056447824,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,13057215515,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,S Convertible 2-Door,2.0L,14036077146,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,S Hatchback 2-Door,2.0L,14037920465,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,14057216364,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper,S Hatchback 4-Door,2.0L,14060472500,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Mini,Cooper,Base Convertible 2-Door,2.0L,14080344336,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,15057222794,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,15057222809,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,15060484342,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Mini,Cooper,S Convertible 2-Door,2.0L,15080357687,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,16039840567,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,16039840658,1.5L 1499CC l3 GAS DOHC Turbocharged
-2021,Mini,Cooper,SE Hatchback 2-Door,--,16041964608,BATTERY EV (EV/BEV)
-2026,Mini,Countryman,S ALL4 Sport Utility 4-Door,2.0L,16075750682,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,Roadster Convertible 2-Door,1.6L,114827234,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2012,Mini,Cooper,Roadster John Cooper Works Convertible 2-Door,1.6L,114827664,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,Coupe Coupe 2-Door,1.6L,114864115,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2012,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,114904560,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,114904720,1.6L 1598CC l4 GAS DOHC Turbocharged
-2012,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,114906300,1.6L 1598CC l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,S Hatchback 4-Door,2.0L,17036078882,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,Base Hatchback 4-Door,1.5L,17036078923,1.5L 1499CC l3 GAS DOHC Turbocharged
-2020,Mini,Cooper,SE Hatchback 2-Door,--,17041969925,BATTERY EV (EV/BEV)
-2022,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,17057221629,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,Roadster S Convertible 2-Door,1.6L,153458052,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,Roadster Convertible 2-Door,1.6L,153458405,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper,Base Convertible 2-Door,1.6L,153460242,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper,Roadster John Cooper Works Convertible 2-Door,1.6L,153460399,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,John Cooper Works GP Hatchback 2-Door,1.6L,153463679,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,1.6L,153463854,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,Base Hatchback 2-Door,1.6L,153466832,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper,Coupe Coupe 2-Door,1.6L,153471999,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2013,Mini,Cooper,Coupe S Coupe 2-Door,1.6L,153477732,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper,Coupe John Cooper Works Coupe 2-Door,1.6L,153484097,1.6L 1598CC l4 GAS DOHC Turbocharged
-2013,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,153524273,1.6L 1598CC l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,18041969599,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,S Hatchback 4-Door,2.0L,18056455107,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,173004820,1.6L 1598CC l4 GAS DOHC Turbocharged
-2014,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,173005290,1.6L 1598CC l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,19039841378,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2022,Mini,Cooper,Base Hatchback 2-Door,1.5L,19045489574,1.5L 1499CC l3 GAS DOHC Turbocharged
-2015,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,208492292,1.6L 1598CC l4 GAS DOHC Turbocharged
-2015,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,208493552,1.6L 1598CC l4 GAS DOHC Turbocharged
-2015,Mini,Cooper,John Cooper Works Hatchback 2-Door,1.6L,219567272,1.6L 1598CC l4 GAS DOHC Turbocharged
-2026,Mini,Countryman,SE ALL4 Sport Utility 4-Door,--,19075758876,BATTERY EV (EV/BEV)
-2015,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,221995464,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2015,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,222116663,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,20036080513,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,Base Hatchback 2-Door,1.5L,20037925783,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,20057221656,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Paceman,Base Hatchback 2-Door,1.6L,217211957,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
-2016,Mini,Cooper Countryman,Base Hatchback 4-Door,1.6L,217223897,1.6L 1598CC l4 GAS DOHC Naturally Aspirated
 2024,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,20060479949,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Paceman,S Hatchback 2-Door,1.6L,217228250,1.6L 1598CC l4 GAS DOHC Turbocharged
-2016,Mini,Cooper Countryman,S Hatchback 4-Door,1.6L,217274958,1.6L 1598CC l4 GAS DOHC Turbocharged
-2025,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,20080360250,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2017,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,225461235,1.5L 1499CC l3 GAS DOHC Turbocharged
-2023,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,21057227854,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,21057227921,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,21062745613,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2017,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,236437441,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Mini,Countryman,SE ALL4 Sport Utility 4-Door,--,21075200722,BATTERY EV (EV/BEV)
-2018,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,241801041,1.5L 1499CC l3 GAS DOHC Turbocharged
-2018,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,241913780,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,241943336,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper,S Hatchback 4-Door,2.0L,22045485226,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,22047169935,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2018,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,241958957,1.5L 1499CC l3 GAS DOHC Turbocharged
-2019,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,251648271,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,251704321,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,23039852133,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,251780634,1.5L 1499CC l3 GAS DOHC Turbocharged
-2019,Mini,Cooper Clubman,Base Wagon 4-Door,1.5L,251874328,1.5L 1499CC l3 GAS DOHC Turbocharged
-2020,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,252230368,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,252230458,1.5L 1499CC l3 GAS DOHC Turbocharged
-2025,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,23080358854,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,S Hatchback 2-Door,2.0L,24036074464,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,S Hatchback 4-Door,2.0L,24037921100,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,18047172061,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,24047164941,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,S Hatchback 2-Door,2.0L,24056447662,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,Oxford Edition Sedan 4-Door,--,15036868706,--
-2020,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,16036076637,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,Oxford Edition Coupe 2-Door,--,25036860923,--
-2021,Mini,Cooper Clubman,ALL4 Wagon 4-Door,1.5L,7047171040,1.5L 1499CC l3 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,5039852558,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper,S Convertible 2-Door,2.0L,25037915371,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,22039845870,1.5L 1499CC l3 GAS DOHC Turbocharged
-2021,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,24041985764,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,3047174580,1.5L 1499CC l3 GAS DOHC Turbocharged
-2025,Mini,Cooper,S Hatchback 4-Door,2.0L,25075180093,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,18047170362,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,26047176252,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,26047177240,1.5L 1499CC l3 GAS DOHC Turbocharged
-2022,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,28048304701,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,8056455689,1.5L 1499CC l3 GAS DOHC Turbocharged
-2023,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,11056442726,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,13056447933,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,15056454794,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,22056454042,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Mini,Cooper,Base Hatchback 2-Door,1.5L,27036072203,1.5L 1499CC l3 GAS DOHC Turbocharged
-2021,Mini,Cooper,Base Convertible 2-Door,1.5L,27037917025,1.5L 1499CC l3 GAS DOHC Turbocharged
-2021,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,27041962073,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Mini,Cooper,S Convertible 2-Door,2.0L,27045477698,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper,Base Hatchback 2-Door,1.5L,27056447915,1.5L 1499CC l3 GAS DOHC Turbocharged
-2024,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,6060493710,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper,S Hatchback 2-Door,2.0L,27060481546,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,18062743671,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2024,Mini,Cooper Clubman,S ALL4 Wagon 4-Door,2.0L,6060493710,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper Clubman,John Cooper Works ALL4 Wagon 4-Door,2.0L,19060485206,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper Clubman,S Wagon 4-Door,2.0L,19060485236,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,8060483230,1.5L 1499CC l3 GAS DOHC Turbocharged
+2024,Mini,Cooper Countryman,John Cooper Works ALL4 Hatchback 4-Door,2.0L,10060489453,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Mini,Cooper Countryman,S ALL4 Hatchback 4-Door,2.0L,15060484342,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Mini,Cooper Countryman,S E ALL4 Hatchback 4-Door,1.5L,18062743671,1.5L 1499CC l3 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
 2024,Mini,Cooper Countryman,S Hatchback 4-Door,2.0L,25060471898,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2024,Mini,Cooper Countryman,Base Hatchback 4-Door,1.5L,26060490809,1.5L 1499CC l3 GAS DOHC Turbocharged
+2025,Mini,Cooper,S Hatchback 2-Door,2.0L,3075190906,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Mini,Cooper,C Hatchback 4-Door,2.0L,6075771987,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Mini,Cooper Countryman,ALL4 Hatchback 4-Door,1.5L,28056457750,1.5L 1499CC l3 GAS DOHC Turbocharged
+2025,Mini,Cooper,Base Convertible 2-Door,2.0L,14080344336,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Cooper,S Convertible 2-Door,2.0L,15080357687,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Mini,Cooper,Base Hatchback 4-Door,2.0L,17075193064,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Mini,Cooper,Base Hatchback 2-Door,2.0L,18075199159,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Cooper,John Cooper Works Hatchback 2-Door,2.0L,20080360250,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Cooper,John Cooper Works Convertible 2-Door,2.0L,23080358854,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Cooper,S Hatchback 4-Door,2.0L,25075180093,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
 2025,Mini,Cooper,C Hatchback 2-Door,2.0L,27075764488,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Countryman,John Cooper Works ALL4 Sport Utility 4-Door,2.0L,3075190908,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Countryman,S ALL4 Sport Utility 4-Door,2.0L,5075197242,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Mini,Countryman,SE ALL4 Sport Utility 4-Door,--,21075200722,BATTERY EV (EV/BEV)
+2026,Mini,Countryman,John Cooper Works ALL4 Sport Utility 4-Door,2.0L,7075771943,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Mini,Countryman,S ALL4 Sport Utility 4-Door,2.0L,16075750682,2.0L 1998CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Mini,Countryman,SE ALL4 Sport Utility 4-Door,--,19075758876,BATTERY EV (EV/BEV)
