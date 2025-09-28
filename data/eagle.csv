@@ -1,194 +1,183 @@
 year,make,model,trim,engine,epid,ebay_engine
-1991,Eagle,Premier,LX Sedan 4-Door,3.0L,73928724,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1989,Eagle,Premier,LX Sedan 4-Door,3.0L,73928824,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Eagle,Vision,TSi Sedan 4-Door,3.5L,73928924,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Eagle,Premier,LX Sedan 4-Door,3.0L,73957702,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Eagle,Premier,ES Sedan 4-Door,3.0L,73957962,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1990,Eagle,Premier,LX Sedan 4-Door,3.0L,73965506,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1997,Eagle,Vision,ESi Sedan 4-Door,3.5L,73978909,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1993,Eagle,Vision,TSi Sedan 4-Door,3.5L,73978929,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1989,Eagle,Premier,ES Sedan 4-Door,3.0L,73984013,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1997,Eagle,Vision,TSi Sedan 4-Door,3.5L,73984153,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1990,Eagle,Premier,ES Sedan 4-Door,3.0L,73990858,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1994,Eagle,Vision,TSi Sedan 4-Door,3.5L,73996380,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1991,Eagle,Premier,ES Sedan 4-Door,3.0L,74012327,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1995,Eagle,Vision,TSi Sedan 4-Door,3.5L,74012437,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1991,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74042245,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1990,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74069368,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74091087,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1989,Eagle,Summit,LX Sedan 4-Door,1.5L,83263524,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Eagle,Medallion,LX Sedan 4-Door,2.2L,83294081,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Summit,DL Sedan 4-Door,1.5L,83294135,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1988,Eagle,Medallion,LX Sedan 4-Door,2.2L,83302139,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Summit,LX Sedan 4-Door,1.5L,83303425,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,DL Wagon 3-Door,1.8L,83304552,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1988,Eagle,Premier,LX Sedan 4-Door,2.5L,83305356,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Eagle,Medallion,DL Wagon 4-Door,2.2L,83309145,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Eagle,Summit,DL Sedan 4-Door,1.5L,83312906,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Eagle,Premier,LX Sedan 4-Door,2.5L,83324463,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
-1989,Eagle,Summit,LX Sedan 4-Door,1.6L,83325573,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1989,Eagle,Medallion,DL Sedan 4-Door,2.2L,83325689,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
-1989,Eagle,Medallion,LX Wagon 4-Door,2.2L,83335000,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
 1988,Eagle,Medallion,DL Sedan 4-Door,2.2L,83346738,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
 1988,Eagle,Medallion,DL Wagon 4-Door,2.2L,83355600,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Summit,LX Sedan 4-Door,1.6L,83356200,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Eagle,Summit,LX Wagon 3-Door,1.8L,83365297,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Vision,ESi Sedan 4-Door,3.3L,109905912,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
-1993,Eagle,Vision,ESi Sedan 4-Door,3.3L,109909505,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
-1995,Eagle,Vision,ESi Sedan 4-Door,3.3L,109911092,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
-1997,Eagle,Vision,ESi Sedan 4-Door,3.3L,109926726,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
-1996,Eagle,Vision,ESi Sedan 4-Door,3.3L,109931206,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
-1990,Eagle,Summit,ES Sedan 4-Door,1.5L,112466501,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Summit,ES Sedan 4-Door,1.6L,112533156,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Eagle,Summit,Base Wagon 3-Door,1.8L,153427751,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Sedan 4-Door,1.8L,153457985,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Hatchback 2-Door,1.8L,153458689,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250275561,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1998,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250275831,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1997,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250279561,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1996,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250348772,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1994,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250408614,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1993,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250417656,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1994,Eagle,Talon,DL Hatchback 2-Door,1.8L,250504478,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Talon,DL Hatchback 2-Door,1.8L,250505318,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Talon,ES Hatchback 2-Door,2.0L,2307123395,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Eagle,Summit,ES Coupe 2-Door,1.8L,2309360847,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,ESi Sedan 4-Door,1.5L,2318215799,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1988,Eagle,Premier,LX Sedan 4-Door,2.5L,83305356,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
+1988,Eagle,Premier,ES Sedan 4-Door,3.0L,10038316747,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1988,Eagle,Premier,LX Sedan 4-Door,3.0L,19038309116,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
 1988,Eagle,Vista,Base Sedan 4-Door,1.5L,3039847642,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Medallion,LX Sedan 4-Door,2.2L,83294081,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Medallion,DL Wagon 4-Door,2.2L,83309145,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Medallion,DL Sedan 4-Door,2.2L,83325689,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Medallion,LX Wagon 4-Door,2.2L,83335000,2.2L 2163CC 132Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Premier,LX Sedan 4-Door,3.0L,73928824,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Eagle,Premier,ES Sedan 4-Door,3.0L,73984013,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1989,Eagle,Premier,LX Sedan 4-Door,2.5L,83324463,2.5L 150Cu. In. l4 GAS OHV Naturally Aspirated
+1989,Eagle,Summit,LX Sedan 4-Door,1.5L,83263524,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Summit,DL Sedan 4-Door,1.5L,83312906,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1989,Eagle,Summit,LX Sedan 4-Door,1.6L,83325573,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
 1989,Eagle,Vista,Base Hatchback 2-Door,1.5L,153457882,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Eagle,Vista,Base Sedan 4-Door,1.5L,153470592,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Eagle,Vista,Base Wagon 4-Door,1.5L,153473579,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Eagle,Vista,Base Hatchback 2-Door,2.0L,7046141638,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Eagle,Vista,Base Sedan 4-Door,2.0L,7046141707,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
 1989,Eagle,Vista,Base Wagon 4-Door,2.0L,9046132858,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Talon,TSi Hatchback 2-Door,2.0L,3036083806,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1995,Eagle,Summit,DL Wagon 3-Door,1.5L,3047172882,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Eagle,Premier,LX Sedan 4-Door,3.0L,73965506,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Eagle,Premier,ES Sedan 4-Door,3.0L,73990858,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74069368,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1990,Eagle,Summit,DL Sedan 4-Door,1.5L,83294135,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Eagle,Summit,LX Sedan 4-Door,1.5L,83303425,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Eagle,Summit,LX Sedan 4-Door,1.6L,83356200,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Eagle,Summit,ES Sedan 4-Door,1.5L,112466501,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1990,Eagle,Summit,ES Sedan 4-Door,1.6L,112533156,1.6L 1597CC 98Cu. In. l4 GAS DOHC Naturally Aspirated
+1990,Eagle,Talon,TSi Hatchback 2-Door,2.0L,14036077109,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1990,Eagle,Talon,Base Hatchback 2-Door,2.0L,24036074468,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
 1990,Eagle,Vista,4x4 Wagon 4-Door,2.0L,5046145593,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Eagle,Vista,LX Sedan 4-Door,1.5L,10039846714,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Eagle,Vista,Base Sedan 4-Door,1.5L,17039843504,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Eagle,Vista,Base Wagon 4-Door,1.5L,24039840384,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Eagle,Vista,DL Sedan 4-Door,1.5L,27039837325,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1990,Eagle,Vista,GT Hatchback 2-Door,1.5L,28039845843,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,2317183918,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Eagle,Premier,LX Sedan 4-Door,3.0L,73928724,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Eagle,Premier,ES Sedan 4-Door,3.0L,74012327,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74042245,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1991,Eagle,Summit,DL Sedan 4-Door,1.5L,8047171512,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,Summit,Base Sedan 4-Door,1.5L,14047166137,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,Summit,Base Hatchback 2-Door,1.5L,17047164935,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,Summit,ES Hatchback 2-Door,1.5L,23047178749,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,Summit,ES Sedan 4-Door,1.5L,28047168175,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1991,Eagle,Talon,Base Hatchback 2-Door,2.0L,11036074691,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Eagle,Talon,TSi Hatchback 2-Door,2.0L,13036077529,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
 1991,Eagle,Vista,Base Sedan 4-Door,1.5L,153425141,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
 1991,Eagle,Vista,Base Wagon 4-Door,1.5L,153453825,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
 1991,Eagle,Vista,DL Sedan 4-Door,1.5L,153457905,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
 1991,Eagle,Vista,GT Hatchback 2-Door,1.5L,153459792,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
-1994,Eagle,Summit,LX Wagon 3-Door,1.8L,4038309010,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,2317183918,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1991,Eagle,Summit,DL Sedan 4-Door,1.5L,8047171512,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1991,Eagle,Vista,4x4 Wagon 4-Door,2.0L,10046140577,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,14046136649,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
 1991,Eagle,Vista,Base Sedan 4-Door,2.0L,19046140980,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
 1991,Eagle,Vista,Base Wagon 4-Door,2.0L,26046145445,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Vista,Base Sedan 4-Door,1.5L,153490997,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
-1992,Eagle,Vista,Base Hatchback 2-Door,1.5L,153511920,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
-1996,Eagle,Summit,LX Sedan 4-Door,1.8L,5038322220,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Summit,DL Sedan 4-Door,1.8L,5038322283,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1992,Eagle,2000 GTX,4x4 Wagon 4-Door,2.0L,2317183778,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
 1992,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,4046131420,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,7046141559,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Eagle,Premier,LX Sedan 4-Door,3.0L,73957702,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Eagle,Premier,ES Sedan 4-Door,3.0L,73957962,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Eagle,Premier,ES Limited Sedan 4-Door,3.0L,74091087,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,DL Wagon 3-Door,1.8L,83304552,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,LX Wagon 3-Door,1.8L,83365297,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Wagon 3-Door,1.8L,153427751,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Sedan 4-Door,1.8L,153457985,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Hatchback 2-Door,1.8L,153458689,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Wagon 3-Door,1.5L,6047177909,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Sedan 4-Door,2.4L,9039230728,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Sedan 4-Door,1.5L,9047163813,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1992,Eagle,Summit,DL Wagon 3-Door,1.5L,10047172532,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,ES Sedan 4-Door,1.5L,12047163162,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Wagon 3-Door,2.4L,15039235834,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,DL Wagon 3-Door,2.4L,17039232561,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Hatchback 2-Door,2.4L,18039236428,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,ES Hatchback 2-Door,1.5L,20047168844,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,Base Hatchback 2-Door,1.5L,22047169918,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Summit,LX Wagon 3-Door,2.4L,23039242930,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1992,Eagle,Talon,TSi Hatchback 2-Door,2.0L,3036083806,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1992,Eagle,Talon,Base Hatchback 2-Door,2.0L,14036077064,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Eagle,Vista,Base Sedan 4-Door,1.5L,153490997,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
+1992,Eagle,Vista,Base Hatchback 2-Door,1.5L,153511920,1.5L 1468CC 90Cu. In. l4 GAS Naturally Aspirated
 1993,Eagle,2000 GTX,Base Sedan 4-Door,2.0L,153429061,2.0L 1997CC 122Cu. In. l4 GAS Naturally Aspirated
+1993,Eagle,Summit,DL Sedan 4-Door,1.8L,5038322283,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,Base Wagon 3-Door,1.8L,6038322750,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Wagon 3-Door,1.5L,6047177855,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Wagon 3-Door,1.5L,6047177909,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Talon,ESi Hatchback 2-Door,2.0L,7037925340,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Eagle,Summit,LX Wagon 3-Door,1.8L,7038317079,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Vision,ESi Sedan 4-Door,3.5L,218518649,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Coupe 2-Door,2.4L,7039238037,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,DL Wagon 3-Door,2.4L,7039238043,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,LX Coupe 2-Door,1.8L,15038315262,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,LX Coupe 2-Door,2.4L,23039242861,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Vision,ESi Sedan 4-Door,3.5L,218512985,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Sedan 4-Door,2.4L,4039228785,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Sedan 4-Door,1.8L,5038322128,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Sedan 4-Door,1.5L,8047169823,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1998,Eagle,Talon,ESi Hatchback 2-Door,2.0L,8037925776,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Eagle,Summit,ES Coupe 2-Door,1.5L,8047170130,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,ESi Coupe 2-Door,1.5L,8047173759,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Coupe 2-Door,1.8L,9038308623,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,LX Sedan 4-Door,2.4L,9039230709,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Sedan 4-Door,2.4L,9039230728,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,LX Wagon 3-Door,2.4L,9039230784,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Sedan 4-Door,1.5L,9047163813,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Talon,Base Hatchback 2-Door,2.0L,10037926544,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1988,Eagle,Premier,ES Sedan 4-Door,3.0L,10038316747,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,LX Sedan 4-Door,2.4L,10039237360,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,DL Coupe 2-Door,2.4L,10039237380,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Talon,Base Hatchback 2-Door,2.0L,11036074691,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Eagle,Talon,ESi Hatchback 2-Door,2.0L,11037920138,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1994,Eagle,Summit,ESi Coupe 2-Door,1.8L,11038309659,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,LX Wagon 3-Door,1.8L,11038309688,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Coupe 2-Door,2.4L,11039229262,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,ES Sedan 4-Door,1.5L,11047159309,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,ES Coupe 2-Door,1.5L,11047160876,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,ESi Coupe 2-Door,1.5L,12047160738,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,ES Sedan 4-Door,1.5L,12047163162,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Talon,TSi Hatchback 2-Door,2.0L,13036077529,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1994,Eagle,Summit,Base Wagon 3-Door,2.4L,13039234773,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Sedan 4-Door,1.5L,13047167149,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Talon,Base Hatchback 2-Door,2.0L,14036077064,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1990,Eagle,Talon,TSi Hatchback 2-Door,2.0L,14036077109,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1995,Eagle,Summit,DL Coupe 2-Door,2.4L,14039233138,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,ESi Sedan 4-Door,1.5L,14047166051,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Summit,Base Sedan 4-Door,1.5L,14047166137,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Wagon 3-Door,1.5L,14047166299,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Wagon 3-Door,2.4L,15039235834,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,DL Coupe 2-Door,1.5L,15047170920,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Talon,ES Hatchback 2-Door,2.0L,16036076550,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1995,Eagle,Talon,ESi Hatchback 2-Door,2.0L,16037920791,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1995,Eagle,Summit,ESi Sedan 4-Door,1.8L,16038311892,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Wagon 3-Door,1.8L,16038311895,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,ES Coupe 2-Door,1.8L,16038311902,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,DL Sedan 4-Door,2.4L,16039231559,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Wagon 3-Door,2.4L,16039231627,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Coupe 2-Door,1.5L,16047164455,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,DL Sedan 4-Door,1.5L,16047164699,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1997,Eagle,Talon,Base Hatchback 2-Door,2.0L,17037922532,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
 1993,Eagle,Summit,LX Wagon 3-Door,2.4L,17039232503,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,LX Wagon 3-Door,2.4L,17039232526,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,DL Wagon 3-Door,2.4L,17039232561,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Summit,Base Hatchback 2-Door,1.5L,17047164935,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Wagon 3-Door,1.8L,18038316811,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,DL Coupe 2-Door,1.8L,18038316832,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Sedan 4-Door,2.4L,18039236346,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Hatchback 2-Door,2.4L,18039236428,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1994,Eagle,Summit,DL Wagon 3-Door,1.5L,18047170455,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Sedan 4-Door,1.5L,18047170465,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1998,Eagle,Talon,Base Hatchback 2-Door,2.0L,19037918219,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-1988,Eagle,Premier,LX Sedan 4-Door,3.0L,19038309116,3.0L 2972CC 182Cu. In. V6 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Wagon 3-Door,2.4L,19039231470,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Wagon 3-Door,2.4L,19039231481,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,ES Hatchback 2-Door,1.5L,20047168844,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1993,Eagle,Summit,DL Sedan 4-Door,2.4L,21039236425,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Eagle,Summit,ES Sedan 4-Door,1.8L,24038312276,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Eagle,Summit,DL Coupe 2-Door,1.5L,26047176882,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Eagle,Summit,Base Wagon 3-Door,2.4L,27039228303,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1993,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250417656,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1993,Eagle,Talon,DL Hatchback 2-Door,1.8L,250505318,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1993,Eagle,Talon,ES Hatchback 2-Door,2.0L,2307123395,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1993,Eagle,Vision,TSi Sedan 4-Door,3.5L,73978929,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1993,Eagle,Vision,ESi Sedan 4-Door,3.3L,109909505,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1994,Eagle,Summit,ES Coupe 2-Door,1.8L,2309360847,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,LX Wagon 3-Door,1.8L,4038309010,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,DL Wagon 3-Door,2.4L,7039238043,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,ES Coupe 2-Door,1.5L,8047170130,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,LX Sedan 4-Door,2.4L,9039230709,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,DL Coupe 2-Door,2.4L,10039237380,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,ESi Coupe 2-Door,1.8L,11038309659,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,Base Wagon 3-Door,2.4L,13039234773,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,DL Sedan 4-Door,2.4L,16039231559,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,DL Sedan 4-Door,1.5L,16047164699,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,LX Wagon 3-Door,2.4L,17039232526,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Summit,DL Wagon 3-Door,1.5L,18047170455,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Eagle,Summit,DL Coupe 2-Door,1.5L,21047172547,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Talon,TSi Hatchback 2-Door,2.0L,22036081287,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
 1994,Eagle,Summit,DL Sedan 4-Door,1.8L,22038315887,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Eagle,Summit,ES Sedan 4-Door,1.5L,22047167582,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Hatchback 2-Door,1.5L,22047169918,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,LX Wagon 3-Door,2.4L,23039242930,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Summit,ES Hatchback 2-Door,1.5L,23047178749,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Talon,Base Hatchback 2-Door,2.0L,24036074468,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
 1994,Eagle,Summit,ESi Sedan 4-Door,1.8L,24038312236,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Summit,ES Sedan 4-Door,1.8L,24038312276,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,DL Wagon 3-Door,2.4L,24039231534,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,LX Sedan 4-Door,2.4L,24039231550,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,Base Wagon 3-Door,2.4L,24039231578,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Wagon 3-Door,1.5L,24047160924,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,LX Wagon 3-Door,2.4L,25039226153,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1990,Eagle,Talon,TSi Hatchback 2-Door,2.0L,26036084880,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
-1995,Eagle,Summit,ESi Coupe 2-Door,1.8L,26038320792,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Eagle,Summit,ES Sedan 4-Door,1.8L,26038320863,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Eagle,Summit,DL Wagon 3-Door,1.8L,26038320873,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1995,Eagle,Summit,Base Wagon 3-Door,2.4L,26039242310,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Hatchback 2-Door,2.4L,26039242448,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Summit,DL Coupe 2-Door,1.5L,26047176882,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Talon,TSi Hatchback 2-Door,2.0L,27036072269,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
 1994,Eagle,Summit,DL Coupe 2-Door,1.8L,27038307068,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1994,Eagle,Summit,LX Sedan 4-Door,1.8L,27038307094,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1996,Eagle,Summit,DL Coupe 2-Door,1.8L,27038307096,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1993,Eagle,Summit,Base Wagon 3-Door,2.4L,27039228303,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250408614,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1994,Eagle,Talon,DL Hatchback 2-Door,1.8L,250504478,1.8L 1755CC 107Cu. In. l4 GAS SOHC Naturally Aspirated
+1994,Eagle,Talon,ES Hatchback 2-Door,2.0L,16036076550,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Eagle,Vision,TSi Sedan 4-Door,3.5L,73996380,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1994,Eagle,Vision,ESi Sedan 4-Door,3.3L,109905912,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Eagle,Summit,ESi Sedan 4-Door,1.5L,2318215799,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,DL Wagon 3-Door,1.5L,3047172882,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,ESi Coupe 2-Door,1.5L,8047173759,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,LX Wagon 3-Door,2.4L,9039230784,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,LX Sedan 4-Door,2.4L,10039237360,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,LX Wagon 3-Door,1.8L,11038309688,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,DL Coupe 2-Door,2.4L,14039233138,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,LX Coupe 2-Door,1.8L,15038315262,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,DL Coupe 2-Door,1.5L,15047170920,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,ESi Sedan 4-Door,1.8L,16038311892,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,DL Coupe 2-Door,1.8L,18038316832,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,LX Coupe 2-Door,2.4L,23039242861,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,DL Wagon 3-Door,2.4L,24039231534,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,ESi Coupe 2-Door,1.8L,26038320792,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Summit,Base Wagon 3-Door,2.4L,26039242310,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
 1995,Eagle,Summit,LX Sedan 4-Door,1.8L,28038313891,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
 1995,Eagle,Summit,DL Wagon 3-Door,1.8L,28038313966,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
-1991,Eagle,Summit,ES Sedan 4-Door,1.5L,28047168175,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
-1992,Eagle,Summit,Base Hatchback 2-Door,1.5L,28047168273,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1995,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250275561,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1995,Eagle,Talon,ESi Hatchback 2-Door,2.0L,16037920791,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1995,Eagle,Vision,TSi Sedan 4-Door,3.5L,74012437,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1995,Eagle,Vision,ESi Sedan 4-Door,3.3L,109911092,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1995,Eagle,Vision,ESi Sedan 4-Door,3.5L,218518649,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Sedan 4-Door,2.4L,4039228785,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Sedan 4-Door,1.8L,5038322128,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,LX Sedan 4-Door,1.8L,5038322220,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,LX Wagon 3-Door,1.8L,7038317079,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Coupe 2-Door,2.4L,7039238037,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Sedan 4-Door,1.5L,8047169823,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,ESi Coupe 2-Door,1.5L,12047160738,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,ESi Sedan 4-Door,1.5L,14047166051,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Wagon 3-Door,1.5L,14047166299,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Wagon 3-Door,1.8L,16038311895,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Wagon 3-Door,2.4L,16039231627,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Coupe 2-Door,1.5L,16047164455,1.5L 1468CC 90Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,LX Sedan 4-Door,2.4L,24039231550,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,Base Wagon 3-Door,2.4L,24039231578,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,LX Wagon 3-Door,2.4L,25039226153,2.4L 2351CC l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Summit,DL Coupe 2-Door,1.8L,27038307096,1.8L 1834CC 112Cu. In. l4 GAS SOHC Naturally Aspirated
+1996,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250348772,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1996,Eagle,Talon,ESi Hatchback 2-Door,2.0L,7037925340,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Eagle,Talon,Base Hatchback 2-Door,2.0L,10037926544,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Eagle,Vision,TSi Sedan 4-Door,3.5L,73928924,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1996,Eagle,Vision,ESi Sedan 4-Door,3.3L,109931206,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1996,Eagle,Vision,ESi Sedan 4-Door,3.5L,218512985,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250279561,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1997,Eagle,Talon,ESi Hatchback 2-Door,2.0L,11037920138,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Eagle,Talon,Base Hatchback 2-Door,2.0L,17037922532,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1997,Eagle,Vision,ESi Sedan 4-Door,3.5L,73978909,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Eagle,Vision,TSi Sedan 4-Door,3.5L,73984153,3.5L 3497CC 215Cu. In. V6 GAS SOHC Naturally Aspirated
+1997,Eagle,Vision,ESi Sedan 4-Door,3.3L,109926726,3.3L 3301CC 201Cu. In. V6 GAS OHV Naturally Aspirated
+1998,Eagle,Talon,TSi Hatchback 2-Door,2.0L,250275831,2.0L 1997CC 122Cu. In. l4 GAS DOHC Turbocharged
+1998,Eagle,Talon,ESi Hatchback 2-Door,2.0L,8037925776,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+1998,Eagle,Talon,Base Hatchback 2-Door,2.0L,19037918219,2.0L 1996CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
