@@ -1,41 +1,39 @@
 year,make,model,trim,engine,epid,ebay_engine
-2008,Hummer,H2,Base Crew Cab Pickup 4-Door,6.2L,74018544,6.2L 6162CC 376Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Hummer,H2,Base Sport Utility 4-Door,6.2L,74045271,6.2L 6162CC 376Cu. In. V8 GAS OHV Naturally Aspirated
+2002,Hummer,H1,Base Sport Utility 2-Door,6.5L,5037932417,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
+2002,Hummer,H1,Base Sport Utility 4-Door,6.5L,24037920965,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
+2003,Hummer,H1,Base Sport Utility 4-Door,6.5L,10037926848,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
+2003,Hummer,H1,Base Sport Utility 2-Door,6.5L,19037918368,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
+2003,Hummer,H2,Base Sport Utility 4-Door,6.0L,20037925902,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Hummer,H1,Base Sport Utility 4-Door,6.5L,24037921113,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
+2004,Hummer,H2,Base Sport Utility 4-Door,6.0L,232794413,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Hummer,H2,Base Sport Utility 4-Door,6.0L,24037920931,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Hummer,H2,Base Crew Cab Pickup 4-Door,6.0L,26037929967,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
 2006,Hummer,H1,Alpha Sport Utility 4-Door,6.6L,74060283,6.6L 400Cu. In. V8 DIESEL OHV Turbocharged
-2009,Hummer,H2,Base Crew Cab Pickup 4-Door,6.2L,74088570,6.2L 6162CC 376Cu. In. V8 FLEX OHV Naturally Aspirated
-2009,Hummer,H2,Base Sport Utility 4-Door,6.2L,74104957,6.2L 6162CC 376Cu. In. V8 FLEX OHV Naturally Aspirated
-2009,Hummer,H3T,Alpha Crew Cab Pickup 4-Door,5.3L,74105577,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Hummer,H3,Base Sport Utility 4-Door,3.7L,83270254,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2010,Hummer,H3T,Base Crew Cab Pickup 4-Door,3.7L,83288365,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2008,Hummer,H3,Base Sport Utility 4-Door,3.7L,83292656,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2007,Hummer,H3,X Sport Utility 4-Door,3.7L,83319966,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2009,Hummer,H3T,Base Crew Cab Pickup 4-Door,3.7L,83335283,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2010,Hummer,H3,Base Sport Utility 4-Door,3.7L,83340850,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2010,Hummer,H3T,Alpha Crew Cab Pickup 4-Door,5.3L,221180824,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2010,Hummer,H3T,Alpha Crew Cab Pickup 4-Door,5.3L,221211467,5.3L 5328CC 325Cu. In. V8 FLEX OHV Naturally Aspirated
+2006,Hummer,H2,Base Crew Cab Pickup 4-Door,6.0L,12037909093,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2006,Hummer,H2,Base Sport Utility 4-Door,6.0L,14037920434,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2006,Hummer,H3,Base Sport Utility 4-Door,3.5L,7041089885,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
 2007,Hummer,H2,Base Crew Cab Pickup 4-Door,6.0L,232568251,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
 2007,Hummer,H2,Base Sport Utility 4-Door,6.0L,232649262,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Hummer,H2,Base Sport Utility 4-Door,6.0L,232794413,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Hummer,H1,Base Sport Utility 2-Door,6.5L,5037932417,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
-2006,Hummer,H3,Base Sport Utility 4-Door,3.5L,7041089885,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
-2003,Hummer,H1,Base Sport Utility 4-Door,6.5L,10037926848,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
-2006,Hummer,H2,Base Crew Cab Pickup 4-Door,6.0L,12037909093,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2007,Hummer,H3,Base Sport Utility 4-Door,3.7L,83270254,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2007,Hummer,H3,X Sport Utility 4-Door,3.7L,83319966,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2008,Hummer,H2,Base Crew Cab Pickup 4-Door,6.2L,74018544,6.2L 6162CC 376Cu. In. V8 GAS OHV Naturally Aspirated
+2008,Hummer,H2,Base Sport Utility 4-Door,6.2L,74045271,6.2L 6162CC 376Cu. In. V8 GAS OHV Naturally Aspirated
 2008,Hummer,H3,Alpha Sport Utility 4-Door,5.3L,74044841,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2008,Hummer,H3,Base Sport Utility 4-Door,3.7L,83292656,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
 2008,Hummer,H3,X Sport Utility 4-Door,3.7L,83343950,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2006,Hummer,H2,Base Sport Utility 4-Door,6.0L,14037920434,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
 2008,Hummer,H3,Luxury Sport Utility 4-Door,3.7L,11049660665,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
 2008,Hummer,H3,Adventure Sport Utility 4-Door,3.7L,28049669431,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2009,Hummer,H2,Base Crew Cab Pickup 4-Door,6.2L,74088570,6.2L 6162CC 376Cu. In. V8 FLEX OHV Naturally Aspirated
+2009,Hummer,H2,Base Sport Utility 4-Door,6.2L,74104957,6.2L 6162CC 376Cu. In. V8 FLEX OHV Naturally Aspirated
 2009,Hummer,H3,Alpha Sport Utility 4-Door,5.3L,74076053,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
 2009,Hummer,H3,Championship Series Sport Utility 4-Door,5.3L,81710385,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
 2009,Hummer,H3,X Sport Utility 4-Door,3.7L,83307576,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
 2009,Hummer,H3,Base Sport Utility 4-Door,3.7L,83334353,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2010,Hummer,H3,Alpha Sport Utility 4-Door,5.3L,221180986,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
 2009,Hummer,H3,Luxury Sport Utility 4-Door,3.7L,17049664298,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
 2009,Hummer,H3,Adventure Sport Utility 4-Door,3.7L,20049669442,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2009,Hummer,H3T,Alpha Crew Cab Pickup 4-Door,5.3L,74105577,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2009,Hummer,H3T,Base Crew Cab Pickup 4-Door,3.7L,83335283,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2010,Hummer,H3,Base Sport Utility 4-Door,3.7L,83340850,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
 2010,Hummer,H3,Alpha Sport Utility 4-Door,5.3L,221083301,5.3L 5328CC 325Cu. In. V8 FLEX OHV Naturally Aspirated
-2003,Hummer,H1,Base Sport Utility 2-Door,6.5L,19037918368,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
-2003,Hummer,H2,Base Sport Utility 4-Door,6.0L,20037925902,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Hummer,H2,Base Sport Utility 4-Door,6.0L,24037920931,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Hummer,H1,Base Sport Utility 4-Door,6.5L,24037920965,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
-2004,Hummer,H1,Base Sport Utility 4-Door,6.5L,24037921113,6.5L 395Cu. In. V8 DIESEL OHV Turbocharged
-2005,Hummer,H2,Base Crew Cab Pickup 4-Door,6.0L,26037929967,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
+2010,Hummer,H3T,Base Crew Cab Pickup 4-Door,3.7L,83288365,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2010,Hummer,H3T,Alpha Crew Cab Pickup 4-Door,5.3L,221211467,5.3L 5328CC 325Cu. In. V8 FLEX OHV Naturally Aspirated
