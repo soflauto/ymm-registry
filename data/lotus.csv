@@ -1,35 +1,4 @@
 year,make,model,trim,engine,epid,ebay_engine
-2002,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74022442,3.5L 3506CC V8 GAS DOHC Turbocharged
-2001,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74022582,3.5L 3506CC V8 GAS DOHC Turbocharged
-1999,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74030736,3.5L 3506CC V8 GAS DOHC Turbocharged
-2004,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74036022,3.5L 3506CC V8 GAS DOHC Turbocharged
-2000,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74056978,3.5L 3506CC V8 GAS DOHC Turbocharged
-2003,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74061430,3.5L 3506CC V8 GAS DOHC Turbocharged
-1995,Lotus,Esprit,S4 Coupe 2-Door,2.2L,83261974,2.2L 2174CC l4 GAS DOHC Turbocharged
-2009,Lotus,Exige,S Coupe 2-Door,1.8L,83265374,1.8L 1795CC l4 GAS DOHC Supercharged
-1991,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83276045,2.2L 2174CC l4 GAS DOHC Turbocharged
-1991,Lotus,Elan,Base Convertible 2-Door,1.6L,83289595,1.6L 1588CC l4 GAS DOHC Turbocharged
-2008,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83290416,1.8L 1795CC l4 GAS DOHC Supercharged
-1990,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83291805,2.2L 2174CC l4 GAS DOHC Turbocharged
-2009,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83293131,1.8L 1795CC l4 GAS DOHC Supercharged
-1989,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83297305,2.2L 2174CC l4 GAS DOHC Turbocharged
-1990,Lotus,Elan,Base Convertible 2-Door,1.6L,83300382,1.6L 1588CC l4 GAS DOHC Turbocharged
-1995,Lotus,Esprit,S4s Coupe 2-Door,2.2L,83302926,2.2L 2174CC l4 GAS DOHC Turbocharged
-2008,Lotus,Elise,SC Convertible 2-Door,1.8L,83317613,1.8L 1795CC l4 GAS DOHC Supercharged
-2008,Lotus,Exige,S Coupe 2-Door,1.8L,83338038,1.8L 1795CC l4 GAS DOHC Supercharged
-1992,Lotus,Elan,Base Convertible 2-Door,1.6L,83340327,1.6L 1588CC l4 GAS DOHC Turbocharged
-2009,Lotus,Elise,SC Convertible 2-Door,1.8L,83342510,1.8L 1795CC l4 GAS DOHC Supercharged
-1994,Lotus,Esprit,S4 Coupe 2-Door,2.2L,83346100,2.2L 2174CC l4 GAS DOHC Turbocharged
-1993,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83360810,2.2L 2174CC l4 GAS DOHC Turbocharged
-2010,Lotus,Elise,SC Convertible 2-Door,1.8L,83496334,1.8L 1795CC l4 GAS DOHC Supercharged
-2010,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83564483,1.8L 1795CC l4 GAS DOHC Supercharged
-2011,Lotus,Elise,SC Convertible 2-Door,1.8L,112539936,1.8L 1795CC l4 GAS DOHC Supercharged
-2013,Lotus,Evora,S Coupe 2-Door,3.5L,153478096,3.5L 3456CC V6 GAS DOHC Supercharged
-2013,Lotus,Evora,Base Coupe 2-Door,3.5L,153544948,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
-2014,Lotus,Evora,Base Coupe 2-Door,3.5L,172918571,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
-2014,Lotus,Evora,S Coupe 2-Door,3.5L,172967366,3.5L 3456CC V6 GAS DOHC Supercharged
-2007,Lotus,Exige,S Coupe 2-Door,1.8L,182749143,1.8L 1795CC l4 GAS DOHC Supercharged
-2016,Lotus,Evora,400 Coupe 2-Door,3.5L,220313998,3.5L 3456CC V6 GAS DOHC Supercharged
 1985,Lotus,Esprit,Turbo Coupe 2-Door,2.2L,83263104,2.2L 2174CC l4 GAS DOHC Turbocharged
 1985,Lotus,Esprit,S3 Coupe 2-Door,2.2L,83293212,2.2L 2174CC l4 GAS DOHC Naturally Aspirated
 1986,Lotus,Esprit,S3 Coupe 2-Door,2.2L,83311491,2.2L 2174CC l4 GAS DOHC Naturally Aspirated
@@ -38,45 +7,76 @@ year,make,model,trim,engine,epid,ebay_engine
 1987,Lotus,Esprit,Turbo Coupe 2-Door,2.2L,2313015363,2.2L 2174CC l4 GAS DOHC Turbocharged
 1988,Lotus,Esprit,Base Coupe 2-Door,2.2L,83326426,2.2L 2174CC l4 GAS DOHC Naturally Aspirated
 1988,Lotus,Esprit,Turbo Coupe 2-Door,2.2L,16041985971,2.2L 2174CC l4 GAS DOHC Turbocharged
-2017,Lotus,Evora,400 Coupe 2-Door,3.5L,233942046,3.5L 3456CC V6 GAS DOHC Supercharged
+1989,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83297305,2.2L 2174CC l4 GAS DOHC Turbocharged
 1989,Lotus,Esprit,Turbo Coupe 2-Door,2.2L,19041991434,2.2L 2174CC l4 GAS DOHC Turbocharged
+1990,Lotus,Elan,Base Convertible 2-Door,1.6L,83300382,1.6L 1588CC l4 GAS DOHC Turbocharged
+1990,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83291805,2.2L 2174CC l4 GAS DOHC Turbocharged
+1991,Lotus,Elan,Base Convertible 2-Door,1.6L,83289595,1.6L 1588CC l4 GAS DOHC Turbocharged
+1991,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83276045,2.2L 2174CC l4 GAS DOHC Turbocharged
+1992,Lotus,Elan,Base Convertible 2-Door,1.6L,83340327,1.6L 1588CC l4 GAS DOHC Turbocharged
 1992,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83313091,2.2L 2174CC l4 GAS DOHC Turbocharged
+1993,Lotus,Esprit,Turbo SE Coupe 2-Door,2.2L,83360810,2.2L 2174CC l4 GAS DOHC Turbocharged
+1994,Lotus,Esprit,S4 Coupe 2-Door,2.2L,83346100,2.2L 2174CC l4 GAS DOHC Turbocharged
+1995,Lotus,Esprit,S4 Coupe 2-Door,2.2L,83261974,2.2L 2174CC l4 GAS DOHC Turbocharged
+1995,Lotus,Esprit,S4s Coupe 2-Door,2.2L,83302926,2.2L 2174CC l4 GAS DOHC Turbocharged
+1997,Lotus,Esprit,V8 Coupe 2-Door,3.5L,8038317220,3.5L 3506CC V8 GAS DOHC Turbocharged
+1998,Lotus,Esprit,V8 Coupe 2-Door,3.5L,17038312651,3.5L 3506CC V8 GAS DOHC Turbocharged
+1999,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74030736,3.5L 3506CC V8 GAS DOHC Turbocharged
+2000,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74056978,3.5L 3506CC V8 GAS DOHC Turbocharged
+2001,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74022582,3.5L 3506CC V8 GAS DOHC Turbocharged
+2002,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74022442,3.5L 3506CC V8 GAS DOHC Turbocharged
+2003,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74061430,3.5L 3506CC V8 GAS DOHC Turbocharged
+2004,Lotus,Esprit,V8 Coupe 2-Door,3.5L,74036022,3.5L 3506CC V8 GAS DOHC Turbocharged
+2005,Lotus,Elise,Base Convertible 2-Door,1.8L,251754250,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2006,Lotus,Elise,Base Convertible 2-Door,1.8L,251874208,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2006,Lotus,Exige,Base Coupe 2-Door,1.8L,251646231,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2007,Lotus,Elise,Base Convertible 2-Door,1.8L,251717702,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2007,Lotus,Exige,S Coupe 2-Door,1.8L,182749143,1.8L 1795CC l4 GAS DOHC Supercharged
+2008,Lotus,Elise,SC Convertible 2-Door,1.8L,83317613,1.8L 1795CC l4 GAS DOHC Supercharged
+2008,Lotus,Elise,Base Convertible 2-Door,1.8L,251873893,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2008,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83290416,1.8L 1795CC l4 GAS DOHC Supercharged
+2008,Lotus,Exige,S Coupe 2-Door,1.8L,83338038,1.8L 1795CC l4 GAS DOHC Supercharged
+2009,Lotus,Elise,SC Convertible 2-Door,1.8L,83342510,1.8L 1795CC l4 GAS DOHC Supercharged
+2009,Lotus,Elise,Base Convertible 2-Door,1.8L,251876133,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2009,Lotus,Exige,S Coupe 2-Door,1.8L,83265374,1.8L 1795CC l4 GAS DOHC Supercharged
+2009,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83293131,1.8L 1795CC l4 GAS DOHC Supercharged
+2010,Lotus,Elise,SC Convertible 2-Door,1.8L,83496334,1.8L 1795CC l4 GAS DOHC Supercharged
+2010,Lotus,Elise,Base Convertible 2-Door,1.8L,251647211,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2010,Lotus,Evora,Base Coupe 2-Door,3.5L,13039844620,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
+2010,Lotus,Exige,S 240 Coupe 2-Door,1.8L,83564483,1.8L 1795CC l4 GAS DOHC Supercharged
+2011,Lotus,Elise,SC Convertible 2-Door,1.8L,112539936,1.8L 1795CC l4 GAS DOHC Supercharged
+2011,Lotus,Elise,Base Convertible 2-Door,1.8L,251752930,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2011,Lotus,Elise,R Convertible 2-Door,1.8L,251812537,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
+2011,Lotus,Evora,Base Coupe 2-Door,3.5L,23039852109,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
+2011,Lotus,Exige,S 240 Coupe 2-Door,1.8L,251814070,1.8L 1795CC l4 GAS DOHC Supercharged
+2012,Lotus,Evora,S Coupe 2-Door,3.5L,153462304,3.5L 3456CC V6 GAS DOHC Supercharged
+2012,Lotus,Evora,Base Coupe 2-Door,3.5L,20039848479,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
+2013,Lotus,Evora,S Coupe 2-Door,3.5L,153478096,3.5L 3456CC V6 GAS DOHC Supercharged
+2013,Lotus,Evora,Base Coupe 2-Door,3.5L,153544948,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
+2014,Lotus,Evora,Base Coupe 2-Door,3.5L,172918571,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
+2014,Lotus,Evora,S Coupe 2-Door,3.5L,172967366,3.5L 3456CC V6 GAS DOHC Supercharged
+2016,Lotus,Evora,400 Coupe 2-Door,3.5L,220313998,3.5L 3456CC V6 GAS DOHC Supercharged
+2017,Lotus,Evora,400 Coupe 2-Door,3.5L,233942046,3.5L 3456CC V6 GAS DOHC Supercharged
 2018,Lotus,Evora,400 Coupe 2-Door,3.5L,242025088,3.5L 3456CC V6 GAS DOHC Supercharged
 2018,Lotus,Evora,Sport 410 Coupe 2-Door,3.5L,242692677,3.5L 3456CC V6 GAS DOHC Supercharged
-2006,Lotus,Exige,Base Coupe 2-Door,1.8L,251646231,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2010,Lotus,Elise,Base Convertible 2-Door,1.8L,251647211,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2005,Lotus,Elise,Base Convertible 2-Door,1.8L,251754250,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
 2019,Lotus,Evora,400 Coupe 2-Door,3.5L,251778264,3.5L 3456CC V6 GAS DOHC Supercharged
-2011,Lotus,Elise,R Convertible 2-Door,1.8L,251812537,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
 2019,Lotus,Evora,Sport 410 Coupe 2-Door,3.5L,251814027,3.5L 3456CC V6 GAS DOHC Supercharged
-2011,Lotus,Exige,S 240 Coupe 2-Door,1.8L,251814070,1.8L 1795CC l4 GAS DOHC Supercharged
-2008,Lotus,Elise,Base Convertible 2-Door,1.8L,251873893,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2006,Lotus,Elise,Base Convertible 2-Door,1.8L,251874208,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2009,Lotus,Elise,Base Convertible 2-Door,1.8L,251876133,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2025,Lotus,Eletre,R Sport Utility 4-Door,--,3066025394,BATTERY EV (EV/BEV)
-2024,Lotus,Eletre,Base Sport Utility 4-Door,--,4064262193,BATTERY EV (EV/BEV)
-2026,Lotus,Emira,Base Coupe 2-Door,3.5L,7084562768,3.5L 3456CC V6 GAS DOHC Supercharged
-1997,Lotus,Esprit,V8 Coupe 2-Door,3.5L,8038317220,3.5L 3506CC V8 GAS DOHC Turbocharged
-2024,Lotus,Emira,Base Coupe 2-Door,2.0L,9059061194,2.0L 1991CC l4 GAS DOHC Turbocharged
-2026,Lotus,Eletre,Base Sport Utility 4-Door,--,10075765729,BATTERY EV (EV/BEV)
-2025,Lotus,Eletre,Base Sport Utility 4-Door,--,11066009647,BATTERY EV (EV/BEV)
-2007,Lotus,Elise,Base Convertible 2-Door,1.8L,251717702,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-2010,Lotus,Evora,Base Coupe 2-Door,3.5L,13039844620,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
-2026,Lotus,Emira,Base Coupe 2-Door,2.0L,13084549541,2.0L 1991CC l4 GAS DOHC Turbocharged
-2024,Lotus,Eletre,R Sport Utility 4-Door,--,14064256968,BATTERY EV (EV/BEV)
-2025,Lotus,Emira,Base Coupe 2-Door,2.0L,15066554031,2.0L 1991CC l4 GAS DOHC Turbocharged
-2012,Lotus,Evora,S Coupe 2-Door,3.5L,153462304,3.5L 3456CC V6 GAS DOHC Supercharged
-2011,Lotus,Elise,Base Convertible 2-Door,1.8L,251752930,1.8L 1795CC l4 GAS DOHC Naturally Aspirated
-1998,Lotus,Esprit,V8 Coupe 2-Door,3.5L,17038312651,3.5L 3506CC V8 GAS DOHC Turbocharged
+2020,Lotus,Evora GT,Base Coupe 2-Door,3.5L,24036074452,3.5L 3456CC V6 GAS DOHC Supercharged
 2021,Lotus,Evora GT,Base Coupe 2-Door,3.5L,18041084997,3.5L 3456CC V6 GAS DOHC Supercharged
 2023,Lotus,Emira,Base Coupe 2-Door,2.0L,18057225778,2.0L 1991CC l4 GAS DOHC Turbocharged
-2024,Lotus,Eletre,S Sport Utility 4-Door,--,18064267522,BATTERY EV (EV/BEV)
-2012,Lotus,Evora,Base Coupe 2-Door,3.5L,20039848479,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
-2026,Lotus,Eletre,S Sport Utility 4-Door,--,20075761839,BATTERY EV (EV/BEV)
-2025,Lotus,Eletre,S Sport Utility 4-Door,--,21066027873,BATTERY EV (EV/BEV)
-2025,Lotus,Emira,Base Coupe 2-Door,3.5L,22084551001,3.5L 3456CC V6 GAS DOHC Supercharged
-2011,Lotus,Evora,Base Coupe 2-Door,3.5L,23039852109,3.5L 3456CC V6 GAS DOHC Naturally Aspirated
-2020,Lotus,Evora GT,Base Coupe 2-Door,3.5L,24036074452,3.5L 3456CC V6 GAS DOHC Supercharged
-2026,Lotus,Eletre,R Sport Utility 4-Door,--,25075749494,BATTERY EV (EV/BEV)
-2024,Lotus,Emira,Base Coupe 2-Door,3.5L,26084563197,3.5L 3456CC V6 GAS DOHC Supercharged
 2023,Lotus,Emira,First Edition Coupe 2-Door,3.5L,28057227171,3.5L 3456CC V6 GAS DOHC Supercharged
+2024,Lotus,Eletre,Base Sport Utility 4-Door,--,4064262193,BATTERY EV (EV/BEV)
+2024,Lotus,Eletre,R Sport Utility 4-Door,--,14064256968,BATTERY EV (EV/BEV)
+2024,Lotus,Eletre,S Sport Utility 4-Door,--,18064267522,BATTERY EV (EV/BEV)
+2024,Lotus,Emira,Base Coupe 2-Door,2.0L,9059061194,2.0L 1991CC l4 GAS DOHC Turbocharged
+2024,Lotus,Emira,Base Coupe 2-Door,3.5L,26084563197,3.5L 3456CC V6 GAS DOHC Supercharged
+2025,Lotus,Eletre,R Sport Utility 4-Door,--,3066025394,BATTERY EV (EV/BEV)
+2025,Lotus,Eletre,Base Sport Utility 4-Door,--,11066009647,BATTERY EV (EV/BEV)
+2025,Lotus,Eletre,S Sport Utility 4-Door,--,21066027873,BATTERY EV (EV/BEV)
+2025,Lotus,Emira,Base Coupe 2-Door,2.0L,15066554031,2.0L 1991CC l4 GAS DOHC Turbocharged
+2025,Lotus,Emira,Base Coupe 2-Door,3.5L,22084551001,3.5L 3456CC V6 GAS DOHC Supercharged
+2026,Lotus,Eletre,Base Sport Utility 4-Door,--,10075765729,BATTERY EV (EV/BEV)
+2026,Lotus,Eletre,S Sport Utility 4-Door,--,20075761839,BATTERY EV (EV/BEV)
+2026,Lotus,Eletre,R Sport Utility 4-Door,--,25075749494,BATTERY EV (EV/BEV)
+2026,Lotus,Emira,Base Coupe 2-Door,3.5L,7084562768,3.5L 3456CC V6 GAS DOHC Supercharged
+2026,Lotus,Emira,Base Coupe 2-Door,2.0L,13084549541,2.0L 1991CC l4 GAS DOHC Turbocharged
