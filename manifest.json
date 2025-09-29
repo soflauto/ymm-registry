@@ -65,12 +65,33 @@
     "volkswagen":   {"name":"Volkswagen","csv":"https://soflauto.github.io/ymm-registry/data/volkswagen.csv"},
     "volvo":        {"name":"Volvo","csv":"https://soflauto.github.io/ymm-registry/data/volvo.csv"}
   },
+
   "groups": {
-    "american": ["buick","cadillac","chevrolet","chrysler","dodge","fisker","ford","geo","gmc","hummer","jeep","lincoln","mercury","oldsmobile","plymouth","pontiac","ram","rivian","tesla"],
-    "japanese": ["acura","honda","infiniti","isuzu","lexus","mazda","mitsubishi","nissan","scion","subaru","suzuki","toyota","hyundai","kia","genesis"],
-    "european": ["alfa-romeo","audi","bmw","fiat","jaguar","land-rover","mercedes-benz","mini","polestar","saab","smart","think","volkswagen","volvo"],
-    "exotics":  ["bentley","bugatti","ferrari","lamborghini","maserati","maybach","mclaren","porsche","rolls-royce"],
-    "korean":   ["kia","hyundai","genesis"],
-    "general":  ["@american","@japanese","@european"]
+    "american": [
+      "buick","cadillac","chevrolet","chrysler","dodge","eagle","fisker",
+      "ford","geo","gmc","hummer","jeep","lincoln","lucid","mercury",
+      "oldsmobile","plymouth","pontiac","ram","rivian","tesla"
+    ],
+    "japanese": [
+      "acura","honda","infiniti","isuzu","lexus","mazda",
+      "mitsubishi","nissan","scion","subaru","suzuki","toyota"
+    ],
+    "european": [
+      "alfa-romeo","aston-martin","audi","bentley","bmw","bugatti","fiat",
+      "ferrari","jaguar","koenigsegg","lamborghini","land-rover","lotus",
+      "maserati","maybach","mclaren","mercedes-benz","mini","polestar",
+      "porsche","rolls-royce","saab","smart","think","volkswagen","volvo"
+    ],
+    "exotics": [
+      "aston-martin","bentley","bugatti","ferrari","koenigsegg",
+      "lamborghini","lotus","maserati","maybach","mclaren","porsche","rolls-royce"
+    ],
+    "korean": [
+      "genesis","hyundai","kia"
+    ],
+    "general": [
+      "@american","@japanese","@european"
+    ]
   }
 }
+
