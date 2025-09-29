@@ -67,6 +67,6 @@
     "exotics":  ["bentley","bugatti","ferrari","lamborghini","maserati","maybach","mclaren","porsche","rolls-royce"],
     "audi_vw":  ["audi","volkswagen"],
     "general":  ["@american","@japanese","@european"]
-    "korean":  ["kia","hyundai","gensis"]
+    "korean":   ["kia","hyundai","gensis"]
   }
 }
