@@ -1,4 +1,4 @@
-sku,year,make,model,trim,engine,universal,epid
-MOT-A50332,2004,Acura,TL,Base Sedan 4-Door,3.2L,0,74027161
-MOT-A50332,2003,Acura,TL,Base Sedan 4-Door,3.2L,0,73975244
-MOT-A50332,2003,Acura,TL,Type-S Sedan 4-Door,3.2L,0,74025209
+sku,year,make,model,trim,engine,universal
+MOT-A50332,2004,Acura,TL,Base Sedan 4-Door,3.2L,0
+MOT-A50332,2003,Acura,TL,Base Sedan 4-Door,3.2L,0
+MOT-A50332,2003,Acura,TL,Type-S Sedan 4-Door,3.2L,0
