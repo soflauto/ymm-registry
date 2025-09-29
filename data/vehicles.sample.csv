@@ -1,16 +1,22 @@
 year,make,model,trim,engine,ebay_engine,epid
-2018,Honda,Civic,EX-T,1.5L Turbo,,
-2018,Honda,Civic,LX,2.0L I4,,
-2019,Honda,Civic,Sport,2.0L I4,,
-2017,Toyota,Corolla,LE,1.8L I4,,
-2018,Toyota,Corolla,SE,1.8L I4,,
-2020,Subaru,Outback,Premium,2.5L H4,,
-2020,Subaru,Outback,XT Limited,2.4L Turbo H4,,
-2015,Ford,F-150,XL,3.5L V6,,
-2015,Ford,F-150,XLT,5.0L V8,,
-2021,Chevrolet,Silverado 1500,LT,3.0L Duramax Diesel,,123456789012
-2021,Chevrolet,Silverado 1500,LT,5.3L V8,,123456789013
-2018,Volkswagen,Golf GTI,SE,2.0L Turbo I4,,
-2016,Jeep,Wrangler Unlimited,Sport,3.6L V6,,
-2019,BMW,3 Series,330i,2.0L Turbo I4,,
-2019,BMW,3 Series,340i,3.0L Turbo I6,,
+year,make,model,trim,engine,epid,ebay_engine
+1985,Alfa Romeo,GTV-6,2.5 Coupe 2-Door,2.5L,73988850,2.5L 2492CC V6 GAS SOHC Naturally Aspirated
+1985,Alfa Romeo,Spider,Graduate Convertible 2-Door,2.0L,83297112,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Alfa Romeo,Spider,Veloce Convertible 2-Door,2.0L,83333463,2.0L 1961CC 120Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Aston Martin,Lagonda,Base Sedan 4-Door,5.3L,74007841,5.3L 5340CC 326Cu. In. V8 GAS DOHC Naturally Aspirated
+1985,Aston Martin,V-8,Vantage Coupe 2-Door,5.3L,74017936,5.3L 5340CC 326Cu. In. V8 GAS DOHC Naturally Aspirated
+1985,Aston Martin,V-8,Volante Convertible 2-Door,5.3L,74036653,5.3L 5340CC 326Cu. In. V8 GAS DOHC Naturally Aspirated
+1985,Aston Martin,V-8,Base Coupe 2-Door,5.3L,74048600,5.3L 5340CC 326Cu. In. V8 GAS DOHC Naturally Aspirated
+1985,Audi,4000,S Sedan 4-Door,1.8L,83294706,1.8L 1781CC l4 GAS SOHC Naturally Aspirated
+1985,Audi,4000,S Sedan 2-Door,1.8L,83336198,1.8L 1781CC l4 GAS SOHC Naturally Aspirated
+1985,Audi,4000,S Sedan 4-Door,2.2L,153476786,2.2L 2226CC l5 GAS Naturally Aspirated
+1985,Audi,4000,S Sedan 2-Door,2.2L,153513343,2.2L 2226CC l5 GAS Naturally Aspirated
+1985,Audi,5000,S Sedan 4-Door,2.2L,83328933,2.2L 2226CC l5 GAS SOHC Naturally Aspirated
+1985,Audi,5000,S Wagon 4-Door,2.2L,83357718,2.2L 2226CC l5 GAS SOHC Naturally Aspirated
+1985,Audi,5000,Base Sedan 4-Door,2.0L,153505070,2.0L 1986CC l5 DIESEL SOHC Turbocharged
+1985,Audi,5000,CS Turbo Sedan 4-Door,2.2L,173011413,2.2L 2144CC l5 GAS SOHC Turbocharged
+1985,Audi,5000,S Turbo Sedan 4-Door,2.2L,182481627,2.2L 2144CC l5 GAS SOHC Turbocharged
+1985,Audi,4000 Quattro,S Sedan 4-Door,2.2L,83305015,2.2L 2226CC l5 GAS SOHC Naturally Aspirated
+1985,Audi,Coupe,Base Coupe 2-Door,2.2L,83346450,2.2L 2226CC l5 GAS SOHC Naturally Aspirated
+1985,Audi,Quattro,Base Hatchback 2-Door,2.2L,250442407,2.2L 2144CC l5 GAS SOHC Turbocharged
+1985,Bentley,Continental,Base Convertible 2-Door,6.8L,74012705,6.8L 6750CC 412Cu. In. V8 GAS OHV Naturally Aspirated
