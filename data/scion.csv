@@ -1,47 +1,47 @@
 year,make,model,trim,engine,epid,ebay_engine
-2004,Scion,xA,Base Hatchback 4-Door,1.5L,250500773,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2004,Scion,xB,Base Wagon 4-Door,1.5L,182719642,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Scion,tC,Base Coupe 2-Door,2.4L,20036080542,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2005,Scion,xA,Base Hatchback 4-Door,1.5L,250505548,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Scion,xB,Base Wagon 4-Door,1.5L,182751893,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Scion,tC,Base Coupe 2-Door,2.4L,23036084041,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2006,Scion,xA,Base Hatchback 4-Door,1.5L,250501628,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Scion,xB,Base Wagon 4-Door,1.5L,182720312,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Scion,tC,Base Coupe 2-Door,2.4L,23036083989,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2007,Scion,tC,Spec Coupe 2-Door,2.4L,24036074409,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2008,Scion,tC,Spec Coupe 2-Door,2.4L,253620524,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2008,Scion,tC,Base Coupe 2-Door,2.4L,253627556,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2008,Scion,xB,Base Wagon 4-Door,2.4L,182708189,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2008,Scion,xD,Base Hatchback 4-Door,1.8L,16039840544,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Scion,tC,Base Coupe 2-Door,2.4L,253648865,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2009,Scion,xB,Base Wagon 4-Door,2.4L,182721566,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2009,Scion,xD,Base Hatchback 4-Door,1.8L,26039852083,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Scion,tC,Base Coupe 2-Door,2.4L,83343527,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2010,Scion,xB,Base Wagon 4-Door,2.4L,182697265,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2010,Scion,xD,Base Hatchback 4-Door,1.8L,23039852105,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Scion,tC,Base Coupe 2-Door,2.5L,217210679,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Scion,xB,Base Wagon 4-Door,2.4L,182662681,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2011,Scion,xD,Base Hatchback 4-Door,1.8L,4039838440,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Scion,iQ,Base Hatchback 2-Door,1.3L,114891607,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
-2012,Scion,tC,Base Coupe 2-Door,2.5L,217205299,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Scion,xB,Base Wagon 4-Door,2.4L,182704929,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2012,Scion,xD,Base Hatchback 4-Door,1.8L,28039845906,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Scion,FR-S,Base Coupe 2-Door,2.0L,202586671,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
-2013,Scion,iQ,Base Hatchback 2-Door,1.3L,139636241,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
-2013,Scion,iQ,EV Hatchback 2-Door,--,153422611,BATTERY EV (EV/BEV)
-2013,Scion,tC,Base Coupe 2-Door,2.5L,217137151,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Scion,xB,Base Wagon 4-Door,2.4L,182720652,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2013,Scion,xD,Base Hatchback 4-Door,1.8L,11039836423,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Scion,FR-S,Base Coupe 2-Door,2.0L,202689990,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
-2014,Scion,iQ,Base Hatchback 2-Door,1.3L,169253720,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
-2014,Scion,tC,Base Coupe 2-Door,2.5L,6039854139,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Scion,xB,Base Wagon 4-Door,2.4L,182716716,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2014,Scion,xD,Base Hatchback 4-Door,1.8L,250434615,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Scion,FR-S,Base Coupe 2-Door,2.0L,204164554,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
-2015,Scion,iQ,Base Hatchback 2-Door,1.3L,208500909,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
-2015,Scion,tC,Base Coupe 2-Door,2.5L,17039842546,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Scion,xB,Base Wagon 4-Door,2.4L,209833979,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
-2016,Scion,FR-S,Base Coupe 2-Door,2.0L,215494028,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
-2016,Scion,iA,Base Sedan 4-Door,1.5L,217175636,1.5L 1496CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
-2016,Scion,iM,Base Hatchback 4-Door,1.8L,217234090,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-2016,Scion,tC,Base Coupe 2-Door,2.5L,18039845998,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2016,Scion,FR-S,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
+2016,Scion,iA,Base Sedan 4-Door,1.5L,,1.5L 1496CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2016,Scion,iM,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2016,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2015,Scion,FR-S,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
+2015,Scion,iQ,Base Hatchback 2-Door,1.3L,,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
+2015,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2015,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2014,Scion,FR-S,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
+2014,Scion,iQ,Base Hatchback 2-Door,1.3L,,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
+2014,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2014,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Scion,FR-S,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. H4 GAS DOHC Naturally Aspirated
+2013,Scion,iQ,EV Hatchback 2-Door,--,,BATTERY EV (EV/BEV)
+2013,Scion,iQ,Base Hatchback 2-Door,1.3L,,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
+2013,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2013,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Scion,iQ,Base Hatchback 2-Door,1.3L,,1.3L 1329CC l4 GAS DOHC Naturally Aspirated
+2012,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2012,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Scion,tC,Base Coupe 2-Door,2.5L,,2.5L 2494CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2011,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2010,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2010,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2009,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2009,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Scion,tC,Spec Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2008,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2008,Scion,xB,Base Wagon 4-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2008,Scion,xD,Base Hatchback 4-Door,1.8L,,1.8L 1798CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2007,Scion,tC,Spec Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2006,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2006,Scion,xA,Base Hatchback 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Scion,xB,Base Wagon 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2005,Scion,tC,Base Coupe 2-Door,2.4L,,2.4L 2362CC l4 GAS DOHC Naturally Aspirated
+2005,Scion,xA,Base Hatchback 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2005,Scion,xB,Base Wagon 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2004,Scion,xA,Base Hatchback 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
+2004,Scion,xB,Base Wagon 4-Door,1.5L,,1.5L 1497CC 91Cu. In. l4 GAS DOHC Naturally Aspirated
