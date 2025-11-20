@@ -1,12 +1,12 @@
 year,make,model,trim,engine,epid,ebay_engine
-2012,Fisker,Karma,EcoSport Sedan 4-Door,2.0L,182419031,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2012,Fisker,Karma,EcoStandard Sedan 4-Door,2.0L,182472212,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2012,Fisker,Karma,EcoChic Sedan 4-Door,2.0L,182481407,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
-2023,Fisker,Ocean,Extreme Sport Utility 4-Door,--,7059373710,BATTERY EV (EV/BEV)
-2023,Fisker,Ocean,Sport Sport Utility 4-Door,--,9059361688,BATTERY EV (EV/BEV)
-2023,Fisker,Ocean,One Sport Utility 4-Door,--,13059357956,BATTERY EV (EV/BEV)
-2023,Fisker,Ocean,Ultra Sport Utility 4-Door,--,25059353645,BATTERY EV (EV/BEV)
-2024,Fisker,Ocean,Extreme Sport Utility 4-Door,--,3064832426,BATTERY EV (EV/BEV)
-2024,Fisker,Ocean,Sport Sport Utility 4-Door,--,4060476692,BATTERY EV (EV/BEV)
-2024,Fisker,Ocean,Force E Sport Utility 4-Door,--,7064838449,BATTERY EV (EV/BEV)
-2024,Fisker,Ocean,Ultra Sport Utility 4-Door,--,9060477292,BATTERY EV (EV/BEV)
+2024,Fisker,Ocean,Extreme Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2024,Fisker,Ocean,Sport Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2024,Fisker,Ocean,Force E Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2024,Fisker,Ocean,Ultra Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2023,Fisker,Ocean,Extreme Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2023,Fisker,Ocean,Sport Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2023,Fisker,Ocean,One Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2023,Fisker,Ocean,Ultra Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2012,Fisker,Karma,EcoSport Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2012,Fisker,Karma,EcoStandard Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
+2012,Fisker,Karma,EcoChic Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 PLUG-IN HYBRID EV-GAS (PHEV) DOHC Turbocharged
