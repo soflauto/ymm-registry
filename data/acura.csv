@@ -1,533 +1,538 @@
 year,make,model,trim,engine,epid,ebay_engine
-1986,Acura,Integra,LS Hatchback 2-Door,1.6L,250345662,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1986,Acura,Integra,RS Hatchback 2-Door,1.6L,250414056,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1986,Acura,Integra,RS Hatchback 4-Door,1.6L,250422699,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1986,Acura,Integra,LS Hatchback 4-Door,1.6L,250505753,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1986,Acura,Legend,Base Sedan 4-Door,2.5L,74003842,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Integra,LS Hatchback 2-Door,1.6L,250279401,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1987,Acura,Integra,LS Hatchback 4-Door,1.6L,250348562,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1987,Acura,Integra,LS Special Edition Hatchback 2-Door,1.6L,250441475,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1987,Acura,Integra,RS Hatchback 2-Door,1.6L,250445957,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1987,Acura,Integra,RS Hatchback 4-Door,1.6L,250446727,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1987,Acura,Legend,Base Sedan 4-Door,2.5L,73975144,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,Base Coupe 2-Door,2.7L,74003782,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,LS Coupe 2-Door,2.7L,74030433,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,L Coupe 2-Door,2.7L,74036978,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,L Sedan 4-Door,2.5L,74058947,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,L Sedan 4-Door,2.7L,153455854,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,LS Sedan 4-Door,2.7L,153470886,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,Base Sedan 4-Door,2.7L,153477322,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,L Coupe 2-Door,2.5L,153494847,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
-1987,Acura,Legend,Base Coupe 2-Door,2.5L,153510190,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Integra,LS Hatchback 2-Door,1.6L,250384390,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1988,Acura,Integra,RS Hatchback 4-Door,1.6L,250388180,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1988,Acura,Integra,LS Special Edition Hatchback 2-Door,1.6L,250422539,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1988,Acura,Integra,LS Hatchback 4-Door,1.6L,250431785,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1988,Acura,Integra,RS Hatchback 2-Door,1.6L,250505118,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1988,Acura,Legend,L Sedan 4-Door,2.7L,74011836,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Legend,L Coupe 2-Door,2.7L,74011846,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Legend,Base Coupe 2-Door,2.7L,74011886,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Legend,LS Coupe 2-Door,2.7L,74036988,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Legend,Base Sedan 4-Door,2.7L,74058797,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1988,Acura,Legend,LS Sedan 4-Door,2.7L,74058967,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Integra,LS Hatchback 2-Door,1.6L,250388800,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1989,Acura,Integra,RS Hatchback 2-Door,1.6L,250431855,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1989,Acura,Integra,LS Hatchback 4-Door,1.6L,250501438,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1989,Acura,Integra,RS Hatchback 4-Door,1.6L,250505568,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
-1989,Acura,Legend,L Sedan 4-Door,2.7L,73975104,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Legend,Base Sedan 4-Door,2.7L,73975164,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Legend,L Coupe 2-Door,2.7L,74003852,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Legend,Base Coupe 2-Door,2.7L,74025179,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Legend,LS Coupe 2-Door,2.7L,74030453,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1989,Acura,Legend,LS Sedan 4-Door,2.7L,74036898,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Integra,GS Sedan 4-Door,1.8L,83292645,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Integra,RS Sedan 4-Door,1.8L,83313701,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Integra,LS Sedan 4-Door,1.8L,83323359,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Integra,GS Hatchback 2-Door,1.8L,250279271,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Integra,RS Hatchback 2-Door,1.8L,250418729,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Integra,LS Hatchback 2-Door,1.8L,250435925,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1990,Acura,Legend,LS Coupe 2-Door,2.7L,73975174,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Legend,Base Sedan 4-Door,2.7L,73975194,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Legend,L Coupe 2-Door,2.7L,74009985,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Legend,L Sedan 4-Door,2.7L,74042650,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Legend,LS Sedan 4-Door,2.7L,74042700,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1990,Acura,Legend,Base Coupe 2-Door,2.7L,74058817,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,Integra,LS Sedan 4-Door,1.8L,83315499,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Integra,GS Sedan 4-Door,1.8L,83327498,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Integra,RS Sedan 4-Door,1.8L,83328733,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Integra,LS Hatchback 2-Door,1.8L,250349952,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Integra,RS Hatchback 2-Door,1.8L,250387870,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Integra,GS Hatchback 2-Door,1.8L,250504648,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1991,Acura,Legend,Base Sedan 4-Door,3.2L,74003772,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,Legend,L Sedan 4-Door,3.2L,74009995,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,Legend,LS Coupe 2-Door,3.2L,74025089,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,Legend,LS Sedan 4-Door,3.2L,74042630,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,Legend,L Coupe 2-Door,3.2L,74058907,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1991,Acura,NSX,Base Coupe 2-Door,3.0L,74001881,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,RS Sedan 4-Door,1.8L,83303212,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,GS Sedan 4-Door,1.8L,83306253,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,LS Sedan 4-Door,1.8L,83362260,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,LS Hatchback 2-Door,1.8L,250436145,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,RS Hatchback 2-Door,1.8L,250445947,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,GS-R Hatchback 2-Door,1.7L,250504978,1.7L 1678CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Integra,GS Hatchback 2-Door,1.8L,250505828,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1992,Acura,Legend,LS Sedan 4-Door,3.2L,74011876,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1992,Acura,Legend,L Coupe 2-Door,3.2L,74024999,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1992,Acura,Legend,Base Sedan 4-Door,3.2L,74030683,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1992,Acura,Legend,LS Coupe 2-Door,3.2L,74030713,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1992,Acura,Legend,L Sedan 4-Door,3.2L,74042710,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1992,Acura,NSX,Base Coupe 2-Door,3.0L,73975184,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1992,Acura,Vigor,GS Sedan 4-Door,2.5L,83316293,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1992,Acura,Vigor,LS Sedan 4-Door,2.5L,83338027,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1993,Acura,Integra,LS Sedan 4-Door,1.8L,83306665,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,RS Sedan 4-Door,1.8L,83320933,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,GS Sedan 4-Door,1.8L,83337330,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,GS Hatchback 2-Door,1.8L,250275531,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,LS Hatchback 2-Door,1.8L,250348552,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,RS Hatchback 2-Door,1.8L,250349162,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Integra,GS-R Hatchback 2-Door,1.7L,250416766,1.7L 1678CC l4 GAS DOHC Naturally Aspirated
-1993,Acura,Legend,Base Sedan 4-Door,3.2L,73975204,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1993,Acura,Legend,LS Sedan 4-Door,3.2L,74001871,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1993,Acura,Legend,L Sedan 4-Door,3.2L,74010015,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1993,Acura,Legend,LS Coupe 2-Door,3.2L,74030673,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1993,Acura,Legend,L Coupe 2-Door,3.2L,74042680,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1993,Acura,NSX,Base Coupe 2-Door,3.0L,74025249,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1993,Acura,Vigor,LS Sedan 4-Door,2.5L,83246904,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1993,Acura,Vigor,GS Sedan 4-Door,2.5L,83312556,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1994,Acura,Integra,RS Sedan 4-Door,1.8L,83278564,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Integra,GS-R Sedan 4-Door,1.8L,83288731,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Integra,LS Sedan 4-Door,1.8L,83357438,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Integra,RS Hatchback 2-Door,1.8L,250275521,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Integra,LS Hatchback 2-Door,1.8L,250388220,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250408414,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1994,Acura,Legend,GS Sedan 4-Door,3.2L,74025269,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1994,Acura,Legend,L Sedan 4-Door,3.2L,74030493,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1994,Acura,Legend,L Coupe 2-Door,3.2L,74030513,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1994,Acura,Legend,LS Coupe 2-Door,3.2L,74030603,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1994,Acura,Legend,LS Sedan 4-Door,3.2L,74037038,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1994,Acura,NSX,Base Coupe 2-Door,3.0L,74059007,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1994,Acura,Vigor,GS Sedan 4-Door,2.5L,83322229,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1994,Acura,Vigor,LS Sedan 4-Door,2.5L,83331893,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1995,Acura,Integra,LS Sedan 4-Door,1.8L,83284915,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,GS-R Sedan 4-Door,1.8L,83329090,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,RS Sedan 4-Door,1.8L,83336543,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,Special Edition Sedan 4-Door,1.8L,83354120,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,RS Hatchback 2-Door,1.8L,250422109,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,Special Edition Hatchback 2-Door,1.8L,250434755,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,LS Hatchback 2-Door,1.8L,250500868,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250504713,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1995,Acura,Legend,SE Sedan 4-Door,3.2L,74009895,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,Legend,GS Sedan 4-Door,3.2L,74030533,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,Legend,LS Coupe 2-Door,3.2L,74030703,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,Legend,L Coupe 2-Door,3.2L,74037008,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,Legend,L Sedan 4-Door,3.2L,74042670,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,Legend,LS Sedan 4-Door,3.2L,74042720,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1995,Acura,NSX,T Coupe 2-Door,3.0L,74009905,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1995,Acura,NSX,Base Coupe 2-Door,3.0L,74011866,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1995,Acura,TL,Base Sedan 4-Door,2.5L,83280931,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1995,Acura,TL,Premium Sedan 4-Door,2.5L,83286632,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1996,Acura,Integra,Special Edition Sedan 4-Door,1.8L,83300495,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,LS Sedan 4-Door,1.8L,83306889,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,GS-R Sedan 4-Door,1.8L,83315793,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,RS Sedan 4-Door,1.8L,83351898,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250279491,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,RS Hatchback 2-Door,1.8L,250384820,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,LS Hatchback 2-Door,1.8L,250411594,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,Integra,Special Edition Hatchback 2-Door,1.8L,250419009,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1996,Acura,NSX,T Coupe 2-Door,3.0L,74003832,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1996,Acura,NSX,Base Coupe 2-Door,3.0L,74003922,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1996,Acura,RL,Premium Sedan 4-Door,3.5L,74003952,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,RL,Base Sedan 4-Door,3.5L,74011826,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,SLX,Premium Sport Utility 4-Door,3.2L,74037028,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,SLX,Base Sport Utility 4-Door,3.2L,74037088,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,TL,Base Sedan 4-Door,3.2L,73975254,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,TL,Premium Sedan 4-Door,3.2L,74025309,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1996,Acura,TL,Premium Sedan 4-Door,2.5L,83334158,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1996,Acura,TL,Base Sedan 4-Door,2.5L,83353590,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1997,Acura,CL,Premium Coupe 2-Door,3.0L,74025109,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,CL,Premium Coupe 2-Door,2.2L,83339950,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Acura,CL,Base Coupe 2-Door,2.2L,83355047,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Acura,CL,Base Coupe 2-Door,3.0L,153490527,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,EL,Base Sedan 4-Door,1.6L,153530218,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
-1997,Acura,Integra,GS-R Sedan 4-Door,1.8L,83276605,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,LS Sedan 4-Door,1.8L,83330703,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,GS Sedan 4-Door,1.8L,83337167,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,GS Hatchback 2-Door,1.8L,250275851,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,RS Hatchback 2-Door,1.8L,250276381,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,Type R Hatchback 2-Door,1.8L,250345752,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250446057,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,Integra,LS Hatchback 2-Door,1.8L,250501428,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1997,Acura,NSX,Base Coupe 2-Door,3.0L,74025029,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1997,Acura,NSX,T Coupe 2-Door,3.0L,74037068,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1997,Acura,NSX,Base Coupe 2-Door,3.2L,7039237888,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1997,Acura,NSX,T Coupe 2-Door,3.2L,13039234825,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1997,Acura,RL,Base Sedan 4-Door,3.5L,74042750,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,RL,Premium Sedan 4-Door,3.5L,74059027,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,SLX,Premium Sport Utility 4-Door,3.2L,74003972,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,SLX,Base Sport Utility 4-Door,3.2L,74058877,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,TL,Base Sedan 4-Door,3.2L,74025279,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,TL,Premium Sedan 4-Door,3.2L,74037098,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1997,Acura,TL,Base Sedan 4-Door,2.5L,83267744,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1997,Acura,TL,Premium Sedan 4-Door,2.5L,83360977,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1998,Acura,CL,Premium Coupe 2-Door,3.0L,73975054,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,CL,Base Coupe 2-Door,2.3L,83275944,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Acura,CL,Premium Coupe 2-Door,2.3L,83320106,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Acura,CL,Base Coupe 2-Door,3.0L,153412831,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,EL,Base Sedan 4-Door,1.6L,153463672,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
-1998,Acura,Integra,GS Sedan 4-Door,1.8L,83305723,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,GS-R Sedan 4-Door,1.8L,83326658,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,LS Sedan 4-Door,1.8L,83352397,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,RS Hatchback 2-Door,1.8L,250275991,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,Type R Hatchback 2-Door,1.8L,250285921,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250345712,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,LS Hatchback 2-Door,1.8L,250384710,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,Integra,GS Hatchback 2-Door,1.8L,250418719,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1998,Acura,NSX,T Coupe 2-Door,3.2L,73975214,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1998,Acura,NSX,Base Coupe 2-Door,3.0L,74011926,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1998,Acura,NSX,T Coupe 2-Door,3.0L,74011946,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1998,Acura,NSX,Base Coupe 2-Door,3.2L,8039238118,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1998,Acura,RL,Premium Sedan 4-Door,3.5L,74001791,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,RL,SE Sedan 4-Door,3.5L,74003942,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,RL,Base Sedan 4-Door,3.5L,74058987,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,SLX,Premium Sport Utility 4-Door,3.5L,74030573,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-1998,Acura,TL,Premium Sedan 4-Door,3.2L,74058927,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1998,Acura,TL,Base Sedan 4-Door,2.5L,83330660,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1998,Acura,TL,Premium Sedan 4-Door,2.5L,153453105,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
-1998,Acura,TL,Base Sedan 4-Door,3.2L,153456115,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
-1999,Acura,CL,Premium Coupe 2-Door,3.0L,73975024,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
-1999,Acura,CL,Premium Coupe 2-Door,2.3L,83332467,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1999,Acura,EL,Base Sedan 4-Door,1.6L,153496347,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
-1999,Acura,Integra,GS Sedan 4-Door,1.8L,83277734,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,LS Sedan 4-Door,1.8L,83279552,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,GS-R Sedan 4-Door,1.8L,83363287,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,Type R Hatchback 2-Door,1.8L,250276091,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,GS Hatchback 2-Door,1.8L,250280271,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250417356,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,Integra,LS Hatchback 2-Door,1.8L,250418939,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-1999,Acura,NSX,Alex Zanardi Edition Coupe 2-Door,3.2L,74001831,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,NSX,T Coupe 2-Door,3.2L,74001851,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,NSX,Base Coupe 2-Door,3.0L,74030543,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,NSX,Base Coupe 2-Door,3.2L,74030743,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,NSX,T Coupe 2-Door,3.0L,74058857,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,RL,Premium Sedan 4-Door,3.5L,74003872,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-1999,Acura,SLX,Premium Sport Utility 4-Door,3.5L,74003862,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-1999,Acura,TL,Base Sedan 4-Door,3.2L,74002001,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2000,Acura,EL,Base Sedan 4-Door,1.6L,153514083,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
-2000,Acura,Integra,GS Sedan 4-Door,1.8L,83252724,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,GS-R Sedan 4-Door,1.8L,83292245,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,LS Sedan 4-Door,1.8L,83316979,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,LS Hatchback 2-Door,1.8L,250388600,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,Type R Hatchback 2-Door,1.8L,250442037,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,GS Hatchback 2-Door,1.8L,250500838,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250504973,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2000,Acura,NSX,T Coupe 2-Door,3.0L,74011956,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2000,Acura,NSX,Base Coupe 2-Door,3.2L,74025169,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2000,Acura,NSX,Base Coupe 2-Door,3.0L,74036948,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2000,Acura,NSX,T Coupe 2-Door,3.2L,74037048,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2000,Acura,RL,Premium Sedan 4-Door,3.5L,74037058,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-2000,Acura,TL,Base Sedan 4-Door,3.2L,74001971,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,CL,Type-S Coupe 2-Door,3.2L,74024949,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,CL,Premium Coupe 2-Door,3.2L,74036848,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,EL,Base Sedan 4-Door,1.7L,153470362,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
-2001,Acura,Integra,GS-R Sedan 4-Door,1.8L,83286042,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,GS Sedan 4-Door,1.8L,83339500,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,LS Sedan 4-Door,1.8L,83358337,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,GS-R Hatchback 2-Door,1.8L,250435465,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,Type R Hatchback 2-Door,1.8L,250446887,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,LS Hatchback 2-Door,1.8L,250504423,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,Integra,GS Hatchback 2-Door,1.8L,250505383,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
-2001,Acura,MDX,Base Sport Utility 4-Door,3.5L,74030593,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74058757,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,NSX,T Coupe 2-Door,3.0L,74001811,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2001,Acura,NSX,Base Coupe 2-Door,3.0L,74003882,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2001,Acura,NSX,T Coupe 2-Door,3.2L,74011896,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2001,Acura,NSX,Base Coupe 2-Door,3.2L,74025119,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2001,Acura,RL,Premium Sedan 4-Door,3.5L,74059037,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-2001,Acura,TL,Base Sedan 4-Door,3.2L,74011976,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,CL,Type-S Coupe 2-Door,3.2L,74003642,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,CL,Base Coupe 2-Door,3.2L,74042500,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,EL,Base Sedan 4-Door,1.7L,153495357,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
-2002,Acura,MDX,Base Sport Utility 4-Door,3.5L,73975134,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74042620,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,NSX,T Coupe 2-Door,3.0L,74003912,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2002,Acura,NSX,T Coupe 2-Door,3.2L,74030633,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2002,Acura,RL,Premium Sedan 4-Door,3.5L,74011906,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,RSX,Base Coupe 2-Door,2.0L,109956450,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2002,Acura,RSX,Type-S Coupe 2-Door,2.0L,109965458,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2002,Acura,TL,Type-S Sedan 4-Door,3.2L,74009975,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2002,Acura,TL,Base Sedan 4-Door,3.2L,74010045,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,CL,Type-S Coupe 2-Door,3.2L,74011786,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,CL,Base Coupe 2-Door,3.2L,74036778,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,EL,Base Sedan 4-Door,1.7L,153504100,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
-2003,Acura,MDX,Base Sport Utility 4-Door,3.5L,73975234,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74001901,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,NSX,T Coupe 2-Door,3.2L,74009855,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2003,Acura,NSX,T Coupe 2-Door,3.0L,74058807,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2003,Acura,RL,Premium Sedan 4-Door,3.5L,74001861,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,RSX,Type-S Coupe 2-Door,2.0L,109904851,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2003,Acura,RSX,Base Coupe 2-Door,2.0L,109948643,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2003,Acura,TL,Base Sedan 4-Door,3.2L,73975244,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2003,Acura,TL,Type-S Sedan 4-Door,3.2L,74025209,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2004,Acura,EL,Base Sedan 4-Door,1.7L,153508103,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
-2004,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74055658,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2004,Acura,MDX,Base Sport Utility 4-Door,3.5L,74077567,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2004,Acura,NSX,Base Coupe 2-Door,3.0L,74020471,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2004,Acura,NSX,Base Coupe 2-Door,3.2L,74061190,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2004,Acura,RL,Premium Sedan 4-Door,3.5L,74055778,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
-2004,Acura,RSX,Base Coupe 2-Door,2.0L,109958947,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2004,Acura,RSX,Type-S Coupe 2-Door,2.0L,109965078,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2004,Acura,TL,Base Sedan 4-Door,3.2L,74027161,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2004,Acura,TSX,Base Sedan 4-Door,2.4L,83314486,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Acura,EL,Base Sedan 4-Door,1.7L,153506483,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
-2005,Acura,MDX,Base Sport Utility 4-Door,3.5L,74037915,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2005,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74058743,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2005,Acura,NSX,Base Coupe 2-Door,3.2L,74029941,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
-2005,Acura,NSX,Base Coupe 2-Door,3.0L,74030031,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
-2005,Acura,RL,Base Sedan 4-Door,3.5L,74040276,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2005,Acura,RSX,Base Coupe 2-Door,2.0L,109920365,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Acura,RSX,Type-S Coupe 2-Door,2.0L,109958897,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2005,Acura,TL,Base Sedan 4-Door,3.2L,74071010,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2005,Acura,TSX,Base Sedan 4-Door,2.4L,83273074,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Acura,CSX,Premium Sedan 4-Door,2.0L,153473162,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Acura,CSX,Touring Sedan 4-Door,2.0L,153509490,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Acura,MDX,Base Sport Utility 4-Door,3.5L,74042686,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2006,Acura,MDX,Touring Sport Utility 4-Door,3.5L,74073420,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2006,Acura,RL,Base Sedan 4-Door,3.5L,74034592,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2006,Acura,RSX,Base Coupe 2-Door,2.0L,109922786,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Acura,RSX,Type-S Coupe 2-Door,2.0L,109951520,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Acura,TL,Base Sedan 4-Door,3.2L,74067558,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2006,Acura,TSX,Base Sedan 4-Door,2.4L,83304222,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Acura,CSX,Type-S Sedan 4-Door,2.0L,153503843,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Acura,CSX,Premium Sedan 4-Door,2.0L,194134169,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Acura,CSX,Touring Sedan 4-Door,2.0L,194139832,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Acura,MDX,Base Sport Utility 4-Door,3.7L,74063303,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2007,Acura,RDX,Base Sport Utility 4-Door,2.3L,83347550,2.3L 2300CC l4 GAS DOHC Turbocharged
-2007,Acura,RL,Base Sedan 4-Door,3.5L,74063193,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2007,Acura,TL,Base Sedan 4-Door,3.2L,74011324,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2007,Acura,TL,Type-S Sedan 4-Door,3.5L,74061309,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2007,Acura,TSX,Base Sedan 4-Door,2.4L,83306689,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Acura,CSX,Type-S Sedan 4-Door,2.0L,153481372,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Acura,CSX,Touring Sedan 4-Door,2.0L,194145846,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Acura,CSX,Technology Sedan 4-Door,2.0L,194181740,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Acura,MDX,Base Sport Utility 4-Door,3.7L,74080708,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2008,Acura,RDX,Base Sport Utility 4-Door,2.3L,83286675,2.3L 2300CC l4 GAS DOHC Turbocharged
-2008,Acura,RL,Base Sedan 4-Door,3.5L,74017524,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2008,Acura,RL,Elite Sedan 4-Door,3.5L,153478549,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2008,Acura,TL,Base Sedan 4-Door,3.2L,74017644,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
-2008,Acura,TL,Type-S Sedan 4-Door,3.5L,74054466,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2008,Acura,TSX,Base Sedan 4-Door,2.4L,83351420,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Acura,CSX,Type-S Sedan 4-Door,2.0L,153501587,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Acura,CSX,Touring Sedan 4-Door,2.0L,194177533,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Acura,CSX,Technology Sedan 4-Door,2.0L,194181720,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2009,Acura,MDX,Base Sport Utility 4-Door,3.7L,219550600,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2009,Acura,RDX,Base Sport Utility 4-Door,2.3L,83300366,2.3L 2300CC l4 GAS DOHC Turbocharged
-2009,Acura,RL,Base Sedan 4-Door,3.7L,74082118,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2009,Acura,TL,Base Sedan 4-Door,3.5L,74050212,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2009,Acura,TL,SH-AWD Sedan 4-Door,3.7L,74056285,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2009,Acura,TSX,Base Sedan 4-Door,2.4L,21039236369,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Acura,CSX,Type-S Sedan 4-Door,2.0L,153462515,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Acura,CSX,iTech Sedan 4-Door,2.0L,194141542,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Acura,MDX,Base Sport Utility 4-Door,3.7L,83308031,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2010,Acura,RDX,Base Sport Utility 4-Door,2.3L,83289062,2.3L 2300CC l4 GAS DOHC Turbocharged
-2010,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,139690329,2.3L 2300CC l4 GAS DOHC Turbocharged
-2010,Acura,RL,Base Sedan 4-Door,3.7L,81733416,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2010,Acura,TL,SH-AWD Sedan 4-Door,3.7L,81713131,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2010,Acura,TL,Base Sedan 4-Door,3.5L,81743408,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2010,Acura,TSX,V6 Sedan 4-Door,3.5L,81733256,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2010,Acura,TSX,Base Sedan 4-Door,2.4L,25039226154,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2010,Acura,ZDX,Base Sport Utility 4-Door,3.7L,83242554,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,CSX,Base Sedan 4-Door,2.0L,153499157,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Acura,CSX,iTech Sedan 4-Door,2.0L,194177443,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Acura,MDX,Base Sport Utility 4-Door,3.7L,98932929,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,RDX,Base Sport Utility 4-Door,2.3L,98990848,2.3L 2300CC l4 GAS DOHC Turbocharged
-2011,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,139695386,2.3L 2300CC l4 GAS DOHC Turbocharged
-2011,Acura,RL,Base Sedan 4-Door,3.7L,112552463,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,TL,Base Sedan 4-Door,3.5L,98929809,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,TL,SH-AWD Sedan 4-Door,3.7L,98973990,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,TSX,V6 Sedan 4-Door,3.5L,98957783,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2011,Acura,TSX,Base Sedan 4-Door,2.4L,24039231577,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Acura,TSX,Base Wagon 4-Door,2.4L,26039242513,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2011,Acura,ZDX,Base Sport Utility 4-Door,3.7L,112467481,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,MDX,Base Sport Utility 4-Door,3.7L,112571493,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,112469134,2.3L 2300CC l4 GAS DOHC Turbocharged
-2012,Acura,RDX,Base Sport Utility 4-Door,2.3L,112474014,2.3L 2300CC l4 GAS DOHC Turbocharged
-2012,Acura,RL,Base Sedan 4-Door,3.7L,112495461,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,TL,SH-AWD Sedan 4-Door,3.7L,112449824,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,TL,Base Sedan 4-Door,3.5L,112521912,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,TSX,V6 Sedan 4-Door,3.5L,112523702,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2012,Acura,TSX,Special Edition Sedan 4-Door,2.4L,2310281509,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Acura,TSX,A-Spec Sedan 4-Door,2.4L,15039235896,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Acura,TSX,Base Sedan 4-Door,2.4L,15039235974,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Acura,TSX,Base Wagon 4-Door,2.4L,24039231561,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2012,Acura,ZDX,Base Sport Utility 4-Door,3.7L,112534759,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,ILX,Base Sedan 4-Door,2.0L,118261917,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-2013,Acura,ILX,Base Sedan 4-Door,2.4L,118262137,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,ILX,Hybrid Sedan 4-Door,1.5L,118271750,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2013,Acura,ILX,Dynamic Sedan 4-Door,2.4L,153476739,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,MDX,Base Sport Utility 4-Door,3.7L,153512320,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,RDX,Base Sport Utility 4-Door,3.5L,217185752,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,TL,Base Sedan 4-Door,3.5L,139673502,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,TL,SH-AWD Sedan 4-Door,3.7L,139694726,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,TSX,V6 Sedan 4-Door,3.5L,153445274,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,TSX,V6 Tech Sedan 4-Door,3.5L,153453674,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2013,Acura,TSX,Base Wagon 4-Door,2.4L,7039237949,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,TSX,Special Edition Sedan 4-Door,2.4L,14039233134,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,TSX,Tech Sedan 4-Door,2.4L,17039232373,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,TSX,Base Sedan 4-Door,2.4L,24039231620,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,TSX,Premium Sedan 4-Door,2.4L,27039228329,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2013,Acura,ZDX,Base Sport Utility 4-Door,3.7L,139722387,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,ILX,Base Sedan 4-Door,2.0L,167247701,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-2014,Acura,ILX,Hybrid Sedan 4-Door,1.5L,167296636,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2014,Acura,ILX,Base Sedan 4-Door,2.4L,167323237,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,ILX,Dynamic Sedan 4-Door,2.4L,178358482,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,210713646,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,MDX,Base Sport Utility 4-Door,3.5L,210718645,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,RDX,Base Sport Utility 4-Door,3.5L,217186946,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,RLX,Base Sedan 4-Door,3.5L,153506287,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,208533610,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2014,Acura,TL,SH-AWD Sedan 4-Door,3.7L,172956592,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,TL,Base Sedan 4-Door,3.5L,172971399,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,TSX,Special Edition Sedan 4-Door,2.4L,178311791,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,TSX,V6 Tech Sedan 4-Door,3.5L,178344175,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,TSX,V6 Sedan 4-Door,3.5L,178353004,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2014,Acura,TSX,Base Sedan 4-Door,2.4L,178431238,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,TSX,Base Wagon 4-Door,2.4L,178432258,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,TSX,Tech Sedan 4-Door,2.4L,6039245704,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2014,Acura,TSX,Premium Sedan 4-Door,2.4L,25039226132,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Acura,ILX,Base Sedan 4-Door,2.0L,204166242,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
-2015,Acura,ILX,Dynamic Sedan 4-Door,2.4L,204200160,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Acura,ILX,Base Sedan 4-Door,2.4L,204208973,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Acura,ILX,Hybrid Sedan 4-Door,1.5L,215417379,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2015,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,210743123,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,MDX,Base Sport Utility 4-Door,3.5L,210743523,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,RDX,Base Sport Utility 4-Door,3.5L,217228570,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,RLX,Base Sedan 4-Door,3.5L,204340312,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,217233600,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2015,Acura,RLX,Elite Sedan 4-Door,3.5L,219565235,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,RLX,Tech Sedan 4-Door,3.5L,219566895,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,TLX,Base Sedan 4-Door,2.4L,204274461,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2015,Acura,TLX,Base Sedan 4-Door,3.5L,204375760,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2015,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,209876593,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,ILX,Base Sedan 4-Door,2.4L,212128448,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2016,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,210710489,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,MDX,Base Sport Utility 4-Door,3.5L,210712944,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,RDX,Base Sport Utility 4-Door,3.5L,217189355,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,RLX,Base Sedan 4-Door,3.5L,212127008,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,215404546,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2016,Acura,TLX,Base Sedan 4-Door,3.5L,217185036,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,217188226,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2016,Acura,TLX,Base Sedan 4-Door,2.4L,217203272,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2017,Acura,ILX,Base Sedan 4-Door,2.4L,222907852,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2017,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,225335751,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2017,Acura,MDX,Base Sport Utility 4-Door,3.5L,225424632,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2017,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,242647060,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2017,Acura,NSX,Base Coupe 2-Door,3.5L,223706924,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2017,Acura,RDX,Base Sport Utility 4-Door,3.5L,222825751,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2017,Acura,RLX,Base Sedan 4-Door,3.5L,232727117,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2017,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,232741695,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2017,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,229122864,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2017,Acura,TLX,Base Sedan 4-Door,2.4L,229205833,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2017,Acura,TLX,Base Sedan 4-Door,3.5L,229297803,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,ILX,Base Sedan 4-Door,2.4L,241954325,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2018,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,241873772,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,MDX,Base Sport Utility 4-Door,3.5L,241948269,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,242603352,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2018,Acura,NSX,Base Coupe 2-Door,3.5L,243853235,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2018,Acura,RDX,Base Sport Utility 4-Door,3.5L,239066798,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,242530671,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2018,Acura,RLX,Base Sedan 4-Door,3.5L,242757383,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,238969324,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,TLX,Base Sedan 4-Door,3.5L,238982966,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2018,Acura,TLX,Base Sedan 4-Door,2.4L,239060983,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2019,Acura,ILX,Base Sedan 4-Door,2.4L,251756210,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2019,Acura,MDX,Base Sport Utility 4-Door,3.5L,250285741,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2019,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,250451737,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2019,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,251719192,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2019,Acura,NSX,Base Coupe 2-Door,3.5L,250451867,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2019,Acura,RDX,Base Sport Utility 4-Door,2.0L,248022346,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,5037932524,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2019,Acura,RLX,Base Sedan 4-Door,3.5L,251647521,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2019,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,251934388,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2019,Acura,TLX,Base Sedan 4-Door,3.5L,247876631,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2019,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,248019889,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2019,Acura,TLX,Base Sedan 4-Door,2.4L,5041094371,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2020,Acura,ILX,Base Sedan 4-Door,2.4L,10048802698,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2020,Acura,MDX,Base Sport Utility 4-Door,3.5L,253619364,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2020,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,253644915,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2020,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,13036077595,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2020,Acura,NSX,Base Coupe 2-Door,3.5L,25036071748,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2020,Acura,RDX,Base Sport Utility 4-Door,2.0L,252074132,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,15037923786,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2020,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,253493581,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
-2020,Acura,RLX,Base Sedan 4-Door,3.5L,253716593,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2020,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,252233340,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2020,Acura,TLX,Base Sedan 4-Door,3.5L,252272719,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2020,Acura,TLX,Base Sedan 4-Door,2.4L,6041095340,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2021,Acura,ILX,Base Sedan 4-Door,2.4L,3048807008,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2021,Acura,NSX,Base Coupe 2-Door,3.5L,3042677839,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2021,Acura,RDX,PMC Edition Sport Utility 4-Door,2.0L,10054603389,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Acura,RDX,Base Sport Utility 4-Door,2.0L,17041085193,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,26041093813,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,7042676378,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2021,Acura,TLX,Type S Sedan 4-Door,3.0L,7048304927,3.0L 2997CC V6 GAS DOHC Turbocharged
-2021,Acura,TLX,Base Sedan 4-Door,2.0L,17042669649,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,ILX,Base Sedan 4-Door,2.4L,12048790436,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
-2022,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,5045493893,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2022,Acura,MDX,Base Sport Utility 4-Door,3.5L,23045496443,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2022,Acura,MDX,Type S Sport Utility 4-Door,3.0L,25052177487,3.0L 2997CC V6 GAS DOHC Turbocharged
-2022,Acura,NSX,Type S Coupe 2-Door,3.5L,17049664290,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
-2022,Acura,RDX,Base Sport Utility 4-Door,2.0L,10052193761,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,RDX,PMC Edition Sport Utility 4-Door,2.0L,17054596699,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,18052193169,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,10045489743,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,TLX,Base Sedan 4-Door,2.0L,11044507729,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2022,Acura,TLX,Type S Sedan 4-Door,3.0L,25049655056,3.0L 2997CC V6 GAS DOHC Turbocharged
-2023,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,3057789283,1.5L 1497CC l4 GAS DOHC Turbocharged
-2023,Acura,Integra,Base Hatchback 4-Door,1.5L,4055714105,1.5L 1497CC l4 GAS DOHC Turbocharged
-2023,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,11055712809,1.5L 1497CC l4 GAS DOHC Turbocharged
-2023,Acura,MDX,Base Sport Utility 4-Door,3.5L,5052745333,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2023,Acura,MDX,Type S Sport Utility 4-Door,3.0L,10052745962,3.0L 2997CC V6 GAS DOHC Turbocharged
-2023,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,21052745598,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2023,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,15053353202,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Acura,RDX,Base Sport Utility 4-Door,2.0L,16053342732,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Acura,TLX,Base Sedan 4-Door,2.0L,11053342344,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Acura,TLX,Type S Sedan 4-Door,3.0L,13053347289,3.0L 2997CC V6 GAS DOHC Turbocharged
-2023,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,22053348823,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2023,Acura,TLX,Type S PMC Edition Sedan 4-Door,3.0L,28055726432,3.0L 2997CC V6 GAS DOHC Turbocharged
-2024,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,2330108539,1.5L 1497CC l4 GAS DOHC Turbocharged
-2024,Acura,Integra,Type S Hatchback 4-Door,2.0L,12063297389,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,18059367163,1.5L 1497CC l4 GAS DOHC Turbocharged
-2024,Acura,Integra,Base Hatchback 4-Door,1.5L,26058568607,1.5L 1497CC l4 GAS DOHC Turbocharged
-2024,Acura,MDX,Type S Sport Utility 4-Door,3.0L,10059070217,3.0L 2997CC V6 GAS DOHC Turbocharged
-2024,Acura,MDX,Base Sport Utility 4-Door,3.5L,23059072181,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2024,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,26059072785,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2024,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,2334354482,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,12064817208,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Acura,TLX,Type S Sedan 4-Door,3.0L,14064819887,3.0L 2997CC V6 GAS DOHC Turbocharged
-2024,Acura,TLX,Base Sedan 4-Door,2.0L,26064835305,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2024,Acura,ZDX,A-Spec Sport Utility 4-Door,--,3066554206,BATTERY EV (EV/BEV)
-2024,Acura,ZDX,Type S Sport Utility 4-Door,--,13066545876,BATTERY EV (EV/BEV)
-2025,Acura,ADX,Platinum Elite A-Spec Sport Utility 4-Door,1.5L,5078011027,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,ADX,A-Spec Sport Utility 4-Door,1.5L,10080360544,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,ADX,Base Sport Utility 4-Door,1.5L,20078007745,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,16066015670,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,Integra,Base Hatchback 4-Door,1.5L,19066023099,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,Integra,Type S Hatchback 4-Door,2.0L,20066022757,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,22067218955,1.5L 1497CC l4 GAS DOHC Turbocharged
-2025,Acura,MDX,Base Sport Utility 4-Door,3.5L,14068280503,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2025,Acura,MDX,Type S Sport Utility 4-Door,3.0L,25068277918,3.0L 2997CC V6 GAS DOHC Turbocharged
-2025,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,28068296562,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2025,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,8071951853,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Acura,TLX,Type S Sedan 4-Door,3.0L,4066019006,3.0L 2997CC V6 GAS DOHC Turbocharged
-2025,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,16066015752,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Acura,TLX,Base Sedan 4-Door,2.0L,19066023045,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
-2025,Acura,ZDX,A-Spec Sport Utility 4-Door,--,10068296820,BATTERY EV (EV/BEV)
-2025,Acura,ZDX,Type S Sport Utility 4-Door,--,11068274883,BATTERY EV (EV/BEV)
-2026,Acura,ADX,A-Spec,--,10080791747,--
-2026,Acura,ADX,Base,--,13080784549,--
-2026,Acura,MDX,Base Sport Utility 4-Door,3.5L,3080354367,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2026,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,9080349840,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
-2026,Acura,MDX,Type S Sport Utility 4-Door,3.0L,23080358714,3.0L 2997CC V6 GAS DOHC Turbocharged
-2026,Acura,RDX,SH-AWD,--,5080797514,--
-2026,Acura,ZDX,A-Spec Sport Utility 4-Door,--,5075767237,BATTERY EV (EV/BEV)
-2026,Acura,ZDX,Type S Sport Utility 4-Door,--,9077995671,BATTERY EV (EV/BEV)
+2026,Acura,ADX,Platinum Elite A-Spec Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,ADX,Base Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,ADX,A-Spec Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,Integra,Base Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2026,Acura,Integra,Type S Hatchback 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Acura,MDX,Type S Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2026,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2026,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2026,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2026,Acura,ZDX,A-Spec Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2026,Acura,ZDX,Type S Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2025,Acura,ADX,Platinum Elite A-Spec Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,ADX,A-Spec Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,ADX,Base Sport Utility 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,Integra,Base Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2025,Acura,Integra,Type S Hatchback 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Acura,MDX,Type S Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2025,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2025,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2025,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Acura,TLX,Base Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2025,Acura,TLX,Type S Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2025,Acura,ZDX,A-Spec Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2025,Acura,ZDX,Type S Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2024,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2024,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2024,Acura,Integra,Base Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2024,Acura,Integra,Type S Hatchback 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Acura,MDX,Type S Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2024,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2024,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2024,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Acura,TLX,Base Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2024,Acura,TLX,Type S Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2024,Acura,ZDX,A-Spec Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2024,Acura,ZDX,Type S Sport Utility 4-Door,--,,BATTERY EV (EV/BEV)
+2023,Acura,Integra,Elite A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2023,Acura,Integra,Base Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2023,Acura,Integra,A-Spec Hatchback 4-Door,1.5L,,1.5L 1497CC l4 GAS DOHC Turbocharged
+2023,Acura,MDX,Type S Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2023,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2023,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2023,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Acura,RDX,Base Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Acura,TLX,Base Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2023,Acura,TLX,Type S Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2023,Acura,TLX,Type S PMC Edition Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2022,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2022,Acura,MDX,Type S Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2022,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2022,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2022,Acura,NSX,Type S Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2022,Acura,RDX,Base Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Acura,RDX,PMC Edition Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Acura,TLX,Base Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2022,Acura,TLX,Type S Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2021,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2021,Acura,NSX,Base Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2021,Acura,RDX,PMC Edition Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Acura,RDX,Base Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Acura,TLX,SH-AWD Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Acura,TLX,Base Sedan 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2021,Acura,TLX,Type S Sedan 4-Door,3.0L,,3.0L 2997CC V6 GAS DOHC Turbocharged
+2020,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2020,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2020,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2020,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2020,Acura,NSX,Base Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2020,Acura,RDX,Base Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2020,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2020,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2020,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2020,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2019,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2019,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2019,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2019,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2019,Acura,NSX,Base Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2019,Acura,RDX,Base Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Acura,RDX,SH-AWD Sport Utility 4-Door,2.0L,,2.0L 1996CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2019,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2019,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2019,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2019,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2018,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2018,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,NSX,Base Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2018,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2018,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2018,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2018,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2017,Acura,MDX,Sport Hybrid Sport Utility 4-Door,3.0L,,3.0L 2997CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2017,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,NSX,Base Coupe 2-Door,3.5L,,3.5L 3493CC V6 FULL HYBRID EV-GAS (FHEV) DOHC Turbocharged
+2017,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2017,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2017,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2017,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2016,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2016,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2016,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2016,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,ILX,Hybrid Sedan 4-Door,1.5L,,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2015,Acura,ILX,Base Sedan 4-Door,2.0L,,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2015,Acura,ILX,Dynamic Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2015,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2015,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2015,Acura,RLX,Elite Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,RLX,Tech Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,TLX,Base Sedan 4-Door,2.4L,,2.4L 2356CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2015,Acura,TLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2015,Acura,TLX,SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,ILX,Hybrid Sedan 4-Door,1.5L,,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2014,Acura,ILX,Base Sedan 4-Door,2.0L,,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2014,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,ILX,Dynamic Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,MDX,SH-AWD Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,RLX,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,RLX,Sport Hybrid SH-AWD Sedan 4-Door,3.5L,,3.5L 3471CC V6 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2014,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,TSX,Special Edition Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,TSX,Base Wagon 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,TSX,Tech Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,TSX,Premium Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2014,Acura,TSX,V6 Tech Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2014,Acura,TSX,V6 Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,ILX,Hybrid Sedan 4-Door,1.5L,,1.5L 1497CC l4 FULL HYBRID EV-GAS (FHEV) SOHC Naturally Aspirated
+2013,Acura,ILX,Base Sedan 4-Door,2.0L,,2.0L 1997CC 122Cu. In. l4 GAS SOHC Naturally Aspirated
+2013,Acura,ILX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,ILX,Dynamic Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,RDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,TSX,Base Wagon 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,TSX,Special Edition Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,TSX,Tech Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,TSX,Premium Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2013,Acura,TSX,V6 Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,TSX,V6 Tech Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2013,Acura,ZDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2012,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2012,Acura,RL,Base Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,TSX,Special Edition Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Acura,TSX,A-Spec Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Acura,TSX,Base Wagon 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Acura,TSX,V6 Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2012,Acura,ZDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,CSX,Base Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Acura,CSX,iTech Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2011,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2011,Acura,RL,Base Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Acura,TSX,Base Wagon 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Acura,TSX,V6 Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2011,Acura,ZDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,CSX,Type-S Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Acura,CSX,iTech Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2010,Acura,RDX,SH-AWD Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2010,Acura,RL,Base Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Acura,TSX,V6 Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2010,Acura,ZDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2009,Acura,CSX,Type-S Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Acura,CSX,Touring Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Acura,CSX,Technology Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2009,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2009,Acura,RL,Base Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2009,Acura,TL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2009,Acura,TL,SH-AWD Sedan 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2009,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Acura,CSX,Type-S Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Acura,CSX,Touring Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Acura,CSX,Technology Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2008,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2008,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2008,Acura,RL,Elite Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2008,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2008,Acura,TL,Type-S Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2008,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Acura,CSX,Type-S Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Acura,CSX,Premium Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Acura,CSX,Touring Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Acura,MDX,Base Sport Utility 4-Door,3.7L,,3.7L 3664CC V6 GAS SOHC Naturally Aspirated
+2007,Acura,RDX,Base Sport Utility 4-Door,2.3L,,2.3L 2300CC l4 GAS DOHC Turbocharged
+2007,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2007,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2007,Acura,TL,Type-S Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2007,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Acura,CSX,Premium Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Acura,CSX,Touring Sedan 4-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2006,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2006,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2006,Acura,RSX,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Acura,RSX,Type-S Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2006,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2005,Acura,EL,Base Sedan 4-Door,1.7L,,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
+2005,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2005,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2005,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2005,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2005,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2005,Acura,RSX,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2005,Acura,RSX,Type-S Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2005,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2005,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2004,Acura,EL,Base Sedan 4-Door,1.7L,,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
+2004,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2004,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2004,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2004,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2004,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+2004,Acura,RSX,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2004,Acura,RSX,Type-S Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2004,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2004,Acura,TSX,Base Sedan 4-Door,2.4L,,2.4L 2354CC 144Cu. In. l4 GAS DOHC Naturally Aspirated
+2003,Acura,CL,Type-S Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,CL,Base Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,EL,Base Sedan 4-Door,1.7L,,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
+2003,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2003,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2003,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,RSX,Type-S Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2003,Acura,RSX,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2003,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2003,Acura,TL,Type-S Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,CL,Type-S Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,CL,Base Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,EL,Base Sedan 4-Door,1.7L,,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
+2002,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2002,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2002,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,RSX,Base Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2002,Acura,RSX,Type-S Coupe 2-Door,2.0L,,2.0L 1998CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2002,Acura,TL,Type-S Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2002,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,CL,Type-S Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,CL,Premium Coupe 2-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,EL,Base Sedan 4-Door,1.7L,,1.7L 1668CC l4 GAS SOHC Naturally Aspirated
+2001,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,Type R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2001,Acura,MDX,Base Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,MDX,Touring Sport Utility 4-Door,3.5L,,3.5L 3471CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2001,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2001,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2001,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2001,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+2001,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+2000,Acura,EL,Base Sedan 4-Door,1.6L,,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
+2000,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,Type R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+2000,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2000,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+2000,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2000,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+2000,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+2000,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+1999,Acura,CL,Premium Coupe 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1999,Acura,CL,Premium Coupe 2-Door,3.0L,,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
+1999,Acura,EL,Base Sedan 4-Door,1.6L,,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
+1999,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,Type R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1999,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,NSX,Alex Zanardi Edition Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1999,Acura,SLX,Premium Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+1999,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3210CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,CL,Base Coupe 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1998,Acura,CL,Premium Coupe 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1998,Acura,CL,Premium Coupe 2-Door,3.0L,,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,CL,Base Coupe 2-Door,3.0L,,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,EL,Base Sedan 4-Door,1.6L,,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
+1998,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,Type R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1998,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1998,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1998,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1998,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1998,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,RL,SE Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,SLX,Premium Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+1998,Acura,TL,Base Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1998,Acura,TL,Premium Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1998,Acura,TL,Premium Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1998,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,CL,Premium Coupe 2-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1997,Acura,CL,Base Coupe 2-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1997,Acura,CL,Premium Coupe 2-Door,3.0L,,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,CL,Base Coupe 2-Door,3.0L,,3.0L 2997CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,EL,Base Sedan 4-Door,1.6L,,1.6L 1590CC 97Cu. In. l4 GAS Naturally Aspirated
+1997,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,Type R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1997,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1997,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1997,Acura,NSX,Base Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1997,Acura,NSX,T Coupe 2-Door,3.2L,,3.2L 3179CC V6 GAS DOHC Naturally Aspirated
+1997,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,SLX,Premium Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,SLX,Base Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,TL,Base Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1997,Acura,TL,Premium Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1997,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1997,Acura,TL,Premium Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,Integra,Special Edition Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,Integra,Special Edition Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1996,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1996,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1996,Acura,RL,Premium Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,RL,Base Sedan 4-Door,3.5L,,3.5L 3475CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,SLX,Premium Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,SLX,Base Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,TL,Premium Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1996,Acura,TL,Base Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1996,Acura,TL,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1996,Acura,TL,Premium Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,Special Edition Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,Special Edition Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1995,Acura,Legend,SE Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Legend,GS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Legend,LS Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Legend,L Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Legend,L Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,Legend,LS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1995,Acura,NSX,T Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1995,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1995,Acura,TL,Base Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1995,Acura,TL,Premium Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1994,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Integra,GS-R Sedan 4-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Integra,GS-R Hatchback 2-Door,1.8L,,1.8L 1797CC l4 GAS DOHC Naturally Aspirated
+1994,Acura,Legend,GS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1994,Acura,Legend,L Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1994,Acura,Legend,L Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1994,Acura,Legend,LS Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1994,Acura,Legend,LS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1994,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1994,Acura,Vigor,GS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1994,Acura,Vigor,LS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1993,Acura,Integra,GS-R Hatchback 2-Door,1.7L,,1.7L 1678CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1993,Acura,Legend,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1993,Acura,Legend,LS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1993,Acura,Legend,L Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1993,Acura,Legend,LS Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1993,Acura,Legend,L Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1993,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1993,Acura,Vigor,LS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1993,Acura,Vigor,GS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1992,Acura,Integra,GS-R Hatchback 2-Door,1.7L,,1.7L 1678CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1992,Acura,Legend,LS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1992,Acura,Legend,L Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1992,Acura,Legend,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1992,Acura,Legend,LS Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1992,Acura,Legend,L Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1992,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1992,Acura,Vigor,GS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1992,Acura,Vigor,LS Sedan 4-Door,2.5L,,2.5L 2451CC l5 GAS SOHC Naturally Aspirated
+1991,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1991,Acura,Legend,Base Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1991,Acura,Legend,L Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1991,Acura,Legend,LS Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1991,Acura,Legend,LS Sedan 4-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1991,Acura,Legend,L Coupe 2-Door,3.2L,,3.2L 3206CC V6 GAS SOHC Naturally Aspirated
+1991,Acura,NSX,Base Coupe 2-Door,3.0L,,3.0L 2977CC V6 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,GS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,RS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,LS Sedan 4-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,GS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,RS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Integra,LS Hatchback 2-Door,1.8L,,1.8L 1834CC l4 GAS DOHC Naturally Aspirated
+1990,Acura,Legend,LS Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1990,Acura,Legend,Base Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1990,Acura,Legend,L Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1990,Acura,Legend,L Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1990,Acura,Legend,LS Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1990,Acura,Legend,Base Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Integra,LS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1989,Acura,Integra,RS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1989,Acura,Integra,LS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1989,Acura,Integra,RS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1989,Acura,Legend,L Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Legend,Base Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Legend,L Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Legend,Base Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Legend,LS Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1989,Acura,Legend,LS Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Integra,LS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1988,Acura,Integra,RS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1988,Acura,Integra,LS Special Edition Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1988,Acura,Integra,LS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1988,Acura,Integra,RS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1988,Acura,Legend,L Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Legend,L Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Legend,Base Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Legend,LS Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Legend,Base Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1988,Acura,Legend,LS Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Integra,LS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1987,Acura,Integra,LS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1987,Acura,Integra,LS Special Edition Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1987,Acura,Integra,RS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1987,Acura,Integra,RS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1987,Acura,Legend,Base Sedan 4-Door,2.5L,,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,L Sedan 4-Door,2.5L,,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,L Coupe 2-Door,2.5L,,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,Base Coupe 2-Door,2.5L,,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,Base Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,LS Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,L Coupe 2-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,L Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,LS Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1987,Acura,Legend,Base Sedan 4-Door,2.7L,,2.7L 2675CC V6 GAS SOHC Naturally Aspirated
+1986,Acura,Integra,LS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1986,Acura,Integra,RS Hatchback 2-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1986,Acura,Integra,RS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1986,Acura,Integra,LS Hatchback 4-Door,1.6L,,1.6L 1590CC l4 GAS DOHC Naturally Aspirated
+1986,Acura,Legend,Base Sedan 4-Door,2.5L,,2.5L 2494CC V6 GAS SOHC Naturally Aspirated
