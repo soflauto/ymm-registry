@@ -1,1064 +1,408 @@
 year,make,model,trim,engine,epid,ebay_engine
-1985,Isuzu,I-Mark,Base Coupe 2-Door,1.8L,83284492,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.5L,83298225,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,Base Coupe 2-Door,1.5L,83319349,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.8L,218593418,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83283872,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114861332,2.0L 1994CC l4 GAS SOHC Turbocharged
-1985,Isuzu,LT,Base Stripped Chassis - Cab Forward,5.8L,223048208,5.8L 353Cu. In. l6 DIESEL Naturally Aspirated
-1985,Isuzu,MR,Base,5.8L,222120643,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1985,Isuzu,MR,Base Stripped Chassis - Cab Forward,5.8L,222955660,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,83248374,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,1.9L,83296916,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,83300471,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,83307541,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83325670,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,2.2L,83330590,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Trooper,Base Sport Utility 2-Door,1.9L,83313456,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,83278295,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,83364157,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83321946,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114826934,2.0L 1994CC l4 GAS SOHC Turbocharged
-1986,Isuzu,LT,Base Stripped Chassis - Cab Forward,5.8L,222827851,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1986,Isuzu,NPR,Base,3.9L,222827151,3.9L 236Cu. In. l4 DIESEL Naturally Aspirated
-1986,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222949505,3.9L 236Cu. In. l4 DIESEL Naturally Aspirated
-1986,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222955830,3.9L 236Cu. In. l4 DIESEL Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,83298126,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,83286562,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83259024,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,153413501,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,83274255,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,83277645,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,83285101,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.3L,83285415,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,153459932,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,83297072,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83303661,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,83310283,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,83325993,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,83355618,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,83364447,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,83271274,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.3L,83328109,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,83353498,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,83356997,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.2L,208423501,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,208490872,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,208537143,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,208580558,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,EVR,Base,8.4L,222958336,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1987,Isuzu,FSR,Base,6.5L,221990436,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1987,Isuzu,FSR,Base Straight Truck - Low Tilt,5.8L,222970057,5.8L 353Cu. In. l6 DIESEL Naturally Aspirated
-1987,Isuzu,FSR,Base,5.8L,223048408,5.8L 353Cu. In. l6 DIESEL Naturally Aspirated
-1987,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,223061123,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1987,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83264184,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,83303965,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83317541,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,83349390,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83318699,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114872216,2.0L 1994CC l4 GAS SOHC Turbocharged
-1987,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222949275,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1987,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222958059,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1987,Isuzu,NPR,Base,3.9L,222958406,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,83264164,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,83265904,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,83291665,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,83303019,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83326608,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83304112,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,83341353,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,153466716,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,83351377,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,1.9L,153458065,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.2L,153462889,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,153472682,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.3L,153466156,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,153500137,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,153522993,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,83309909,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,83329938,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.3L,83332943,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,153510143,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.2L,208497024,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,208500769,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,208533990,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,208581958,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1988,Isuzu,EVR,Base,8.4L,222950865,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FSR,Base,6.5L,222008399,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1988,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,222959329,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1988,Isuzu,FSR,Base Straight Truck - Low Tilt,5.8L,19045489559,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FSR,Base,5.8L,28045487166,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FTR,Base Straight Truck - Low Tilt,5.8L,8045490903,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FTR,Base,5.8L,22045485056,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FVR,Base,8.4L,222084638,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,FVR,Base Straight Truck - Low Tilt,8.4L,222827011,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1988,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83240494,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,83283611,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83288802,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,83340947,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,83258014,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114905430,2.0L 1994CC l4 GAS SOHC Turbocharged
-1988,Isuzu,NPR,Base,3.9L,222950075,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1988,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222951305,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1988,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,223048188,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1988,Isuzu,NRR,Base,6.5L,221990966,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1988,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222969787,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83274054,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83286601,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83289316,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83305286,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,220219054,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,220233749,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,83250754,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,XS Sport Utility 2-Door,2.6L,83264944,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,83279385,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83289402,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,S Sport Utility 2-Door,2.6L,83332530,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83252894,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,83271884,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83292635,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,153455254,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,EVR,Base,8.4L,222957080,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FSR,Base,6.5L,222003400,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1989,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,222970747,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1989,Isuzu,FSR,Base,5.8L,22045485171,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FSR,Base Straight Truck - Low Tilt,5.8L,27045477605,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FTR,Base,5.8L,2316532827,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FTR,Base Straight Truck - Low Tilt,5.8L,23045496383,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base,8.4L,221991156,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base,6.5L,222825461,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base Tractor Truck - Low Tilt,6.5L,222956430,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base Straight Truck - Low Tilt,6.5L,222958206,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base Straight Truck - Low Tilt,8.4L,222958600,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,FVR,Base Tractor Truck - Low Tilt,8.4L,223062173,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1989,Isuzu,I-Mark,RS Sedan 4-Door,1.6L,83302325,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1989,Isuzu,I-Mark,RS Hatchback 2-Door,1.6L,83303059,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1989,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,83319679,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83321666,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,LS Sedan 4-Door,1.5L,83325636,1.5L 1471CC l4 GAS SOHC Turbocharged
-1989,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,83337078,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83364467,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,83314176,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114864375,2.0L 1994CC l4 GAS SOHC Turbocharged
-1989,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222910822,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1989,Isuzu,NPR,Base,3.9L,222958680,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1989,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,223062393,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1989,Isuzu,NRR,Base,6.5L,222117643,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1989,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222911002,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83251264,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.3L,83254404,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,83266794,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83281715,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,83291261,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83294606,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83294665,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83298739,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.3L,83301869,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83316109,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,83320056,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83333090,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83345088,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,73952292,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73978803,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,83298296,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83302569,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,83307396,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,83346888,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,220229775,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,220235719,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83308375,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83320759,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83321996,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,153455395,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,EVR,Base,8.4L,222004795,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,EVR,Base Straight Truck - Low Tilt,8.4L,222908902,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FSR,Base,6.5L,222002545,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,222969537,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FSR,Base Straight Truck - Low Tilt,5.8L,3045492941,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FSR,Base,5.8L,5045493640,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FTR,Base,6.5L,222021017,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FTR,Base Straight Truck - Low Tilt,6.5L,223048008,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FTR,Base,5.8L,18045487833,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FTR,Base Straight Truck - Low Tilt,5.8L,19045489604,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FVR,Base,8.4L,222021887,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,FVR,Base,6.5L,222117843,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1990,Isuzu,Impulse,XS Coupe 2-Door,1.6L,83289336,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1990,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222958740,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1990,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222959379,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1990,Isuzu,NPR,Base,3.9L,222970067,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1990,Isuzu,NRR,Base,6.5L,222081908,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1990,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222958286,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1990,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,83241534,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,83297662,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,83301475,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83310103,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83311735,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83313556,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83314781,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83326249,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83357290,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,153429191,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,153528298,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,73949871,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,73960106,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73960226,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,83324288,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83324903,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,220166551,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,220228535,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,220275530,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83240394,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,83295922,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83301935,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83323158,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,EVR,Base,8.4L,221997934,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,EVR,Base Straight Truck - Low Tilt,8.4L,222972497,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FSR,Base,6.5L,221991056,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,222956126,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FSR,Base Straight Truck - Low Tilt,5.8L,2316532894,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FSR,Base,5.8L,4045480663,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FTR,Base,6.5L,222083048,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FTR,Base Straight Truck - Low Tilt,6.5L,223061953,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FTR,Base,5.8L,21045488436,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FTR,Base Straight Truck - Low Tilt,5.8L,28045487174,5.8L 353Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,FVR,Base,6.5L,221955152,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1991,Isuzu,Impulse,XS Hatchback 2-Door,1.6L,83310689,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,Impulse,RS Hatchback 2-Door,1.6L,83332608,1.6L 1588CC l4 GAS DOHC Turbocharged
-1991,Isuzu,Impulse,RS Coupe 2-Door,1.6L,83335879,1.6L 1588CC l4 GAS DOHC Turbocharged
-1991,Isuzu,Impulse,XS Coupe 2-Door,1.6L,83340300,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222957799,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1991,Isuzu,NPR,Base,3.9L,222958899,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1991,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222959109,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1991,Isuzu,NRR,Base,6.5L,222023557,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1991,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222909032,6.5L 396Cu. In. l6 DIESEL Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,3.1L,73952112,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,3.1L,73959886,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73985218,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,74006687,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83262584,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83264924,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83292751,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83317399,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83320526,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83332520,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83363537,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.3L,153473715,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,220233089,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,220401903,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,73958005,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,73960536,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,74077977,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83280371,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83343640,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,220275800,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Stylus,XS Sedan 4-Door,1.6L,83284272,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,Stylus,S Sedan 4-Door,1.6L,83324900,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.8L,73950361,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73952152,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,73958675,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,74007067,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83302015,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,220164791,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,220309178,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.6L,220400103,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83269674,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83288265,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,153490437,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,220227496,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,EVR,Base,8.4L,222950264,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,FSR,Base,6.5L,221955192,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,222949595,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,FTR,Base,6.5L,222001850,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,FTR,Base Straight Truck - Low Tilt,6.5L,222949385,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,FVR,Base,6.5L,222085788,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,Impulse,RS Coupe 2-Door,1.6L,83273702,1.6L 1588CC l4 GAS DOHC Turbocharged
-1992,Isuzu,Impulse,XS Coupe 2-Door,1.8L,83333483,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,Impulse,XS Hatchback 2-Door,1.8L,83350477,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,NPR,Base,3.9L,221956062,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1992,Isuzu,NPR,Base,5.7L,222005350,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1992,Isuzu,NPR,Base Stripped Chassis - Incomplete,5.7L,222958386,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1992,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222958710,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1992,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222969517,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1992,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,223062123,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1992,Isuzu,NRR,Base,6.5L,222002555,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,223046778,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73957845,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,74007097,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83273612,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83279375,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83302005,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83309739,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83320966,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83340068,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,73952582,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,74024630,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,74061610,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83274694,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83340613,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,153451064,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Stylus,RS Sedan 4-Door,1.8L,83306642,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,Stylus,S Sedan 4-Door,1.6L,83343383,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73985388,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1992,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73990920,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83279055,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83285482,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,83359110,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,220172351,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,EVR,Base,8.4L,222951145,8.4L 513Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,FSR,Base,6.5L,221956882,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,223061973,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,FTR,Base,6.5L,222020787,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,FTR,Base Straight Truck - Low Tilt,6.5L,222951684,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,NPR,Base,5.7L,221956122,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1993,Isuzu,NPR,Base,3.9L,222119693,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1993,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222955520,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1993,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222959209,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1993,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222968337,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1993,Isuzu,NPR,Base Stripped Chassis - Incomplete,5.7L,223061253,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1993,Isuzu,NRR,Base,6.5L,222120303,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222826811,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73923014,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,73949811,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83267734,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83289955,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83298286,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83343317,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73923514,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,74020941,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83247624,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83310385,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Stylus,S Sedan 4-Door,1.6L,83284411,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73950541,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73958085,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1993,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73990660,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1994,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83305289,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83306441,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,FSR,Base,6.5L,222117833,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,FSR,Base Straight Truck - Low Tilt,6.5L,223045928,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,FTR,Base,6.5L,222083168,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,FTR,Base Straight Truck - Low Tilt,6.5L,222825991,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,FVR,Base,6.5L,222004239,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,NPR,Base,3.9L,221886361,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1994,Isuzu,NPR,Base,5.7L,222083598,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1994,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222827401,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1994,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222908332,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1994,Isuzu,NPR,Base Stripped Chassis - Incomplete,5.7L,222950225,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1994,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,223046508,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1994,Isuzu,NQR,Base,3.9L,222968287,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1994,Isuzu,NRR,Base,6.5L,221883421,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,NRR,Base Straight Truck - Low Tilt,6.5L,222956950,6.5L 396Cu. In. l6 DIESEL Turbocharged
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,73923474,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73957855,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83257104,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83290071,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83307282,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83310471,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73950281,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73952512,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83275864,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83276055,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73952382,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1994,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73958075,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Trooper,RS Sport Utility 4-Door,3.2L,73973559,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1994,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,74007227,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1995,Isuzu,FRR,Base,7.1L,222005369,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FRR,Base Straight Truck - Low Tilt,7.1L,223060933,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FSR,Base,7.1L,221885821,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FSR,Base Straight Truck - Low Tilt,7.1L,223048538,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FTR,Base,7.1L,222004609,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FTR,Base Straight Truck - Low Tilt,7.1L,222972527,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,FVR,Base,7.1L,221994006,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1995,Isuzu,NPR,Base,3.9L,221991556,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1995,Isuzu,NPR,Base,5.7L,222001300,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1995,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.9L,222908642,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1995,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222910672,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1995,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222955236,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1995,Isuzu,NPR,Base Stripped Chassis - Incomplete,5.7L,222958239,5.7L 5733CC 350Cu. In. V8 GAS Naturally Aspirated
-1995,Isuzu,NQR,Base,3.9L,222955890,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83282342,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,153459434,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73950001,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73958175,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83270384,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83283851,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73985428,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73990760,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1995,Isuzu,Trooper,Limited Sport Utility 4-Door,3.2L,83580918,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1995,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,93684671,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,FRR,Base,7.1L,222020327,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FRR,Base Straight Truck - Low Tilt,7.1L,223060943,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FSR,Base,7.1L,221997994,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FSR,Base Straight Truck - Low Tilt,7.1L,222955036,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FTR,Base,7.1L,222119713,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FTR,Base Straight Truck - Low Tilt,7.1L,222828001,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,FVR,Base,7.1L,222007219,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1996,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,18037926026,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,26037930024,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Isuzu,NPR,Base,3.9L,222020737,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1996,Isuzu,NPR,Base,5.7L,222022247,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222956370,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1996,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,223048328,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1996,Isuzu,NQR,Base,3.9L,223060633,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1996,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,14043977924,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,20043983130,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73973269,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73978523,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83296901,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83321973,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73960456,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,SE Sport Utility 4-Door,3.2L,74063203,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,74075170,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,FRR,Base,7.1L,222019397,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FRR,Base Straight Truck - Low Tilt,7.1L,222907372,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FSR,Base,7.1L,222019557,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FSR,Base Straight Truck - Low Tilt,7.1L,222907192,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FTR,Base,7.1L,221995684,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FTR,Base Straight Truck - Low Tilt,7.1L,222955000,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FVR,Base,7.1L,221884411,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,FVR,Base Straight Truck - Low Tilt,7.1L,223048228,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,73949801,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,74075060,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,153511963,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,13037924103,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,14037920329,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,17037922546,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,NPR,Base,3.9L,221991976,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1997,Isuzu,NPR,Base,5.7L,222021977,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222954524,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1997,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222956060,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1997,Isuzu,NQR,Base,3.9L,222826881,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1997,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,16043975441,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,27043974388,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73952702,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73991240,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83275035,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83291551,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73923314,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73973759,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,Ltd Sport Utility 4-Door,3.2L,73991130,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1998,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,73993844,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,14038311502,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1998,Isuzu,FRR,Base,7.1L,222007659,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FRR,Base Straight Truck - Low Tilt,7.1L,222970087,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FSR,Base,7.8L,221992156,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FSR,Base,7.1L,222081878,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FSR,Base Straight Truck - Low Tilt,7.1L,222955980,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FSR,Base Straight Truck - Low Tilt,7.8L,223046768,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FTR,Base,7.8L,221996644,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FTR,Base,7.1L,222117783,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FTR,Base Straight Truck - Low Tilt,7.1L,222949705,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222956500,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FVR,Base,7.8L,221885631,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FVR,Base,7.1L,221998534,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FVR,Base Straight Truck - Low Tilt,7.1L,222909092,7.1L 435Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222956190,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,73957945,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,4.3L,73978223,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,73990620,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,109966278,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,3037927743,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,4037918581,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,2.2L,9037918088,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,12037908886,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,NPR,Base,4.8L,221992016,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,NPR,Base,5.7L,221995954,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Isuzu,NPR,Base,3.9L,222952235,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,NPR,Base Straight Truck - Low Tilt,3.9L,222952295,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222958476,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1998,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222958760,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,NQR,Base,4.8L,222950394,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,NQR,Base,3.9L,222955306,3.9L 236Cu. In. l4 DIESEL Turbocharged
-1998,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,83248644,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,83325709,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,7043981845,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,23043990701,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,25038305709,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1998,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73985438,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,6038322775,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,13043980187,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,FSR,Base,7.8L,222083458,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,FSR,Base Straight Truck - Low Tilt,7.8L,223060453,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,FTR,Base,7.8L,221883061,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,223044468,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,FVR,Base,7.8L,221882731,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,223048458,7.8L 475Cu. In. l6 DIESEL Turbocharged
-1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,73985458,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,73985468,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,109915969,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,5037932260,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,6037931403,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,9037918058,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,NPR,Base,5.7L,222004160,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Isuzu,NPR,Base,4.8L,222005089,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222908142,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222956266,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Isuzu,NPR-HD,Base,5.7L,221992416,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Isuzu,NPR-HD,Base,4.8L,222005769,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.7L,222968857,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-1999,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,223044648,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,NQR,Base,4.8L,222020057,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222970047,4.8L 290Cu. In. l4 DIESEL Turbocharged
-1999,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,83290712,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
-1999,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,83315521,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,2315024622,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,8038317065,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,11043969889,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,13043981455,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,15038315196,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73952402,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73923334,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,11038309696,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,13043978489,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,FRR,Base,7.8L,222005505,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FRR,Base Straight Truck - Low Tilt,7.8L,222826551,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FSR,Base,7.8L,221955832,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FSR,Base Straight Truck - Low Tilt,7.8L,223062033,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FTR,Base,7.8L,222002380,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222957949,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FVR,Base,7.8L,222022907,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222961859,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,4.3L,73952282,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,73959896,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,73990520,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,74030866,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,4037918678,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,12037908800,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,17037922221,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,2.2L,18037926130,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,NPR,Base,4.8L,221885101,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,NPR,Base,5.7L,222020547,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222958609,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,223048498,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Isuzu,NPR-HD,Base,4.8L,222023267,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,NPR-HD,Base,5.7L,222118263,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.7L,222907392,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2000,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,222909132,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,NQR,Base,4.8L,221955002,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222956186,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,3043984907,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,8038317150,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,10043983555,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,13043978614,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,22038315878,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,73923174,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,73985328,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73991290,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73960486,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,FRR,Base,7.8L,222006949,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FRR,Base Straight Truck - Low Tilt,7.8L,222954246,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FSR,Base,7.8L,222083698,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FSR,Base Straight Truck - Low Tilt,7.8L,222956030,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FTR,Base,7.8L,222007729,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222908842,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FVR,Base,7.8L,221957712,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222968787,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2001,Isuzu,NPR,Base,4.8L,221994486,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,NPR,Base,5.7L,222002755,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222954820,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,223046408,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,NPR-HD,Base,5.7L,222004020,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Isuzu,NPR-HD,Base,4.8L,222004889,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,222959459,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.7L,223045768,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2001,Isuzu,NQR,Base,4.8L,222002535,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222970447,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2001,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,73949911,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73957915,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,73985418,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,83321956,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83320729,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109971608,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,73960416,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,73973459,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73978563,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73952172,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,73923274,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,73952012,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,FRR,Base,7.8L,221885731,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FRR,Base Straight Truck - Low Tilt,7.8L,222826311,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FSR,Base,7.8L,222084658,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FSR,Base Straight Truck - Low Tilt,7.8L,222950714,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FTR,Base,7.8L,221883521,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222955596,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FVR,Base,7.8L,222083078,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222954214,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2002,Isuzu,NPR,Base,4.8L,221996094,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NPR,Base,5.7L,222118823,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222951235,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222957899,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Isuzu,NPR-HD,Base,4.8L,221957842,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NPR-HD,Base,5.7L,222005005,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,4.8L,222908792,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.7L,222950534,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,222958256,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.7L,222959689,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2002,Isuzu,NQR,Base,4.8L,222082798,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222825791,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,NQR,Base Straight Truck - Low Crew Cab,4.8L,223045168,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2002,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,73973449,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,83279045,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,109908115,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,109966467,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83339288,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109949430,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73949941,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,73985638,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,73985808,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,83295671,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,83304846,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,83349168,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218507876,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218509876,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Ascender,Base Sport Utility 4-Door,5.3L,218516105,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,73972879,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,73985308,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,FRR,Base,7.8L,222021127,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2003,Isuzu,FRR,Base Straight Truck - Low Tilt,7.8L,222825491,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2003,Isuzu,FTR,Base,7.8L,222002035,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2003,Isuzu,FVR,Base,7.8L,222001945,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2003,Isuzu,NPR,Base,4.8L,221884851,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NPR,Base,6.0L,222002200,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR,Base Straight Truck - Low Tilt,5.7L,222907292,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR,Base Straight Truck - Low Tilt,6.0L,222951245,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR,Base,5.7L,222958859,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222959969,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NPR-HD,Base,4.8L,221954482,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NPR-HD,Base,6.0L,221993986,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222951134,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR-HD,Base,5.7L,222952684,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222953465,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.7L,222958920,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,4.8L,222961719,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,222968517,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.7L,223064153,5.7L 350Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,NQR,Base,4.8L,222023397,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NQR,Base Straight Truck - Low Crew Cab,4.8L,222829391,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222957769,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2003,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73952312,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,73990860,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LS Sport Utility 4-Door,2.2L,83290086,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,83334873,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,83364907,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,109872504,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83349290,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109905955,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,83300322,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,83336880,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218502904,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218506526,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,220253167,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,74052099,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Axiom,S Sport Utility 4-Door,3.5L,74069360,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,FRR,Base,7.8L,222003615,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FRR,Base Straight Truck - Low Tilt,7.8L,222954564,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FTR,Base,7.8L,221995514,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222950744,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FVR,Base,7.8L,222081978,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222908702,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,FXR,Base Straight Truck - Low Tilt,7.8L,221210707,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,NPR,Base,6.0L,221994336,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,NPR,Base,4.8L,222006639,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NPR,Base Straight Truck - Low Tilt,6.0L,222826351,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,NPR,Base Straight Truck - Low Tilt,4.8L,222950105,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NPR-HD,Base,6.0L,221884841,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,NPR-HD,Base,4.8L,221992886,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222829401,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222954146,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,4.8L,222957150,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,4.8L,222970757,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NQR,Base,4.8L,222019857,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NQR,Base Straight Truck - Low Crew Cab,4.8L,222908032,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,NQR,Base Straight Truck - Low Tilt,4.8L,222958056,4.8L 290Cu. In. l4 DIESEL Turbocharged
-2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,74038766,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.5L,74069640,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,83279981,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,83285402,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,S Sport Utility 4-Door,5.3L,218458651,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218506716,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218519742,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,FTR,Base,7.8L,222001730,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222909202,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,FVR,Base,7.8L,221956392,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222958486,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,FXR,Base Straight Truck - Low Tilt,7.8L,221181634,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,HTR,Base,7.8L,222004945,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,HTR,Base Straight Truck - Medium Conventional,7.8L,222951944,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,HVR,Base,7.8L,222022557,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,HVR,Base Straight Truck - Medium Conventional,7.8L,222951234,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,NPR,Base,5.2L,221886131,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NPR,Base,6.0L,221992076,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,NPR,Base Straight Truck - Low Crew Cab,6.0L,222911172,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,NPR,Base Straight Truck - Low Crew Cab,5.2L,222951265,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NPR,Base Straight Truck - Low Tilt,6.0L,222952464,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,NPR,Base Straight Truck - Low Tilt,5.2L,223061143,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NPR-HD,Base,6.0L,222004290,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,NPR-HD,Base,5.2L,222023447,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222952165,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222955300,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,NQR,Base,5.2L,222004799,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222826851,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,223045948,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2005,Isuzu,NRR,Base,5.2L,222008229,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,74005954,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,83332937,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2006,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,83341777,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2006,Isuzu,FTR,Base,7.8L,221884861,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222955976,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,FVR,Base,7.8L,221957362,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222954996,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,FXR,Base Straight Truck - Low Tilt,7.8L,221182994,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HTR,Base,7.8L,221955982,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HTR,Base Straight Truck - Medium Conventional,7.8L,223044898,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HVR,Base,7.8L,221882331,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HVR,Base Straight Truck - Medium Conventional,7.8L,222908132,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HXR,Base Straight Truck - Low Tilt,7.8L,222960549,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,i-280,Base Extended Cab Pickup 2-Door,2.8L,83282715,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Isuzu,i-350,Base Crew Cab Pickup 4-Door,3.5L,83317286,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
-2006,Isuzu,NPR,Base,6.0L,222003900,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,NPR,Base,5.2L,222117133,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NPR,Base Straight Truck - Low Tilt,6.0L,222825271,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,NPR,Base Straight Truck - Low Tilt,5.2L,222954344,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NPR-HD,Base,6.0L,221882521,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,NPR-HD,Base,5.2L,222005110,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222907532,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222910772,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,NQR,Base,5.2L,222004439,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,223045698,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,223048058,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2006,Isuzu,NRR,Base,5.2L,221956502,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,83330443,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2007,Isuzu,FTR,Base,7.8L,222084198,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222911122,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,FVR,Base,7.8L,222003990,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222955176,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,FXR,Base Straight Truck - Low Tilt,7.8L,221197820,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,FXR,Base,7.8L,221209737,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HTR,Base,7.8L,222120063,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HTR,Base Straight Truck - Medium Conventional,7.8L,223048348,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HTR,Base Straight Truck - Crew Cab 4-Door,7.8L,26062750557,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HVR,Base,7.8L,222008239,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HVR,Base Straight Truck - Medium Conventional,7.8L,222908712,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HVR,Base Straight Truck - Crew Cab 4-Door,7.8L,13062734829,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,i-290,LS Extended Cab Pickup 4-Door,2.9L,83296801,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,83325528,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,109971138,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-370,LS Extended Cab Pickup 2-Door,3.7L,153473496,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2007,Isuzu,NPR,Base,6.0L,221957132,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Isuzu,NPR,Base,5.2L,222083818,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NPR,Base Cab & Chassis - Low Tilt,5.2L,222954860,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,222969277,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Isuzu,NPR-HD,Base,6.0L,221886471,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Isuzu,NPR-HD,Base,5.2L,222020827,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222911092,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222959369,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2007,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222970907,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,223062493,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NQR,Base,5.2L,222085468,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222952744,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222970387,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NRR,Base,5.2L,221956302,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2007,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,223045708,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,83305686,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2008,Isuzu,FTR,Base,7.8L,222021477,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,FTR,Base Straight Truck - Low Tilt,7.8L,222951964,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,FVR,Base,7.8L,221882581,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222954960,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,FXR,Base,7.8L,221197889,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,FXR,Base Straight Truck - Low Tilt,7.8L,221210187,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,HTR,Base,7.8L,221994096,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,HVR,Base,7.8L,221992896,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,83310693,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,83351777,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2008,Isuzu,i-370,LS Extended Cab Pickup 4-Door,3.7L,109919539,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2008,Isuzu,NPR,Base,6.0L,221999224,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NPR,Base,5.2L,222003295,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR,Base Cab & Chassis - Low Tilt,5.2L,222907102,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,222908322,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,5.2L,222958930,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,223064053,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NPR-HD,Base,6.0L,221882671,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NPR-HD,Base,5.2L,221997904,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222907522,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222950434,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222951974,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222972517,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2008,Isuzu,NQR,Base,5.2L,221883761,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222908972,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222955110,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NRR,Base,5.2L,221995714,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222951615,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,FTR,Base,7.8L,221991566,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2009,Isuzu,FVR,Base,7.8L,221955422,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2009,Isuzu,FVR,Base Straight Truck - Low Tilt,7.8L,222826011,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2009,Isuzu,FXR,Base,7.8L,222950884,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2009,Isuzu,NPR,Base,6.0L,221955752,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,5.2L,222908022,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR,Base Cab & Chassis - Low Tilt,5.2L,222968757,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR,Base,5.2L,222969647,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,222972437,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,223062723,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NPR-HD,Base,5.2L,222082658,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222908102,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222950524,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222951694,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NPR-HD,Base,6.0L,222953365,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,223046178,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2009,Isuzu,NQR,Base,5.2L,221955112,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222909532,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,223044358,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NRR,Base,5.2L,222004710,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2009,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222955946,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,FTR,Base,7.8L,222004825,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2010,Isuzu,FVR,Base,7.8L,222002135,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2010,Isuzu,FXR,Base,7.8L,222829141,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2010,Isuzu,NPR,Base,6.0L,221990866,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2010,Isuzu,NPR-HD,Base,5.2L,221996694,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222954634,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222970407,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NQR,Base,5.2L,222119003,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222958410,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222958470,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NRR,Base,5.2L,221994616,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2010,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222911052,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,FTR,Base,7.8L,222116443,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2011,Isuzu,FVR,Base,7.8L,222085238,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2011,Isuzu,FXR,Base,7.8L,222950344,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2011,Isuzu,NPR,Base,6.0L,221955902,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2011,Isuzu,NPR,Base Straight Truck - Low Tilt,6.0L,222826831,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2011,Isuzu,NPR,Base Straight Truck - Low Tilt,3.0L,222956746,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NPR,Base,3.0L,222958389,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NPR-HD,Base,5.2L,222118283,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222958039,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222958569,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NQR,Base,5.2L,222005979,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222951314,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222955476,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NRR,Base,5.2L,222005559,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,223046638,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,Reach,Base,3.0L,225569888,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR,Base,6.0L,222005229,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,222826061,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,222826471,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,222910862,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,222954876,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,222956346,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,222971207,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR,Base,3.0L,223046168,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR-HD,Base,5.2L,221991236,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR-HD,Base,6.0L,222908452,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222951255,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222951625,6.0L 5967CC 364Cu. In. V8 CNG OHV Naturally Aspirated
-2012,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222952185,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2012,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222955346,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NQR,Base,5.2L,222022937,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222911022,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,223046118,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NRR,Base,5.2L,221999364,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222828081,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,Reach,Base,3.0L,225424402,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,222908782,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,222949535,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,222949885,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2013,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,222949995,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2013,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,222954106,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2013,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,223061313,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR-HD,Base,5.2L,221993156,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222825731,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222907502,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222951355,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2013,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222958589,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2013,Isuzu,NPR-HD,Base,6.0L,222958880,6.0L 5967CC 364Cu. In. V8 CNG OHV Naturally Aspirated
-2013,Isuzu,NQR,Base,5.2L,222119063,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222907422,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222970217,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NRR,Base,5.2L,221991736,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222958830,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,Reach,Base,3.0L,225335611,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,222825651,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2014,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,222907352,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,222951055,6.0L 5967CC 364Cu. In. V8 CNG OHV Naturally Aspirated
-2014,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,222951534,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,222953275,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,222956740,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2014,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222910762,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2014,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222954830,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222971107,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2014,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,223046868,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222960329,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,223060833,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,222955720,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,Reach,Base,3.0L,225475016,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,222825151,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,222950834,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2015,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,222951654,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,222955180,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2015,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,239092275,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2015,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,222959929,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222910572,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2015,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222951365,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2015,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,222952054,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222970587,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,242530011,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,242660284,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222950634,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222950855,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,223046158,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2015,Isuzu,Reach,Base,3.0L,225417802,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,239053540,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2016,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,239085669,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2016,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,238940411,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,239053940,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2016,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,239092805,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,239164218,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,222908912,6.0L 5967CC 364Cu. In. V8 CNG OHV Naturally Aspirated
-2016,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,222910882,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2016,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,222951285,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,223046038,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,242531301,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,242646640,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,222827391,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,222953924,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2016,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,223062623,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,238940961,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2017,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,239079716,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2017,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,239079956,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,239098337,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,242693267,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2017,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,242693667,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,239008692,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,239067334,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2017,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,239098657,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2017,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,239160683,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,242683125,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,242693517,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,239067514,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,239091895,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2017,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,239085649,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,FTR,Base Straight Truck - Low Tilt,5.2L,242646500,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR,Base Stripped Chassis - Incomplete,6.0L,251813267,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2018,Isuzu,NPR,Base Stripped Chassis - Incomplete,3.0L,251717712,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR,Base Cab & Chassis - Low Tilt,3.0L,251752870,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,3.0L,251792429,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab,6.0L,251812837,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2018,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,251876303,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2018,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,239085459,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,242679499,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,248019429,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2018,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,248045147,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2018,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,242661354,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,242673556,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,239163918,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,242682305,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2018,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,239067194,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,FTR,Base Straight Truck - Low Tilt,5.2L,252007319,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab 4-Door,6.0L,5064836532,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2019,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,26064835527,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,250349422,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,5.2L,250412214,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab,6.0L,252161565,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,252230778,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.0L,252235570,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,252257714,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-HD,Base Cab & Chassis - Low Crew Cab 4-Door,6.0L,3036083750,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Cab & Chassis - Low Tilt,6.0L,7036079569,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2019,Isuzu,NPR-HD,Base Cab & Chassis - Low Crew Cab 4-Door,5.2L,16036076568,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-HD,Base Cab & Chassis - Low Tilt,5.2L,18036080586,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,250348932,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,250445767,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NQR,Base Straight Truck - Low Crew Cab,5.2L,250280501,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,250389240,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NRR,Base Straight Truck - Low Crew Cab,5.2L,250436325,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2019,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,250501138,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,FTR,Base Straight Truck - Low Tilt,5.2L,253634859,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR,Base Cab & Chassis - Low Tilt,6.0L,15064830974,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR,Base Cab & Chassis - Low Crew Cab 4-Door,6.0L,17064830880,6.0L 5967CC 364Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,252271879,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,252291997,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.0L,3041975542,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.0L,6042001472,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Crew Cab 4-Door,6.0L,8041973599,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Crew Cab 4-Door,5.2L,9039230752,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Tilt,6.0L,16041964790,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Tilt,5.2L,15039235971,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,16051783860,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,16051783883,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Crew Cab 4-Door,6.6L,20051793547,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR-HD,Base Cab & Chassis - Low Tilt,6.6L,22051790729,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2020,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,13053881984,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,21053889982,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,252232770,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,252235060,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,252235100,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2020,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,26036084988,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,FTR,Base Straight Truck - Low Tilt,5.2L,4043410294,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,7041089779,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,12051782649,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2021,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,20051793494,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2021,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,24042665315,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,6053897430,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,21053890053,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,10041089075,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,18041990847,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,22041086991,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2021,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,28041969459,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,FTR,Base Straight Truck - Low Tilt,6.7L,8055211112,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2022,Isuzu,FVR,Base Straight Truck - Low Tilt,6.7L,11070708585,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2022,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,7053354492,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2022,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,10048306564,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,18053353484,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2022,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,24048298193,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,17053884409,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab,5.2L,20053886188,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,3048309211,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,3048309248,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NQR,Base Straight Truck - Low Tilt,6.0L,16049663974,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2022,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,6.0L,20049669456,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2022,Isuzu,NRR,Base Straight Truck - Low Tilt,6.0L,6048311412,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2022,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,6.0L,22048301885,6.0L 5967CC 364Cu. In. V8 BI-FUEL OHV Naturally Aspirated
-2022,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,24048298275,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2022,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,27048295105,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,FTR,Base Straight Truck - Low Tilt,6.7L,22058561541,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2023,Isuzu,FVR,Base Straight Truck - Low Tilt,6.7L,23070732554,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2023,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,16055714638,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,19055725939,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2023,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,20055723389,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2023,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,28055726251,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,18070728133,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,25070713471,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,6057234773,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,12056444330,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,14058554118,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2023,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,21055726985,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,FTR,Base Straight Truck - Low Tilt,6.7L,5060491747,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2024,Isuzu,FVR,Base Straight Truck - Low Tilt,6.7L,3070723967,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2024,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,12063297430,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,15060484335,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2024,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,16060154440,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2024,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,26063316624,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,22070721080,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,22070721125,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NQR,Base Straight Truck - Low Tilt,6.6L,8063603363,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2024,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,6.6L,11063594213,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2024,Isuzu,NQR,Base Straight Truck - Low Tilt,5.2L,17063606392,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,20063607159,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NRR,Base Straight Truck - Low Tilt,6.6L,7063614208,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2024,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,6.6L,13063597902,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2024,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,21063313173,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2024,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,24063302450,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,FTR,Base Straight Truck - Low Tilt,6.7L,15068292558,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2025,Isuzu,FVR,Base Straight Truck - Low Tilt,6.7L,13070718428,6.7L 408Cu. In. l6 DIESEL Turbocharged
-2025,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,6.6L,8071428927,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2025,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,6.6L,16071419363,6.6L 6571CC 401Cu. In. V8 GAS OHV Naturally Aspirated
-2025,Isuzu,NPR-HD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,22071427332,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NPR-HD,Base Straight Truck - Low Tilt,5.2L,28071438737,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NPR-XD,Base Straight Truck - Low Tilt,5.2L,3078735429,5.2L 5193CC 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NPR-XD,Base Straight Truck - Low Crew Cab 4-Door,5.2L,2349780509,5.2L 5193CC 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NQR,Base Straight Truck - Low Crew Cab 4-Door,6.6L,6068301540,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2025,Isuzu,NQR,Base Straight Truck - Low Tilt,6.6L,10075765628,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2025,Isuzu,NRR,Base Straight Truck - Low Tilt,--,2351401223,ELECTRIC
-2025,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,6.6L,9070719224,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2025,Isuzu,NRR,Base Straight Truck - Low Tilt,5.2L,22071427562,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,5.2L,22071427586,5.2L 317Cu. In. l4 DIESEL Turbocharged
-2025,Isuzu,NRR,Base Straight Truck - Low Tilt,6.6L,27068289121,6.6L 6571CC 401Cu. In. V8 FLEX OHV Naturally Aspirated
-2025,Isuzu,NRR,Base Straight Truck - Low Crew Cab 4-Door,--,28080365191,ELECTRIC
-2025,Isuzu,NRR EV,Base Straight Truck - Low Tilt,--,13078000186,ELECTRIC
+2015,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2014,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2013,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2012,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2011,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2008,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2008,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2008,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2008,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2008,Isuzu,i-370,LS Extended Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2007,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2007,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2007,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2007,Isuzu,i-290,LS Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2007,Isuzu,i-370,LS Extended Cab Pickup 2-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2006,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2006,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2006,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2006,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2006,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2006,Isuzu,i-280,Base Extended Cab Pickup 2-Door,2.8L,,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
+2006,Isuzu,i-350,Base Crew Cab Pickup 4-Door,3.5L,,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
+2005,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2005,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2005,Isuzu,Ascender,S Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2005,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
+2004,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Axiom,S Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Ascender,Base Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LS Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2000,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1999,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1999,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1998,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1998,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1998,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1998,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1998,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1997,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Trooper,Ltd Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1996,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1996,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1996,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Trooper,SE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1995,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1995,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Trooper,Limited Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1994,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1994,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Trooper,RS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1994,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1993,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1993,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1993,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1993,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1993,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Impulse,RS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
+1992,Isuzu,Impulse,XS Coupe 2-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Isuzu,Impulse,XS Hatchback 2-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Stylus,RS Sedan 4-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1992,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Impulse,XS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Impulse,RS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
+1991,Isuzu,Impulse,RS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
+1991,Isuzu,Impulse,XS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Stylus,XS Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Impulse,XS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1989,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,LS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Turbocharged
+1989,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,RS Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1989,Isuzu,I-Mark,RS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1989,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
+1989,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1988,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
+1988,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,Base Coupe 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,Base Coupe 2-Door,1.8L,,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.8L,,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
+1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1985,Isuzu,Trooper,Base Sport Utility 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
