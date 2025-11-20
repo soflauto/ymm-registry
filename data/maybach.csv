@@ -1,39 +1,39 @@
 year,make,model,trim,engine,epid,ebay_engine
-2003,Maybach,57,Base Sedan 4-Door,5.5L,74043270,5.5L 5499CC V12 GAS SOHC Turbocharged
-2003,Maybach,62,Base Sedan 4-Door,5.5L,74004532,5.5L 5499CC V12 GAS SOHC Turbocharged
-2004,Maybach,57,Base Sedan 4-Door,5.5L,74030352,5.5L 5499CC V12 GAS SOHC Turbocharged
-2004,Maybach,62,Base Sedan 4-Door,5.5L,74038356,5.5L 5499CC V12 GAS SOHC Turbocharged
-2005,Maybach,57,Base Sedan 4-Door,5.5L,74033342,5.5L 5499CC V12 GAS SOHC Turbocharged
-2005,Maybach,62,Base Sedan 4-Door,5.5L,74039255,5.5L 5499CC V12 GAS SOHC Turbocharged
-2006,Maybach,57,Base Sedan 4-Door,5.5L,74056029,5.5L 5499CC V12 GAS SOHC Turbocharged
-2006,Maybach,57,S Sedan 4-Door,6.0L,109964617,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2006,Maybach,62,Base Sedan 4-Door,5.5L,74073850,5.5L 5499CC V12 GAS SOHC Turbocharged
-2007,Maybach,57,Base Sedan 4-Door,5.5L,74075380,5.5L 5499CC V12 GAS SOHC Turbocharged
-2007,Maybach,57,S Sedan 4-Door,6.0L,109915895,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2007,Maybach,62,Base Sedan 4-Door,5.5L,74075300,5.5L 5499CC V12 GAS SOHC Turbocharged
-2007,Maybach,62,S Sedan 4-Door,6.0L,109869074,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2008,Maybach,57,Base Sedan 4-Door,5.5L,74054725,5.5L 5499CC V12 GAS SOHC Turbocharged
-2008,Maybach,57,S Sedan 4-Door,6.0L,109954463,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2008,Maybach,62,Base Sedan 4-Door,5.5L,74046671,5.5L 5499CC V12 GAS SOHC Turbocharged
-2008,Maybach,62,S Sedan 4-Door,6.0L,109909735,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2009,Maybach,57,Base Sedan 4-Door,5.5L,74021174,5.5L 5499CC V12 GAS SOHC Turbocharged
-2009,Maybach,57,S Sedan 4-Door,6.0L,109959683,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2009,Maybach,62,Base Sedan 4-Door,5.5L,74089010,5.5L 5499CC V12 GAS SOHC Turbocharged
-2009,Maybach,62,S Sedan 4-Door,6.0L,109971288,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2010,Maybach,57,Base Sedan 4-Door,5.5L,83530845,5.5L 5499CC V12 GAS SOHC Turbocharged
-2010,Maybach,57,S Zeppelin Sedan 4-Door,6.0L,109905751,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2010,Maybach,57,S Sedan 4-Door,6.0L,109915502,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2010,Maybach,62,Base Sedan 4-Door,5.5L,83564453,5.5L 5499CC V12 GAS SOHC Turbocharged
-2010,Maybach,62,S Landaulet Sedan 4-Door,6.0L,109910539,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2010,Maybach,62,S Sedan 4-Door,6.0L,109930516,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2010,Maybach,62,S Zeppelin Sedan 4-Door,6.0L,109970387,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2011,Maybach,57,S Sedan 4-Door,6.0L,114887987,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2011,Maybach,57,Base Sedan 4-Door,5.5L,114905640,5.5L 5499CC V12 GAS SOHC Turbocharged
-2011,Maybach,62,S Landaulet Sedan 4-Door,6.0L,114870009,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2011,Maybach,62,S Sedan 4-Door,6.0L,114934818,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2011,Maybach,62,Base Sedan 4-Door,5.5L,114936818,5.5L 5499CC V12 GAS SOHC Turbocharged
-2012,Maybach,57,Base Sedan 4-Door,5.5L,114905510,5.5L 5499CC V12 GAS SOHC Turbocharged
-2012,Maybach,57,S Sedan 4-Door,6.0L,114936618,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2012,Maybach,62,S Sedan 4-Door,6.0L,114828654,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
-2012,Maybach,62,Base Sedan 4-Door,5.5L,114859652,5.5L 5499CC V12 GAS SOHC Turbocharged
-2012,Maybach,62,S Landaulet Sedan 4-Door,6.0L,114887427,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2012,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2012,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2012,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2012,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2012,Maybach,62,S Landaulet Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2011,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2011,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2011,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2011,Maybach,62,S Landaulet Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2011,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2010,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2010,Maybach,57,S Zeppelin Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2010,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2010,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2010,Maybach,62,S Landaulet Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2010,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2010,Maybach,62,S Zeppelin Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2009,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2009,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2009,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2009,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2008,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2008,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2008,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2008,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2007,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2007,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2007,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2007,Maybach,62,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2006,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2006,Maybach,57,S Sedan 4-Door,6.0L,,6.0L 5980CC 365Cu. In. V12 GAS SOHC Turbocharged
+2006,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2005,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2005,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2004,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2004,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2003,Maybach,57,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
+2003,Maybach,62,Base Sedan 4-Door,5.5L,,5.5L 5499CC V12 GAS SOHC Turbocharged
