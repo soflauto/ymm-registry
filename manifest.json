@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "version": "2025-10-01",
   "makes": {
-    "acura":        { "name": "Acura",         "csv": "https://soflauto.github.io/ymm-registry/data/acura.csv",        "updated_at": "2025-11-18T16:00:00Z" },
+    "acura":        { "name": "Acura",         "csv": "https://soflauto.github.io/ymm-registry/data/acura.csv",        "updated_at": "2025-11-21T16:00:00Z" },
     "alfa-romeo":   { "name": "Alfa Romeo",    "csv": "https://soflauto.github.io/ymm-registry/data/alfa-romeo.csv",   "updated_at": "2025-11-18T16:00:00Z" },
     "aston-martin": { "name": "Aston Martin",  "csv": "https://soflauto.github.io/ymm-registry/data/aston-martin.csv", "updated_at": "2025-11-18T16:00:00Z" },
     "audi":         { "name": "Audi",          "csv": "https://soflauto.github.io/ymm-registry/data/audi.csv",         "updated_at": "2025-11-18T16:00:00Z" },
