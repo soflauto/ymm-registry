@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2025-10-01",
+  "version": "2025-12-02",
   "makes": {
     "acura":        { "name": "Acura",         "csv": "https://soflauto.github.io/ymm-registry/data/acura.csv",        "version": "2025-12-02T00:00:00Z" },
     "alfa-romeo":   { "name": "Alfa Romeo",    "csv": "https://soflauto.github.io/ymm-registry/data/alfa-romeo.csv",   "version": "2025-12-02T00:00:00Z" },
