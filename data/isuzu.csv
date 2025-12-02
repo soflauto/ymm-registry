@@ -1,408 +1,400 @@
 year,make,model,trim,engine,epid,ebay_engine
-2015,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2014,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2013,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2012,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2011,Isuzu,Reach,Base,3.0L,,3.0L 183Cu. In. l4 DIESEL Turbocharged
-2008,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2008,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2008,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2008,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2008,Isuzu,i-370,LS Extended Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2007,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2007,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2007,Isuzu,i-290,LS Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2007,Isuzu,i-370,LS Extended Cab Pickup 2-Door,3.7L,,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
-2006,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2006,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2006,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2006,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2006,Isuzu,i-280,Base Extended Cab Pickup 2-Door,2.8L,,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
-2006,Isuzu,i-350,Base Crew Cab Pickup 4-Door,3.5L,,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2005,Isuzu,Ascender,S Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2005,Isuzu,HTR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2005,Isuzu,HVR,Base,7.8L,,7.8L 475Cu. In. l6 DIESEL Turbocharged
-2004,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2004,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Axiom,S Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.5L,,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Ascender,Base Sport Utility 4-Door,5.3L,,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
-2003,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LS Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2003,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2002,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2002,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2001,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2001,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
-2000,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-2000,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1999,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
-1999,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
-1999,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1999,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1998,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1998,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1998,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
-1998,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1998,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
-1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,,4.3L 4294CC V6 GAS OHV Naturally Aspirated
-1997,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1997,Isuzu,Trooper,Ltd Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
-1996,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,SE Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1996,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1995,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1995,Isuzu,Trooper,Limited Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1995,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1994,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1994,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1994,Isuzu,Trooper,RS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1994,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1993,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1993,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1993,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1993,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1993,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1992,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Impulse,RS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
-1992,Isuzu,Impulse,XS Coupe 2-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,Impulse,XS Hatchback 2-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1992,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1992,Isuzu,Stylus,RS Sedan 4-Door,1.8L,,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
-1992,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
-1992,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Impulse,XS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,Impulse,RS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
-1991,Isuzu,Impulse,RS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Turbocharged
-1991,Isuzu,Impulse,XS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,,3.1L 3137CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Stylus,XS Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1991,Isuzu,Stylus,S Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1991,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Impulse,XS Coupe 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1990,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,LS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Turbocharged
-1989,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,I-Mark,RS Sedan 4-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1989,Isuzu,I-Mark,RS Hatchback 2-Door,1.6L,,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
-1989,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
-1989,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1989,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,,2.8L 2827CC V6 GAS OHV Naturally Aspirated
-1988,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
-1988,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,XS Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1988,Isuzu,Trooper,S Sport Utility 2-Door,2.6L,,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,S Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Turbocharged
-1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,Base Coupe 2-Door,1.5L,,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,Base Coupe 2-Door,1.8L,,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.8L,,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,,2.0L 1994CC l4 GAS SOHC Turbocharged
-1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
-1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,2.2L,,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
-1985,Isuzu,Trooper,Base Sport Utility 2-Door,1.9L,,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,10043982118,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,10043983555,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2007,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,109869194,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,109872504,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,109879224,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2002,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,109880104,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,109895991,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,109900961,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,109901911,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2001,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,109903701,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,109905699,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+2001,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,109905771,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109905955,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,109906861,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2002,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,109907519,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2006,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,109908035,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,109908115,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,109909079,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,109909492,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,109910112,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,109910795,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2004,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,109911695,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,109915439,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,109915969,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,109916852,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,109918325,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2001,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,109919255,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2008,Isuzu,i-370,LS Extended Cab Pickup 4-Door,3.7L,109919539,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,109920279,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,109920335,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,109920575,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2004,Isuzu,Rodeo,S Sport Utility 4-Door,3.5L,109921609,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,109922126,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,4.3L,109922316,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+2002,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,109922336,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,109925136,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,153466716,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+2000,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,109925896,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,109926896,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,109929446,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,109930396,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2005,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,109946780,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,109947343,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2006,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,109947830,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,109947993,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+2002,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109949430,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2004,Isuzu,Axiom,S Sport Utility 4-Door,3.5L,109950763,3.5L 3494CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,109952023,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2002,Isuzu,Trooper,LS Sport Utility 4-Door,3.5L,109952610,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,S V6 Sport Utility 4-Door,3.2L,109953343,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Axiom,XS Sport Utility 4-Door,3.5L,109953420,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,109953850,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+2006,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,109955860,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2002,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,109956887,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,109957513,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Axiom,Base Sport Utility 4-Door,3.5L,109957537,3.5L 3491CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,109957630,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,109958588,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,109960958,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2004,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,109962187,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,109963077,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,109963767,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Trooper,Limited Sport Utility 4-Door,3.5L,109964868,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,109965538,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,109966278,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,109966297,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2002,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,109966467,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,109968617,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,109968857,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2008,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,109968957,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,109969438,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2007,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,109971138,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo Sport,S V6 Sport Utility 2-Door,3.2L,109971608,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2005,Isuzu,Ascender,S Sport Utility 4-Door,4.2L,109973508,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,11038309684,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2000,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,11038309696,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,11043969889,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1986,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114826934,2.0L 1994CC l4 GAS SOHC Turbocharged
+1985,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114861332,2.0L 1994CC l4 GAS SOHC Turbocharged
+1989,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114864375,2.0L 1994CC l4 GAS SOHC Turbocharged
+1987,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114872216,2.0L 1994CC l4 GAS SOHC Turbocharged
+1988,Isuzu,Impulse,Base Hatchback 2-Door,2.0L,114905430,2.0L 1994CC l4 GAS SOHC Turbocharged
+2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,12037908800,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,12037908886,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,12037908923,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,13037924103,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,13043978489,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,13043978614,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,13043980187,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,13043981455,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1988,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83240494,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,83303965,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83288802,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83317541,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83264184,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,83349390,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,14037920329,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Amigo,S Sport Utility 2-Door,2.2L,14038311502,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1996,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,14043977924,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,15037923657,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,15037923723,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 3-Door,2.2L,15037923765,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,15038315196,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,153413501,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,153422421,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,153429191,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,153429741,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,153429881,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,153451064,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,153451124,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2008,Isuzu,i-370,LS Crew Cab Pickup 4-Door,3.7L,153452385,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+1989,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,153455254,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,153455395,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,153456742,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,1.9L,153456782,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,1.9L,153458065,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,153459434,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,153459932,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.2L,153462889,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.2L,153472682,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+2003,Isuzu,Ascender,LS Sport Utility 4-Door,4.2L,153463585,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Extended Cab Pickup 2-Door,2.3L,153466156,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,153467794,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,S Sport Utility 4-Door,3.1L,153472562,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+2007,Isuzu,i-370,LS Extended Cab Pickup 2-Door,3.7L,153473496,3.7L 3654CC 223Cu. In. l5 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.3L,153473715,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,Base Coupe 2-Door,1.5L,153475496,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,153478782,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,153488047,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1993,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,153489977,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,153490437,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,153500137,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2000,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,153508250,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,153510143,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1998,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,153510693,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,153511263,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,153511963,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,153513780,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,153519530,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Ascender,Base Sport Utility 4-Door,4.2L,153521473,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1987,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,1.9L,153522993,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,153525958,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+2003,Isuzu,Rodeo,LS Sport Utility 4-Door,2.2L,153526168,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1998,Isuzu,Amigo,S Sport Utility 2-Door,3.2L,153528148,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,153528298,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,16043975441,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,17037922221,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1997,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,17037922546,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1996,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,18037926026,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,18037926090,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,2.2L,18037926130,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2000,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,19038309159,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1996,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.2L,20043983130,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.2L,208423501,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,208490872,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.2L,208497024,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,208500769,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,208533990,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.2L,208537143,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.2L,208580558,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1987,Isuzu,Trooper,LS Sport Utility 2-Door,2.2L,208581958,2.2L 2238CC l4 DIESEL OHV Turbocharged
+1998,Isuzu,Hombre,S Standard Cab Pickup 2-Door,2.2L,21037923796,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+2005,Isuzu,Ascender,S Sport Utility 4-Door,5.3L,218458651,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218502904,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2004,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218506526,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218506716,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218507876,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Ascender,Limited Sport Utility 4-Door,5.3L,218509876,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2003,Isuzu,Ascender,Base Sport Utility 4-Door,5.3L,218516105,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+2005,Isuzu,Ascender,LS Sport Utility 4-Door,5.3L,218519742,5.3L 5328CC 325Cu. In. V8 GAS OHV Naturally Aspirated
+1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.8L,218593418,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,220164791,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,220166551,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,220172351,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,220219054,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,220227496,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,220228535,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,220229775,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,220233089,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,220233749,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.8L,220235719,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+2004,Isuzu,Ascender,Limited Sport Utility 4-Door,4.2L,220253167,4.2L 256Cu. In. l6 GAS DOHC Naturally Aspirated
+1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,220275530,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,XS Sport Utility 4-Door,2.6L,220275800,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,220309178,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,2.2L,22038315878,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.6L,220400103,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,220401903,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,223585211,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2002,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,223662912,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2001,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,223802678,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2013,Isuzu,Reach,Base,3.0L,225335611,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2015,Isuzu,Reach,Base,3.0L,225417802,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2012,Isuzu,Reach,Base,3.0L,225424402,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2014,Isuzu,Reach,Base,3.0L,225475016,3.0L 183Cu. In. l4 DIESEL Turbocharged
+2011,Isuzu,Reach,Base,3.0L,225569888,3.0L 183Cu. In. l4 DIESEL Turbocharged
+1998,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,23043990701,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1998,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,2.2L,24037921063,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1998,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,25038305709,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1996,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,2.2L,26037930024,2.2L 2190CC 134Cu. In. l4 GAS OHV Naturally Aspirated
+1999,Isuzu,Rodeo,S Sport Utility 4-Door,2.2L,27038307088,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+2000,Isuzu,Rodeo,LSE Sport Utility 4-Door,3.2L,27043971473,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1997,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.2L,27043974388,2.2L 2156CC l4 GAS SOHC Naturally Aspirated
+1998,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,7043981845,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73923014,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1997,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73923314,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1999,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73923334,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,73923474,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73923514,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,73949801,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,3.1L,73949811,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,73949871,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1995,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73950001,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73950281,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,SE Sport Utility 4-Door,2.8L,73950361,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73950541,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,3.1L,73952112,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73952152,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+2001,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73952172,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Hombre,S Extended Cab Pickup 2-Door,4.3L,73952282,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+1989,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,73952292,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1994,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73952382,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1999,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73952402,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1994,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73952512,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1992,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,73952582,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1997,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73952702,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,3.1L,73957855,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Rodeo,XS Sport Utility 4-Door,3.1L,73958005,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1994,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73958075,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1993,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73958085,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73958175,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,73958675,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,3.1L,73959886,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+2000,Isuzu,Hombre,XS Extended Cab Pickup 2-Door,4.3L,73959896,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,XS Sport Utility 4-Door,2.8L,73960106,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1990,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73960226,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1996,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73960456,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+2000,Isuzu,VehiCROSS,Base Sport Utility 2-Door,3.5L,73960486,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+1991,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,73960536,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1996,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73973269,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1994,Isuzu,Trooper,RS Sport Utility 4-Door,3.2L,73973559,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1997,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73973759,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,LS Sport Utility 4-Door,3.2L,73978523,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.8L,73978803,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1992,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,73985388,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73985428,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1998,Isuzu,Trooper,S Sport Utility 4-Door,3.5L,73985438,3.5L 3475CC V6 GAS DOHC Naturally Aspirated
+2000,Isuzu,Hombre,S Standard Cab Pickup 2-Door,4.3L,73990520,4.3L 262Cu. In. V6 GAS OHV Naturally Aspirated
+1993,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73990660,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Trooper,RS Sport Utility 2-Door,3.2L,73990760,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Trooper,S Sport Utility 4-Door,3.2L,73990920,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Trooper,Ltd Sport Utility 4-Door,3.2L,73991130,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,S Sport Utility 4-Door,3.2L,73991240,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,S Sport Utility 4-Door,2.8L,74007067,2.8L 2827CC V6 GAS OHV Naturally Aspirated
+1994,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,74007227,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1992,Isuzu,Rodeo,LS Sport Utility 4-Door,3.1L,74024630,3.1L 3137CC V6 GAS OHV Naturally Aspirated
+1996,Isuzu,Trooper,SE Sport Utility 4-Door,3.2L,74063203,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1997,Isuzu,Hombre,XS Standard Cab Pickup 2-Door,4.3L,74075060,4.3L 4294CC V6 GAS OHV Naturally Aspirated
+1996,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,74075170,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83240394,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.2L,83298126,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1993,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83247624,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,83248374,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1998,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,83248644,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,83250754,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83251264,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.2L,83286562,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83252894,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.3L,83254404,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83257104,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,83258014,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83259024,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1991,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83262584,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.2L,83264164,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1988,Isuzu,Trooper,XS Sport Utility 2-Door,2.6L,83264944,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.6L,83266794,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83267734,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83269674,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83270384,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,LS Sport Utility 2-Door,2.3L,83271274,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,83271884,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83273612,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Impulse,RS Coupe 2-Door,1.6L,83273702,1.6L 1588CC l4 GAS DOHC Turbocharged
+1997,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83275035,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83275864,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83276055,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,83277645,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,I-Mark,Base Hatchback 2-Door,1.5L,83278295,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83279055,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,83279385,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83280371,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83281715,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2006,Isuzu,i-280,Base Extended Cab Pickup 2-Door,2.8L,83282715,2.8L 2770CC 169Cu. In. l4 GAS DOHC Naturally Aspirated
+1988,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,83283611,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83283851,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83283872,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Stylus,XS Sedan 4-Door,1.6L,83284272,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1993,Isuzu,Stylus,S Sedan 4-Door,1.6L,83284411,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,Base Coupe 2-Door,1.8L,83284492,1.8L 1817CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,83285101,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,2.3L,83285415,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83285482,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83286601,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83288265,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Impulse,XS Coupe 2-Door,1.6L,83289336,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1988,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83289402,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83289955,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83290071,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,83290712,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Extended Cab Pickup 2-Door,2.6L,83291261,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1997,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83291551,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,83291665,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83292635,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.6L,83294606,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83294665,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,S Sport Utility 2-Door,2.3L,83295922,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2007,Isuzu,i-290,LS Extended Cab Pickup 4-Door,2.9L,83296801,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+1996,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83296901,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,1.9L,83296916,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,I-Mark,DLX Sedan 4-Door,1.5L,83298225,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83298286,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,XS Sport Utility 4-Door,2.6L,83298296,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83298739,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,DLX Standard Cab Pickup 2-Door,1.9L,83300471,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,XS Standard Cab Pickup 2-Door,2.3L,83301869,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83301935,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83302015,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,RS Sedan 4-Door,1.6L,83302325,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1989,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83302569,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,1.9L,83303019,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,RS Hatchback 2-Door,1.6L,83303059,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1986,Isuzu,Pickup,LS Standard Cab Pickup 2-Door,2.3L,83303661,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83326608,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1988,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83305286,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83305289,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83306441,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Stylus,RS Sedan 4-Door,1.8L,83306642,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83307282,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,LS Sport Utility 4-Door,2.6L,83307396,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,1.9L,83307541,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83308375,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83309739,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,83309909,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1994,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.6L,83310471,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Impulse,XS Hatchback 2-Door,1.6L,83310689,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+2008,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,83310693,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+1985,Isuzu,Trooper,Base Sport Utility 2-Door,1.9L,83313456,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83313556,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Impulse,Base Hatchback 2-Door,2.3L,83314176,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1999,Isuzu,Oasis,LS Mini Passenger Van 5-Door,2.3L,83315521,2.3L 2234CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Extended Cab Pickup 2-Door,2.3L,83316109,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+2006,Isuzu,i-350,Base Crew Cab Pickup 4-Door,3.5L,83317286,3.5L 3460CC 211Cu. In. l5 GAS DOHC Naturally Aspirated
+1991,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.6L,83317399,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83318699,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,XS Sedan 4-Door,1.5L,83319679,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,LS Extended Cab Pickup 2-Door,2.3L,83320056,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Pickup,1 Ton Standard Cab Pickup 2-Door,2.6L,83320526,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2001,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83320729,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.6L,83320759,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,S Hatchback 2-Door,1.5L,83321666,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Impulse,Base Hatchback 2-Door,1.9L,83321946,1.9L 1949CC l4 GAS SOHC Naturally Aspirated
+1996,Isuzu,Rodeo,S Sport Utility 4-Door,2.6L,83321973,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Amigo,XS Sport Utility 2-Door,2.3L,83321996,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Amigo,S Sport Utility 2-Door,2.6L,83323158,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,83324288,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Stylus,S Sedan 4-Door,1.6L,83324900,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1990,Isuzu,Trooper,S Sport Utility 4-Door,2.6L,83324903,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2007,Isuzu,i-290,S Extended Cab Pickup 4-Door,2.9L,83325528,2.9L 2921CC 178Cu. In. l4 GAS DOHC Naturally Aspirated
+1989,Isuzu,I-Mark,LS Sedan 4-Door,1.5L,83325636,1.5L 1471CC l4 GAS SOHC Turbocharged
+1985,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.2L,83325670,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1998,Isuzu,Oasis,S Mini Passenger Van 5-Door,2.3L,83325709,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,LX Sport Utility 2-Door,2.3L,83328109,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1987,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,83329938,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1985,Isuzu,Pickup,LX Standard Cab Pickup 2-Door,2.2L,83330590,2.2L 2238CC l4 DIESEL OHV Naturally Aspirated
+1988,Isuzu,Trooper,S Sport Utility 2-Door,2.6L,83332530,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1991,Isuzu,Impulse,RS Hatchback 2-Door,1.6L,83332608,1.6L 1588CC l4 GAS DOHC Turbocharged
+1987,Isuzu,Trooper,LS Sport Utility 4-Door,2.3L,83332943,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.6L,83333090,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Impulse,XS Coupe 2-Door,1.8L,83333483,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Impulse,RS Coupe 2-Door,1.6L,83335879,1.6L 1588CC l4 GAS DOHC Turbocharged
+1989,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,83337078,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+2002,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83339288,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1991,Isuzu,Impulse,XS Coupe 2-Door,1.6L,83340300,1.6L 1588CC l4 GAS DOHC Naturally Aspirated
+1992,Isuzu,Rodeo,LS Sport Utility 4-Door,2.6L,83340613,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+1988,Isuzu,I-Mark,XS Hatchback 2-Door,1.5L,83340947,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1993,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83343317,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1992,Isuzu,Stylus,S Sedan 4-Door,1.6L,83343383,1.6L 1588CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Pickup,S Standard Cab Pickup 2-Door,2.3L,83345088,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,Trooper,RS Sport Utility 2-Door,2.6L,83346888,2.6L 2559CC l4 GAS SOHC Naturally Aspirated
+2003,Isuzu,Rodeo Sport,S Sport Utility 2-Door,2.2L,83349290,2.2L 2180CC l4 GAS DOHC Naturally Aspirated
+1992,Isuzu,Impulse,XS Hatchback 2-Door,1.8L,83350477,1.8L 1809CC 110Cu. In. l4 GAS DOHC Naturally Aspirated
+1987,Isuzu,Pickup,DLX Extended Cab Pickup 2-Door,2.3L,83351377,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,DLX Sport Utility 4-Door,2.3L,83353498,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Pickup,Base Standard Cab Pickup 2-Door,2.3L,83355618,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,Trooper,DLX Sport Utility 2-Door,2.3L,83356997,2.3L 2254CC l4 GAS SOHC Naturally Aspirated
+1986,Isuzu,I-Mark,Base Sedan 4-Door,1.5L,83364157,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1989,Isuzu,I-Mark,S Sedan 4-Door,1.5L,83364467,1.5L 1471CC l4 GAS SOHC Naturally Aspirated
+1995,Isuzu,Trooper,Limited Sport Utility 4-Door,3.2L,83580918,3.2L 3165CC V6 GAS DOHC Naturally Aspirated
+1995,Isuzu,Trooper,LS Sport Utility 4-Door,3.2L,93684671,3.2L 3165CC V6 GAS SOHC Naturally Aspirated
